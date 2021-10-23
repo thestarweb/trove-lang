@@ -1,7 +1,8 @@
-// import { read } from '@thestarweb/trove-lang-tool';
 import child_process from 'child_process';
 import path from 'path';
 import fs from 'fs';
+import { binfabs2TxtsWithLog } from './common';
+
 
 async function getGameDir(){
     return new Promise<string>((resolve, reject) => {
@@ -40,9 +41,21 @@ function extract(srcDir:string, outDir:string, data:string){
 }
 
 (async () => {
+    const CACHE_DIR = "./cache";
+    const OUT_DIR = "./base-en";
     const gameDir = await getGameDir();
     console.log(`获取到游戏路径${gameDir}`);
     console.log("开始解包");
-    await extract(gameDir, "./cache", "languages/en");
+    await extract(gameDir, CACHE_DIR, "languages/en");
     console.log("已解包");
+    console.log("开始转换");
+    if(fs.existsSync(OUT_DIR)){
+        fs.rmSync(OUT_DIR, {recursive: true});
+    }
+    fs.mkdirSync(OUT_DIR);
+    binfabs2TxtsWithLog(CACHE_DIR, OUT_DIR);
+    console.log("转换完成");
+    console.log("清理临时文件");
+    fs.rmSync(CACHE_DIR, {recursive: true});
+    console.log("处理完成");
 })();

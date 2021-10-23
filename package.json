@@ -4,13 +4,15 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
-    "@thestarweb/trove-lang-tool": "^1.0.0-test1",
+    "@thestarweb/trove-lang-tool": "^1.0.0-test2",
     "@types/node": "^16.11.4",
+    "jszip": "^3.7.1",
     "typescript": "^4.4.4"
   },
   "devDependencies": {},
   "scripts": {
-    "load-en": "node ./helper/load-en.js"
+    "load-en": "node ./helper/load-en.js",
+    "lod-cn": "node ./helper/load-llf.js"
   },
   "author": "",
   "license": "ISC"
