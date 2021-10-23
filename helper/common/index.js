@@ -3,7 +3,7 @@ var __importDefault = (this && this.__importDefault) || function (mod) {
     return (mod && mod.__esModule) ? mod : { "default": mod };
 };
 Object.defineProperty(exports, "__esModule", { value: true });
-exports.binfabs2TxtsWithLog = exports.binfabs2Txts = exports.mapBinfabDir = exports.mapDir = void 0;
+exports.readTxtFile = exports.binfabs2TxtsWithLog = exports.binfabs2Txts = exports.mapBinfabDir = exports.mapDir = void 0;
 const path_1 = __importDefault(require("path"));
 const fs_1 = __importDefault(require("fs"));
 const trove_lang_tool_1 = require("@thestarweb/trove-lang-tool");
@@ -40,10 +40,19 @@ exports.binfabs2Txts = binfabs2Txts;
 function binfabs2TxtsWithLog(srcdir, outDir = './') {
     mapBinfabDir(srcdir, (filename, data) => {
         const outName = filename.substr(0, filename.lastIndexOf(".")) + ".txt";
-        fs_1.default.writeFileSync(path_1.default.join(outDir, outName), data.map((item) => `${item.key}=${item.value.replace("\r", "").replace("\n", "\\n")}`).join("\n"));
+        fs_1.default.writeFileSync(path_1.default.join(outDir, outName), data.map((item) => `${item.key}=${item.value.replace(/\r/g, "").replace(/\n/g, "\\n")}`).join("\n"));
     }, {
         befroeRead: (filename) => console.log(`转换${filename}`),
         afterRead: (filename, index, length) => console.log(`转换${filename}完成 （${index + 1}/${length}）`),
     });
 }
 exports.binfabs2TxtsWithLog = binfabs2TxtsWithLog;
+function readTxtFile(path) {
+    if (!fs_1.default.existsSync(path))
+        return [];
+    return fs_1.default.readFileSync(path, { encoding: 'utf8' }).split("\n").map(item => {
+        const [key, value] = item.split("=", 2);
+        return { key, value };
+    });
+}
+exports.readTxtFile = readTxtFile;

@@ -1,0 +1,12 @@
+$Quest_GoldenThread_Event_june2019_01_Name=选择你的夏季外观
+$Quest_GoldenThread_Event_june2019_01_Description=灿烂之夏 1/6：你好寻宝者，是我，琥珀玉髓！在晶洞可没有什么季节，但宝藏世界从来都不是一成不变之地，她会变得越来越漂亮。你应该为自己和自己的星球感到骄傲。选择一套夏季外观来庆祝吧！
+$Quest_GoldenThread_Event_june2019_02_Name=在炸弹大逃杀里击败寻宝者
+$Quest_GoldenThread_Event_june2019_02_Description=灿烂之夏 2/6：显示你外观的最佳所在就是炸弹大逃杀的胜利画面。击败一些其他的寻宝者，然后看看你能否成为胜利者。
+$Quest_GoldenThread_Event_june2019_03_Name=完成公会冒险
+$Quest_GoldenThread_Event_june2019_03_Description=灿烂之夏 3/6：炫耀和自傲不应该只体现在对战上面，它们还应该体现在你自身上。帮助其他的寻宝者并让他们也自豪一下吧。完成公会冒险以回馈你的社交成员。
+$Quest_GoldenThread_Event_june2019_04_Name=完成哨站冒险
+$Quest_GoldenThread_Event_june2019_04_Description=灿烂之夏 4/6：宝藏世界可真是个乐土，但我听说还有一些人需要你的协助。去帮助一些荧光都市的神或晶洞的晶洞人吧。欢庆的时候到了！
+$Quest_GoldenThread_Event_june2019_05_Name=提升你的宝石
+$Quest_GoldenThread_Event_june2019_05_Description=灿烂之夏 5/6：是时候给你自己弄点升级品并让自己为达成的升级项目而骄傲了。升级你的宝石并炫耀它们。\n\n\n不论成败，任何宝石的升级都将被计算在内。
+$Quest_GoldenThread_Event_june2019_06_Name=完成5星地下城
+$Quest_GoldenThread_Event_june2019_06_Description=灿烂之夏 6/6：你能走到这一步，让我感到非常骄傲。叫上几个朋友到晶洞世界来帮我，寻宝者。完成几个5星地下城并帮我把光明给带回来。祝你度过一个欢乐的灿烂之夏！

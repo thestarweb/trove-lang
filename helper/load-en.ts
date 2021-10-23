@@ -42,7 +42,7 @@ function extract(srcDir:string, outDir:string, data:string){
 
 (async () => {
     const CACHE_DIR = "./cache";
-    const OUT_DIR = "./base-en";
+    const OUT_DIR = "./lang-txt/en-base";
     const gameDir = await getGameDir();
     console.log(`获取到游戏路径${gameDir}`);
     console.log("开始解包");

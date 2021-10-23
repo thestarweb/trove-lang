@@ -11,8 +11,9 @@
   },
   "devDependencies": {},
   "scripts": {
-    "load-en": "node ./helper/load-en.js",
-    "lod-cn": "node ./helper/load-llf.js"
+    "build:mix": "node ./helper/build-star-mix.js",
+    "load:en": "node ./helper/load-en.js",
+    "load:cn": "node ./helper/load-llf-cn.js"
   },
   "author": "",
   "license": "ISC"

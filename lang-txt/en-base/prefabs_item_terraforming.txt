@@ -1,0 +1,100 @@
+$prefabs_item_terraforming_candy_item_name=Candoria Terraformer
+$prefabs_item_terraforming_candy_item_description=Terraform a zone into Candoria.\n\n<font color='#ff3030'>Warning:</font> This will destroy everything in that zone, as well as the borders of adjacent zones.
+$prefabs_item_terraforming_candy_styler_item_name=Candoria Styler
+$prefabs_item_terraforming_candy_styler_item_description=Style a zone based on Candoria.
+$prefabs_item_terraforming_dragon_volcanicfields_item_name=Volcanic Fields Terraformer
+$prefabs_item_terraforming_dragon_volcanicfields_item_description=Terraform a zone into the Volcanic Fields.\n\n<font color='#ff3030'>Warning:</font> This will destroy everything in that zone, as well as the borders of adjacent zones.
+$prefabs_item_terraforming_dragon_volcanicfields_styler_item_name=Volcanic Fields Styler
+$prefabs_item_terraforming_dragon_volcanicfields_styler_item_description=Style a zone based on the Volcanic Fields.
+$prefabs_item_terraforming_faewilds_item_name=Uncanny Valley Terraformer
+$prefabs_item_terraforming_faewilds_item_description=Terraform a zone into the Uncanny Valley.\n\n<font color='#ff3030'>Warning:</font> This will destroy everything in that zone, as well as the borders of adjacent zones.
+$prefabs_item_terraforming_faewilds_styler_item_name=Uncanny Valley Styler
+$prefabs_item_terraforming_faewilds_styler_item_description=Style a zone based on the Uncanny Valley.
+$prefabs_item_terraforming_frontier_item_name=Desert Frontier Terraformer
+$prefabs_item_terraforming_frontier_item_description=Terraform a zone into the Desert Frontier.\n\n<font color='#ff3030'>Warning:</font> This will destroy everything in that zone, as well as the borders of adjacent zones.
+$prefabs_item_terraforming_frontier_styler_item_name=Desert Frontier Styler
+$prefabs_item_terraforming_frontier_styler_item_description=Style a zone based on the Desert Frontier.
+$prefabs_item_terraforming_highlands_item_name=Medieval Highlands Terraformer
+$prefabs_item_terraforming_highlands_item_description=Terraform a zone into the Medieval Highlands.\n\n<font color='#ff3030'>Warning:</font> This will destroy everything in that zone, as well as the borders of adjacent zones.
+$prefabs_item_terraforming_highlands_fjord_item_name=Frigga's Fjord Terraformer
+$prefabs_item_terraforming_highlands_fjord_item_description=Terraform a zone into Frigga's Fjord.\n\n<font color='#ff3030'>Warning:</font> This will destroy everything in that zone, as well as the borders of adjacent zones.
+$prefabs_item_terraforming_highlands_fjord_styler_item_name=Frigga's Fjord Styler
+$prefabs_item_terraforming_highlands_fjord_styler_item_description=Style a zone based on Frigga's Fjord.
+$prefabs_item_terraforming_highlands_styler_item_name=Medieval Highlands Styler
+$prefabs_item_terraforming_highlands_styler_item_description=Style a zone based on the Medieval Highlands.
+$prefabs_item_terraforming_isletreasure_item_name=Treasure Isles Terraformer
+$prefabs_item_terraforming_isletreasure_item_description=Terraform a zone into Treasure Isles.\n\n<font color='#ff3030'>Warning:</font> This will destroy everything in that zone, as well as the borders of adjacent zones.
+$prefabs_item_terraforming_isletreasure_styler_item_name=Treasure Isles Styler
+$prefabs_item_terraforming_isletreasure_styler_item_description=Style a zone based on Treasure Isles.
+$prefabs_item_terraforming_neoncity_item_name=Neon City Terraformer
+$prefabs_item_terraforming_neoncity_item_description=Terraform a zone into the Neon City.\n\n<font color='#ff3030'>Warning:</font> This will destroy everything in that zone, as well as the borders of adjacent zones.
+$prefabs_item_terraforming_neoncity_resistor_item_name=Neon City Luminopolis Terraformer
+$prefabs_item_terraforming_neoncity_resistor_item_description=Terraform a zone into Neon City's Luminopolis.\n\n<font color='#ff3030'>Warning:</font> This will destroy everything in that zone, as well as the borders of adjacent zones.
+$prefabs_item_terraforming_neoncity_styler_item_name=Neon City Styler
+$prefabs_item_terraforming_neoncity_styler_item_description=Style a zone based on the Neon City.
+$prefabs_item_terraforming_newzone_item_name=World Expansion Terraformer
+$prefabs_item_terraforming_newzone_item_description=Transform the Sea of Regret into something useable.\n\n<font color='#ff3030'>Warning:</font> This will destroy everything in that zone, as well as the borders of adjacent zones."
+$prefabs_item_terraforming_newzone_styler_item_name=World Expansion Styler
+$prefabs_item_terraforming_newzone_styler_item_description=Transform the Sea of Regret into something useable.
+$prefabs_item_terraforming_parkinglot_item_name=Tabula Rasa Terraformer
+$prefabs_item_terraforming_parkinglot_item_description=Terraform a zone into a blank slate.\n\n<font color='#ff3030'>Warning:</font> This will destroy everything in that zone, as well as the borders of adjacent zones.
+$prefabs_item_terraforming_parkinglot_styler_item_name=Tabula Rasa Styler
+$prefabs_item_terraforming_parkinglot_styler_item_description=Style a zone based on a blank slate.
+$prefabs_item_terraforming_peaceful_item_name=Peaceful Hills Terraformer
+$prefabs_item_terraforming_peaceful_item_description=Terraform a zone into the Peaceful Hills.\n\n<font color='#ff3030'>Warning:</font> This will destroy everything in that zone, as well as the borders of adjacent zones.
+$prefabs_item_terraforming_peacefulfield_item_name=Field Terraform
+$prefabs_item_terraforming_peacefulfield_item_description=Terraforms a biome into a Peaceful Field.\n\n<font color='#ff3030'>Warning:</font> This will destroy everything in that zone, as well as the borders of adjacent zones.
+$prefabs_item_terraforming_peacefulfield_styler_item_name=Field Terraform
+$prefabs_item_terraforming_peacefulfield_styler_item_description=Terraforms a biome into a Peaceful Field.\n\n<font color='#ff3030'>Warning:</font> This will destroy everything in that zone, as well as the borders of adjacent zones.
+$prefabs_item_terraforming_peaceful_plains_item_name=Peaceful Field Terraformer
+$prefabs_item_terraforming_peaceful_plains_item_description=Terraform a zone into the Peaceful Field.\n\n<font color='#ff3030'>Warning:</font> This will destroy everything in that zone, as well as the borders of adjacent zones.
+$prefabs_item_terraforming_peaceful_plains_styler_item_name=Peaceful Field Terraform
+$prefabs_item_terraforming_peaceful_plains_styler_item_description=Style a zone based on the Peaceful Field.
+$prefabs_item_terraforming_peaceful_rockplains_item_name=Tundra Terraform
+$prefabs_item_terraforming_peaceful_rockplains_item_description=Terraforms a biome into Frozen Tundra.\n\n<font color='#ff3030'>Warning:</font> This will destroy everything in that zone, as well as the borders of adjacent zones.
+$prefabs_item_terraforming_peaceful_rockplains_styler_item_name=Tundra Terraform
+$prefabs_item_terraforming_peaceful_rockplains_styler_item_description=Terraforms a biome into Frozen Tundra.\n\n<font color='#ff3030'>Warning:</font> This will destroy everything in that zone, as well as the borders of adjacent zones.
+$prefabs_item_terraforming_peaceful_styler_item_name=Peaceful Hills Styler
+$prefabs_item_terraforming_peaceful_styler_item_description=Style a zone based on the Peaceful Hills.
+$prefabs_item_terraforming_seaofdeepregret_item_name=Sea of Deep Regret Terraformer
+$prefabs_item_terraforming_seaofdeepregret_item_description=Terraform a zone back into the Sea of Deep Regret.\n\n<font color='#ff3030'>Warning:</font> This will destroy everything in that zone, as well as the borders of adjacent zones.
+$prefabs_item_terraforming_seaofdeepregret_styler_item_name=Sea of Deep Regret Styler
+$prefabs_item_terraforming_seaofdeepregret_styler_item_description=Terraform a zone back into the Sea of Deep Regret.\n\n<font color='#ff3030'>Warning:</font> This will destroy everything in that zone, as well as the borders of adjacent zones.
+$prefabs_item_terraforming_seaofdeeptranquility_item_name=Sea of Tranquility Terraformer
+$prefabs_item_terraforming_seaofdeeptranquility_item_description=Terraform a zone into the Sea of Tranquility.\n\n<font color='#ff3030'>Warning:</font> This will destroy everything in that zone, as well as the borders of adjacent zones.
+$prefabs_item_terraforming_seaofdeeptranquility_styler_item_name=Sea of Tranquility Styler
+$prefabs_item_terraforming_seaofdeeptranquility_styler_item_description=Style a zone based on the Sea of Tranquility.
+$prefabs_item_terraforming_seaofregret_item_name=Sea of Regret Terraformer
+$prefabs_item_terraforming_seaofregret_item_description=Terraform a zone back into the Sea of Regret.\n\n<font color='#ff3030'>Warning:</font> This will destroy everything in that zone, as well as the borders of adjacent zones.
+$prefabs_item_terraforming_seaofregret_styler_item_name=Sea of Regret Styler
+$prefabs_item_terraforming_seaofregret_styler_item_description=Terraform a zone back into the Sea of Regret.\n\n<font color='#ff3030'>Warning:</font> This will destroy everything in that zone, as well as the borders of adjacent zones.
+$prefabs_item_terraforming_tundra_item_name=Permafrost Terraformer
+$prefabs_item_terraforming_tundra_item_description=Terraform a zone into Permafrost.\n\n<font color='#ff3030'>Warning:</font> This will destroy everything in that zone, as well as the borders of adjacent zones.
+$prefabs_item_terraforming_tundra_styler_item_name=Permafrost Styler
+$prefabs_item_terraforming_tundra_styler_item_description=Style a zone based on Permafrost.
+$prefabs_item_terraforming_undead_item_name=Cursed Vale Terraformer
+$prefabs_item_terraforming_undead_item_description=Terraform a zone into the Cursed Vale.\n\n<font color='#ff3030'>Warning:</font> This will destroy everything in that zone, as well as the borders of adjacent zones.
+$prefabs_item_terraforming_undead_styler_item_name=Cursed Vale Styler
+$prefabs_item_terraforming_undead_styler_item_description=Style a zone based on the Cursed Vale.
+$prefabs_item_terraforming_jurassic_forest_item_name=Primal Preserve Terraformer
+$prefabs_item_terraforming_jurassic_forest_item_description=Terraform a zone into the Primal Preserve.\n\n<font color='#ff3030'>Warning:</font> This will destroy everything in that zone, as well as the borders of adjacent zones.
+$prefabs_item_terraforming_jurassic_swamp_item_name=Saurian Swamp Terraformer
+$prefabs_item_terraforming_jurassic_swamp_item_description=Terraform a zone into the Saurian Swamp.\n\n<font color='#ff3030'>Warning:</font> This will destroy everything in that zone, as well as the borders of adjacent zones.
+$prefabs_item_terraforming_jurassic_forest_styler_item_name=Jurassic Jungle Styler
+$prefabs_item_terraforming_jurassic_forest_styler_item_description=Style a zone based on the Jurassic Jungle.
+$prefabs_item_terraforming_jurassic_swamp_styler_item_name=Saurian Swamp Styler
+$prefabs_item_terraforming_jurassic_swamp_styler_item_description=Style a zone based on the Saurian Swamp.
+$prefabs_item_terraforming_spires_item_name=Forbidden Spires Terraformer
+$prefabs_item_terraforming_spires_item_description=Terraform a zone into Forbidden Spires.\n\n<font color='#ff3030'>Warning:</font> This will destroy everything in that zone, as well as the borders of adjacent zones.
+$prefabs_item_terraforming_geode_cerise_sandsea_item_name=Cerise Sandsea Terraformer
+$prefabs_item_terraforming_geode_cerise_sandsea_item_description=Terraform a zone into the Geode Cerise Sandsea.\n\n<font color='#ff3030'>Warning:</font> This will destroy everything in that zone, as well as the boarders of adjacent zones.
+$prefabs_item_terraforming_geode_hollow_dunes_item_name=Hollow Dunes Terraformer
+$prefabs_item_terraforming_geode_hollow_dunes_item_description=Terraform a zone into the Geode Hollow Dunes.\n\n<font color='#ff3030'>Warning:</font> This will destroy everything in that zone, as well as the boarders of adjacent zones.
+$prefabs_item_terraforming_geode_skyway_item_name=Geode Skyway Terraformer
+$prefabs_item_terraforming_geode_skyway_item_description=Terraform a zone into the Geode Skyways.\n\n<font color='#ff3030'>Warning:</font> This will destroy everything in that zone, as well as the boarders of adjacent zones.
+$prefabs_item_terraforming_geode_weathered_wastelands_item_name=Weathered Wastelands Terraformer
+$prefabs_item_terraforming_geode_weathered_wastelands_item_description=Terraform a zone into the Geode Weathered Wastelands.\n\n<font color='#ff3030'>Warning:</font> This will destroy everything in that zone, as well as the boarders of adjacent zones.
+$prefabs_item_terraforming_fae_tombs_in_undead_lands_item_name=Fae Tombs Terraformer
+$prefabs_item_terraforming_fae_tombs_in_undead_lands_item_desc=Terraform a zone into Fae Tombs found in Cursed Vale.\n\n<font color='#ff3030'>Warning:</font> This will destroy everything in that zone, as well as the borders of adjacent zones.
+$prefabs_item_terraforming_undead_tombs_in_faewilds_item_name=Undead Tombs Terraformer
+$prefabs_item_terraforming_undead_tombs_in_faewilds_item_desc=Terraform a zone into Undead Tombs found in the Fae Wilds.\n\n<font color='#ff3030'>Warning:</font> This will destroy everything in that zone, as well as the borders of adjacent zones.

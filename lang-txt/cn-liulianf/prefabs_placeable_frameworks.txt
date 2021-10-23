@@ -1,0 +1,210 @@
+$prefabs_placeable_frameworks_candy_candycane_large_name=巨大的甘蔗
+$prefabs_placeable_frameworks_candy_candycane_large_description=只可放置在公会世界中。\n\n\n没有人知道这些巨型糖果结构是天然形成的还是人造的。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_candy_gumdrop_hill_green_name=大型绿色橡皮软糖
+$prefabs_placeable_frameworks_candy_gumdrop_hill_green_description=只能放在基石区域和公会世界中。\n\n\n一大坨散发着甜蜜气味的绿色黏液。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_candy_icecream_hill_name=滑勺杠
+$prefabs_placeable_frameworks_candy_icecream_hill_description=只能放在基石区域和公会世界中。\n\n\n一个冰淇淋球，虽然暴露在糖果世界的烈日下，但是奇迹般的没有融化。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_candy_lair_cake_name=蛋糕小屋
+$prefabs_placeable_frameworks_candy_lair_cake_description=只可放置在公会世界中。\n\n\n奢华的糖果屋。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_candy_lair_gumball_name=泡泡糖守卫塔
+$prefabs_placeable_frameworks_candy_lair_gumball_description=只可放置在公会世界中。\n\n\n一个可以保卫附近乡村的糖果哨兵站。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_candy_lair_milkshake_name=奶昔冰箱
+$prefabs_placeable_frameworks_candy_lair_milkshake_description=只可放置在公会世界中。\n\n\n一个超大的储罐，用于储蓄贵重的糖果资源。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_candy_lair_popsicle_name=种植冰棒
+$prefabs_placeable_frameworks_candy_lair_popsicle_description=只可放置在公会世界中。\n\n\n想必这个高大的巨人花了几十年的时间才长到这么大。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_candy_lollipop_large_name=轨迹棒棒糖
+$prefabs_placeable_frameworks_candy_lollipop_large_description=只可放置在公会世界中。\n\n\n至今，糖果人依然在使用这些纪念碑给充满能量的地方做标记。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_hubshadowseve_hauntedhouse_01_name=鬼屋吸力
+$prefabs_placeable_frameworks_hubshadowseve_hauntedhouse_01_description=只可放置在公会世界中。\n\n\n一个吓人的东西，凡是喜欢暗影之夕庆典的寻宝者都喜欢这个。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_hubshadowseve_pumpkin_01_name=南瓜店
+$prefabs_placeable_frameworks_hubshadowseve_pumpkin_01_description=只能放在基石区域和公会世界中。\n\n\n这是一个暗影之夕主题的小房子，人们可以在里面聚会。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_hubspring_advtower_01_name=辐射冒险塔
+$prefabs_placeable_frameworks_hubspring_advtower_01_description=只可放置在公会世界中。\n\n\n一座用来象征被粉碎的宝藏世界的塔楼，有许多通往破碎区域的传送门。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_hubspring_clubhearts_01_name=主城公会屋
+$prefabs_placeable_frameworks_hubspring_clubhearts_01_description=只可放置在公会世界中。\n\n\n一个通往热门公会世界的传送台。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_hubspring_dragonstatue_01_name=龙台守护者
+$prefabs_placeable_frameworks_hubspring_dragonstatue_01_description=只可放置在公会世界中。\n\n\n守护着龙台的庄严雕像。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_hubspring_hut_01_name=主城仓库
+$prefabs_placeable_frameworks_hubspring_hut_01_description=只能放在基石区域和公会世界中。\n\n\n所有淡季的装备都能放置其中，以保安全。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_hubspring_hut_02_name=主城小屋
+$prefabs_placeable_frameworks_hubspring_hut_02_description=只能放在基石区域和公会世界中。\n\n\n一个用于装饰、休闲的简单框架。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_hubspring_pvpshrine_01_name=冲突神翁
+$prefabs_placeable_frameworks_hubspring_pvpshrine_01_description=只可放置在公会世界中。\n\n\n一座供奉战神的小庙。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_hubspring_sunstatue_01_name=太阳女神的光辉
+$prefabs_placeable_frameworks_hubspring_sunstatue_01_description=只可放置在公会世界中。\n\n\n一尊高耸的雕像，描绘了华丽的太阳女神。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_hubsummer_shipshack_01_name=主城船坞
+$prefabs_placeable_frameworks_hubsummer_shipshack_01_description=只能放在基石区域和公会世界中。\n\n\n这看起来像是盐水商人山姆昨天在主城突然建造出来的商店。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_hubturkeytopia_turkeyshrine_01_name=土耳其雕像
+$prefabs_placeable_frameworks_hubturkeytopia_turkeyshrine_01_description=只可放置在公会世界中。\n\n\n对此刻火鸡庆典的热门之鸡表示小小敬意。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_hubwinter_icerink_01_name=主城溜冰场
+$prefabs_placeable_frameworks_hubwinter_icerink_01_description=只可放置在公会世界中。\n\n\n这个围场在冬季的主城出现，欢迎所有休闲溜冰者和铁杆运动员的光临。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_candy_tree_01_name=修剪过的糖果树
+$prefabs_placeable_frameworks_candy_tree_01_description=只能放在基石区域和公会世界中。想要保持一棵树的整洁，需要付出艰苦的努力。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_spires_tree_01_name=蓬丘仙境树
+$prefabs_placeable_frameworks_spires_tree_01_description=只能放在基石区域和公会世界中。\n\n\n一种常见于蓬丘仙境的树木。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_spires_tree_02_name=修剪过的蓬丘仙境树
+$prefabs_placeable_frameworks_spires_tree_02_description=只能放在基石区域和公会世界中。\n\n\n修剪过的树都是开心树。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_spires_tree_03_name=多节蓬丘仙境树
+$prefabs_placeable_frameworks_spires_tree_03_description=只能放在基石区域和公会世界中。\n\n\n糙是糙了点，但还挺好看。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_spires_gazebo_name=基石神龛
+$prefabs_placeable_frameworks_spires_gazebo_description=只能放在基石区域和公会世界中。\n\n\n一个美丽的建筑。看上去很安全。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。这个框架可以放在放在基石区域和公会世界中。
+$prefabs_placeable_frameworks_spires_gazebo_starter_name=基础基石神龛
+$prefabs_placeable_frameworks_spires_gazebo_starter_description=只能放在基石区域和公会世界中。\n\n\n一个美丽的极简主义建筑。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。这个框架可以放在放在基石区域和公会世界中。
+$prefabs_placeable_frameworks_spires_bridge_name=已造好的大桥
+$prefabs_placeable_frameworks_spires_bridge_description=只可放置在公会世界中。\n\n\n一座坚固的桥，可以用来横跨河流和峡谷。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_spires_arch_small_name=低等螺旋弓
+$prefabs_placeable_frameworks_spires_arch_small_description=只可放置在公会世界中。\n\n\n蓬丘仙境居民建造的装饰拱门。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_spires_arch_medium_name=高等螺旋弓
+$prefabs_placeable_frameworks_spires_arch_medium_description=只可放置在公会世界中。\n\n\n蓬丘仙境居民建造的大号的装饰拱门。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_spires_palace_01_name=宫殿塔
+$prefabs_placeable_frameworks_spires_palace_01_description=只可放置在公会世界中。\n\n\n由蓬丘仙境的古代统治者建造的华丽宫殿宝塔。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_spires_wall_long_name=宫殿墙块
+$prefabs_placeable_frameworks_spires_wall_long_description=只可放置在公会世界中。\n\n\n禁地宫殿的长围墙。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_spires_wall_corner_name=宫殿墙角
+$prefabs_placeable_frameworks_spires_wall_corner_description=只可放置在公会世界中。\n\n\n禁地宫殿的围墙的转角部分。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_spires_wall_gatehouse_name=宫殿门楼
+$prefabs_placeable_frameworks_spires_wall_gatehouse_description=只可放置在公会世界中。\n\n\n禁地宫殿的门楼。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_candy_tree_02_name=糖果树
+$prefabs_placeable_frameworks_candy_tree_02_description=只能放在基石区域和公会世界中。\n\n\n它下半部分的树杈该修剪了。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_undead_crypt_name=令人毛骨悚然的地穴
+$prefabs_placeable_frameworks_undead_crypt_description=只可放置在公会世界中。\n\n\n对于不安的灵魂来说，这是非常难得的避难所。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_undead_statue_angel_name=天使雕像
+$prefabs_placeable_frameworks_undead_statue_angel_description=只可放置在公会世界中。\n\n\n在沉默中，它思索着你的死亡。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_undead_statue_shadowgiant_name=暗影巨像
+$prefabs_placeable_frameworks_undead_statue_shadowgiant_description=只可放置在公会世界中。\n\n\n谁会为敌人建造遗迹？\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_undead_tomb_statue_name=高耸的坟墓
+$prefabs_placeable_frameworks_undead_tomb_statue_description=只可放置在公会世界中。\n\n\n它上面的雕像描绘了很久以前的某位英雄。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_undead_tree_large_name=大诅咒峡谷树
+$prefabs_placeable_frameworks_undead_tree_large_description=只可放置在公会世界中。\n\n\n人们想知道，是什么东西让它变得如此巨大。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_undead_tree_med_name=诅咒峡谷树
+$prefabs_placeable_frameworks_undead_tree_med_description=只可放置在公会世界中。\n\n\n它的树枝在寒冷的微风中不安地沙沙作响。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_undead_tree_small_name=小诅咒峡谷树
+$prefabs_placeable_frameworks_undead_tree_small_description=只能放在基石区域和公会世界中。\n\n\n虽然只是一棵树苗，但是已经相当高耸，显示出一副威严的模样。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_mastery_castlewall_name=恢宏城堡墙
+$prefabs_placeable_frameworks_mastery_castlewall_description=只能放在基石区域和公会世界中。\n\n\n一堵结构坚固，构造完整的墙，有城垛和内部通道。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_mastery_castlegate_name=恢宏城堡大门
+$prefabs_placeable_frameworks_mastery_castlegate_description=只能放在基石区域和公会世界中。\n\n\n城墙上的一个加固的开口。城堡内的人可以潇洒自如地冲出去。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_mastery_castletower_name=恢宏城堡塔
+$prefabs_placeable_frameworks_mastery_castletower_description=只能放在基石区域和公会世界中。\n\n\n一个三层的瞭望塔，适用于提前发现威胁和举办屋顶派对。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_snowfest_gingerbreadhouse_01_name=姜饼房
+$prefabs_placeable_frameworks_snowfest_gingerbreadhouse_01_description=只可放置在公会世界中。\n\n\n这件东西的优点在于：用完可以直接吃掉！\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_snowfest_tree_01_name=华丽的冰雪庆典树
+$prefabs_placeable_frameworks_snowfest_tree_01_description=只能放在基石区域和公会世界中。\n\n\n一棵修剪完毕的松树，可以直接放在你的地盘上。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_cornerstone_tower_radiant_name=光辉守望塔
+$prefabs_placeable_frameworks_cornerstone_tower_radiant_description=只能放在基石区域和公会世界中。\n\n\n一个发光的瞭望塔，灵感源于光辉国度的建筑。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_cornerstone_tower_shadow_name=暗影守望塔
+$prefabs_placeable_frameworks_cornerstone_tower_shadow_description=只能放在基石区域和公会世界中。\n\n\n一个阴暗的瞭望塔，灵感源于暗影建筑的风格。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_mine_00_name=迷你矿井
+$prefabs_placeable_frameworks_mine_00_description=只能放在基石区域和公会世界中。\n\n\n正好装得下一个人，不过要小心爆炸哦\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_cornerstone_house_trove4floor_name=宝藏风4层楼房
+$prefabs_placeable_frameworks_cornerstone_house_trove4floor_description=只能放在基石区域和公会世界中。\n\n\n比起你一开始的那个小矮房要好上不少。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_neon_tree_01_name=苍蓝电路树
+$prefabs_placeable_frameworks_neon_tree_01_description=只能放在基石区域和公会世界中。\n\n\n一种生长在霓虹城的奇特树木。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_neon_tree_02_name=绿色电路树
+$prefabs_placeable_frameworks_neon_tree_02_description=只能放在基石区域和公会世界中。\n\n\n一种生长在霓虹城的奇特树木。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_neon_tree_03_name=粉红电路树
+$prefabs_placeable_frameworks_neon_tree_03_description=只能放在基石区域和公会世界中。\n\n\n一种生长在霓虹城的奇特树木。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_neon_tree_04_name=紫色电路树
+$prefabs_placeable_frameworks_neon_tree_04_description=只能放在基石区域和公会世界中。\n\n\n一种生长在霓虹城的奇特树木。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_neon_narrowBuilding_01_name=黄色荧光站
+$prefabs_placeable_frameworks_neon_narrowBuilding_01_description=只能放在基石区域和公会世界中。\n\n\n点亮荧光都市，让全世界见证它的风采。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_neon_narrowBuilding_02_name=黄色能源塔
+$prefabs_placeable_frameworks_neon_narrowBuilding_02_description=只能放在基石区域和公会世界中。\n\n\n可为荧光都市的巨大建筑提供能源。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_neon_narrowBuilding_03_name=粉红色荧光站
+$prefabs_placeable_frameworks_neon_narrowBuilding_03_description=只能放在基石区域和公会世界中。\n\n\n点亮荧光都市，让全世界见证它的风采。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_neon_narrowBuilding_04_name=绿色能源塔
+$prefabs_placeable_frameworks_neon_narrowBuilding_04_description=只能放在基石区域和公会世界中。\n\n\n可为荧光都市的巨大建筑提供能源。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_neon_narrowBuilding_05_name=粉红能源塔
+$prefabs_placeable_frameworks_neon_narrowBuilding_05_description=只能放在基石区域和公会世界中。\n\n\n可为荧光都市的巨大建筑提供能源。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_neon_narrowBuilding_06_name=橙色荧光站
+$prefabs_placeable_frameworks_neon_narrowBuilding_06_description=只能放在基石区域和公会世界中。\n\n\n点亮荧光都市，让全世界见证它的风采。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_neon_tallBuilding_05_name=德拉卡马终端
+$prefabs_placeable_frameworks_neon_tallBuilding_05_description=只能放在基石区域和公会世界中。\n\n\n一件原物大小的荧光都市建筑物复制品。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_neon_tallBuilding_01_name=暗影统合体
+$prefabs_placeable_frameworks_neon_tallBuilding_01_description=只可放置在公会世界中。\n\n\n一件原物大小的荧光都市建筑物复制品。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_neon_tallBuilding_02_name=原子方块塔
+$prefabs_placeable_frameworks_neon_tallBuilding_02_description=只可放置在公会世界中。\n\n\n一件原物大小的荧光都市电阻总部复制品。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_neon_tallBuilding_03_name=Alt+c之眼
+$prefabs_placeable_frameworks_neon_tallBuilding_03_description=只可放置在公会世界中。\n\n\n一件原物大小的荧光都市建筑物复制品。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_neon_tallBuilding_04_name=等离子能源站
+$prefabs_placeable_frameworks_neon_tallBuilding_04_description=只可放置在公会世界中。\n\n\n一件原物大小的荧光都市建筑物复制品。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_neon_tallBuilding_08_name=滑铁卢综合设施
+$prefabs_placeable_frameworks_neon_tallBuilding_08_description=只可放置在公会世界中。\n\n\n一件原物大小的荧光都市安博瑞总部复制品。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_neon_tallBuilding_07_name=支架基座
+$prefabs_placeable_frameworks_neon_tallBuilding_07_description=只可放置在公会世界中。\n\n\n一件原物大小的荧光都市建筑物复制品。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_neon_tallBuilding_06_name=支架总部
+$prefabs_placeable_frameworks_neon_tallBuilding_06_description=只可放置在公会世界中。\n\n\n一件原物大小的荧光都市建筑物复制品。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_neon_tallBuilding_09_name=德拉卡马科技
+$prefabs_placeable_frameworks_neon_tallBuilding_09_description=只可放置在公会世界中。\n\n\n一件原物大小的荧光都市建筑物复制品。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_neon_pearl_building_name=数码珍珠尖顶楼
+$prefabs_placeable_frameworks_neon_pearl_building_description=只可放置在公会世界中。\n\n\n一件原物大小的荧光都市安博瑞总部复制品。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_geode_eggcase_name=巨蛋陈列柜
+$prefabs_placeable_frameworks_geode_eggcase_description=只能放在基石区域和公会世界中。\n\n\n这颗大得要命的蛋似乎正处于休眠状态，连盖布罗都不确定这是什么生物的蛋。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_geode_medium_hubtree_name=百岁晶石树
+$prefabs_placeable_frameworks_geode_medium_hubtree_description=只可放置在公会世界中。\n\n\n晶石树通常都拥有数千年的寿命，且都能长成参天大树。这棵树已经算是年轻的了。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_geode_gazebo_name=经典晶洞露台
+$prefabs_placeable_frameworks_geode_gazebo_description=只可放置在公会世界中。\n\n\n一种以早已失传的晶洞建筑风格搭建的小型露台。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_geode_pillars_name=经典晶洞石柱间
+$prefabs_placeable_frameworks_geode_pillars_description=只能放在基石区域和公会世界中。\n\n\n一种以早已失传的晶洞建筑风格搭建的小型房间。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_geode_stairs_name=经典晶洞楼梯
+$prefabs_placeable_frameworks_geode_stairs_description=只能放在基石区域和公会世界中。\n\n\n一段以早已失传的晶洞建筑风格搭建的小型楼梯。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_geode_rest_building_name=寻日者尖塔穹顶
+$prefabs_placeable_frameworks_geode_rest_building_description=只可放置在公会世界中。\n\n\n一种以寻日者尖塔的常用建筑风格搭建的小型建筑。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_geode_shuttle_name=晶洞穿梭机
+$prefabs_placeable_frameworks_geode_shuttle_description=只可放置在公会世界中。\n\n\n一种结实而灵敏的飞船，用于在团结阳光号和寻日者尖塔之间运送寻宝者。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_geode_sunstatue_name=晶洞太阳女神雕像
+$prefabs_placeable_frameworks_geode_sunstatue_description=只可放置在公会世界中。\n\n\n虽然这个雕像的风格与宝藏世界的有所不同，但没人会弄错太阳女神的华美姿态。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_geode_twistedmushroom_name=巨型真菌
+$prefabs_placeable_frameworks_geode_twistedmushroom_description=只可放置在公会世界中。\n\n\n晶洞世界的真菌会在生长过程中影响到岩石的形成，这株长寿的真菌对岩石的影响尤为明显。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_geode_small_crescentrock_name=弯岩
+$prefabs_placeable_frameworks_geode_small_crescentrock_description=只能放在基石区域和公会世界中。\n\n\n一种受真菌生长影响而成的岩石，这块还算是小的。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_geode_cross_building_name=经典四路回廊
+$prefabs_placeable_frameworks_geode_cross_building_description=只能放在基石区域和公会世界中。\n\n\n一个以早已失传的建筑风格搭建的十字路口。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_geode_small_hubtree_name=晶石树苗
+$prefabs_placeable_frameworks_geode_small_hubtree_description=只能放在基石区域和公会世界中。\n\n\n一棵非常年幼的晶石树，应该只有数十岁。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_geode_medium_cavemushroom_name=巨型洞窟发光菇
+$prefabs_placeable_frameworks_geode_medium_cavemushroom_description=只可放置在公会世界中。\n\n\n这种巨型真菌在晶洞地表下的洞窟内很常见，是其中生态体系的基石之一。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_geode_large_crescentrock_name=巨型晶洞弯岩
+$prefabs_placeable_frameworks_geode_large_crescentrock_description=只可放置在公会世界中。\n\n\n一种在寻日者尖塔附近的晶洞地表上很常见的壮观岩石。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_geode_orb_name=远古宝珠
+$prefabs_placeable_frameworks_geode_orb_description=只可放置在公会世界中。\n\n\n一种蕴含着魔法能量的神秘建筑，就连最聪慧的晶洞人都不知它的用途和制作方式。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_gardening_large_beanstalk_name=巨型豆茎
+$prefabs_placeable_frameworks_gardening_large_beanstalk_description=只可放置在公会世界中。\n\n\n小心别掉下来。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_gardening_medium_bridge_name=草桥
+$prefabs_placeable_frameworks_gardening_medium_bridge_description=只可放置在公会世界中。\n\n\n这是安静沉思的好去处。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_gardening_small_flower_name=装饰黄色花
+$prefabs_placeable_frameworks_gardening_small_flower_description=只能放在基石区域和公会世界中。\n\n\n这种花的美丽颜色超越了任何园艺品。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_gardening_medium_flower_01_name=装饰粉色花
+$prefabs_placeable_frameworks_gardening_medium_flower_01_description=只能放在基石区域和公会世界中。\n\n\n这种花的美丽颜色超越了任何园艺品。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_gardening_medium_flower_02_name=装饰紫色花
+$prefabs_placeable_frameworks_gardening_medium_flower_02_description=只能放在基石区域和公会世界中。\n\n\n这种花的美丽颜色超越了任何园艺品。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_gardening_medium_fountain_name=石质喷泉
+$prefabs_placeable_frameworks_gardening_medium_fountain_description=只可放置在公会世界中。\n\n\n一座漂亮的人工喷泉，顶部有完整的鱼型雕刻。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_gardening_small_greenhouse_name=种植者温室
+$prefabs_placeable_frameworks_gardening_small_greenhouse_description=只可放置在公会世界中。\n\n\n认真的园丁可不会让坏天气阻碍他们的劳动成果。只能放置在公会世界。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_gardening_medium_hillhouse_name=山腰房屋
+$prefabs_placeable_frameworks_gardening_medium_hillhouse_description=只可放置在公会世界中。\n\n\n这座房屋坐落在平缓的山腰上，格外惬意舒适。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_gardening_medium_pond_name=莲花池
+$prefabs_placeable_frameworks_gardening_medium_pond_description=只可放置在公会世界中。\n\n\n这是一个非常静谧的池塘，你可在忙碌一天后在这里休息片刻。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_gardening_medium_shroomhouse_name=蘑菇房
+$prefabs_placeable_frameworks_gardening_medium_shroomhouse_description=只可放置在公会世界中。\n\n\n你有没有想过住在蘑菇里呢？现在梦想变为了现实！\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_gardening_large_treehouse_name=友谊树屋
+$prefabs_placeable_frameworks_gardening_large_treehouse_description=只可放置在公会世界中。\n\n\n谁会不喜欢一座树屋呢？叫上几位朋友来逛逛吧。\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_head_hydra_name=九头蛇的头颅
+$prefabs_placeable_frameworks_head_hydra_description=可在公会世界中使用。\n\n一个击败暗影九头蛇的纪念碑。\n\n<font color='#ff3030'>警告:</font> 框架会销毁所有与之相交的方块，这些方块不会返还。框架放置后不能再被拿起。
+$prefabs_placeable_frameworks_head_dragon_pirate_name=炮弹胡龙的头颅
+$prefabs_placeable_frameworks_head_dragon_pirate_description=可在公会世界中使用。\n\n这是击败炮弹胡龙的纪念碑。\n\n<font color='#ff3030'>警告:</font> 框架会销毁所有与之相交的方块，这些方块不会返还。框架放置后不能再被拿起。
+$prefabs_placeable_frameworks_lunar_altar_name=月亮祭坛
+$prefabs_placeable_frameworks_lunar_altar_description="所有光都会反射."\n- 匿名枪兵\n<font color='#ff3030'>警告:</font> 框架会销毁所有与之相交的方块，这些方块不会返还。框架放置后不能再被拿起。
+$prefabs_placeable_frameworks_july2021_carys_name=卡瑞斯家族的建筑
+$prefabs_placeable_frameworks_july2021_carys_description=可在基石地基和公会世界中使用。\n\n\n一个卡瑞斯家族的建筑\n\n<font color='#ff3030'>警告:</font> 框架会销毁所有与之相交的方块，这些方块不会返还。框架放置后不能再被拿起。
+$prefabs_placeable_frameworks_july2021_panatea_name=皮纳塔亚家族的建筑
+$prefabs_placeable_frameworks_july2021_panatea_description=可在基石地基和公会世界中使用。\n\n\n一个皮纳塔亚家族的建筑\n\n<font color='#ff3030'>警告:</font> 框架会销毁所有与之相交的方块，这些方块不会返还。框架放置后不能再被拿起。
+$prefabs_placeable_frameworks_july2021_tysorion_name=泰索里昂家族的建筑
+$prefabs_placeable_frameworks_july2021_tysorion_description=可在基石地基和公会世界中使用。\n\n\n一个泰索里昂家族的建筑\n\n<font color='#ff3030'>警告:</font> 框架会销毁所有与之相交的方块，这些方块不会返还。框架放置后不能再被拿起。
+$prefabs_placeable_frameworks_house_burger_name=汉堡店
+$prefabs_placeable_frameworks_house_burger_desc=可在基石和公会世界中放置。\n\n\n一个汉堡店，获得烧烤大师认可。\n\n<font color='#ff3030'>警告:</font> 框架会销毁所有与之相交的方块，这些方块不会返还。框架放置后不能再被拿起。
+$prefabs_placeable_frameworks_house_veggie_name=蔬菜之家
+$prefabs_placeable_frameworks_house_veggie_desc=可在基石和公会世界中放置。\n\n\n蔬菜之家，由宝藏世界中最顶端的碧叶使者制作。\n\n<font color='#ff3030'>警告:</font> 框架会销毁所有与之相交的方块，这些方块不会返还。框架放置后不能再被拿起。
+$prefabs_placeable_frameworks_qubesly_table_name=朋友感恩节晚餐盛宴
+$prefabs_placeable_frameworks_qubesly_table_desc=可在基石和公会世界中放置。\n\n\n朋友感恩节晚餐盛宴，因为食物总是和朋友一起分享最好的东西!\n\n<font color='#ff3030'>警告:</font> 框架会销毁所有与之相交的方块，这些方块不会返还。框架放置后不能再被拿起。

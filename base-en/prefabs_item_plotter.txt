@@ -1,8 +1,0 @@
-$prefabs_item_plotter_flattener_item_name=Arena Flattener
-$prefabs_item_plotter_flattener_item_description=Flatten a region that can become an arena or minigame.\n
-<font color='#ff3030'>Warning:</font> This will destroy everything in that zone, as well as the borders of adjacent zones.
-$prefabs_item_plotter_flattener_bedrock_item_name=Arena Bedrock Flattener
-$prefabs_item_plotter_flattener_bedrock_item_description=Flatten a region to bedrock that can become an arena or minigame.\n
-<font color='#ff3030'>Warning:</font> This will destroy everything in that zone, as well as the borders of adjacent zones.
-$prefabs_item_plotter_surveyor_item_name=Arena Survey Tool
-$prefabs_item_plotter_surveyor_item_description=Display a region that can be used as an arena or minigame.
