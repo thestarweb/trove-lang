@@ -1,0 +1,8 @@
+$prefabs_item_lootbox_event_july2021_carys_deco_box_name=Big Deco Box: House Carys
+$prefabs_item_lootbox_event_july2021_carys_deco_box_description=Contains 1 random House Carys lamp piece, banner piece, rug piece, table piece, or chair.
+$prefabs_item_lootbox_event_july2021_panatea_deco_box_name=Big Deco Box: House Panatea
+$prefabs_item_lootbox_event_july2021_panatea_deco_box_description=Contains 1 random House Panatea lamp piece, banner piece, rug piece, table piece, or chair.
+$prefabs_item_lootbox_event_july2021_tysorion_deco_box_name=Big Deco Box: House Tysorion
+$prefabs_item_lootbox_event_july2021_tysorion_deco_box_description=Contains 1 random House Tysorion lamp piece, banner piece, rug piece, table piece, or chair.
+$prefabs_item_lootbox_event_july2021_random_pet_name=Sunfest Petbox
+$prefabs_item_lootbox_event_july2021_random_pet_description=Randomly contains one of 3 tradable Sunfest allies: Whitehorn the Wellknown, Pingry, or Tygrif.

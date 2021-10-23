@@ -1,0 +1,6 @@
+$prefabs_item_crafting_delve_memento_epic_name=史诗凝结记忆
+$prefabs_item_crafting_delve_memento_epic_description=尘归尘,土归土...\n\n获得方法; 分解从秘境获得的<font color='#F169FF'>史诗(紫色)纪念品</font>
+$prefabs_item_crafting_delve_memento_rare_name=稀有凝结记忆
+$prefabs_item_crafting_delve_memento_rare_description=尘归尘,土归土...\n\n获得方法; 分解从秘境获得的<font color='#697CFF'>稀有(蓝色)纪念品</font>
+$prefabs_item_crafting_delve_memento_uncommon_name=罕见凝结记忆
+$prefabs_item_crafting_delve_memento_uncommon_description=尘归尘,土归土...\n\n获得方法; 分解从秘境获得的<font color='#69FF86'>罕见(绿色)纪念品</font>

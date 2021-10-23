@@ -1,0 +1,2 @@
+$prefabs_npc_delve_boss_generic_baleking_boss_name=幻影巨人
+$prefabs_npc_delve_boss_generic_baleking_boss_shadowseve_name=紫色幻影

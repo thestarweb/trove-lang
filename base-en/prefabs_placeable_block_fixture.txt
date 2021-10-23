@@ -1,0 +1,16 @@
+$prefabs_placeable_block_fixture_adventure_npc_interactive_sign_title=Hero Rally Point
+$prefabs_placeable_block_fixture_adventure_npc_interactive_sign_content=Spawns a random Hero who will give out an assortment of Adventures.\nPress [HK:Loot] to use.
+$prefabs_placeable_block_fixture_market_bonus_0_interactive_sign_title=Clubit Stand
+$prefabs_placeable_block_fixture_market_bonus_0_interactive_sign_content=Press [HK:Loot] to claim a small amount of bonus clubits for your club once a day, courtesy of the Club Merchant.
+$prefabs_placeable_block_fixture_market_bonus_1_interactive_sign_title=Clubit Stand
+$prefabs_placeable_block_fixture_market_bonus_1_interactive_sign_content=Press [HK:Loot] to claim a small amount of bonus clubits for your club, courtesy of the Travelling Club Merchant.
+$prefabs_placeable_block_fixture_market_bonus_2_interactive_sign_title=Clubit Stand
+$prefabs_placeable_block_fixture_market_bonus_2_interactive_sign_content=Press [HK:Loot] to claim a small amount of bonus clubits for your club, courtesy of your resident Club Merchant Prince.
+$prefabs_placeable_block_fixture_market_bonus_0_name=Clubit Stand
+$prefabs_placeable_block_fixture_market_bonus_0_description=Can be interacted with to earn a small amount of clubits once a day.
+$prefabs_placeable_block_fixture_market_bonus_1_name=Clubit Stand
+$prefabs_placeable_block_fixture_market_bonus_1_description=Can be interacted with to earn a small amount of clubits once a day.
+$prefabs_placeable_block_fixture_market_bonus_2_name=Clubit Stand
+$prefabs_placeable_block_fixture_market_bonus_2_description=Can be interacted with to earn a small amount of clubits once a day.
+$prefabs_placeable_fixture_spotlight_vfxswitch_interactive_name=Spotlight Selector
+$prefabs_placeable_fixture_spotlight_vfxswitch_interactive_description=Press [HK:Loot] to change the spotlight.

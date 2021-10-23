@@ -1,0 +1,2 @@
+$prefabs_item_hastener_geode_name=Accelerite
+$prefabs_item_hastener_geode_description=Reduces Reliquary and Companion Egg opening time by 2 hours.

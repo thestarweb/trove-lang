@@ -1,0 +1,37 @@
+$prefabs_placeable_matchmaker_events_shadowseve_purple_baleking_name=Delve Gateway: Refracted Balephantom
+$prefabs_placeable_matchmaker_events_shadowseve_purple_baleking_description=Place to queue yourself for a Private Delve in which REFRACTED BALEPHANTOM can occasionally appear.\n\nInvites: Up to 8 Players total\nMounts: Delve Restricted
+$prefabs_placeable_matchmaker_events_shadowseve_baleking_name=Delve Gateway: Greater Balephantom
+$prefabs_placeable_matchmaker_events_shadowseve_baleking_description=Place to queue yourself for a Private Delve in which GREATER BALEPHANTOM can occasionally appear.\n\nInvites: Up to 8 Players total\nMounts: Delve Restricted
+$prefabs_placeable_matchmaker_events_nov2020_turkeytopia_name=Delve Gateway: Turkeytopia
+$prefabs_placeable_matchmaker_events_nov2020_turkeytopia_description=Place to queue yourself for a Private Delve to search for Turkeytopia\n\nInvites: Up to 8 Players total\nMounts: Delve Restricted
+$prefabs_placeable_matchmaker_events_nov2021_turkeytopia_boss_name=Delve Gateway: Trotting Turkey
+$prefabs_placeable_matchmaker_events_nov2021_turkeytopia_boss_description=Place to queue yourself for a Private Delve in which Trotting Turkey can occasionally appear.\n\nInvites: Up to 8 Players total\nMounts: Delve Restricted
+$prefabs_placeable_matchmaker_events_dec2020_library_name=Delve Gateway: The Understacks
+$prefabs_placeable_matchmaker_events_dec2020_library_description=Place to queue yourself for a Private Delve for THE UNDERSTACKS \n\nInvites: Up to 8 Players total\nMounts: Delve Restricted
+$prefabs_placeable_matchmaker_events_april2021_bunfest_name=Delve Gateway: Buntopia
+$prefabs_placeable_matchmaker_events_april2021_bunfest_description=Place to queue yourself for a Private Delve which leads to the BUNTOPIA biome. \n\nInvites: Up to 8 Players total\nMounts: Delve Restricted\n\n<font color='#ff3030'>Disappears</font> at the end of the Bunfest event
+$prefabs_placeable_matchmaker_events_july2021_carys_name=Gateway: Flux. Fissures (Carys)
+$prefabs_placeable_matchmaker_events_july2021_carys_description=Place to queue yourself for a FLUXTUATING FISSURES delve with HOUSE CARYS enemies and oodles of FLUX D'CAT.\n\n\n\n\n<font color='#ff3030'>Disappears</font> at the end of the Sunfest event
+$prefabs_placeable_matchmaker_events_july2021_panatea_name=Gateway: Flux. Fissures (Panatea)
+$prefabs_placeable_matchmaker_events_july2021_panatea_description=Place to queue yourself for a FLUXTUATING FISSURES delve with HOUSE PANATEA enemies and loads of FLUXYATTIUM.\n
+
+
+
+<font color='#ff3030'>Disappears</font> at the end of the Sunfest event
+$prefabs_placeable_matchmaker_events_july2021_tysorion_name=Gateway: Flux. Fissures (Tysorion)
+$prefabs_placeable_matchmaker_events_july2021_tysorion_description=Place to queue yourself for a FLUXTUATING FISSURES delve with HOUSE TYSORION enemies and copious amounts of FLUX MK. II.\n
+
+
+<font color='#ff3030'>Disappears</font> at the end of the Sunfest event
+$prefabs_placeable_matchmaker_events_july2021_carys_t2_name=Deep Gateway: Flux. Fissures (Carys)
+$prefabs_placeable_matchmaker_events_july2021_carys_t2_description=Place to queue yourself for a FLUXTUATING FISSURES delve with HOUSE CARYS enemies and a minium depth of 110.\n<font color='#30ff30'>Increased chance</font> of memento drops!\n<font color='#ff3030'>Disappears</font> at the end of the Sunfest event
+$prefabs_placeable_matchmaker_events_july2021_panatea_t2_name=Deep Gateway: Flux. Fissures (Panatea)
+$prefabs_placeable_matchmaker_events_july2021_panatea_t2_description=Place to queue yourself for a FLUXTUATING FISSURES delve with HOUSE CARYS enemies and a minium depth of 110.\n<font color='#30ff30'>Increased chance</font> of memento drops!\n<font color='#ff3030'>Disappears</font> at the end of the Sunfest event
+$prefabs_placeable_matchmaker_events_july2021_tysorion_t2_name=Deep Gateway: Flux. Fissures (Tysorion)
+$prefabs_placeable_matchmaker_events_july2021_tysorion_t2_description=Place to queue yourself for a FLUXTUATING FISSURES delve with HOUSE CARYS enemies and a minium depth of 110.\n<font color='#30ff30'>Increased chance</font> of memento drops!\n<font color='#ff3030'>Disappears</font> at the end of the Sunfest event
+$prefabs_placeable_matchmaker_events_october2021_shadowseve_name=Delve Gateway: Wolves' Den
+$prefabs_placeable_matchmaker_events_october2021_shadowseve_desc=Place to queue yourself for a Private Delve which leads to the Wolves' Den biome. \n
+Invites: Up to 8 Players total
+Mounts: Delve Restricted
+
+<font color='#ff3030'>Disappears</font> at the end of the Shadow's Eve event

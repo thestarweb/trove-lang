@@ -1,0 +1,13 @@
+$prefabs_item_unlocker_delve_decor_amperium_name=Memento: Amperia
+$prefabs_item_unlocker_delve_decor_beeHive_name=Memento: The Hive
+$prefabs_item_unlocker_delve_decor_candyland_name=Memento: Confectious Caverns
+$prefabs_item_unlocker_delve_decor_graveyard_name=Memento: Cursed Caves
+$prefabs_item_unlocker_delve_decor_neonUnderground_name=Memento: Neon Underground
+$prefabs_item_unlocker_delve_decor_qbthulhu_name=Memento: Corners of Q'bthulhu's Realm
+$prefabs_item_unlocker_delve_decor_saurianSwamp_name=Memento: Primordial Pit
+$prefabs_item_unlocker_delve_decor_terracotta_name=Memento: Forbidden Depths
+$prefabs_item_unlocker_delve_decor_toxic_name=Memento: Toxic Tunnels
+$prefabs_item_unlocker_delve_decor_underwater_name=Memento: Subnautic Passage
+$prefabs_item_unlocker_delve_decor_volcano_name=Memento: Volcanic Vaults
+$prefabs_item_unlocker_delve_decor_bunfest_name=Memento: Buntopia
+$prefabs_item_unlocker_delve_decor_faewild_name=Memento: Crack the Court

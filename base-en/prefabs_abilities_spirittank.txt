@@ -1,0 +1,10 @@
+$prefabs_abilities_spirittank_active_smash_item_name=Bulwark Bash
+$prefabs_abilities_spirittank_active_smash_item_description=Damages and briefly taunts all enemies in a cone in front of the Revenant.
+$prefabs_abilities_spirittank_active_spears_item_name=Spirit Spears
+$prefabs_abilities_spirittank_active_spears_item_description=Damages enemies in a cone in front of the Revenant when held. Costs health to use. Activation drains 3% and each tick thereafter drains 5%. Press again to cancel.
+$prefabs_abilities_spirittank_ultimate_spirit_storm_item_name=Spirit Storm
+$prefabs_abilities_spirittank_ultimate_spirit_storm_item_description=A cyclone pulls foes toward the Revenant and randomly fires exploding spirit blasts, which damage enemies and heal players for 5%. Costs 20% health to use.
+$prefabs_abilities_spirittank_passive_spiritcharge_name=Vengeful Spirits
+$prefabs_abilities_spirittank_passive_spiritcharge_description=Basic attacks and Bulwark Bash return 5% of damage dealt in health after the first attack. Basic attack applies a debuff to targets increasing damage from all sources by 5%. Lasts 5 seconds. A Spirit Wraith will spawn to protect you from death, empowering you until it can do so again.
+$prefabs_abilities_spirittank_subclass_name=Hatred of the Oathbound
+$prefabs_abilities_spirittank_subclass_description=Successful attacks return health.

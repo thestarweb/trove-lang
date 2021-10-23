@@ -1,0 +1,12 @@
+$prefabs_abilities_knight_charge_item_name=Charge!
+$prefabs_abilities_knight_charge_item_description=Launches the Knight forward, taunting, stunning and damaging passing enemies.
+$prefabs_abilities_knight_passive_melee_buff_item_name=Retribution
+$prefabs_abilities_knight_passive_melee_buff_item_description=The Knight's basic attack deals extra damage after being struck by an enemy. The Knight can build up stacks of increased power each time they are hit for a maximum of 3.
+$prefabs_abilities_knight_passive_target_debuff_item_name=Retribution
+$prefabs_abilities_knight_passive_target_debuff_item_description=The Knight's basic attack reduces target outgoing damage by 5%. Additional attacks refresh the debuff.
+$prefabs_abilities_knight_shield_heal_item_name=Iron Will
+$prefabs_abilities_knight_shield_heal_item_description=Fully heals the Knight and reduces incoming damage by 50%. 7 nearby Trovians take 10% less damage and redirect 10% of incoming damage to the Knight for 10 seconds.
+$prefabs_abilities_knight_smash_item_name=Smash
+$prefabs_abilities_knight_smash_item_description=Damages and briefly taunts all enemies in a cone in front of the Knight.
+$prefabs_abilities_knight_subclass_name=Mounted Cavalry
+$prefabs_abilities_knight_subclass_description=Increased movement speed while riding ground based mounts.

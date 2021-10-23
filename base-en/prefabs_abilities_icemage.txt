@@ -1,0 +1,12 @@
+$prefabs_abilities_icemage_freezeblast_item_name=The Big Chill
+$prefabs_abilities_icemage_freezeblast_item_description=Freezes and damages all enemies around the Ice Sage for 3.5 seconds doing frostbite damage while frozen.
+$prefabs_abilities_icemage_iceward_item_name=Frozen Ward
+$prefabs_abilities_icemage_iceward_item_description=Increases the movement speed, damage, and attack speed of the Ice Sage while active. Reduces all incoming damage by 50% for a short time.
+$prefabs_abilities_icemage_icicledrop_item_name=Ice Crash
+$prefabs_abilities_icemage_icicledrop_item_description=Drops an icicle from the heavens, dealing damage over an area that chills enemies, slowing their movement speed. Also turns lava blocks into water blocks for a short time.
+$prefabs_abilities_icemage_passive_icewalking_item_name=Coldhearted
+$prefabs_abilities_icemage_passive_icewalking_item_description=The Ice Sage's basic attack chills enemies, slowing their movement speed. Additionally, Ice Sages can walk across ice without slipping.
+$prefabs_abilities_icemage_passive_painfreeze_name=Pain Freeze
+$prefabs_abilities_icemage_passive_painfreeze_description=The Ice Sage's empowered basic attack freezes for 1 second on the first hit. It also chills enemies, slowing their movement speed. Enemies hit three times with Basic Attack while "Pain Freeze" is equipped explode taking additional damage. Ice Sages can still walk across ice without slipping.
+$prefabs_abilities_ice_mage_subclass_name=Glacial Ward
+$prefabs_abilities_ice_mage_subclass_description=Chance on damage received to activate a shield. Lasts 5s. While active, movement speed, magic damage, and attack speed are increased. Damage received greater than 50% of your HP is absorbed.

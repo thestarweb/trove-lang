@@ -1,0 +1,10 @@
+$prefabs_placeable_block_music_instrument_item_name=Instrument
+$prefabs_placeable_block_music_note_A_item_name=A Note
+$prefabs_placeable_block_music_note_B_item_name=B Note
+$prefabs_placeable_block_music_note_C_item_name=C Note
+$prefabs_placeable_block_music_note_D_item_name=D Note
+$prefabs_placeable_block_music_note_E_item_name=E Note
+$prefabs_placeable_block_music_note_F_item_name=F Note
+$prefabs_placeable_block_music_note_G_item_name=G Note
+$prefabs_placeable_block_generic_description=Music Block\n
+Press [HK:Loot] to change the sound.

@@ -1,0 +1,4 @@
+$prefabs_test_totem_test_sign_title=拾取
+$prefabs_test_totem_test_sign_content=使用钥匙获得战利品
+$prefabs_test_totem_test_key_name=图腾测试钥匙
+$prefabs_test_totem_test_key_description=打开测试图腾

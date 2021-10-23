@@ -1,0 +1,2 @@
+$prefabs_item_influencer_geode_name=Lodestar
+$prefabs_item_influencer_geode_description=Improves the chance of getting a rare reward from Reliquaries and Bronze Companions Eggs.\n\nCan be donated to a good cause at the Forever Home Finder.

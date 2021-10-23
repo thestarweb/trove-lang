@@ -1,0 +1,11 @@
+$prefabs_abilities_dinotamer_clever_snare_item_name=Clever Snare
+$prefabs_abilities_dinotamer_clever_snare_item_description=Throws a sticky net which roots, energy drains, and damages enemies within its area over time. Hold button for larger nets that last longer and can be thrown farther. Dart attacks refresh the net.
+$prefabs_abilities_dinotamer_meat_summon_item_name=Dino Buddy
+$prefabs_abilities_dinotamer_meat_summon_item_description=Throws a piece of meat on the ground which summons a random dinosaur to fight nearby enemies. Dino Buddies last 22 seconds.
+$prefabs_abilities_dinotamer_dinomount_item_name=Dino Mount
+$prefabs_abilities_dinotamer_dinomount_item_description=Summons a special mount that increases Magic Damage and Movement Speed, adds splash damage to your dart attacks, stuns nearby foes when you call a Dino Buddy, and makes all Clever Snare nets max size!
+$prefabs_abilities_dinotamer_passive_spawnmeatenergy_item_name=Dino Buddy Food
+$prefabs_abilities_dinotamer_passive_spawnmeatenergy_item_description=Killing an enemy caught in your Clever Snare will create meat that resets the cooldown on your Dino Buddy ability. Primary attack fires darts.
+$prefabs_abilities_dinotamer_meatenergy_item_name=Dino Buddy Food
+$prefabs_abilities_dinotamer_subclass_name=Research Net
+$prefabs_abilities_dinotamer_subclass_description=Critical hits have a chance to root targets in place for a short duration.

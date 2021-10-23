@@ -1,0 +1,2 @@
+$prefabs_placeable_matchmaker_dragon_steampunk_name=Delve Gateway: Volcanic Vaults
+$prefabs_placeable_matchmaker_dragon_steampunk_description=Place to queue yourself for a Private Delve with the VOLCANIC VAULTS biome appearing more often than usual\n\nInvites: Up to 8 Players total\nMounts: Delve Restricted

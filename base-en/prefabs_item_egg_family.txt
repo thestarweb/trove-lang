@@ -1,0 +1,16 @@
+$prefabs_item_egg_family_cragglepod_name=Tame Cragglepod Egg
+$prefabs_item_egg_family_cragglepod_description=Hatches into a common, uncommon, or rare Cragglepod.\n\nFound rarely when assiting wild Cragglepods in the Sunken Sunvault.
+$prefabs_item_egg_family_froleek_name=Tame Froleek Egg
+$prefabs_item_egg_family_froleek_description=Hatches into a common, uncommon, or rare Froleek.\n\nFound rarely when assiting wild Froleeks in Geode Caves.
+$prefabs_item_egg_family_gleemur_name=Tame Gleemur Egg
+$prefabs_item_egg_family_gleemur_description=Hatches into a common, uncommon, or rare Gleemur.\n\nFound rarely when assiting wild Gleemurs in Verdant Veins.
+$prefabs_item_egg_family_hoppet_name=Tame Hoppet Egg
+$prefabs_item_egg_family_hoppet_description=Hatches into a common, uncommon, or rare Hoppet.\n\nFound rarely when assiting wild Hoppets in Moonglow Grotto.
+$prefabs_item_egg_family_howlug_name=Tame Howlug Egg
+$prefabs_item_egg_family_howlug_description=Hatches into a common, uncommon, or rare Howlug.\n\nFound rarely when assiting wild Howlugs in Geode Caves.
+$prefabs_item_egg_family_jelotl_name=Tame Jelotl Egg
+$prefabs_item_egg_family_jelotl_description=Hatches into a common, uncommon, or rare Jelotl.\n\nFound rarely when assiting wild Jelotls in the Sunken Sunvault.
+$prefabs_item_egg_family_qubrik_name=Tame Qubrik Egg
+$prefabs_item_egg_family_qubrik_description=Hatches into a common, uncommon, or rare Qubrik.\n\nFound rarely when assiting wild Qubriks in Verdant Veins.
+$prefabs_item_egg_family_zepperay_name=Tame Zepperay Egg
+$prefabs_item_egg_family_zepperay_description=Hatches into a common, uncommon, or rare Zepperay.\n\nFound rarely when assiting wild Zepperays in Moonglow Grotto.

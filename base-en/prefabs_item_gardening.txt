@@ -1,0 +1,10 @@
+$prefabs_item_gardening_wateringcan_event_star_item_name=Lucky Star 2019
+$prefabs_item_gardening_wateringcan_event_star_item_description=Explodes on impact, imbuing nearby St. Qubeslick Clovers with luck. Hold down button to aim.\n\nSt. Qubeslick Clovers can only be imbued with luck once an hour, when they are ready.\n\nAcquired during the St. Qubeslick 2019 event, its magic will fade at the end of St. Qubeslick 2020.
+$prefabs_item_gardening_wateringcan_basic_item_name=Watering Can
+$prefabs_item_gardening_wateringcan_basic_item_description=Waters nearby eligible plants. Hold to use. Consumed on use.
+$prefabs_item_gardening_wateringcan_unlimited_notrade_item_name=Everlasting Watering Can
+$prefabs_item_gardening_wateringcan_unlimited_notrade_item_description=Waters nearby eligible plants. Hold to use.
+$prefabs_item_gardening_wateringcan_golden_item_name=Golden Watering Can
+$prefabs_item_gardening_wateringcan_golden_item_description=Completely Waters nearby eligible plants, including plants which have already been watered! Consumed on use. Hold to use.
+$prefabs_item_gardening_wateringcan_event_wishingtree_item_name=Wishing Focus
+$prefabs_item_gardening_wateringcan_event_wishingtree_item_description=Use to focus your wishes and help Wishing Trees Grow.\n\nThis item will vanish shortly after the end of Lunar Plunge.

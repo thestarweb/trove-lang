@@ -1,0 +1,3 @@
+$prefabs_item_unlocker_delve_decor_events_sunfest_name=纪念品: 太阳庆典
+$prefabs_item_unlocker_delve_decor_events_wolvesDen_name=纪念品: 狼穴
+$prefabs_item_unlocker_delve_decor_events_turkeytopia_name=纪念品: 火鸡托邦

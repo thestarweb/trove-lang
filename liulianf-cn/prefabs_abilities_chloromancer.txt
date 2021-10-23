@@ -1,0 +1,10 @@
+$prefabs_abilities_chloromancer_seedling_lasher_item_name=藤鞭
+$prefabs_abilities_chloromancer_seedling_lasher_item_description=抛出种子，种子会在2秒钟内长成植物。一旦完全成长，它就会旋转并不断网罗，每0.8秒对敌人造成100％魔法伤害。治疗植物将使其生长更快。\n\n现在藤鞭的伤害可叠加和攻击半径有所提高。\n一次最多存在2个
+$prefabs_abilities_chloromancer_seedling_item_name=植物机枪
+$prefabs_abilities_chloromancer_seedling_item_description=抛下长成植物的种子。它将向附近的敌人开火，发射1排子弹，每发造成160％魔法伤害。治疗植物使它们生长更快。\n\n一次最多存在3个\n机关枪存在时间约5.5秒
+$prefabs_abilities_chloromancer_passive_item_name=小苞炸
+$prefabs_abilities_chloromancer_passive_item_description=普通攻击有20％几率在敌人附近生成花朵。它们会爆发一阵花粉，使队友恢复5％的生命，并对敌人造成450％(4.5倍)的魔法伤害。治疗迷你小花会使它们爆炸更快(大概2次普通攻击)。一次最多存在4个。
+$prefabs_abilities_chloromancer_spawn_random_seedlings_name=附魔成长
+$prefabs_abilities_chloromancer_spawn_random_seedlings_description=使 藤鞭(1技能) 和 植物机枪(鼠标右键) 成为更大的版本。植物机关枪造成的伤害提高至380％魔法伤害。藤鞭获得额外的效果，减少范围内敌人100%的移动速度。\n\n使用技能不耗能量\n机关枪最多可存在3个可与小机关枪同时存在\n机关枪存在时间约9-10秒\n技能cd时间60秒，加了宠物约48秒
+$prefabs_abilities_chloromancer_subclass_name=阴毒假面
+$prefabs_abilities_chloromancer_subclass_description=敌人的攻击有几率使你全身覆盖蓟刺，将伤害返还给攻击者。

@@ -1,0 +1,2 @@
+$prefabs_abilities_delete_block_metaforge_item_name=方块摧毁器
+$prefabs_abilities_delete_block_metaforge_item_description=摧毁一块方块

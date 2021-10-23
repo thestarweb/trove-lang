@@ -1,0 +1,33 @@
+$prefabs_abilities_bard_basic_attack_name=普通攻击
+$prefabs_abilities_bard_melody_name=旋律
+$prefabs_abilities_bard_melody_description=旋律用于提升吟游诗人的能力，由吟游诗人的歌曲产生。通过轮流使用对应于吟游诗人歌声的技能时可获得旋律[最高11层旋律]。高旋律会增加吟游诗人的普通攻击伤害。\n
+普通攻击伤害为250%，当旋律为3层时普通攻击伤害提高到450%，旋律为7层以上普通攻击伤害提高到700%。
+
+旋律与对应技能都显示在[诗人旋律状态栏]中。
+
+$prefabs_abilities_bard_nimble_dance_name=灵动之舞
+$prefabs_abilities_bard_nimble_dance_description=在一个圆锥体中造成伤害的招架攻击，造成200%伤害，并给予使用者一个无敌泡泡，持续1秒。灵动之舞使用将移除1个旋律。\n
+如果在[诗人旋律状态栏]中正确使用时，将增加1个旋律。
+$prefabs_abilities_bard_singing_crystal_name=歌唱水晶
+$prefabs_abilities_bard_singing_crystal_description=将一个唱歌的水晶扔到地上。每当歌曲被用来给附近的玩家加持时，效果区域都在吟游诗人和水晶周围。\n
+在使用该技能将会变成爆裂水晶。
+$prefabs_abilities_bard_crystal_pop_name=爆裂水晶
+$prefabs_abilities_bard_crystal_pop_description=以超负荷的音乐能量引爆歌唱水晶，对附近的敌人造成350%的魔法伤害，并摧毁歌唱水晶。\n
+在使用该技能后会切回歌唱水晶。
+$prefabs_abilities_bard_epic_riff_name=史诗演奏
+$prefabs_abilities_bard_epic_riff_description=启动[诗人旋律状态栏]并增加 1 旋律。吟游诗人会定期在吟游诗人的头顶与[诗人旋律状态栏]中产生图标。如果玩家在图标激活时使用与之匹配的技能，将获得1个旋律。当[诗人旋律状态栏]结束时，所有的旋律都会消失。\n
+可获得旋律的技能是:普通攻击，歌唱水晶，灵动之舞和闪避
+技能持续时间为50秒(再次使用该技能,可以无限续时间)
+$prefabs_abilities_bard_jubilant_song_name=欢腾之歌
+$prefabs_abilities_bard_jubilant_song_description=使附近的盟友跳舞，并提高25%(职业宝石40%)的移动速度和30(职业宝石50)最大能量。当盟友对敌人造成伤害时，有50%的几率恢复能量。\n
+使用时移除3个旋律。持续30秒。
+$prefabs_abilities_bard_battle_song_name=战斗之歌
+$prefabs_abilities_bard_battle_song_description=在吟游诗人周围引发爆炸，对附近的敌人造成600%(职业宝石800%)魔法伤害，并在短时间内暂时将仇恨重定向到玩家身上。还增强周围玩家的30%(职业宝石45%)物理/魔法伤害和暴击伤害+20(职业宝石+45)。\n
+使用时移除3个旋律。持续30秒。
+$prefabs_abilities_bard_peaceful_song_name=宁静之歌
+$prefabs_abilities_bard_peaceful_song_description=治疗附近玩家20%(职业宝石45%)最大生命，并在造成伤害时获得8%(15%)的生命值。此外还对附近的敌人晕眩1.5秒(职业宝石3秒)。\n
+使用时移除3个旋律。持续30秒。
+$prefabs_abilities_bard_subclass_name=个人之歌
+$prefabs_abilities_bard_subclass_description=当你进入战斗时为自己唱一首小曲。攻击时，依次获得欢腾、宁静和战斗之歌的增益。每个增益持续3秒，冷却时间为15秒。效果随该职业等级的提高而增加。\n欢腾之歌 - 获得2%的移动速度（满级为15%）和2%的最大能量（满级为15%）。
+宁静之歌 - 造成伤害时获得1%（满级为5%）的生命值。
+战斗之歌 - 获得增加2%的攻击速度（满级15%）和2%暴击伤害（满级15%）。

@@ -1,0 +1,16 @@
+$prefabs_equipment_banner_event_sunfest_boss_common_2019_name=Moontouched Battle Standard
+$prefabs_equipment_banner_event_sunfest_boss_common_2019_description=Carried by followers and servants of the Moon Gooddess... or anyone who bests them in combat.
+$prefabs_equipment_banner_event_sunfest_boss_rare_2019_name=Banner of the Moonlit Menace
+$prefabs_equipment_banner_event_sunfest_boss_rare_2019_description=Tempered in a bath of the purest moonlight, this banner was given directly from the Moon Goddess to her champion, now fallen.
+$prefabs_equipment_banner_event_sunfest_house_goldenvale_perm_2019_name=House Carys Battle Standard
+$prefabs_equipment_banner_event_sunfest_house_goldenvale_perm_2019_description=Signifies loyalty to Carys, Seraph of the Golden Vale.
+$prefabs_equipment_banner_event_sunfest_house_goldenvale_temp_2019_name=Sunfest Banner: House Carys
+$prefabs_equipment_banner_event_sunfest_house_goldenvale_temp_2019_description=Authorizes its bearer to collect Carysian Ducats on behalf of House Carys.\n\nGrants 5 Movement Speed, but is destroyed when Sunfest ends.
+$prefabs_equipment_banner_event_sunfest_house_pinata_perm_2019_name=House Panatea Battle Standard
+$prefabs_equipment_banner_event_sunfest_house_pinata_perm_2019_description=Signifies loyalty to Panatea, the Partifier.
+$prefabs_equipment_banner_event_sunfest_house_pinata_temp_2019_name=Sunfest Banner: House Panatea
+$prefabs_equipment_banner_event_sunfest_house_pinata_temp_2019_description=Authorizes its bearer to collect Panatean Antes on behalf of House Panatea.\n\nGrants 15 Magic Find, but is destroyed when Sunfest ends.
+$prefabs_equipment_banner_event_sunfest_house_trove_perm_2019_name=House Tysorion Battle Standard
+$prefabs_equipment_banner_event_sunfest_house_trove_perm_2019_description=Signifies loyalty to Tysorion, Steward of New Beginnings
+$prefabs_equipment_banner_event_sunfest_house_trove_temp_2019_name=Sunfest Banner: House Tysorion
+$prefabs_equipment_banner_event_sunfest_house_trove_temp_2019_description=Authorizes its bearer to collect Marks of Ty on behalf of House Tysorion.\n\nGrants 3 Jump, but is destroyed when Sunfest ends.

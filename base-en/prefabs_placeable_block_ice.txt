@@ -1,0 +1,2 @@
+$prefabs_placeable_block_ice_tundra_item_name=Cyberian Ice
+$prefabs_placeable_block_ice_tundra_item_description=Ice from the Cyberian Tundra. Careful!

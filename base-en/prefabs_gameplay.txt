@@ -1,0 +1,11 @@
+$prefabs_gameplay_chest_shadow_animated_sign_title=Everdark Vault
+$prefabs_gameplay_chest_shadow_animated_sign_content=Use a Class Gem Key or an Shaper's Star Key nearby to claim your reward.
+$prefabs_gameplay_chest_quest_shadow_easy_sign_title=Shadow Tower Vault
+$prefabs_gameplay_chest_quest_shadow_easy_sign_content=Use the appropriate key nearby to claim your reward.
+$prefabs_gameplay_chest_quest_shadow_hard_sign_title=Moon Tower Vault
+$prefabs_gameplay_chest_quest_shadow_hard_sign_content=Use a Moon Key nearby to claim your reward.
+$prefabs_gameplay_chest_quest_shadow_ultra_sign_title=Eclipse Tower Vault
+$prefabs_gameplay_chest_quest_shadow_ultra_sign_content=Use an Eclipse Key nearby to claim your reward.
+$prefabs_gameplay_chest_worldboss_sign_title=Leviathan Vault
+$prefabs_gameplay_chest_worldboss_sign_content=Use a Leviathan Key nearby to claim your reward.
+$prefabs_gameplay_chest_delve_personal_sign_title=Personalized Chest!

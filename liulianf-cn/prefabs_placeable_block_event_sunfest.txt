@@ -1,0 +1,3 @@
+$prefabs_placeable_block_event_sunfest_house_banner_goldenvale_name=装饰用太阳庆典旗帜：卡瑞斯家族
+$prefabs_placeable_block_event_sunfest_house_banner_pinata_name=装饰用太阳庆典旗帜：皮纳塔亚家族
+$prefabs_placeable_block_event_sunfest_house_banner_trove_name=装饰用太阳庆典旗帜：泰索里昂家族

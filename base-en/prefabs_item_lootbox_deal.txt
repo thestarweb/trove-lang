@@ -1,0 +1,4 @@
+$prefabs_item_lootbox_deal_bronze_item_name=Bronze Treasure Trove
+$prefabs_item_lootbox_deal_bronze_item_description=Open it to obtain some resources.
+$prefabs_item_lootbox_deal_wood_item_name=Wooden Treasure Trove
+$prefabs_item_lootbox_deal_wood_item_description=Open it to obtain some resources.

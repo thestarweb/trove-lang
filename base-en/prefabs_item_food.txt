@@ -1,0 +1,21 @@
+$prefabs_item_food_basic_cabbage_name=Washed Qubbage
+$prefabs_item_food_basic_carrot_name=Washed Bunfeed
+$prefabs_item_food_basic_corn_name=Washed Corn on the Cube
+$prefabs_item_food_basic_grape_name=Washed and Bunched Purp'lil
+$prefabs_item_food_basic_leek_name=Washed Onionito
+$prefabs_item_food_basic_potato_name=Washed Totter Tates
+$prefabs_item_food_basic_rainbowchard_name=Washed Unicorn Chard
+$prefabs_item_food_basic_tomato_name=Washed Qumatoes
+$prefabs_item_food_basic_watermelon_name=Washed Cinnamellon
+$prefabs_item_food_event_sunfest2019_name=Sunfest Cake
+$prefabs_item_food_event_sunfest2019_description=Delicious, but perishable.\n\nLeftover Sunfest Cake will disappear at the end of Sunfest.
+$prefabs_item_food_adventure_flask_name=Fruit Milk
+$prefabs_item_food_adventure_mining_name=Pine Butter n Jam
+$prefabs_item_food_adventure_movespeed_name=Adventchable
+$prefabs_item_food_event_candy_corn_name=Treat: Tasty Candy Corn
+$prefabs_item_food_event_candy_corn_description=Delicious, but perishable.\n
+Leftover Tasty Candy Corn will disappear at the end of Shadow's Eve 2021.
+$prefabs_item_food_event_turkeytopia_01_name=Turkofu Cornucopia
+$prefabs_item_food_event_turkeytopia_01_description=Filling, but perishable.\n\nLeftover Turkofu Cornucopia will disappear at the start of Snowfest 2019.
+$prefabs_item_food_event_bunfest2020_name=Cleansed Bunfest Chocolate
+$prefabs_item_food_event_bunfest2020_description=Sickly Sweet.\n\nLeftover Chocolate will disappear shortly after the end of Bunfest 2020.

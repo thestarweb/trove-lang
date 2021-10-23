@@ -1,0 +1,5 @@
+$prefabs_npc_outpost_geodevug_boulder_greensunwar_name=Green Sunwarrior Boulder
+$prefabs_npc_outpost_geodevug_pebble_purplesunmage_name=Purple Sunmage Pebble
+$prefabs_npc_outpost_luminopolis_sugarglider_kamipr_name=Kami of Considered Compassion
+$prefabs_npc_outpost_adventurine_merchant_sign_title=Outpost Merchant
+$prefabs_npc_outpost_adventurine_merchant_sign_content=Press [HK:Loot] to trade with the merchant.

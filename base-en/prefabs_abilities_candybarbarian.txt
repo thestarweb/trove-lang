@@ -1,0 +1,14 @@
+$prefabs_abilities_candybarbarian_eiscromcone_item_name=Eis-Crom Cone
+$prefabs_abilities_candybarbarian_eiscromcone_item_description=The Candy Barbarian drops a large ice cream cone, dealing damage over an area, creating Gum Drops, and dropping Healing Candy for allies.
+$prefabs_abilities_candybarbarian_healthcandy_item_name=Sweet Candy
+$prefabs_abilities_candybarbarian_healthcandy_item_description=It's good for you!
+$prefabs_abilities_candybarbarian_passive_spawncandy_item_name=Gum Drop
+$prefabs_abilities_candybarbarian_passive_spawncandy_item_description=When attacked, the Candy Barbarian will sometimes drop rage-inducing Gum Drops, increasing attack speed and movement speed.
+$prefabs_abilities_candybarbarian_ragecandy_item_name=Sour Candy
+$prefabs_abilities_candybarbarian_ragecandy_item_description=Makes you run and attack more quickly.
+$prefabs_abilities_candybarbarian_sugarcrash_item_name=Sugar Crash
+$prefabs_abilities_candybarbarian_sugarcrash_item_description=The Candy Barbarian leaps at enemies, dealing damage over an area and creating Gum Drops.
+$prefabs_abilities_candybarbarian_swirlwind_item_name=Vanilla Swirlwind
+$prefabs_abilities_candybarbarian_swirlwind_item_description=The Candy Barbarian spins around, attacking all nearby foes and creating Healing Candy for himself.
+$prefabs_abilities_candybarbarian_subclass_name=Sugar Rush
+$prefabs_abilities_candybarbarian_subclass_description=Damaging an enemy has a chance to drop candy that increases attack and movement speed or healing.

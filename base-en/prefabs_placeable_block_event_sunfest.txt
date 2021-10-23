@@ -1,0 +1,3 @@
+$prefabs_placeable_block_event_sunfest_house_banner_goldenvale_name=Decorative Sunfest Banner: House Carys
+$prefabs_placeable_block_event_sunfest_house_banner_pinata_name=Decorative Sunfest Banner: House Panatea
+$prefabs_placeable_block_event_sunfest_house_banner_trove_name=Decorative Sunfest Banner: House Tysorion

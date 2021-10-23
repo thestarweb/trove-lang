@@ -1,0 +1,12 @@
+$prefabs_abilities_dracolyte_dragon_item_name=Spit Fire
+$prefabs_abilities_dracolyte_dragon_item_description=If charged, your familiar releases a fireball that deals damage over a small area. Damaging enemies with your basic attack will charge up your Familiar.
+$prefabs_abilities_dracolyte_dragonman_item_name=Avatar of Flame
+$prefabs_abilities_dracolyte_dragonman_item_description=Transforms the Dracolyte into a dragon for 15 seconds, increasing movement speed, health regeneration, stability, and the damage done by the basic attack, while reducing damage taken to 50%.
+$prefabs_abilities_dracolyte_dragon_familiar_item_name=Lil' Dragon
+$prefabs_abilities_dracolyte_dragon_familiar_item_description=A little dragon
+$prefabs_abilities_dracolyte_idol_bomb_item_name=Burnt Offering
+$prefabs_abilities_dracolyte_idol_bomb_item_description=Throws a Dragon Idol on the ground that explodes after 3 seconds. The Dracolyte's attacks can detonate the Idol early, dealing damage over an area.
+$prefabs_abilities_dracolyte_passive_lava_resistance_item_name=Fireborn
+$prefabs_abilities_dracolyte_passive_lava_resistance_item_description=The Dracolyte's attacks cause enemies to Burn, increasing their damage taken from all sources. The Dracolyte also moves much faster through lava, and takes less damage from it than other Trovians.
+$prefabs_abilities_dracolyte_subclass_name=Burning Zealot
+$prefabs_abilities_dracolyte_subclass_description=Physical damage to enemies has a chance to apply fire to them.

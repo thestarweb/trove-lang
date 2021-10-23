@@ -1,0 +1,8 @@
+$prefabs_placeable_block_source_chocolate_item_name=Cocoa Cascade
+$prefabs_placeable_block_source_chocolate_item_description=A source of chocolate. Thick and rich!
+$prefabs_placeable_block_source_milk_item_name=Milk Maker
+$prefabs_placeable_block_source_milk_item_description=A source of milk. Questionable!
+$prefabs_placeable_block_source_plasma_item_name=Encoded Plasma Source
+$prefabs_placeable_block_source_plasma_item_description=A source of plasma. Electrifying!
+$prefabs_placeable_block_source_water_item_name=Face of Flow
+$prefabs_placeable_block_source_water_item_description=A source of water. Refreshing!

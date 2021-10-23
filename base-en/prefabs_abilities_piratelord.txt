@@ -1,0 +1,13 @@
+$prefabs_abilities_piratelord_cannon_item_name=First Mate
+$prefabs_abilities_piratelord_cannon_item_description=The Pirate's First Mate mans a turret that attacks enemies. Each time First Mate is used, it can be upgraded by picking up Doubloons.
+$prefabs_abilities_piratelord_doubloon_item_name=Doubloon
+$prefabs_abilities_piratelord_man_o_war_item_name=Man o' War
+$prefabs_abilities_piratelord_man_o_war_item_description=Summons an extra powerful Man o' War turret which lobs explosive shells that deal damage over a small area.
+$prefabs_abilities_piratelord_parrot_familiar_item_name=Parrot
+$prefabs_abilities_piratelord_parrot_familiar_item_description=Squawk
+$prefabs_abilities_piratelord_passive_spawndoubloon_item_name=Plunderbuss
+$prefabs_abilities_piratelord_passive_spawndoubloon_item_description=Attacking enemies causes them to drop Doubloons, which generate energy and increase the damage of any active First Mate turret.
+$prefabs_abilities_piratelord_pirate_dummy_item_name=Pretend Pirate
+$prefabs_abilities_piratelord_pirate_dummy_item_description=Throws down a booby-trapped decoy that enemies will attack.
+$prefabs_abilities_piratelord_subclass_name=Naval Gunfire
+$prefabs_abilities_piratelord_subclass_description=Damaging an enemy has a chance to call a cannon ball from the sky.

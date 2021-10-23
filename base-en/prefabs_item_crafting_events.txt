@@ -1,0 +1,130 @@
+$prefabs_item_crafting_events_march2021_luckbeast_name=Luckbeast Haunch
+$prefabs_item_crafting_events_march2021_luckbeast_description=Key ingredeint for the extra-hearty Feast of St. Qubeslick\nDisappears at the end of the St. Qubeslick event
+$prefabs_item_crafting_events_march2021_sevenspice_name=St. Qubeslick's Sevenspice
+$prefabs_item_crafting_events_march2021_sevenspice_description=This might actually be Eightspice. Is salt a spice?\n\nObtained from Dungeons in the Treasure Isles biome, found in the Drowned World as well as other adventure worlds.\nDisappears at the end of the St. Qubeslick event
+$prefabs_item_crafting_events_april2021_chocolate_name=Bunfest Chocolate
+$prefabs_item_crafting_events_april2021_chocolate_description=Bunfest Chocolate is usually found hidden in eggs in the MEDIEVAL HIGHLANDS, FAE WILDS, CANDORIA, and GEODE TOPSIDE biomes.\n\n<font color='#ff3030'>Disappears</font> at the end of the Bunfest event
+$prefabs_item_crafting_events_april2021_refinedchocolate_name=Refined Chocolate
+$prefabs_item_crafting_events_april2021_refinedchocolate_description=Used in many Bunfest recipes, this chocolate is rich, decadent, and smells like bunnies.\n\n<font color='#ff3030'>Disappears</font> at the end of the Bunfest event
+$prefabs_item_crafting_events_april2021_token_name=Bunfest Token
+$prefabs_item_crafting_events_april2021_token_description=The only official token of Bunfest! Awarded for completing Daily Bunfest Adventures from the Hub\n\n<font color='#ff3030'>Disappears</font> at the end of the Bunfest event
+$prefabs_item_crafting_events_july2021_carys_flux_name=Flux d'Cat
+$prefabs_item_crafting_events_july2021_carys_flux_description=The only flux with the right metallurgic properties to mint the CARYSIAN DUCAT, accept no substitutes!\n\n\n\n\n<font color='#ff3030'>Disappears</font> at the end of the Sunfest event
+$prefabs_item_crafting_events_july2021_minercard_name=Royal Mining License
+$prefabs_item_crafting_events_july2021_minercard_description=Issued by the Consortium of Royal Dragon Houses only to accredited miners.\n\n\n\n\n\n<font color='#ff3030'>Disappears</font> at the end of the Sunfest event
+$prefabs_item_crafting_events_july2021_ore_name=Rayoreum Ore
+$prefabs_item_crafting_events_july2021_ore_description=Qubesly's skeptical, but the Royal Houses say this is the REAL DEAL!\n\n\n\n\n\n<font color='#ff3030'>Disappears</font> at the end of the Sunfest event
+$prefabs_item_crafting_events_july2021_panatea_flux_name=Fluxyattium
+$prefabs_item_crafting_events_july2021_panatea_flux_description=The unique mix of chemicals present in this flux is perfect for the forging of PANATEAN ANTES.\n\n\n\n\n\n<font color='#ff3030'>Disappears</font> at the end of the Sunfest event
+$prefabs_item_crafting_events_july2021_tysorion_flux_name=Flux mk. II
+$prefabs_item_crafting_events_july2021_tysorion_flux_description=More fluxier than regular flux, this extra-fluxy flux is full of flux, which make it an idea candidate for the creation of MARKS OF TY.\n\n\n\n\n<font color='#ff3030'>Disappears</font> at the end of the Sunfest event
+$prefabs_item_crafting_events_september2021_fae_token_name=Token of Fae Honor
+$prefabs_item_crafting_events_september2021_fae_token_description=Proof of Fae Honor! Gained from hunting Undead in the Fae Forest.\n\n<font color='#ff3030'>Disappears</font> at the end of the Fae Vs Undead event.
+$prefabs_item_crafting_events_september2021_undead_token_name=Token of Undead Honor
+$prefabs_item_crafting_events_september2021_undead_token_description=Proof of Undead Honor! Gained from hunting Fae in the Cursed Vale.\n\n<font color='#ff3030'>Disappears</font> at the end of the Fae Vs Undead event.
+$prefabs_item_crafting_events_november2021_3_house_turkey_currency_name=Spare Turkey Leg
+$prefabs_item_crafting_events_november2021_3_house_turkey_currency_desc=Where did it come from? Better not to ask.\n\nLeftover Spare Turkey Leg will disappear at the end of Friendsgiving 2021.
+$prefabs_item_crafting_events_november2021_biscuits_currency_name=Heckbug Treats
+$prefabs_item_crafting_events_november2021_biscuits_currency_desc=They do eat anything, but they eat these first.\n
+Leftover Heckbug Treats will disappear at the end of Friendsgiving 2021.
+$prefabs_item_crafting_events_november2021_bouillon_cube_currency_name=Trovian Bouillion
+$prefabs_item_crafting_events_november2021_bouillon_cube_currency_desc=Special bouillion for a special occasion.\n
+Leftover Trovian Bouillon will disappear at the end of Friendsgiving 2021.
+$prefabs_item_crafting_events_november2021_choco_egg_currency_name=Chocolate Egg
+$prefabs_item_crafting_events_november2021_choco_egg_currency_desc=Everyone loves a chocolate egg.\n
+Leftover Chocolate Egg will disappear at the end of Friendsgiving 2021.
+$prefabs_item_crafting_events_november2021_frozen_punch_currency_name=Frozen Punch
+$prefabs_item_crafting_events_november2021_frozen_punch_currency_desc=How would you make ice punch without the punch?\n
+Leftover Frozen Punch will disappear at the end of Friendsgiving 2021.
+$prefabs_item_crafting_events_november2021_greens_currency_name=Raddish
+$prefabs_item_crafting_events_november2021_greens_currency_desc=Perfectly ripe. Raddishes can be ripe, right?\n
+Leftover Raddish will disappear at the end of Friendsgiving 2021.
+$prefabs_item_crafting_events_november2021_moon_rolls_currency_name=Moon Wheat
+$prefabs_item_crafting_events_november2021_moon_rolls_currency_desc=Wheat grown soley in moonlight.\n
+Leftover Moon Wheat will disappear at the end of Friendsgiving 2021.
+$prefabs_item_crafting_events_november2021_turkey_coin_currency_name=Friendsgiving Coin
+$prefabs_item_crafting_events_november2021_turkey_coin_currency_desc=The most premium of currencies for the most premium of friends.\n
+Leftover Friendsgiving Coin will disappear at the end of Friendsgiving 2021.
+$prefabs_item_crafting_events_november2021_3_house_turkey_inv_name=Special Order: Sunfest Houses Recipes
+$prefabs_item_crafting_events_november2021_3_house_turkey_inv_desc=Cooked Three House Turkey.
+$prefabs_item_crafting_events_november2021_3_house_turkey_inv_desc2=Teaches the ability to craft Three House Turkey decoration and food at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2021_bunfest_egg_inv_name=Special Order: Bunfest Nobles Recipes
+$prefabs_item_crafting_events_november2021_bunfest_egg_inv_desc=Prepared Bunfest Bounty.
+$prefabs_item_crafting_events_november2021_bunfest_egg_inv_desc2=Teaches the recipe teaching the ability to craft the Bunfest Bounty decoration and food at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2021_greens_inv_name=Special Order: Sir Dapper Duckington's Recipes
+$prefabs_item_crafting_events_november2021_greens_inv_desc=Prepared Raddish Salad.
+$prefabs_item_crafting_events_november2021_greens_inv_desc2=Teaches the recipe teaching the ability to craft the Raddish Salad decoration and food at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2021_moon_rolls_inv_name=Special Order: High Priest's Recipes
+$prefabs_item_crafting_events_november2021_moon_rolls_inv_desc=Cooked Moon Rolls.
+$prefabs_item_crafting_events_november2021_moon_rolls_inv_desc2=Teaches the recipe teaching the ability to craft the Moon Rolls decoration and food at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2021_punch_bowl_inv_name=Special Order: Snowfest Gang's Recipes
+$prefabs_item_crafting_events_november2021_punch_bowl_inv_desc=Prepared Ice Punch Bowl.
+$prefabs_item_crafting_events_november2021_punch_bowl_inv_desc2=Teaches the recipe teaching the ability to craft the Ice Punch Bowl decoration and food at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2021_puppy_bowl_inv_name=Special Order: Heckbug Chow Recipes
+$prefabs_item_crafting_events_november2021_puppy_chow_inv_desc=Cooked Hecky Chow.
+$prefabs_item_crafting_events_november2021_puppy_chow_inv_desc2=Teaches the recipe teaching the ability to craft the Hecky Chow Bowl decoration and food at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2021_qubes_recipes_name=Qubesly's Recipes
+$prefabs_item_crafting_events_november2021_qubes_recipes_desc=Teaches the recipes to craft all of Qubesly's Favorites as decoration blocks at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2021_sides_recipes_name=Sides Recipes
+$prefabs_item_crafting_events_november2021_sides_recipes_desc=Teaches the recipes to craft all of the Sides from Friendsgiving as decoration blocks at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2021_mains_recipes_name=Special Order Recipes
+$prefabs_item_crafting_events_november2021_mains_recipes_desc=Teaches the recipes to craft all of the Special Orders from Friendsgiving as decoration blocks at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2021_qubesly_invites_name=Qubesly's Favorites Recipes
+$prefabs_item_crafting_events_november2021_qubesly_invites_desc=Teaches the recipes to craft all of Qubesly's Favorites recipes at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2021_special_orders_name=Special Order Recipes
+$prefabs_item_crafting_events_november2021_special_orders_desc=Teaches the recipes to craft all of the Special Order recipes at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2021_sides_stuffing_name=Side: Stuffing
+$prefabs_item_crafting_events_november2021_sides_stuffing_desc=Cooked Stuffing.
+$prefabs_item_crafting_events_november2021_sides_stuffing_desc2=Teaches the recipe for the Stuffing Decoration Stuffing at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2021_sides_corn_cob_name=Side: Corn Cob
+$prefabs_item_crafting_events_november2021_sides_corn_cob_desc=Cooked Corn Cob.
+$prefabs_item_crafting_events_november2021_sides_corn_cob_desc2=Teaches the recipe for the Corn Cob Decoration Stuffing at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2021_sides_deviled_eggs_name=Side: Deviled Eggs
+$prefabs_item_crafting_events_november2021_sides_deviled_eggs_desc=Cooked Deviled Eggs.
+$prefabs_item_crafting_events_november2021_sides_deviled_eggs_desc2=Teaches the recipe for the Deviled Eggs Decoration Stuffing at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2021_sides_green_beans_name=Side: Green Beans
+$prefabs_item_crafting_events_november2021_sides_green_beans_desc=Cooked Green Beans.
+$prefabs_item_crafting_events_november2021_sides_green_beans_desc2=Teaches the recipe for the Green Beans Decoration Stuffing at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2021_sides_tater_totes_name=Side: Totter Tates
+$prefabs_item_crafting_events_november2021_sides_tater_totes_desc=Cooked Totter Tates.
+$prefabs_item_crafting_events_november2021_sides_tater_totes_desc2=Teaches the recipe for the Totter Tates Decoration Stuffing at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2021_qubes_rib_roast_name=Qubesly's Favorites: Raw Rib Roast
+$prefabs_item_crafting_events_november2021_qubes_rib_roast_desc=Raw Rib Roast.
+$prefabs_item_crafting_events_november2021_qubes_rib_roast_desc2=Teaches the recipe for the Raw Rib Roast Decoration Stuffing at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2021_qubes_patrol_pasta_name=Qubesly's Favorites: Pasta, Patrol Style
+$prefabs_item_crafting_events_november2021_qubes_patrol_pasta_desc=Cooked Pasta, Patrol Style.
+$prefabs_item_crafting_events_november2021_qubes_patrol_pasta_desc2=Teaches the recipe for the Pasta, Patrol Style Decoration Stuffing at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2021_qubes_corned_beef_name=Qubesly's Favorites: Saintly Corned Beef
+$prefabs_item_crafting_events_november2021_qubes_corned_beef_desc=Cooked Saintly Corned Beef.
+$prefabs_item_crafting_events_november2021_qubes_corned_beef_desc2=Teaches the recipe for the Saintly Corned Beef Decoration Stuffing at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2021_qubes_icecream_name=Qubesly's Favorites: Supreme Ice Cream Sundae
+$prefabs_item_crafting_events_november2021_qubes_icecream_desc=Prepared Supreme Ice Cream Sundae.
+$prefabs_item_crafting_events_november2021_qubes_icecream_desc2=Teaches the recipe for the Supreme Ice Cream Sundae Decoration Stuffing at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2021_qubes_moonlight_juice_name=Qubesly's Favorites: Lunar Light Juice
+$prefabs_item_crafting_events_november2021_qubes_moonlight_juice_desc=Cooked Lunar Light Juice.
+$prefabs_item_crafting_events_november2021_qubes_moonlight_juice_desc2=Teaches the recipe for the Lunar Light Juice Decoration Stuffing at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2021_qubes_egg_rolls_name=Qubesly's Favorites: Cube Rolls
+$prefabs_item_crafting_events_november2021_qubes_egg_rolls_desc=Cooked Cube Rolls.
+$prefabs_item_crafting_events_november2021_qubes_egg_rolls_desc2=Teaches the recipe for the Cube Rolls Decoration Stuffing at the Friendsgiving Oven.
+$prefabs_item_crafting_events_november2021_bouillon_recipe_name=Recipe: Trove Bouillon
+$prefabs_item_crafting_events_november2021_bouillon_recipe_desc=One of the Qubesly's closest secrets.
+$prefabs_item_crafting_events_november2021_3_house_turkey_food_name=Food: Three House Turkey
+$prefabs_item_crafting_events_november2021_3_house_turkey_food_desc=The houses wanted a turkey with six legs and, boom! They got it\n
+Leftover Three House Turkey will disappear at the end of Friendsgiving 2021.
+$prefabs_item_crafting_events_november2021_bunfest_egg_food_name=Food: Bunfest Bounty
+$prefabs_item_crafting_events_november2021_bunfest_egg_food_desc=Chocolate Eggs may not be technically in season, but who really cares?\n
+Leftover Bunfest Bounty will disappear at the end of Friendsgiving 2021.
+$prefabs_item_crafting_events_november2021_greens_food_name=Food: Raddish Salad
+$prefabs_item_crafting_events_november2021_greens_food_desc=Ridiculously radical raddishes and resplendently refreshing!\n
+Leftover Raddish Salad will disappear at the end of Friendsgiving 2021.
+$prefabs_item_crafting_events_november2021_moon_rolls_food_name=Food: Moon Rolls
+$prefabs_item_crafting_events_november2021_moon_rolls_food_desc=You can taste the moon in every bite!\n
+Leftover Moon Rolls will disappear at the end of Friendsgiving 2021.
+$prefabs_item_crafting_events_november2021_punch_bowl_food_name=Food: Ice Punch Bowl
+$prefabs_item_crafting_events_november2021_punch_bowl_food_desc=You can't spike punch if it's frozen solid.\n
+Leftover Ice Punch Bowl will disappear at the end of Friendsgiving 2021.
+$prefabs_item_crafting_events_november2021_puppy_chow_food_name=Food: Hecky Chow
+$prefabs_item_crafting_events_november2021_puppy_chow_food_desc=Chow fit for, well, bugs. But you can eat it too.\n
+Leftover Hecky Chow Corn will disappear at the end of Friendsgiving 2021.
+$prefabs_item_unlocker_events_november2021_qubesly_table_name=Recipe: Friendsgiving Dinner Feast
+$prefabs_item_unlocker_events_november2021_qubesly_table_desc=Teaches the Recipe for the Friendsgiving Dinner Feast, craftable at the Turkeytopia Table.

@@ -1,0 +1,2 @@
+$prefabs_item_banner_test_name=TestBanner
+$prefabs_item_banner_test_description=Test PVP Banner

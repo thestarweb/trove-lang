@@ -1,0 +1,26 @@
+$prefabs_placeable_matchmaker_crafted_generic_baleking_boss_name=秘境传送门:幻影巨人
+$prefabs_placeable_matchmaker_crafted_generic_baleking_boss_description=排队进入私人秘境，可通往boss:幻影巨人！\n\n有几率可掉落<font color='#697CFF'>纪念品: 幻影巨人</font>
+$prefabs_placeable_matchmaker_crafted_generic_baleking_boss_purple_name=秘境传送门:紫色幻影
+$prefabs_placeable_matchmaker_crafted_generic_baleking_boss_purple_description=排队进入私人秘境，可通往boss:紫色幻影！\n\n有几率可掉落<font color='#697CFF'>纪念品: 紫色幻影</font>
+$prefabs_placeable_matchmaker_crafted_generic_dragon_balefire_name=秘境传送门:骨火巨龙
+$prefabs_placeable_matchmaker_crafted_generic_dragon_balefire_description=排队进入私人秘境，可通往BOSS:骨火巨龙!\n\n可掉落<font color='#697CFF'>纪念品: 骨火巨龙</font>
+$prefabs_placeable_matchmaker_crafted_generic_dragon_ice_name=秘境传送门:霜冻龙巫妖
+$prefabs_placeable_matchmaker_crafted_generic_dragon_ice_description=排队进入私人秘境，可通往BOSS:霜冻龙巫妖!\n\n可掉落<font color='#697CFF'>纪念品: 霜冻龙巫妖</font>
+$prefabs_placeable_matchmaker_crafted_generic_dragon_red_name=秘境传送门:红色巨龙
+$prefabs_placeable_matchmaker_crafted_generic_dragon_red_description=排队进入私人秘境，可通往BOSS:红色巨龙!\n\n可掉落<font color='#697CFF'>纪念品: 红色巨龙</font>
+$prefabs_placeable_matchmaker_crafted_generic_giant_ice_king_name=秘境传送门:冰霜领主
+$prefabs_placeable_matchmaker_crafted_generic_giant_ice_king_description=排队进入私人秘境，可通往BOSS:冰霜领主!\n\n可掉落<font color='#697CFF'>纪念品: 冰霜领主</font>
+$prefabs_placeable_matchmaker_crafted_generic_lavaman_boss_name=秘境传送门:熔火之王
+$prefabs_placeable_matchmaker_crafted_generic_lavaman_boss_description=排队进入私人秘境，可通往BOSS:熔火之王!\n\n可掉落<font color='#697CFF'>纪念品: 熔火之王</font>
+$prefabs_placeable_matchmaker_crafted_generic_plasmablack_boss_name=秘境传送门:黑嘴
+$prefabs_placeable_matchmaker_crafted_generic_plasmablack_boss_description=排队进入私人秘境，可通往BOSS:黑嘴!\n\n可掉落<font color='#697CFF'>纪念品: 黑嘴</font>
+$prefabs_placeable_matchmaker_crafted_generic_plasmablue_boss_name=秘境传送门:蓝巴里
+$prefabs_placeable_matchmaker_crafted_generic_plasmablue_boss_description=排队进入私人秘境，可通往BOSS:蓝巴里!\n\n可掉落<font color='#697CFF'>纪念品: 蓝巴里</font>
+$prefabs_placeable_matchmaker_crafted_generic_plasmagreen_boss_name=秘境传送门:卑鄙的绿色吉恩
+$prefabs_placeable_matchmaker_crafted_generic_plasmagreen_boss_description=排队进入私人秘境，可通往BOSS:卑鄙的绿色吉恩!\n\n可掉落<font color='#697CFF'>纪念品: 卑鄙的绿色吉恩</font>
+$prefabs_placeable_matchmaker_crafted_generic_plasmared_boss_name=秘境传送门:红眼鸽子
+$prefabs_placeable_matchmaker_crafted_generic_plasmared_boss_description=排队进入私人秘境，可通往BOSS:红眼鸽子!\n\n可掉落<font color='#697CFF'>纪念品: 红眼鸽子</font>
+$prefabs_placeable_matchmaker_crafted_generic_shadowshroom_king_name=秘境传送门:暗影蘑菇帝王
+$prefabs_placeable_matchmaker_crafted_generic_shadowshroom_king_description=排队进入私人秘境，可通往BOSS:暗影蘑菇帝王！\n\n有几率可掉落<font color='#697CFF'>纪念品: 暗影蘑菇帝王</font>
+$prefabs_placeable_matchmaker_crafted_generic_wight_king_boss_name=秘境传送门:不死之王
+$prefabs_placeable_matchmaker_crafted_generic_wight_king_boss_description=排队进入私人秘境，可通往BOSS:不死之王！\n\n有几率可掉落<font color='#697CFF'>纪念品: 不死之王</font>

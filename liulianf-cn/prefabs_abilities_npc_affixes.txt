@@ -1,0 +1,4 @@
+$prefabs_abilities_NPC_affixes_flamethrower_item_name=喷火附件
+$prefabs_abilities_NPC_affixes_flamethrower_item_description=投掷出一个火焰喷射器
+$prefabs_abilities_NPC_affixes_turret_item_name=炮台附件
+$prefabs_abilities_NPC_affixes_turret_item_description=投掷出一个炮台

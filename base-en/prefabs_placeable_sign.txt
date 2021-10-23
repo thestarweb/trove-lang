@@ -1,0 +1,2 @@
+$prefabs_placeable_sign_lore_startingzone_item_name=sign01
+$prefabs_placeable_sign_lore_undead_item_name=sign01

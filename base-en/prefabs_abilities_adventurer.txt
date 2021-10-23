@@ -1,0 +1,14 @@
+$prefabs_abilities_adventurer_bomb_item_name=Big Bomb
+$prefabs_abilities_adventurer_bomb_item_description=Throws a timed bomb for big damage and destruction.
+$prefabs_abilities_adventurer_boomerang_item_name=Boomerang
+$prefabs_abilities_adventurer_boomerang_item_description=Throws a stunning boomerang that returns after hitting an enemy or wall. If caught on the return trip, all cooldowns are reduced.
+$prefabs_abilities_adventurer_passive_dummy_item_name=Final Blow
+$prefabs_abilities_adventurer_passive_dummy_item_description=Every third attack done by the Boomeranger does extra damage.
+$prefabs_abilities_adventurer_random_throw_item_name=Mysterious Urn
+$prefabs_abilities_adventurer_random_throw_item_description=Throws a mysterious urn for area damage and a random bonus.
+$prefabs_abilities_adventurer_random_throw_effect_energy_powerup_item_name=Doubloon
+$prefabs_abilities_adventurer_random_throw_effect_heal_powerup_item_name=Doubloon
+$prefabs_abilities_adventurer_random_throw_effect_energy_powerup_name=Doubloon
+$prefabs_abilities_adventurer_random_throw_effect_heal_powerup_name=Doubloon
+$prefabs_abilities_adventurer_subclass_name=Fae Companion
+$prefabs_abilities_adventurer_subclass_description=A fae companion that provides healing when you are low on life.

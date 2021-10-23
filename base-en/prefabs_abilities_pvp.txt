@@ -1,0 +1,4 @@
+$prefabs_abilities_pvp_bloodstone_item_name=Bloodstone
+$prefabs_abilities_pvp_bloodstone_item_description=Some people just wanna iceskate uphill
+$prefabs_abilities_pvp_bloodstone_large_item_name=Bloodstone
+$prefabs_abilities_pvp_bloodstone_large_item_description=Some people just wanna iceskate uphill

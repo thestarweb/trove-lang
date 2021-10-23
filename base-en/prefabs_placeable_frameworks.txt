@@ -1,0 +1,499 @@
+$prefabs_placeable_frameworks_candy_candycane_large_name=Colossal Candy Cane
+$prefabs_placeable_frameworks_candy_candycane_large_description=Placeable in Club Worlds only.\n
+No-one knows whether these sizeable sweet structures that dot the Candorian landscape are natural or artificial.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_candy_gumdrop_hill_green_name=Giant Green Gumdrop
+$prefabs_placeable_frameworks_candy_gumdrop_hill_green_description=Placeable in Cornerstones and Club Worlds.\n
+A great big gob of sweet green goop.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_candy_icecream_hill_name=Slippery Scoop Slope
+$prefabs_placeable_frameworks_candy_icecream_hill_description=Placeable in Cornerstones and Club Worlds.\n
+A scoop of ice cream that somehow survives under the Candorian Sun.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_candy_lair_cake_name=Cake Cottage
+$prefabs_placeable_frameworks_candy_lair_cake_description=Placeable in Club Worlds only.\n
+A luxurious Candorian house.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_candy_lair_gumball_name=Gumball Guardtower
+$prefabs_placeable_frameworks_candy_lair_gumball_description=Placeable in Club Worlds only.\n
+A Candorian sentry station to keep watch over the surrounding countryside.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_candy_lair_milkshake_name=Milkshake Cistern
+$prefabs_placeable_frameworks_candy_lair_milkshake_description=Placeable in Club Worlds only.\n
+An outsized storage tank for a precious Candorian resource.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_candy_lair_popsicle_name=Planted Popsicle
+$prefabs_placeable_frameworks_candy_lair_popsicle_description=Placeable in Club Worlds only.\n
+This towering giant must have taken many decades to grow this big.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_candy_lollipop_large_name=Locus Lollipop
+$prefabs_placeable_frameworks_candy_lollipop_large_description=Placeable in Club Worlds only.\n
+To this day, Candorians build these monuments to mark places of power.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_hubshadowseve_hauntedhouse_01_name=Haunted House Attraction
+$prefabs_placeable_frameworks_hubshadowseve_hauntedhouse_01_description=Placeable in Club Worlds only.\n
+A spooky attraction beloved by all Trovians who appreciate the Shadow's Eve festivities.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_hubshadowseve_pumpkin_01_name=Pumpkin Parlor
+$prefabs_placeable_frameworks_hubshadowseve_pumpkin_01_description=Placeable in Cornerstones and Club Worlds.\n
+A small, Shadow's Eve-themed shack for folks to congregate in.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_hubspring_advtower_01_name=Radiant Adventure Tower
+$prefabs_placeable_frameworks_hubspring_advtower_01_description=Placeable in Club Worlds only.\n
+A tower built to symbolize the shattered world of Trove, with portals to many of its scattered shards.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_hubspring_clubhearts_01_name=Hub Clubhouse
+$prefabs_placeable_frameworks_hubspring_clubhearts_01_description=Placeable in Club Worlds only.\n
+A podium with portals to popular Club Worlds.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_hubspring_dragonstatue_01_name=Keeper of the Dragonforge
+$prefabs_placeable_frameworks_hubspring_dragonstatue_01_description=Placeable in Club Worlds only.\n
+A noble statue that watches over the Dragonforge.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_hubspring_hut_01_name=Hub Storage Shed
+$prefabs_placeable_frameworks_hubspring_hut_01_description=Placeable in Cornerstones and Club Worlds.\n
+Keeps all the off-season accoutrements safe.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_hubspring_hut_02_name=Hub Hut
+$prefabs_placeable_frameworks_hubspring_hut_02_description=Placeable in Cornerstones and Club Worlds.\n
+A simple structure to decorate and hang out in.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_hubspring_pvpshrine_01_name=Shrine of Strife
+$prefabs_placeable_frameworks_hubspring_pvpshrine_01_description=Placeable in Club Worlds only.\n
+A small temple dedicated to the deities of battle and conflict.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_hubspring_sunstatue_01_name=Elysian Radiance
+$prefabs_placeable_frameworks_hubspring_sunstatue_01_description=Placeable in Club Worlds only.\n
+A towering statue depicting Elysia, the Sun Goddess, in all her glory.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_hubsummer_shipshack_01_name=Hub Ship Shack
+$prefabs_placeable_frameworks_hubsummer_shipshack_01_description=Placeable in Cornerstones and Club Worlds.\n
+It seems like only yesterday that Saltwater Sam appeared in the hub and set up this shop.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_hubturkeytopia_turkeyshrine_01_name=Turkey Statue
+$prefabs_placeable_frameworks_hubturkeytopia_turkeyshrine_01_description=Placeable in Club Worlds only.\n
+A small homage to Turkeytopia's Bird of the Moment.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_hubwinter_icerink_01_name=Hub Ice Rink
+$prefabs_placeable_frameworks_hubwinter_icerink_01_description=Placeable in Club Worlds only.\n
+This enclosure appears in the Hub in winter, ready to accept all casual skaters and hardcore sportsters alike.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_candy_tree_01_name=Pruned Candorian Tree
+$prefabs_placeable_frameworks_candy_tree_01_description=Placeable in Cornerstones and Club Worlds. It takes hard work to keep a tree this prim and proper.\n
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_spires_tree_01_name=Forbidden Spires Tree
+$prefabs_placeable_frameworks_spires_tree_01_description=Placeable in Cornerstones and Club Worlds.\n
+A tree that commonly grows in the Forbidden Spires.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_spires_tree_02_name=Pruned Forbidden Spires Tree
+$prefabs_placeable_frameworks_spires_tree_02_description=Placeable in Cornerstones and Club Worlds.\n
+A pruned tree is a happy tree.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_spires_tree_03_name=Knotted Forbidden Spires Tree
+$prefabs_placeable_frameworks_spires_tree_03_description=Placeable in Cornerstones and Club Worlds.\n
+Knotty, but nice.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_spires_gazebo_name=Cornerstone Shrine
+$prefabs_placeable_frameworks_spires_gazebo_description=Placeable in Cornerstones and Club Worlds.\n
+A beautiful work of architecture. Seemingly harmless.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.  This Framework is placeable in Cornerstones and Club Worlds.
+$prefabs_placeable_frameworks_spires_gazebo_starter_name=Basic Cornerstone Shrine
+$prefabs_placeable_frameworks_spires_gazebo_starter_description=Placeable in Cornerstones and Club Worlds.\n
+A beautiful work of architecture that has been simplified to its base form.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.  This Framework is placeable in Cornerstones and Club Worlds.
+$prefabs_placeable_frameworks_spires_bridge_name=Well-built Bridge
+$prefabs_placeable_frameworks_spires_bridge_description=Placeable in Club Worlds only.\n
+A sturdy bridge to pass over a stream or a gorge.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_spires_arch_small_name=Lesser Spires Arch
+$prefabs_placeable_frameworks_spires_arch_small_description=Placeable in Club Worlds only.\n
+A decorative arch built by the denizens of Forbidden Spires.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_spires_arch_medium_name=Greater Spires Arch
+$prefabs_placeable_frameworks_spires_arch_medium_description=Placeable in Club Worlds only.\n
+A slightly larger decorative arch built by the denizens of Forbidden Spires.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_spires_palace_01_name=Palace Tower
+$prefabs_placeable_frameworks_spires_palace_01_description=Placeable in Club Worlds only.\n
+A grand palace tower built by the ancient rulers of Forbidden Spires.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_spires_wall_long_name=Palace Wall Segment
+$prefabs_placeable_frameworks_spires_wall_long_description=Placeable in Club Worlds only.\n
+A long wall segment of the Forbidden Palace.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_spires_wall_corner_name=Palace Wall Corner
+$prefabs_placeable_frameworks_spires_wall_corner_description=Placeable in Club Worlds only.\n
+A corner segment of the wall of the Forbidden Palace.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_spires_wall_gatehouse_name=Palace Gatehouse
+$prefabs_placeable_frameworks_spires_wall_gatehouse_description=Placeable in Club Worlds only.\n
+The grand gatehouse of the Forbidden Palace.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_candy_tree_02_name=Candorian Tree
+$prefabs_placeable_frameworks_candy_tree_02_description=Placeable in Cornerstones and Club Worlds.\n
+Could use a little trimming of its lower branches.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_undead_crypt_name=Creepy Crypt
+$prefabs_placeable_frameworks_undead_crypt_description=Placeable in Club Worlds only.\n
+Such magnificent refuge for restless souls.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_undead_statue_angel_name=Angel Statue
+$prefabs_placeable_frameworks_undead_statue_angel_description=Placeable in Club Worlds only.\n
+In silence it contemplates your mortality.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_undead_statue_shadowgiant_name=Shadow Giant Statue
+$prefabs_placeable_frameworks_undead_statue_shadowgiant_description=Placeable in Club Worlds only.\n
+Who would build monuments to the enemy?
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_undead_tomb_statue_name=Towering Tomb
+$prefabs_placeable_frameworks_undead_tomb_statue_description=Placeable in Club Worlds only.\n
+The statue atop it depicts some hero from ages past.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_undead_tree_large_name=Large Cursed Vale Tree
+$prefabs_placeable_frameworks_undead_tree_large_description=Placeable in Club Worlds only.\n
+One wonders what it feeds on to get so big.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_undead_tree_med_name=Cursed Vale Tree
+$prefabs_placeable_frameworks_undead_tree_med_description=Placeable in Club Worlds only.\n
+Its branches rustle restlessly in the chilly breeze.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_undead_tree_small_name=Small Cursed Vale Tree
+$prefabs_placeable_frameworks_undead_tree_small_description=Placeable in Cornerstones and Club Worlds.\n
+Still but a sapling, but already towers in a menacing manner.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_mastery_castlewall_name=Masterful Castle Wall
+$prefabs_placeable_frameworks_mastery_castlewall_description=Placeable in Cornerstones and Club Worlds.\n
+A stout wall, complete with battlements and internal passageways.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_mastery_castlegate_name=Masterful Castle Gate
+$prefabs_placeable_frameworks_mastery_castlegate_description=Placeable in Cornerstones and Club Worlds.\n
+A fortified opening in a castle wall. Used to sally forth with style.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_mastery_castletower_name=Masterful Castle Tower
+$prefabs_placeable_frameworks_mastery_castletower_description=Placeable in Cornerstones and Club Worlds.\n
+A three story watchtower, suitable for early threat detection and rooftop parties.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_snowfest_gingerbreadhouse_01_name=Gingerbread House
+$prefabs_placeable_frameworks_snowfest_gingerbreadhouse_01_description=Placeable in Club Worlds only.\n
+Has the added benefit that once you're done with it you can just eat it, no need for packing or storage!
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_snowfest_tree_01_name=Splendid Snowfest Tree
+$prefabs_placeable_frameworks_snowfest_tree_01_description=Placeable in Cornerstones and Club Worlds.\n
+A prize pine perfectly prepared for placement on your property
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_cornerstone_tower_radiant_name=Radiant Watchtower
+$prefabs_placeable_frameworks_cornerstone_tower_radiant_description=Placeable in Cornerstones and Club Worlds.\n
+A luminous lookout tower inspired by the architecture of the Radiant Realm.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_cornerstone_tower_shadow_name=Shadowy Watchtower
+$prefabs_placeable_frameworks_cornerstone_tower_shadow_description=Placeable in Cornerstones and Club Worlds.\n
+A lugubrious lookout tower, fashioned in the style of Shadow architecture.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_mine_00_name=Mini Mine
+$prefabs_placeable_frameworks_mine_00_description=Placeable in Cornerstones and Club Worlds.\n
+Just the right size for one person to work out of, but watch out for explosions
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_cornerstone_house_trove4floor_name=Trovian Tetrabode
+$prefabs_placeable_frameworks_cornerstone_house_trove4floor_description=Placeable in Cornerstones and Club Worlds.\n
+Quite the upgrade from your starter fixer-upper.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_neon_tree_01_name=Azure Circui-tree
+$prefabs_placeable_frameworks_neon_tree_01_description=Placeable in Cornerstones and Club Worlds.\n
+A strange tree that grows in Neon City.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_neon_tree_02_name=Green Circui-tree
+$prefabs_placeable_frameworks_neon_tree_02_description=Placeable in Cornerstones and Club Worlds.\n
+A strange tree that grows in Neon City.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_neon_tree_03_name=Pink Circui-tree
+$prefabs_placeable_frameworks_neon_tree_03_description=Placeable in Cornerstones and Club Worlds.\n
+A strange tree that grows in Neon City.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_neon_tree_04_name=Purple Circui-tree
+$prefabs_placeable_frameworks_neon_tree_04_description=Placeable in Cornerstones and Club Worlds.\n
+A strange tree that grows in Neon City.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_neon_narrowBuilding_01_name=Yellow Illumination Station
+$prefabs_placeable_frameworks_neon_narrowBuilding_01_description=Placeable in Cornerstones and Club Worlds.\n
+Illuminating Luminopolis for all to see.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_neon_narrowBuilding_02_name=Yellow Power Tower
+$prefabs_placeable_frameworks_neon_narrowBuilding_02_description=Placeable in Cornerstones and Club Worlds.\n
+Provides power to the largest structures of Luminopolis.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_neon_narrowBuilding_03_name=Pink Illumination Station
+$prefabs_placeable_frameworks_neon_narrowBuilding_03_description=Placeable in Cornerstones and Club Worlds.\n
+Illuminating Luminopolis for all to see.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_neon_narrowBuilding_04_name=Green Power Tower
+$prefabs_placeable_frameworks_neon_narrowBuilding_04_description=Placeable in Cornerstones and Club Worlds.\n
+Provides power to the largest structures of Luminopolis.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_neon_narrowBuilding_05_name=Pink Power Tower
+$prefabs_placeable_frameworks_neon_narrowBuilding_05_description=Placeable in Cornerstones and Club Worlds.\n
+Provides power to the largest structures of Luminopolis.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_neon_narrowBuilding_06_name=Orange Illumination Station
+$prefabs_placeable_frameworks_neon_narrowBuilding_06_description=Placeable in Cornerstones and Club Worlds.\n
+Illuminating Luminopolis for all to see.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_neon_tallBuilding_05_name=Drakama Terminal
+$prefabs_placeable_frameworks_neon_tallBuilding_05_description=Placeable in Cornerstones and Club Worlds.\n
+A life-sized replica of the Luminopolis building.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_neon_tallBuilding_01_name=The Shadow Collective
+$prefabs_placeable_frameworks_neon_tallBuilding_01_description=Placeable in Club Worlds only.\n
+A life-sized replica of the Luminopolis building.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_neon_tallBuilding_02_name=Blockatomi Tower
+$prefabs_placeable_frameworks_neon_tallBuilding_02_description=Placeable in Club Worlds only.\n
+A life-sized replica of the Resistor headquarters in Luminopolis.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_neon_tallBuilding_03_name=The ALT-Cing Eye
+$prefabs_placeable_frameworks_neon_tallBuilding_03_description=Placeable in Club Worlds only.\n
+A life-sized replica of the Luminopolis building.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_neon_tallBuilding_04_name=Plasmatron Power Station
+$prefabs_placeable_frameworks_neon_tallBuilding_04_description=Placeable in Club Worlds only.\n
+A life-sized replica of the Luminopolis building.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_neon_tallBuilding_08_name=Wattaro Complex
+$prefabs_placeable_frameworks_neon_tallBuilding_08_description=Placeable in Club Worlds only.\n
+A life-sized replica of the headquarters of the Amperium in Luminopolis.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_neon_tallBuilding_07_name=Bracketo Base
+$prefabs_placeable_frameworks_neon_tallBuilding_07_description=Placeable in Club Worlds only.\n
+A life-sized replica of the Luminopolis building.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_neon_tallBuilding_06_name=Bracketo Headquarters
+$prefabs_placeable_frameworks_neon_tallBuilding_06_description=Placeable in Club Worlds only.\n
+A life-sized replica of the Luminopolis building.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_neon_tallBuilding_09_name=Drakama Technologies
+$prefabs_placeable_frameworks_neon_tallBuilding_09_description=Placeable in Club Worlds only.\n
+A life-sized replica of the Luminopolis building.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_neon_pearl_building_name=Digipearl Spire
+$prefabs_placeable_frameworks_neon_pearl_building_description=Placeable in Club Worlds only.\n
+The crowning jewel of Luminopolis architecture. This building is impressive, even by Amperium standards.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_geode_eggcase_name=Enormous Egg Showcase
+$prefabs_placeable_frameworks_geode_eggcase_description=Placeable in Cornerstones and Club Worlds.\n
+This freakishly humongous egg appears to be dormant, and even Gabbro has no idea how to incubate it or what may hatch from it.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_geode_medium_hubtree_name=Centennial Chalcedarny Tree
+$prefabs_placeable_frameworks_geode_medium_hubtree_description=Placeable in Club Worlds only.\n
+Chalcedarny trees can live for thousands of years, and grow to gargantuan size. This is one is relatively young still.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_geode_gazebo_name=Classic Geodian Gazebo
+$prefabs_placeable_frameworks_geode_gazebo_description=Placeable in Club Worlds only.\n
+A small gazebo built in a long-lost Geodian architectural style.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_geode_pillars_name=Classic Geodian Pillared Room
+$prefabs_placeable_frameworks_geode_pillars_description=Placeable in Cornerstones and Club Worlds.\n
+A small chamber built in a long-lost Geodian architectural style.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_geode_stairs_name=Classic Geodian Stairs
+$prefabs_placeable_frameworks_geode_stairs_description=Placeable in Cornerstones and Club Worlds.\n
+A staircase built in a long-lost Geodian architectural style.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_geode_rest_building_name=Sunseeker Spire Dome
+$prefabs_placeable_frameworks_geode_rest_building_description=Placeable in Club Worlds only.\n
+A small building in the architectural style used in the Sunseeker Spire.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_geode_shuttle_name=Geoshuttle
+$prefabs_placeable_frameworks_geode_shuttle_description=Placeable in Club Worlds only.\n
+A sturdy and nimble craft used to ferry Trovians from Sunseeker Spire to the SS Solidarity and back.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_geode_sunstatue_name=Geodian Sun Goddess Statue
+$prefabs_placeable_frameworks_geode_sunstatue_description=Placeable in Club Worlds only.\n
+The style and materials may be different, but the Sun Goddess's likeness is unmistakeable.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_geode_twistedmushroom_name=Massive Fungolith
+$prefabs_placeable_frameworks_geode_twistedmushroom_description=Placeable in Club Worlds only.\n
+As fungoliths grow, they create twisting rock formations, and this one has been growing for a long time.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_geode_small_crescentrock_name=Curvecairn
+$prefabs_placeable_frameworks_geode_small_crescentrock_description=Placeable in Cornerstones and Club Worlds.\n
+A rock formation left behind as a fungolith grows, this one is relatively small.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_geode_cross_building_name=Classic Four-Way Corridor
+$prefabs_placeable_frameworks_geode_cross_building_description=Placeable in Cornerstones and Club Worlds.\n
+An architectural crossroads built in a long-lost style.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_geode_small_hubtree_name=Chalcedarny Sapling
+$prefabs_placeable_frameworks_geode_small_hubtree_description=Placeable in Cornerstones and Club Worlds.\n
+A young chalcedarny tree, probably only a few decades old.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_geode_medium_cavemushroom_name=Colossal Cavernous Glowcap
+$prefabs_placeable_frameworks_geode_medium_cavemushroom_description=Placeable in Club Worlds only.\n
+This gigantic fungus is common to the caverns below Geode's surface, and forms one of the cornerstones of their ecology.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_geode_large_crescentrock_name=Huge Geodian Curvecairn
+$prefabs_placeable_frameworks_geode_large_crescentrock_description=Placeable in Club Worlds only.\n
+A striking rock formation common to the Geodian landscape around Sunseeker Spire.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_geode_orb_name=Ancient Orb
+$prefabs_placeable_frameworks_geode_orb_description=Placeable in Club Worlds only.\n
+A mysterious structure suffused with magical energies, its creation and purpose are unknown to even the sagest Geodians.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_gardening_large_beanstalk_name=Giant Beanstalk
+$prefabs_placeable_frameworks_gardening_large_beanstalk_description=Placeable in Club Worlds only.\n
+Just be careful not to fall off.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_gardening_medium_bridge_name=Grassy Bridge
+$prefabs_placeable_frameworks_gardening_medium_bridge_description=Placeable in Club Worlds only.\n
+Perfect for quiet contemplation.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_gardening_small_flower_name=Decorative Yellow Flower
+$prefabs_placeable_frameworks_gardening_small_flower_description=Placeable in Cornerstones and Club Worlds.\n
+This flower would win any Gardening competition with flying colors.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_gardening_medium_flower_01_name=Decorative Pink Flower
+$prefabs_placeable_frameworks_gardening_medium_flower_01_description=Placeable in Cornerstones and Club Worlds.\n
+This flower would win any Gardening competition with flying colors.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_gardening_medium_flower_02_name=Decorative Purple Flower
+$prefabs_placeable_frameworks_gardening_medium_flower_02_description=Placeable in Cornerstones and Club Worlds.\n
+This flower would win any Gardening competition with flying colors.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_gardening_medium_fountain_name=Stone Fountain
+$prefabs_placeable_frameworks_gardening_medium_fountain_description=Placeable in Club Worlds only.\n
+A beautifully crafted stone fountain, complete with detailed fish carvings at the top.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_gardening_small_greenhouse_name=Grower's Greenhouse
+$prefabs_placeable_frameworks_gardening_small_greenhouse_description=Placeable in Club Worlds only.\n
+Dedicated gardeners don't let a little foul weather impede their growing efforts. Placeable in Club Worlds only.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_gardening_medium_hillhouse_name=Hillside House
+$prefabs_placeable_frameworks_gardening_medium_hillhouse_description=Placeable in Club Worlds only.\n
+This house sits inside of a cosy hill and a hillside house means comfort.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_gardening_medium_pond_name=Lily Pond
+$prefabs_placeable_frameworks_gardening_medium_pond_description=Placeable in Club Worlds only.\n
+A peaceful pond where you can while away the hours after a long day.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_gardening_medium_shroomhouse_name=Shroom House
+$prefabs_placeable_frameworks_gardening_medium_shroomhouse_description=Placeable in Club Worlds only.\n
+Ever wanted to live inside a mushroom? Well now you can!
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_gardening_large_treehouse_name=Treehouse of Friendship
+$prefabs_placeable_frameworks_gardening_large_treehouse_description=Placeable in Club Worlds only.\n
+Who doesn't love a tree house? Gather some friends and hang out.
+
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_head_hydra_name=Head of the Hydrakken
+$prefabs_placeable_frameworks_head_hydra_description=Placeable in Club Worlds.\nA monument to the defeat of the Shadow Hydrakken.
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_head_dragon_pirate_name=Flakbeard's Head
+$prefabs_placeable_frameworks_head_dragon_pirate_description=Placeable in Club Worlds.\nA monument to the defeat of Flakbeard the Relentless.
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_lunar_altar_name=Lunar Altar
+$prefabs_placeable_frameworks_lunar_altar_description="All Light Reflects."\n- anonymous Lancer
+<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_july2021_carys_name=House Carys Building
+$prefabs_placeable_frameworks_july2021_carys_description=Placeable in Cornerstones and Club Worlds.\n\n\nA House Carys Building\n\n<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_july2021_panatea_name=House Panatea Building
+$prefabs_placeable_frameworks_july2021_panatea_description=Placeable in Cornerstones and Club Worlds.\n\n\nA House Panatea Building\n\n<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_july2021_tysorion_name=House Tysorion Building
+$prefabs_placeable_frameworks_july2021_tysorion_description=Placeable in Cornerstones and Club Worlds.\n\n\nA House Tysorion Building\n\n<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_house_burger_name=Burger House
+$prefabs_placeable_frameworks_house_burger_desc=Placeable in Cornerstones and Club Worlds.\n\n\nA Burger House, Grill Master Approved.\n\n<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_house_veggie_name=Veggie House
+$prefabs_placeable_frameworks_house_veggie_desc=Placeable in Cornerstones and Club Worlds.\n\n\nA Veggie House, Crafted by the finest Chloromancers in Trove.\n\n<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_qubesly_table_name=Friendsgiving Dinner Feast
+$prefabs_placeable_frameworks_qubesly_table_desc=Placeable in Cornerstones and Club Worlds.\n\n\nA Friendsgiving Dinner Feast, because food is always best shared with friends!\n\n<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.

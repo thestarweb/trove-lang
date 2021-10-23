@@ -1,0 +1,10 @@
+$prefabs_item_skin_secondary_bomberroyale_rubberbomb_cabbage_name=Bomb Skin: Qubbage Rubber Bomb
+$prefabs_item_skin_secondary_bomberroyale_rubberbomb_corn_name=Bomb Skin: Corn on the Cube Rubber Bomb
+$prefabs_item_skin_secondary_bomberroyale_rubberbomb_eggplant_name=Bomb Skin: Uggplant Rubber Bomb
+$prefabs_item_skin_secondary_bomberroyale_rubberbomb_grape_name=Bomb Skin: Purp'lil Rubber Bomb
+$prefabs_item_skin_secondary_bomberroyale_rubberbomb_leek_name=Bomb Skin: Onionito Rubber Bomb
+$prefabs_item_skin_secondary_bomberroyale_rubberbomb_potato_name=Bomb Skin: Totter Tate Rubber Bomb
+$prefabs_item_skin_secondary_bomberroyale_rubberbomb_tomato_name=Bomb Skin: Qumato Rubber Bomb
+$prefabs_item_skin_secondary_bomberroyale_rubberbomb_watermelon_name=Bomb Skin: Cinnamellon Rubber Bomb
+$prefabs_item_skin_secondary_bomberroyale_rubberbomb_Lunar_name=Bomb Skin: Lunar Rubber Bomb
+$prefabs_item_skin_secondary_bomberroyale_stickybomb_Lunar_name=Bomb Skin: Lunar Sticky Bomb

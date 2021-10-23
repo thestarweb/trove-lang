@@ -1,0 +1,3 @@
+$prefabs_item_unlocker_delve_decor_events_sunfest_name=Memento: Sunfest
+$prefabs_item_unlocker_delve_decor_events_wolvesDen_name=Memento: Wolves' Den
+$prefabs_item_unlocker_delve_decor_events_turkeytopia_name=Memento: Turkeytopia

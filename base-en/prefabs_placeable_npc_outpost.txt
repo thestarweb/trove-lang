@@ -1,0 +1,1 @@
+$prefabs_placeable_npc_outpost_adventurine_merchant_name=Outpost Merchant

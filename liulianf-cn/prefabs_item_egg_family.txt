@@ -1,0 +1,16 @@
+$prefabs_item_egg_family_cragglepod_name=温顺的克拉格波德蛋
+$prefabs_item_egg_family_cragglepod_description=可以孵化出一只常见的，罕见的或稀有的克拉格波德。\n\n在沉没日库中帮助野生克拉格波德时，有极低几率获得。
+$prefabs_item_egg_family_froleek_name=温顺的弗洛里克蛋
+$prefabs_item_egg_family_froleek_description=可以孵化出一只常见的，罕见的或稀有的弗洛里克。\n\n在晶洞洞窟中帮助野生弗洛里克时，有极低几率获得。
+$prefabs_item_egg_family_gleemur_name=温顺的格力摩尔蛋
+$prefabs_item_egg_family_gleemur_description=可以孵化出一只常见的，罕见的或稀有的格力摩尔。\n\n在鲜绿脉络中帮助野生格力摩尔时，有极低几率获得。
+$prefabs_item_egg_family_hoppet_name=温顺的霍佩特蛋
+$prefabs_item_egg_family_hoppet_description=可以孵化出一只常见的，罕见的或稀有的霍佩特。\n\n在月光石窟中帮助野生霍佩特时，有极低几率获得。
+$prefabs_item_egg_family_howlug_name=温顺的吼罗格蛋
+$prefabs_item_egg_family_howlug_description=可以孵化出一只常见的，罕见的或稀有的吼罗格。\n\n在晶洞洞窟中帮助野生吼罗格时，有极低几率获得。
+$prefabs_item_egg_family_jelotl_name=温顺的杰罗托蛋
+$prefabs_item_egg_family_jelotl_description=可以孵化出一只常见的，罕见的或稀有的杰罗托。\n\n在沉没日库中帮助野生杰罗托时，有极低几率获得。
+$prefabs_item_egg_family_qubrik_name=温顺的奎布瑞克蛋
+$prefabs_item_egg_family_qubrik_description=可以孵化出一只常见的，罕见的或稀有的奎布瑞克。\n\n在鲜绿脉络中帮助野生奎布瑞克时，有极低几率获得。
+$prefabs_item_egg_family_zepperay_name=温顺的扎普瑞蛋
+$prefabs_item_egg_family_zepperay_description=可以孵化出一只常见的，罕见的或稀有的扎普瑞。\n\n在月光石窟中帮助野生扎普瑞时，有极低几率获得。

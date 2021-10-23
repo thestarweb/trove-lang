@@ -1,0 +1,14 @@
+$prefabs_abilities_gunslinger_blast_jump_item_name=Blast Jump
+$prefabs_abilities_gunslinger_blast_jump_item_description=Launches the Gunslinger up into the air, damaging any nearby enemies.
+$prefabs_abilities_gunslinger_charge_shot_item_name=Charged Shot
+$prefabs_abilities_gunslinger_charge_shot_item_description=Hold Charged Shot for up to 2 seconds to increase its damage and radius.
+$prefabs_abilities_gunslinger_charge_shot_full_charge_item_name=Charged Shot
+$prefabs_abilities_gunslinger_charge_shot_full_charge_item_description=Good things come to those who wait.
+$prefabs_abilities_gunslinger_charge_shot_normal_item_name=Charged Shot
+$prefabs_abilities_gunslinger_charge_shot_normal_item_description=Good things come to those who wait.
+$prefabs_abilities_gunslinger_fast_attack_item_name=Run and Gun
+$prefabs_abilities_gunslinger_fast_attack_item_description=Increases the Gunslinger's Movement Speed and Attack Speed, and allows the Gunslinger to run full speed while attacking.
+$prefabs_abilities_gunslinger_passive_instant_charge_shot_item_name=Lucky Shot
+$prefabs_abilities_gunslinger_passive_instant_charge_shot_item_description=While in the air, damage dealt to enemies decreases the speed of the Gunslinger's descent. Dealing damage can cause the next Charged Shot to be full power without any charging time.
+$prefabs_abilities_gunslinger_subclass_name=Rain Destruction
+$prefabs_abilities_gunslinger_subclass_description=Damage dealt to enemies while airborne is increased.

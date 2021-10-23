@@ -1,0 +1,10 @@
+$prefabs_item_bottleworld_faewilds01_rank5++_item_name=Fae Wilds in a Bottle
+$prefabs_item_bottleworld_faewilds01_rank5++_item_description=Opens a portal to a Rank 5++ Fae Wilds on impact.
+$prefabs_item_bottleworld_faewilds01_rank5+_item_name=Fae Wilds in a Bottle
+$prefabs_item_bottleworld_faewilds01_rank5+_item_description=Opens a portal to a Rank 5+ Fae Wilds on impact.
+$prefabs_item_bottleworld_faewilds01_rank5_item_name=Fae Wilds in a Bottle
+$prefabs_item_bottleworld_faewilds01_rank5_item_description=Opens a portal to a Rank 5 Fae Wilds on impact.
+$prefabs_item_bottleworld_event_saminator_item_name=d00-dad Mk. IV Futurator
+$prefabs_item_bottleworld_event_saminator_item_description=A heavy brick of advanced technology.\n\nThe instructions read: Place on action bar. Toss nearby. Approach and walk through.  Lasts 1 minute.\n\nCaution: the makers of the d00-dad Mk. IV Futurator are not responsible for temporal discontinuities or emotional distress.
+$prefabs_item_bottleworld_tutorial_item_name=Potion of Learning
+$prefabs_item_bottleworld_tutorial_item_description=Return to where your adventure began and learn the basics of playing Trove.

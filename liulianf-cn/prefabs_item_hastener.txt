@@ -1,0 +1,2 @@
+$prefabs_item_hastener_geode_name=加速晶
+$prefabs_item_hastener_geode_description=缩短2小时的圣物箱开箱时间和伙伴蛋孵化时间。

@@ -1,0 +1,4 @@
+$prefabs_placeable_block_script_arrow_yellow_down_description=黄色方块
+$prefabs_placeable_block_script_arrow_yellow_down_name=黄色方块
+$prefabs_placeable_block_script_arrow_yellow_side_description=黄色方块
+$prefabs_placeable_block_script_arrow_yellow_side_name=黄色方块

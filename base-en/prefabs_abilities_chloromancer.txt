@@ -1,0 +1,10 @@
+$prefabs_abilities_chloromancer_seedling_lasher_item_name=Leafy Lasher
+$prefabs_abilities_chloromancer_seedling_lasher_item_description=Lob a seed that grows into a plant that will damage and snare nearby enemies when fully grown. Healing your plants will make them grow faster.
+$prefabs_abilities_chloromancer_seedling_item_name=Green Gatling
+$prefabs_abilities_chloromancer_seedling_item_description=Throw a seed that grows into a plant. It will fire at a nearby target dealing damage. Healing your plants will make them grow faster.
+$prefabs_abilities_chloromancer_passive_item_name=Mini Bloom
+$prefabs_abilities_chloromancer_passive_item_description=Basic Attacks have a chance to spawn plants nearby enemies. They will explode in a burst of pollen that heals allies and damages enemies. Using Basic Attack on Mini Blooms makes them explode instantly.
+$prefabs_abilities_chloromancer_spawn_random_seedlings_name=Empowered Growth
+$prefabs_abilities_chloromancer_spawn_random_seedlings_description=Empowers your Leafy Lasher and Green Gatling to be larger versions. Green Gatling deals increased Damage. Leafy Lasher snare gains additional effectiveness.
+$prefabs_abilities_chloromancer_subclass_name=Prickly Persona
+$prefabs_abilities_chloromancer_subclass_description=Enemy attacks have a chance to cover you in thistles, returning damage to attackers.

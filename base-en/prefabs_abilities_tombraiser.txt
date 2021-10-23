@@ -1,0 +1,12 @@
+$prefabs_abilities_tombraiser_ghost_form_item_name=Banshee's Boon
+$prefabs_abilities_tombraiser_ghost_form_item_description=Turns you into a ghost, which reduces damage taken by 90% and causes your primary attacks to affect all nearby enemies and Skellittles. Banshee's Boon rapidly depletes your energy and ends when energy reaches 0.
+$prefabs_abilities_tombraiser_passive_soulbuff_item_name=Soul Caller
+$prefabs_abilities_tombraiser_passive_soulbuff_item_description=The Tomb Raiser passively attracts Restless Souls periodically and upon slaying enemies, up to a maximum of three. Attracting Restless Souls also draws in Skellittles, up to a maximum of 6. Basic attacks heal the Tomb Raiser for a small amount of the damage done.
+$prefabs_abilities_tombraiser_throw_minion_item_name=Bonetourage
+$prefabs_abilities_tombraiser_throw_minion_item_description=Consume all Restless Souls to attract Skellittles to fight for you. If you already have 6 Skellittles your excess Restless Souls will instead choose a Skellittle to possess for 30 seconds, causing them to take and deal increased damage.
+$prefabs_abilities_tombraiser_ultimate_minion_item_name=Grave Goliath
+$prefabs_abilities_tombraiser_ultimate_minion_item_description=Gather the Restless Souls possessing your Skellittles to summon a Grave Goliath! The more Skellittles that are possessed, the stronger the Grave Goliath is.
+$prefabs_abilities_tombraiser_heal_minion_name=Banshee's Boon
+$prefabs_abilities_tombraiser_heal_minion_description=Summons a friendly Banshee to heal your Skellittles and that turns into a Restless Soul on death. Also turns you into a ghost, which reduces damage taken by 90% and causes your primary attacks to affect all nearby enemies and Skellittles. Banshee's Boon rapidly depletes your energy and ends when energy reaches 0.
+$prefabs_abilities_tombraiser_subclass_name=Corpse Run
+$prefabs_abilities_tombraiser_subclass_description=Fallen enemies have a chance to spawn a random minion. Only one minion can be active.

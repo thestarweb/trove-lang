@@ -1,0 +1,4 @@
+$prefabs_abilities_NPC_affixes_flamethrower_item_name=Flamethrower Affix
+$prefabs_abilities_NPC_affixes_flamethrower_item_description=Throws a flamethrower
+$prefabs_abilities_NPC_affixes_turret_item_name=Turret Affix
+$prefabs_abilities_NPC_affixes_turret_item_description=Throws a turret

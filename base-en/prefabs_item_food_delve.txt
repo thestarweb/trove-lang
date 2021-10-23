@@ -1,0 +1,6 @@
+$prefabs_item_food_delve_tier_01_name=Pressurized Cave Kelp
+$prefabs_item_food_delve_tier_01_description=Delictable and light, this snack is coveted by bosses within Delves. Usually found in Heavy Pressurized Chests.
+$prefabs_item_food_delve_tier_02_name=Condensed Cave Milk
+$prefabs_item_food_delve_tier_02_description=Rich with nutrients, a certain amount of pressure is required for this naturally occurring, pudding-like snack to congeal. Usually found in Heavy Pressurized Chests.
+$prefabs_item_food_delve_tier_03_name=Freerange Electrolytic Crystals
+$prefabs_item_food_delve_tier_03_description=Only the deepest of Delves have the right environments for the formation of this splendid snack. Usually found in Heavy Pressurized Chests.

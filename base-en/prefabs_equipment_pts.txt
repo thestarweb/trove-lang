@@ -1,0 +1,11 @@
+$prefabs_equipment_pts_face_magic_radiant_name=PTS Magic Face
+$prefabs_equipment_pts_face_physical_radiant_name=PTS Physical Face
+$prefabs_equipment_pts_hat_radiant_name=PTS Hat
+$prefabs_equipment_pts_ring_health_shadow4_name=PTS Health Ring
+$prefabs_equipment_pts_ring_magic_shadow4_name=PTS Magical Ring
+$prefabs_equipment_pts_ring_physical_shadow4_name=PTS Physical Ring
+$prefabs_equipment_pts_weapon_bow_radiant_name=PTS Bow
+$prefabs_equipment_pts_weapon_gun_radiant_name=PTS Gun
+$prefabs_equipment_pts_weapon_melee_radiant_name=PTS Melee
+$prefabs_equipment_pts_weapon_spear_radiant_name=PTS Spear
+$prefabs_equipment_pts_weapon_staff_radiant_name=PTS Staff

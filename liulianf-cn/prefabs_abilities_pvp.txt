@@ -1,0 +1,4 @@
+$prefabs_abilities_pvp_bloodstone_item_name=血石
+$prefabs_abilities_pvp_bloodstone_item_description=某些人就是想往上滑冰
+$prefabs_abilities_pvp_bloodstone_large_item_name=血石
+$prefabs_abilities_pvp_bloodstone_large_item_description=某些人就是想往上滑冰

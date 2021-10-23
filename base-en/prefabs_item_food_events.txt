@@ -1,0 +1,6 @@
+$prefabs_item_food_events_march2021_lite_name=St. Qubeslick's Delite!
+$prefabs_item_food_events_march2021_lite_description=It's bite sized and tasty!\nOnce eaten, allows you to see the otherwise invisible Luckbeast in the Jurassic Jungle!\nDisappears at the end of the St. Qubeslick event
+$prefabs_item_food_events_march2021_feast_name=Feast of St. Qubeslick
+$prefabs_item_food_events_march2021_feast_description=A hearty meal perfect for any Trovian on the hunt!\nOnce eaten, allows you to see the otherwise invisible Luckbeast in the Jurassic Jungle!\nDisappears at the end of the St. Qubeslick event
+$prefabs_item_food_events_april2021_food_name='Spirit of Bunfest' Sugarpetal Treat
+$prefabs_item_food_events_april2021_food_description=Light and delicious!

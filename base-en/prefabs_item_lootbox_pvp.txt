@@ -1,0 +1,6 @@
+$prefabs_item_lootbox_pvp_bannerbox_001_item_name=Classic Battle Box
+$prefabs_item_lootbox_pvp_bannerbox_001_item_description=Contains Banners. Banners change power ups and grant stat boosts in the arena.
+$prefabs_item_lootbox_pvp_bomber_royale_season_1_name=Boom Box: Season One
+$prefabs_item_lootbox_pvp_bomber_royale_season_1_description=Open your Boom Box to collect your Bomber Royale rewards!
+$prefabs_item_lootbox_pvp_bomber_royale_season_02_name=Boom Box: Season Two
+$prefabs_item_lootbox_pvp_bomber_royale_season_02_description=Open your Boom Box to collect your Bomber Royale rewards! Very rarely contains the Golden Twin Plague Dragon Egg or other rewards from Season One.

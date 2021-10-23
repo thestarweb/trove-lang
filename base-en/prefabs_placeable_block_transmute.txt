@@ -1,0 +1,9 @@
+$prefabs_placeable_block_transmute_hatch_item_name=Hatch
+$prefabs_placeable_block_transmute_hatch_item_description=Turns on and off.
+$prefabs_placeable_block_transmute_hatch_open_item_name=Open Hatch
+$prefabs_placeable_block_transmute_scaffold_item_name=Scaffolding
+$prefabs_placeable_block_transmute_scaffold_item_description=Press [HK:Loot] to destroy all connected Scaffolding blocks.
+$prefabs_placeable_block_transmute_water_item_name=Melty Ice
+$prefabs_placeable_block_transmute_water_item_description=Press [HK:Loot] to transmute all connected Melty Ice blocks into water.
+$prefabs_placeable_block_transmute_mimic_item_name=Mimic
+$prefabs_placeable_block_transmute_mimic_item_description=When this block is placed it will transform to match adjacent blocks.

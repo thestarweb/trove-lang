@@ -1,0 +1,12 @@
+$prefabs_placeable_mechanical_booster_track_item_name=Booster Track
+$prefabs_placeable_mechanical_booster_track_item_description=Track for what?
+$prefabs_placeable_mechanical_monorail_item_name=Mag Rail
+$prefabs_placeable_mechanical_monorail_item_description=Ride your Mag Rider on this.
+$prefabs_placeable_mechanical_monorail_boost_item_name=Mag Rail Booster
+$prefabs_placeable_mechanical_monorail_boost_item_description=Go faster temporarily after crossing.
+$prefabs_placeable_mechanical_monorail_mode_item_name=Mag Rail Speed Changer
+$prefabs_placeable_mechanical_monorail_mode_item_description=Set the speed of the Mag Rider.
+$prefabs_placeable_mechanical_number_item_name=Number
+$prefabs_placeable_mechanical_number_item_description=For all your counting needs.
+$prefabs_placeable_mechanical_track_item_name=Track
+$prefabs_placeable_mechanical_track_item_description=Track for what?

@@ -1,0 +1,2 @@
+$prefabs_npc_delve_boss_generic_baleking_boss_name=Greater Balephantom
+$prefabs_npc_delve_boss_generic_baleking_boss_shadowseve_name=Refracted Balephantom

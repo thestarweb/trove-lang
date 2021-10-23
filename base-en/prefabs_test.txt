@@ -1,0 +1,4 @@
+$prefabs_test_totem_test_sign_title=LOOT
+$prefabs_test_totem_test_sign_content=Use key for loot
+$prefabs_test_totem_test_key_name=TOTEM TEST KEY
+$prefabs_test_totem_test_key_description=Opens test totem

@@ -1,0 +1,760 @@
+$Store_Lootbox_Probabilities_Title=Item Chance for Lockboxes
+$Store_Lootbox_Probabily_Btn=Drop Rate
+$Store_Lootbox_Probabilities_Desc=\nTitan’s Treasure
+
+This box is a guaranteed rare result every 70 boxes.
+ Common – 86%
+ 		Flux – 86%
+ Uncommon – 13%
+ 		Flux – 13%
+ Rare – 1%
+ 		1 Megaflux Tank – 1%
+
+Gem Booster Box
+
+This box is a guaranteed rare result every 70 boxes (without Patron) and every 35 boxes (with Patron).
+ Common – 86%
+ 		Blue Gem Dust – 16.39%
+ 		Red Gem Dust – 16.39%
+ 		Yellow Gem Dust – 16.39%
+ 		Cosmic Gem Dust – 16.39%
+ 		Glittering Horseshoes – 16.38%
+ 		Binding Darkness – 6.14%
+ Uncommon – 13%
+ 		Binding Darkness – 2.6%
+ 		Lapis Luckbugs – 7.8%
+ 		Golden Gem Keys – 2.6%
+ Rare – 1%
+ 		Empowered Gem Box – 0.95%
+ 		Ninth Life – 0.05%
+
+Empowered Gem Box
+
+Common - 86%
+ 		Class Gem Key Fragment - 18.88%
+ 		Radiant Fire Empowered Gem - 16.8%
+ 		Radiant Air Empowered Gem - 16.8%
+ 		Radiant Water Empowered Gem - 16.8%
+ 		Radiant Cosmic Empowered Gem - 16.8%
+ Uncommon - 13%
+ 		Class Gem Key - 2.6%
+ 		Stellar Fire Empowered Gem - 2.64%
+ 		Stellar Air Empowered Gem - 2.64%
+ 		Stellar Water Empowered Gem - 2.64%
+ 		Stellar Cosmic Empowered Gem - 2.6%
+ Rare - 1%
+ 		Prism of Light - 0.75%
+ 		Diamond Dragon Egg - 0.25%
+
+Lustrous Gem Box
+
+Builder's Rough Focus - 54%
+ Builder's Precise Focus - 16%
+ Builder's Superior Focus - 7%
+ Contained Chaos Spark - 16%
+ Contained Chaos Flare - 7%
+
+Chaos Chest
+
+This box is a guaranteed rare result every 70 boxes.
+ Common - 86%
+ 		Bleached Bones - 1.69%
+ 		Bottles - 1.69%
+ 		Sticky Ichor - 1.69%
+ 		Sunlight Bulbs - 1.69%
+ 		Wild Cupcakes - 1.69%
+ 		Enchanted Wood - 1.69%
+ 		Faerie Dust - 1.69%
+ 		Diamonds - 1.69%
+ 		Pasmium - 1.69%
+ 		Mushroom Chunks - 1.69%
+ 		Shapestone Ore - 1.69%
+ 		Formicite Ore - 1.69%
+ 		Infinium Ore - 1.69%
+ 		Cinnabar - 1.69%
+ 		Robotic Salvage - 1.69%
+ 		Blank Scrolls - 1.69%
+ 		Radiant Shards - 1.69%
+ 		Golden Seashells - 1.69%
+ 		Meteorite Fragments - 1.69%
+ 		Somber Souls - 1.69%
+ 		Golden Souls - 1.69%
+ 		Flux - 50.59%
+ Uncommon - 13%
+ 		Bleached Bones - 0.07%
+ 		Bottles - 0.07%
+ 		Sticky Ichor - 0.07%
+ 		Sunlight Bulbs - 0.07%
+ 		Wild Cupcakes - 0.07%
+ 		Enchanted Wood - 0.07%
+ 		Faerie Dust - 0.07%
+ 		Plasmium - 0.07%
+ 		Diamonds - 0.07%
+ 		Mushroom Chunks - 0.07%
+ 		Shapestone Ore - 0.07%
+ 		Formicite Ore - 0.07%
+ 		Infinium Ore - 0.07%
+ 		Robotic Salvage - 0.07%
+ 		Blank Scrolls - 0.07%
+ 		Radiant Shards - 0.07%
+ 		Golden Seashells - 0.07%
+ 		Meteorite Fragments - 0.07%
+ 		Somber Souls - 0.07%
+ 		Golden Souls - 0.07%
+ 		Flux - 1.72%
+ 		Pearl of Wisdom - 2.15%
+ 		Super Style Stash - 0.72%
+ 		Glittering Horseshoe - 1.44%
+ 		Chaos Chests - 0.5%
+ 		Chaos Core - 5.03%
+ Rare - 1%
+ 		Current Item of the Week - 0.25%
+ 		A Previous Item of the Week - 0.65%
+ 		Wings: Skeye Stalkers - 0.002%
+ 		Wings: Chaos Butterfly - 0.002%
+ 		Aura: Whispers of Chaos - 0.01%
+ 		Mount: Koroki, the Sower of Chaos - 0.01%
+ 		Ally: Contorting Contemplator - 0.01%
+ 		Ally: Winking Tentabox - 0.01%
+ 		Ally: Chaotic Mimic - 0.01%
+ 		Ship: Chaotic Clipper - 0.01%
+ 		Ship: Chaotic Cruiser - 0.01%
+ 		Chaos Chests - 0.03%
+ 		Shadow Pinatas - 0.03%
+
+Golden Chaos Chest
+
+Current Item of the Week - 25%
+ A Previous Item of the Week - 65%
+ Wings: Skeye Stalkers - 0.21%
+ Wings: Chaos Butterfly - 0.21%
+ Aura: Whispers of Chaos - 0.63%
+ Mount: Koroki, the Sower of Chaos - 0.63%
+ Ally: Contorting Contemplator - 0.63%
+ Ally: Winking Tentabox - 0.63%
+ Ally: Chaotic Mimic - 0.63%
+ Ship: Chaotic Clipper - 0.63%
+ Ship: Chaotic Cruiser - 0.63%
+ Chaos Chests - 2.6%
+ Shadow Pinatas - 2.6%
+
+Greater Crystal Cache
+
+Common - 86%
+ 		Gleamstone - 12.29%
+ 		Builderite - 12.29%
+ 		Ancient Gears - 12.29%
+ 		Day Drops - 12.29%
+ 		Moonlit Moss - 12.29%
+ 		Wallflowers - 12.29%
+ 		Crystals - 12.29%
+ Uncommon - 13%
+ 		Moonstone - 1.7%
+ 		Blazine - 1.7%
+ 		Geminite - 1.7%
+ 		Dream Dew - 1.7%
+ 		Sun Sap - 1.7%
+ 		Cave Kelp - 1.7%
+ 		Crystals - 1.7%
+ 		Accelerite - 0.34%
+ 		Lodestar - 0.34%
+ 		Luckier Reliquary - 0.34%
+ Rare - 1%
+ 		Metamatter - 0.16%
+ 		Space Expander (tradable) - 0.03%
+ 		Accelerite - 0.15%
+ 		Lodestars - 0.15%
+ 		Silver Companion Egg - 0.15%
+ 		A Tradable mount - 0.35%
+
+Glowing Crystal Cache
+
+20 Metamatter - 17.65%
+ Space Expander (tradable) - 2.94%
+ Accelerite - 14.71%
+ Lodestars - 14.71%
+ Silver Companion Egg - 14.71%
+ A Tradable mount - 35.29%
+
+Greater Geodian Topside Cache
+
+Common - 86%
+ 		Crystalline Cores - 86%
+ Uncommon - 13%
+ 		Crystalline Cores - 6.13%
+ 		Pearl of Wisdom - 1.23%
+ 		Radiant Sovereigns - 1.23%
+ 		Builder's Rough Focus - 2.45%
+ 		Builder's Precise Focus - 1.23%
+ 		Builder's Superior Focus - 0.61%
+ 		Contained Chaos Spark - 0.12%
+ Rare - 1%
+ 		Tradable Mount: Sunseeker's Glider - 0.11%
+ 		Tradable Mount: Surface Stalker - 0.11%
+ 		Tradable Mount: Twilight Stalker - 0.11%
+ 		Tradable Mount: No-Leaf Rovre - 0.03%
+ 		Tradable Geode Costume for Boomeranger, Candy Barbarian, Vanguardian, Knight, or Revenant - 0.55%
+ 		Tradable Legendary Tome: Cosmic Gem Dust Omnibus - 0.03%
+ 		Tradable Legendary Tome: Crystalline Core Compendium - 0.03%
+ 		Tradable Ally: Ochre Sand Squid - 0.03%
+ 		Tradable Ally: Burning Bantam - 0.03%
+
+Glowing Geodian Topside Cache
+
+Tradable Mount: Sunseeker's Glider - 0.11%
+ Tradable Mount: Surface Stalker - 0.11%
+ Tradable Mount: Twilight Stalker - 0.11%
+ Tradable Mount: No-Leaf Rovre - 0.03%
+ Tradable Geode Costume for Boomeranger, Candy Barbarian, Vanguardian, Knight, or Revenant - 0.55%
+ Tradable Legendary Tome: Cosmic Gem Dust Omnibus - 0.03%
+ Tradable Legendary Tome: Crystalline Core Compendium - 0.03%
+ Tradable Ally: Ochre Sand Squid - 0.03%
+ Tradable Ally: Burning Bantam - 0.03%
+
+Greater Dragon Cache
+
+Common - 86%
+ 		Dragon Coins - 86%
+ Uncommon - 13%
+ 		Dragon Coins - 13%
+ Rare - 1%
+ 		100 Tradable Ancient, Moonwing, Bone, Winter, or Starlight Dragon Souls - 0.18%
+ 		40 Tradable Azulian Dragon Souls - 0.03%
+ 		A Tradable Golden Lunar New Year Egg - 0.03%
+ 		A Tradable Golden Dusk Dragon Egg - 0.03%
+ 		A Tradable Golden Siege Dragon Egg - 0.03%
+ 		A Tradable Golden Block Dragon Egg - 0.03%
+ 		A Tradable Golden Pinata Dragon Egg - 0.03%
+ 		A Tradable Golden Infineon Dragon Egg - 0.03%
+ 		A Tradable Golden Candorian Dragon Egg - 0.03%
+ 		A Tradable Golden Tidal Dragon Egg - 0.03%
+ 		A Tradable Golden Pirate Dragon Egg - 0.03%
+ 		A Tradable Golden Pumpkin Dragon Egg - 0.03%
+ 		A Tradable Golden Wisdom Dragon Egg - 0.03%
+ 		A Tradable Golden Worldspring Dragon Egg - 0.03%
+ 		A Tradable Golden Joyous Dragon Egg - 0.03%
+ 		A Tradable Golden Lorekeeper Dragon Egg - 0.03%
+ 		A Tradable Golden Iridescent Dragon Egg - 0.03%
+ 		A Tradable Golden Dragon Kami Egg - 0.03%
+ 		A Tradable Golden Spinner Dragon Egg - 0.03%
+ 		A Tradable Golden Floral Dragon Egg - 0.03%
+ 		A Tradable Golden Valiant Dragon Egg - 0.03%
+ 		A Tradable Golden Lightning Dragon Egg - 0.03%
+ 		A Tradable Golden Ice Dragon Egg - 0.03%
+ 		A Tradable Golden Preserver Dragon Egg - 0.03%
+ 		A Tradable Golden Voidwatcher Dragon Egg - 0.03%
+ 		A Tradable Sarsaponia, The Pristine - 0.03%
+ 		A Tradable Almakhestia, Host of Starfire - 0.03%
+ 		A Tradable Golden Sandseasower Dragon Egg - 0.03%
+ 		A Tradable Golden Blossoming Dragon Egg - 0.03%
+ 		A Tradable Mount: Amatrix, the Hexed - 0.03%
+ 		A Tradable Mount: Vaentaera, the Perpetual - 0.03%
+ 		A Tradable Mount: A.T.M.O.S. - D-R4C - 0.03%
+
+Classic Battle Box
+
+Tattered - 40%
+ 		Pistols Banner - 8%
+ 		Angrybug Banner - 8%
+ 		Frostflake Banner - 8%
+ 		Skulls Banner - 8%
+ 		Radiance Banner - 4%
+ 		Shade Banner - 4%
+ Ragged - 30%
+ 		Pistols Banner - 6%
+ 		Angrybug Banner - 6%
+ 		Frostflake Banner - 6%
+ 		Skulls Banner - 6%
+ 		Radiance Banner - 3%
+ 		Shade Banner - 3%
+ Battle Worn - 15%
+ 		Pistols Banner - 3%
+ 		Angrybug Banner - 3%
+ 		Frostflake Banner - 3%
+ 		Skulls Banner - 3%
+ 		Radiance Banner - 1.5%
+ 		Shade Banner - 1.5%
+ Superior - 10%
+ 		Pistols Banner - 2%
+ 		Angrybug Banner - 2%
+ 		Frostflake Banner - 2%
+ 		Skulls Banner - 2%
+ 		Radiance Banner - 1%
+ 		Shade Banner - 1%
+ Pristine - 5%
+ 		Pistols Banner - 1%
+ 		Angrybug Banner - 1%
+ 		Frostflake Banner - 1%
+ 		Skulls Banner - 1%
+ 		Radiance Banner - 0.5%
+ 		Shade Banner - 0.5%
+
+Bronze Companion Egg (No Lodestar)
+
+A Common Companion - 84.97%
+ An Uncommon Companion - 13.99%
+ A Rare Companion - 1.04%
+
+Bronze Companion Egg (Lodestar)
+
+A Common Companion - 74.98%
+ An Uncommon Companion - 23.02%
+ A Rare Companion - 2%
+
+Gold Companion Egg
+
+A Jubilant Froleek - 12.5%
+ A Supersonic Howlug - 12.5%
+ A Viridian Cragglepod - 12.5%
+ A Shroudd Gleemur - 12.5%
+ A Effervescent Hoppet - 12.5%
+ A Spectral Jelotl - 12.5%
+ A Enigmatic Qubrik - 12.5%
+ A Majestic Zepperay - 12.5%
+
+Golden Dragon Effigy
+
+Unlocks 1 of 38 Dragons under the Legendary Dragon collection that the player does not already have unlocked.
+ Chances for any one dragon are dependent on the number of dragons still available for unlock.
+ Probability has been calculated assuming the player owns none of these dragons.
+ Any individual Legendary Dragon - 2.63%
+
+Spring Recipe
+
+Unlocks 1 of 35 Spring Recipes under the Spring collection that the player does not already have unlocked.
+ Chances for any one Spring Recipe are dependent on the number of Spring Recipes still available for unlock.
+ Probability has been calculated assuming the player owns none of these recipes.
+ Any individual Spring Recipe - 2.86%
+
+Super Mount Stash
+
+Unlocks 1 of 58 total mounts under the Adventure Box, Cat, Corgi, or Rat collections that the player does not already have unlocked.
+ Chances for any one mount are dependent on the number of mounts in these collections still available for unlock.
+ Probability has been calculated assuming the player owns none of these mounts.
+ An Adventure Box Mount - 43.1%
+ A Cat Mount - 12.07%
+ A Corgi Mount - 12.07%
+ A Rat Mount - 32.76%
+
+Super Style Stash
+
+Unlocks 1 of 3630 styles under the Uncommon, Rare, Epic, Legendary, Relic, Resplendent, Shadow, Highlands, Frontier, Undead, Tundra, Fae, Dragon, Neon City, Candy, Radiant, Treasure Isles, Jurassic Jungle, Forbidden Spires, Vault, Stash Exclusive, Spring, Summer, Autumn, or Winter collections that the player does not already have unlocked.
+ Chances for any one style are dependent on the number of styles in these collections still available for unlock.
+ Probability has been calculated assuming the player owns none of these styles.
+ A Vault style - 32.15%
+ A Stash Exclusive style - 0.88%
+ An Uncommon style - 3.14%
+ A Rare style - 3.17%
+ An Epic style - 3.2%
+ A Legendary style - 4.44%
+ A Relic style - 3.47%
+ A Resplendent style - 3.66%
+ A Shadow style - 3.99%
+ A Radiant style - 3.53%
+ A Candy style - 3.5%
+ A Dragon style - 3.58%
+ A Fae style - 3.47%
+ A Frontier style - 3.44%
+ A Highlands style - 3.44%
+ A Tundra style - 3.72%
+ A Neon City style - 4.38%
+ An Undead style - 3.66%
+ A Treasure Isles style - 3.53%
+ A Jurassic Jungle style - 1.65%
+ A Forbidden Spires style - 1.43%
+ An Autumn style - 0.8%
+ A Spring style - 0.94%
+ A Summer style - 0.58%
+ A Winter style - 0.25%
+
+Super Recipe Stash
+
+Unlocks 1 of 953 recipes under the Cursed Vale, Candoria, Dragonfire Peaks, Fae Wilds, Desert Frontier, Medieval Highlands, Treasure Isles, Neon City, Permafrost, Jurassic Jungle, Forbidden Spires, Shadow's Eve, Sunfest Decorations, Turkeytopia Recipes, Spring, Summer, Winter, or Sports Ball collections.
+ Chances for any one recipe are dependent on the number of other recipes in these collections still available to unlock.
+ Probability has been calculated assuming the player owns none of these recipes.
+ A Cursed Vale recipe - 7.45%
+ A Candoria recipe - 6.72%
+ A Dragonfire Peaks recipe - 5.46%
+ A Fae Wilds recipe - 9.02%
+ A Desert Frontier recipe - 10.49%
+ A Medieval Highlands recipe - 16.68%
+ A Treasure Isles recipe - 6.93%
+ A Neon City recipe - 14.17%
+ A Permafrost recipe - 4.51%
+ A Jurassic Jungle recipe - 1.36%
+ A Forbidden Spires recipe - 3.67%
+ A Shadow's Eve recipe - 0.94%
+ A Sunfest Decorations recipe - 3.67%
+ A Turkeytopia Recipes recipe - 1.36%
+ A Spring recipe - 3.67%
+ A Summer recipe - 1.99%
+ A Winter recipe - 1.68%
+ A Sports Ball recipe - 0.21%
+
+Bobble Pods
+
+Bobble Pods can drop multiple items and have extra rolls for the thrower, so these probabilities will not add up to 100%.
+ For example, someone throwing a bobblepod could receive a Blossoming Dragon Egg Fragment, an Onionito Seed, and an Air Gem Duster Seed.  Or they could just receive an Onionito Seed.
+ Note that Blossoming Dragon Egg Fragment drops are rolled twice on Dragon Day.
+ Rare for Bobble Pods spawned with Hats - 6%
+ 		Mount: Ridable Bobble Pod - 6%
+ Blossoming Dragon Egg Fragment for Anyone - 12.5%
+ 		Blossoming Dragon Egg Fragment - 12.5%
+ Blossoming Dragon Egg Fragment for Thrower - 37.5%
+ 		Blossoming Dragon Egg Fragment - 37.5%
+ Rare for Anyone - 1%
+ 		Pearl of Wisdom Seed Pod - 0.14%
+ 		Chaos Chest Stalk Seed - 0.14%
+ 		Water Gem Duster Seed - 0.14%
+ 		Fire Gem Duster Seed - 0.14%
+ 		Air Gem Duster Seed - 0.14%
+ 		Cosmic Gem Duster Seed - 0.14%
+ 		Golden Pitcher Plant Seed - 0.14%
+ Rare for Thrower - 1.5%
+ 		Pearl of Wisdom Seed Pod - 0.29%
+ 		Chaos Chest Stalk Seed - 0.29%
+ 		Water Gem Duster Seed - 0.29%
+ 		Fire Gem Duster Seed - 0.29%
+ 		Air Gem Duster Seed - 0.29%
+ 		Cosmic Gem Duster Seed - 0.29%
+ 		Golden Pitcher Plant Seed - 0.29%
+ Uncommon for Anyone - 10%
+ 		Gardener Alchemy Plant Seed Recipes - 3.81%
+ 		Green Thumb Alchemy Plant Seed Recipes - 3.57%
+ 		Botanist Alchemy Plant Seed Recipes - 1.43%
+ 		Horticulturist Alchemy Plant Seed Recipes - 1.19%
+ Uncommon for Thrower - 15%
+ 		Gardener Alchemy Plant Seed Recipes - 5.71%
+ 		Green Thumb Alchemy Plant Seed Recipes - 5.36%
+ 		Botanist Alchemy Plant Seed Recipes - 2.14%
+ 		Horticulturist Alchemy Plant Seed Recipes - 1.79%
+ Common for Anyone - 100%
+ 		Qubbage Seed - 16%
+ 		Unicorn Chard Seed - 16%
+ 		Onionito Seed - 12%
+ 		Uggplant Seed - 12%
+ 		Purp'lil Seed - 12%
+ 		Totter Tate Seed - 8%
+ 		Qumato Seed - 8%
+ 		Cinnamellon Seed - 8%
+ 		Bunfeed Seed - 4%
+ 		Corn on the Cube Seed - 4%
+ Common for Thrower - 50%
+ 		Qubbage Seed - 8%
+ 		Unicorn Chard Seed - 8%
+ 		Onionito Seed - 6%
+ 		Uggplant Seed - 6%
+ 		Purp'lil Seed - 6%
+ 		Totter Tate Seed - 4%
+ 		Qumato Seed - 4%
+ 		Cinnamellon Seed - 4%
+ 		Bunfeed Seed - 2%
+ 		Corn on the Cube Seed - 2%
+
+Party Animals
+
+Party Animals can drop multiple items and have extra rolls for the thrower, so these probabilities will not add up to 100%.
+ For example, someone throwing a Party Animal could receive flux, glim, and a Pin Head.  Or they could just receive flux.
+ Pinata Dragon Egg for Anyone - 0.01%
+ 		Dormant Pinata Dragon Egg - 0.01%
+ Pinata Dragon Egg for Thrower - 0.2%
+ 		Dormant Pinata Dragon Egg - 0.2%
+ Mount for Anyone - 0.03%
+ 		2 Mount: Prancing Pinata - 0.03%
+ Mount for Thrower - 2%
+ 		2 Mount: Prancing Pinata - 2%
+ Pearl of Wisdom for Thrower - 1%
+ 		Pearl of Wisdom - 1%
+ Helm for Thrower - 5%
+ 		Pin Head - 5%
+ Block Recipe for Anyone - 3%
+ 		Standard Block Recipe - 0.6%
+ 		Glass Block Recipe - 0.6%
+ 		Metallic Block Recipe - 0.6%
+ 		Glowing Block Recipe - 0.6%
+ 		Textured Block Recipe - 0.6%
+ Biome Recipe for Anyone - 5%
+ 		Highlands Recipe - 0.5%
+ 		Frontier Recipe - 0.5%
+ 		Permafrost Recipe - 0.5%
+ 		Cursed Recipe - 0.5%
+ 		Fae Recipe - 0.5%
+ 		Dragonfire Recipe - 0.5%
+ 		Neon Recipe - 0.5%
+ 		Candoria Recipe - 0.5%
+ 		Jurassic Recipe - 0.5%
+ Biome Recipe for Thrower - 30%
+ 		Highlands Recipe - 3%
+ 		Frontier Recipe - 3%
+ 		Permafrost Recipe - 3%
+ 		Cursed Recipe - 3%
+ 		Fae Recipe - 3%
+ 		Dragonfire Recipe - 3%
+ 		Neon Recipe - 3%
+ 		Candoria Recipe - 3%
+ 		Jurassic Recipe - 3%
+ Common for Anyone - 100%
+ 		Flux - 33.33%
+ 		Glim - 33.33%
+ 		Shapestone Ore - 33.33%
+ Common for Owner - 100%
+ 		Flux - 33.33%
+ 		Glim - 33.33%
+ 		Shapestone Ore - 33.33%
+
+Crystal Pinatas
+
+Crystal Pinatas can drop multiple items and have extra rolls for the thrower, so these probabilities will not add up to 100%.
+ For example, someone throwing a Crystal Pinata could receive a Crystalline Dream Aura, Geamstone, and Day Drops.  Or they could just receive Gleamstone.
+ Pinata Dragon Egg for Anyone - 0.01%
+ 		Dormant Pinata Dragon Egg - 0.01%
+ Pinata Dragon Egg for Thrower - 0.2%
+ 		Dormant Pinata Dragon Egg - 0.2%
+ Rare Items for Anyone - 0.06%
+ 		Mount: Crystal Pinata - 0.03%
+ 		Aura: Crystalline Dream - 0.03%
+ Rare Items for Owner - 6%
+ 		Mount: Crystal Pinata - 3%
+ 		Aura: Crystalline Dream - 3%
+ Crystal Styles for Anyone - 2.5%
+ Crystal Styles for Thrower - 25%
+ Common for Anyone - 100%
+ 		Crystal - 33.33%
+ 		Gleamstone - 33.33%
+ 		Day Drop - 33.33%
+ Common for Thrower - 100%
+ 		Crystal - 33.33%
+ 		Gleamstone - 33.33%
+ 		Day Drop - 33.33%
+
+Spring Pinatas
+
+Spring Pinatas can drop multiple items and have extra rolls for the thrower, so these probabilities will not add up to 100%.
+ For example, someone throwing a Spring Pinata could receive a Spring Pin Head, Flux, and Glim.  Or they could just receive Flux.
+ Pinata Dragon Egg for Anyone - 0.01%
+ 		Dormant Pinata Dragon Egg - 0.01%
+ Pinata Dragon Egg for Thrower - 0.2%
+ 		Dormant Pinata Dragon Egg - 0.2%
+ Recipe for Anyone - 10%
+ 		Spring Recipe - 10%
+ Recipe for Thrower - 25%
+ 		Spring Recipe - 25%
+ Mount for Anyone - 0.03%
+ 		2 Mount: Spring Pinata - 0.03%
+ Mount for Thrower - 2%
+ 		2 Mount: Spring Pinata - 2%
+ Helm for Anyone - 1%
+ 		Spring Pin Head - 1%
+ Helm for Thrower - 4%
+ 		Spring Pin Head - 4%
+ Style Stash for Anyone - 10%
+ 		Spring Style Stash - 10%
+ Style Stash for Thower - 25%
+ 		Spring Style Stash - 25%
+ Common for Anyone - 100%
+ 		Shapestone Ore - 50%
+ 		Flux - 25%
+ 		Glim - 25%
+ Common for Thrower - 100%
+ 		Shapestone Ore - 50%
+ 		Flux - 25%
+ 		Glim - 25%
+
+Summer Pinatas
+
+Summer Pinatas can drop multiple items and have extra rolls for the thrower, so these probabilities will not add up to 100%.
+ For example, someone throwing a Summer Pinata could receive a Summer Pin Head, Flux, and Glim.  Or they could just receive Flux.
+ Pinata Dragon Egg for Anyone - 0.01%
+ 		Dormant Pinata Dragon Egg - 0.01%
+ Pinata Dragon Egg for Thrower - 0.2%
+ 		Dormant Pinata Dragon Egg - 0.2%
+ Recipe for Anyone - 10%
+ 		Summer Recipe - 10%
+ Recipe for Thrower - 25%
+ 		Summer Recipe - 25%
+ Mount for Anyone - 0.03%
+ 		2 Mount: Summer Pinata - 0.03%
+ Mount for Thrower - 2%
+ 		2 Mount: Summer Pinata - 2%
+ Helm for Anyone - 1%
+ 		Summer Pin Head - 1%
+ Helm for Thrower - 4%
+ 		Summer Pin Head - 4%
+ Style Stash for Anyone - 10%
+ 		Summer Style Stash - 10%
+ Style Stash for Thower - 25%
+ 		Summer Style Stash - 25%
+ Common for Anyone - 100%
+ 		Shapestone Ore - 20%
+ 		Formicite Ore - 10%
+ 		Infinium Ore - 10%
+ 		Glim - 30%
+ 		Flux - 30%
+ Common for Thrower - 100%
+ 		Shapestone Ore - 20%
+ 		Formicite Ore - 10%
+ 		Infinium Ore - 10%
+ 		Glim - 30%
+ 		Flux - 30%
+
+Autumn Pinatas
+
+Autumn Pinatas can drop multiple items and have extra rolls for the thrower, so these probabilities will not add up to 100%.
+ For example, someone throwing a Autumn Pinata could receive an Autumn Pin Head, Flux, and Glim.  Or they could just receive Flux.
+ Pinata Dragon Egg for Anyone - 0.01%
+ 		Dormant Pinata Dragon Egg - 0.01%
+ Pinata Dragon Egg for Thrower - 0.2%
+ 		Dormant Pinata Dragon Egg - 0.2%
+ Mount for Anyone - 0.03%
+ 		2 Mount: Autumn Pinata - 0.03%
+ Mount for Thrower - 2%
+ 		2 Mount: Autumn Pinata - 2%
+ Helm for Anyone - 1%
+ 		Autumn Pin Head - 1%
+ Helm for Thrower - 4%
+ 		Autumn Pin Head - 4%
+ Style Stash for Thower - 25%
+ 		Autumn Style Stash - 25%
+ Common for Anyone - 100%
+ 		Shapestone Ore - 20%
+ 		Formicite Ore - 10%
+ 		Infinium Ore - 10%
+ 		Glim - 30%
+ 		Flux - 30%
+ Common for Thrower - 100%
+ 		Shapestone Ore - 20%
+ 		Formicite Ore - 10%
+ 		Infinium Ore - 10%
+ 		Glim - 30%
+ 		Flux - 30%
+
+Winter Pinatas
+
+Winter Pinatas can drop multiple items and have extra rolls for the thrower, so these probabilities will not add up to 100%.
+ For example, someone throwing a Winter Pinata could receive a Winter Pin Head, Flux, and Glim.  Or they could just receive Flux.
+ Pinata Dragon Egg for Anyone - 0.01%
+ 		Dormant Pinata Dragon Egg - 0.01%
+ Pinata Dragon Egg for Thrower - 0.2%
+ 		Dormant Pinata Dragon Egg - 0.2%
+ Recipe for Anyone - 5%
+ 		Winter Recipe - 5%
+ Recipe for Thrower - 30%
+ 		Winter Recipe - 30%
+ Mount for Anyone - 0.03%
+ 		2 Mount: Winter Pinata - 0.03%
+ Mount for Thrower - 2%
+ 		2 Mount: Winter Pinata - 2%
+ Winter Styles for Anyone - 5%
+ 		Chilly Pin Head - 0.45%
+ 		Shaggy Yeti - 0.45%
+ 		Prevailing Cool Head - 0.45%
+ 		Slope Slider - 0.45%
+ 		Banded Clubsicle - 0.45%
+ 		Thunderous Sunderer - 0.45%
+ 		Iceblock Tongs - 0.45%
+ 		Snow Blower - 0.45%
+ 		Ice Glider - 0.45%
+ 		Mistwing Wand - 0.45%
+ 		Winter Wyrm - 0.45%
+ Winter Styles for Thrower - 25%
+ 		Chilly Pin Head - 2.27%
+ 		Shaggy Yeti - 2.27%
+ 		Prevailing Cool Head - 2.27%
+ 		Slope Slider - 2.27%
+ 		Banded Clubsicle - 2.27%
+ 		Thunderous Sunderer - 2.27%
+ 		Iceblock Tongs - 2.27%
+ 		Snow Blower - 2.27%
+ 		Ice Glider - 2.27%
+ 		Mistwing Wand - 2.27%
+ 		Winter Wyrm - 2.27%
+ Common for Anyone - 100%
+ 		Shapestone Ore - 44.44%
+ 		Formicite Ore - 11.11%
+ 		Infinium Ore - 11.11%
+ 		Glim - 22.22%
+ 		Flux - 11.11%
+ Common for Thrower - 100%
+ 		Shapestone Ore - 44.44%
+ 		Formicite Ore - 11.11%
+ 		Infinium Ore - 11.11%
+ 		Glim - 22.22%
+ 		Flux - 11.11%
+
+Romancing Pinatas
+
+Romancing Pinatas can drop multiple items and have extra rolls for the thrower, so these probabilities will not add up to 100%.
+ For example, someone throwing a Romancing Pinata could receive Wings of Love wings, Flux, and Glim.  Or they could just receive Flux.
+ Rare Items for Thrower - 10%
+ 		2 Mount: Romancing Pinata - 4.5%
+ 		2 Ally: Cheeky Cherub - 4.5%
+ 		2 Wings: Wings of Love - 1%
+ 2 Mount: Romancing Pinata for Anyone - 0.03%
+ 2 Ally: Cheeky Cherub for Anyone - 0.03%
+ 2 Wings: Wings of Love for Anyone - 0.008%
+ Romancing Styles for Anyone - 5%
+ 		Romancing Pin Head - 0.71%
+ 		Bristling Beauty - 0.71%
+ 		Rosevine Recurve - 0.71%
+ 		Enamoring Armor Piercer - 0.71%
+ 		Big Bonbon Baton - 0.71%
+ 		Heart Halberd - 0.71%
+ 		Cupid's Ballista Bolt - 0.71%
+ Romancing Styles for Thrower - 25%
+ 		Romancing Pin Head - 3.57%
+ 		Bristling Beauty - 3.57%
+ 		Rosevine Recurve - 3.57%
+ 		Enamoring Armor Piercer - 3.57%
+ 		Big Bonbon Baton - 3.57%
+ 		Heart Halberd - 3.57%
+ 		Cupid's Ballista Bolt - 3.57%
+ Common for Anyone - 100%
+ 		Shapestone Ore - 20%
+ 		Formicite Ore - 10%
+ 		Infinium Ore - 10%
+ 		Glim - 30%
+ 		Flux - 30%
+ Common for Thrower - 100%
+ 		Shapestone Ore - 20%
+ 		Formicite Ore - 10%
+ 		Infinium Ore - 10%
+ 		Glim - 30%
+ 		Flux - 30%
+
+Shamrockin' Pinatas
+
+Shamrockin' Pinatas can drop multiple items and have extra rolls for the thrower, so these probabilities will not add up to 100%.
+ For example, someone throwing a Shamrockin' Pinata could receive Springy Roller allies, Flux, and Glim.  Or they could just receive Flux.
+ Rare Items for Thrower - 10%
+ 		2 Mount: Shamrockin' Pinata - 5%
+ 		2 Ally: Springy Roller - 5%
+ 2 Mount: Shamrockin' Pinata for Anyone - 0.03%
+ 2 Ally: Springy Roller for Anyone - 0.03%
+ Shamrockin' Styles for Anyone - 5%
+ 		Shamrockin' Pin Head - 0.71%
+ 		Rainbow's Edge - 0.71%
+ 		Gilded Horseshoe - 0.71%
+ 		Little Luckslinger - 0.71%
+ 		Enshrined Shamrock - 0.71%
+ 		Clear-Cut Clover - 0.71%
+ 		Pot o' Gold Poker - 0.71%
+ Shamrockin' Styles for Thrower - 25%
+ 		Shamrockin' Pin Head - 3.57%
+ 		Rainbow's Edge - 3.57%
+ 		Gilded Horseshoe - 3.57%
+ 		Little Luckslinger - 3.57%
+ 		Enshrined Shamrock - 3.57%
+ 		Clear-Cut Clover - 3.57%
+ 		Pot o' Gold Poker - 3.57%
+ Common for Anyone - 100%
+ 		Shapestone Ore - 20%
+ 		Formicite Ore - 10%
+ 		Infinium Ore - 10%
+ 		Glim - 30%
+ 		Flux - 30%
+ Common for Thrower - 100%
+ 		Shapestone Ore - 20%
+ 		Formicite Ore - 10%
+ 		Infinium Ore - 10%
+ 		Glim - 30%
+ 		Flux - 30%

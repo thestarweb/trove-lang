@@ -1,0 +1,8 @@
+$prefabs_item_sponge_chocosponge_item_name=Chocolate Sponge
+$prefabs_item_sponge_chocosponge_item_description=Throw at liquid chocolate to pick it up. Chocolate is a build inventory item.
+$prefabs_item_sponge_lavasponge_item_name=Lava Sponge
+$prefabs_item_sponge_lavasponge_item_description=Throw at liquid lava to pick it up. Lava is a build inventory item.
+$prefabs_item_sponge_plasmasponge_item_name=Plasma Sponge
+$prefabs_item_sponge_plasmasponge_item_description=Throw at liquid plasma to pick it up. Plasma is a build inventory item.
+$prefabs_item_sponge_watersponge_item_name=Water Sponge
+$prefabs_item_sponge_watersponge_item_description=Throw at liquid water to pick it up. Water is a build inventory item.\n\nSea of Regret water cannot be picked up with this sponge.

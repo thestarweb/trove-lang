@@ -1,0 +1,6 @@
+$prefabs_item_food_delve_tier_01_name=压力藻
+$prefabs_item_food_delve_tier_01_description=清淡可口的零食，是秘境内的首领的小吃。它们通常在重型加压箱找到。
+$prefabs_item_food_delve_tier_02_name=炼洞奶
+$prefabs_item_food_delve_tier_02_description=含有丰富的营养物质，这种天然存在的布丁需要一定的压力才能凝结。通常出现在重型加压箱中。
+$prefabs_item_food_delve_tier_03_name=自由变化电解晶体
+$prefabs_item_food_delve_tier_03_description=只有深处的秘境才有合适的环境来形成这种食物。通常出现在重型加压箱中。

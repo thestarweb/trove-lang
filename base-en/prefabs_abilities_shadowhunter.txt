@@ -1,0 +1,12 @@
+$prefabs_abilities_shadowhunter_arrowofthegoddess_item_name=Arrow of the Goddess
+$prefabs_abilities_shadowhunter_arrowofthegoddess_item_description=Applies Shadowmark to all nearby enemies. Empowers the Shadow Hunter's next Radiant Arrow, increasing its damage, doubling critical damage, and causing it to knock enemies back.
+$prefabs_abilities_shadowhunter_passive_shadowwhispers_item_name=Dark Whispers
+$prefabs_abilities_shadowhunter_passive_shadowwhispers_item_description=Nearby enemies periodically receive a Shadowmark, increasing the damage they take from charged Radiant Arrow shots and allowing the Shadow Hunter to see them through walls.
+$prefabs_abilities_shadowhunter_radiantarrow_item_name=Radiant Arrow
+$prefabs_abilities_shadowhunter_radiantarrow_item_description=An attack that can pierce through enemies and walls. Hold for at least 1 second to charge, causing it to deal extra damage to Shadowmarked enemies.
+$prefabs_abilities_shadowhunter_radiantarrow_normal_item_name=Radiant Arrow
+$prefabs_abilities_shadowhunter_radiantarrow_ultimate_item_name=Radiant Arrow
+$prefabs_abilities_shadowhunter_sun_snare_item_name=Sun Snare
+$prefabs_abilities_shadowhunter_sun_snare_item_description=Throws a blinding trap which stuns and damages all nearby enemies for 2 seconds when triggered.
+$prefabs_abilities_shadowhunter_subclass_name=Searing Light
+$prefabs_abilities_shadowhunter_subclass_description=Magic attacks to enemies can activate Searing Light, a damage over time effect.

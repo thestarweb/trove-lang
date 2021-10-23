@@ -1,0 +1,10 @@
+$prefabs_abilities_neonninja_mark_for_death_item_name=Final Technique
+$prefabs_abilities_neonninja_mark_for_death_item_description=The Neon Ninja's basic attacks hurl damaging energy swords which refresh the duration of Stasis Blade on enemies.
+$prefabs_abilities_neonninja_shadow_flip_item_name=Shadow Flip
+$prefabs_abilities_neonninja_shadow_flip_item_description=The Neon Ninja flips backwards and enters Stealth Mode for 3 seconds, granting invisibility and a movement speed increase.
+$prefabs_abilities_neonninja_shuriken_item_name=Shining Star
+$prefabs_abilities_neonninja_shuriken_item_description=The Neon Ninja's attacks can generate up to three Throwing Stars, which are thrown when using the basic attack while in Stealth Mode. This attack deals double critical damage when charges are at max.
+$prefabs_abilities_neonninja_stasis_blade_item_name=Stasis Blade
+$prefabs_abilities_neonninja_stasis_blade_item_description=The Neon Ninja dashes forward. Enemies struck take damage and are rooted in place for 2 seconds.
+$prefabs_abilities_neonninja_subclass_name=Assassinate
+$prefabs_abilities_neonninja_subclass_description=Chance to deal bonus damage to enemies with less than 20% health.
