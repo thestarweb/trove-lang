@@ -1,8 +1,9 @@
 {
   "name": "@thestarweb/trove-lang-tool",
-  "version": "1.0.0-test1",
+  "version": "1.0.0-test2",
   "description": "Just a tool for language files of trove.",
   "main": "dist/main.js",
+  "types": "types/main.d.ts",
   "scripts": {
     "build": "tsc"
   },
