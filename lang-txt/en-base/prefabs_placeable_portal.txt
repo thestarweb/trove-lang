@@ -290,3 +290,5 @@ $prefabs_placeable_portal_clubhq_fixtures_world_item_description=A portal to a c
 $prefabs_placeable_portal_clubhq_random_item_description=A portal to a random club world. It could be anything!
 $prefabs_placeable_portal_clubhq_activenpc_item_name=Currently Active NPC Club World Portal
 $prefabs_placeable_portal_clubhq_activenpc_item_description=A Portal to a currently active npc club world.
+$prefabs_placeable_portal_pvp_battleroyal_snowfest_interactive_sign_title=Snowball Fight Portal
+$prefabs_placeable_portal_pvp_battleroyal_snowfest_interactive_sign_content=A fast paced, no holds barred snowball fight. Battle to be the last Trovian standing!

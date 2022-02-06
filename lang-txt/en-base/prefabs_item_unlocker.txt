@@ -197,3 +197,7 @@ $prefabs_item_unlocker_prismatic_green_item_name=Green Font of Knowledge
 $prefabs_item_unlocker_prismatic_green_item_description=Teaches all there is know about the nature of Prismatic Green and allows your mind to reach towards Prismatic Blue through the consumption of Green Essences.
 $prefabs_item_unlocker_prismatic_final_item_name=Ultimate Font of Prismatic Knowledge
 $prefabs_item_unlocker_prismatic_final_item_description=Teaches you to craft the Dazzling Dracolyte Costume.
+$prefabs_item_unlocker_style_prestige_name=Paragon Style Unlocker
+$prefabs_item_unlocker_style_prestige_description=Unlock a random Paragon style you don't already have unlocked.
+$prefabs_item_unlocker_recipe_snowfest2021_item_name=Snowfest 2021 Surprise
+$prefabs_item_unlocker_recipe_snowfest2021_item_description=Unlock a random Snowfest 2021 recipe you don't already have unlocked.

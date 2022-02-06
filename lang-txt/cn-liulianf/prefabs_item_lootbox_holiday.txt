@@ -21,3 +21,7 @@ $prefabs_item_lootbox_holiday_september2021_deco_box_item_description=包含妖�
 $prefabs_item_lootbox_holiday_september2021_deco_box_item_name=墓穴装饰宝盒
 $prefabs_item_lootbox_holiday_october2021_deco_box_name=狼穴装饰盒
 $prefabs_item_lootbox_holiday_october2021_deco_box_description=包含狼穴秘境中使用的装饰品。
+$prefabs_item_lootbox_holiday_snowfest2021_item_name=冰雪庆典2021宝箱
+$prefabs_item_lootbox_holiday_snowfest2021_item_description=包含大量的奖品，包括弹跳光辉、龙币、水晶核心概略和罕见的钻石龙石或超物质。还包括Frozen Gardener服饰、磁悬浮车:冰霜机车和Trovian Express坐骑。
+$prefabs_item_lootbox_holiday_heckbugs2022_item_name=洞穴探险财宝
+$prefabs_item_lootbox_holiday_heckbugs2022_item_description=包含水晶、地狱虫蛋、地狱虫练习假人配方，有时还包含Heckbug Tender或Bouncin' Heckbug。

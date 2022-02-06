@@ -118,3 +118,6 @@ $prefabs_collections_sail_web_item_name=Webbed Sail
 $prefabs_collections_sail_web_item_description=Sail the World Wide... well, you get it.\n\nOriginally obtainable during Shadow's Eve 2020.
 $prefabs_collections_sail_honeycomb_name=Honeycomb Sail
 $prefabs_collections_sail_honeycomb_description="Why I'm thrilled! It's absolutely, positively hexcellent!"\n- The Queen
+$prefabs_collections_sail_prestige_name=Paragon Sail
+$prefabs_collections_sail_knitted_name=Knitted Sail
+$prefabs_collections_sail_knitted_description=Impermeable to water and extremely cozy!

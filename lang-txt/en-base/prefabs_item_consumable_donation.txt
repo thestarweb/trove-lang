@@ -28,3 +28,6 @@ $prefabs_item_consumable_donation_july2021_panatea_donate_name=Donate Rayoreum
 $prefabs_item_consumable_donation_july2021_panatea_donate_description=Donate Rayoreum back for a slim chance at a PANATEAN ANTE!
 $prefabs_item_consumable_donation_july2021_tysorion_donate_name=Donate Rayoreum
 $prefabs_item_consumable_donation_july2021_tysorion_donate_description=Donate Rayoreum back for a slim chance at a MARK OF TY!
+$prefabs_item_consumable_donation_auto_snowfest2021_donate_name=Snowfest Donation
+$prefabs_item_consumable_donation_auto_snowfest2021_donate_description=Snowfest is all about giving, so give! Each donation comes with a 'Snowfest 2021 Surprise' and a chance at even a Snowfest 2021 Treasure Box!
+$prefabs_item_consumable_donation_auto_snowfest2021_donate_coin_description=Snowfest is all about giving, so give! Each donation comes with a 'Snowfest 2021 Surprise' plus a Snowfest 2021 Treasure Box

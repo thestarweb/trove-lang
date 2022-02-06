@@ -407,3 +407,7 @@ $prefabs_item_crafting_lunardrop_name=Cleansed Lunar Drop
 $prefabs_item_crafting_lunardrop_description=With the help of the Sun Acolyte, craft this item at the Radiant Dayspring.
 $prefabs_item_crafting_shadowseve_oct2021_lunar_cond_name=Lunar Condensate
 $prefabs_item_crafting_shadowseve_oct2021_lunar_cond_desc=Currency & Crafting Material. Accepted by Order of the Moon Quartermasters and is used to craft items at the Shadowy Station in Crafter's Corner of the Trove Hub.\n\nFound by defeating invaders in the Medieval Highlands, Cursed Vale, and Desert Frontier.\n\nLunar Condensate will vanish shortly after Shadow's Eve 2021.
+$prefabs_item_crafting_prestige_collection_name=Paragon's Mark
+$prefabs_item_crafting_prestige_collection_description=Very rarely obtained from Primal Paragon Pinatas. Used to craft items at the PARAGON WORKBENCH, in the PARAGON'S PALACE beneath the CLUB HOUSE in the Hub.
+$prefabs_item_crafting_shadowseve_dec2021_coin_name=Snowfest 2021 Token
+$prefabs_item_crafting_shadowseve_dec2021_coin_desc=Currency & Crafting Material. Accepted at the Donation Station in the Hub.\n\nSnowfest 2021 Tokens will vanish shortly after Snowfest 2021.

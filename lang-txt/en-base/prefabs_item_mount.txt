@@ -943,3 +943,4 @@ $prefabs_item_mount_blastflower_gerbera_description=A Springy Flowery Bloom. It 
 $prefabs_item_mount_blastflower_spring_name=Mount:  Jade Bloom
 $prefabs_item_mount_blastflower_spring_description=This flower can move, but is just so rare it refuses to out of spite.
 $prefabs_item_mount_bulldozer_valor_name=Mount: Tomb Digger
+$prefabs_item_mount_pinata_prestige_name=Mount: Primal Pinata

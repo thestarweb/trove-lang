@@ -228,3 +228,7 @@ $npc_event_september2021_golem_zombie=僵尸傀儡
 $npc_event_september2021_golem_zombie_boss=墓穴僵尸傀儡
 $npc_event_september2021_wraith_boneblade=墓穴幽灵
 $npc_event_luna_quberus_oct2021_luna_quberus=卡贝鲁斯,诅咒
+$prefabs_npc_merchant_hub_prestige_sign_title=巅峰供应商
+$prefabs_npc_merchant_hub_prestige_sign_content=按 [HK:Loot] 查看出售的物品!
+$npc_event_feb22_pirate_decoy_heckbug_name=地狱虫练习假人
+$npc_event_feb22_pirate_decoy_heckbug_description=由一个狡猾的水手制作的

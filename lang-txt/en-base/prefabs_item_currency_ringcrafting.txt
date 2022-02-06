@@ -1,0 +1,4 @@
+$prefabs_item_currency_ringcrafting_ticket_golden_name=Gilded Ringcrafter's Ticket
+$prefabs_item_currency_ringcrafting_ticket_golden_description=Used to craft Crystal 3 ringboxes at a Ringcrafting Bench\nObtained by Loot Collecting Crystal 3 or Crystal 4 rings.
+$prefabs_item_currency_ringcrafting_ticket_name=Ringcrafter's Ticket
+$prefabs_item_currency_ringcrafting_ticket_description=Used to craft Crystal 2 ringboxes at a Ringcrafting Bench\nObtained by Loot Collecting Crystal 1 or Crystal 2 rings.

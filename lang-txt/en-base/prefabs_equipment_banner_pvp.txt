@@ -1,0 +1,12 @@
+$prefabs_equipment_banner_pvp_banner_bomber_gameswon_001_name=Gold Banner: Bomber Royale Games Won
+$prefabs_equipment_banner_pvp_banner_bomber_gameswon_001_description=Awarded for being in the top 10 of the WEEKLY BOMBER ROYALE GAMES WON Leaderboard
+$prefabs_equipment_banner_pvp_banner_bomber_gameswon_002_name=Silver Banner: Bomber Royale Games Won
+$prefabs_equipment_banner_pvp_banner_bomber_gameswon_002_description=Awarded for being in the top 100 of the WEEKLY BOMBER ROYALE GAMES WON Leaderboard
+$prefabs_equipment_banner_pvp_banner_bomber_mostdamage_001_name=Gold Banner: Bomber Royale Most Damage
+$prefabs_equipment_banner_pvp_banner_bomber_mostdamage_001_description=Awarded for being in the top 10 of the WEEKLY BOMBER ROYALE DAMAGE DONE Leaderboard
+$prefabs_equipment_banner_pvp_banner_bomber_mostdamage_002_name=Silver Banner: Bomber Royale Most Damage
+$prefabs_equipment_banner_pvp_banner_bomber_mostdamage_002_description=Awarded for being in the top 100 of the WEEKLY BOMBER ROYALE DAMAGE DONE Leaderboard
+$prefabs_equipment_banner_pvp_banner_bomber_mostkills_001_name=Gold Banner: Bomber Royale Most Kills
+$prefabs_equipment_banner_pvp_banner_bomber_mostkills_001_description=Awarded for being in the top 10 of the WEEKLY BOMBER ROYALE KILLS Leaderboard
+$prefabs_equipment_banner_pvp_banner_bomber_mostkills_002_name=Silver Banner: Bomber Royale Most Kills
+$prefabs_equipment_banner_pvp_banner_bomber_mostkills_002_description=Awarded for being in the top 100 of the WEEKLY BOMBER ROYALE KILLS Leaderboard

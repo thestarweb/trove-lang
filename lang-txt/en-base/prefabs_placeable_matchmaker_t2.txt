@@ -67,4 +67,4 @@ $prefabs_placeable_matchmaker_t2_spikewalker_description=Place and interact with
 $prefabs_placeable_matchmaker_t2_wight_king_boss_name=Depth Stepper: Wight King
 $prefabs_placeable_matchmaker_t2_wight_king_boss_description=Place and interact with this Depth Stepper to begin a Delve where you will encounter the WIGHT KING boss ONE OR MORE TIMES!\n\nInvites: Up to 8 Players total\nMounts: Delve Restricted\nMin Depth: 26
 $prefabs_placeable_matchmaker_t2_private_name=Depth Stepper (Private Mode)
-$prefabs_placeable_matchmaker_t2_private_description=Once placed, 'Depth Stepper' Gateways allow the placing Trovian to use [HK:Loot] to modify the starting Depth of the Delve before starting it!\n\nInvites: Up to 8 Players total\nMounts: Delve Restricted\nDifficulty: Set by placing Player
+$prefabs_placeable_matchmaker_t2_private_description=Once placed, ''Depth Stepper'' Gateways allow the placing Trovian to use [HK:Loot] to modify the starting Depth of the Delve before starting it!\n\nInvites: Up to 8 Players total\nMounts: Delve Restricted\nDifficulty: Set by placing Player

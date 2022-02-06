@@ -14,3 +14,5 @@ $prefabs_item_egg_family_qubrik_name=Tame Qubrik Egg
 $prefabs_item_egg_family_qubrik_description=Hatches into a common, uncommon, or rare Qubrik.\n\nFound rarely when assiting wild Qubriks in Verdant Veins.
 $prefabs_item_egg_family_zepperay_name=Tame Zepperay Egg
 $prefabs_item_egg_family_zepperay_description=Hatches into a common, uncommon, or rare Zepperay.\n\nFound rarely when assiting wild Zepperays in Moonglow Grotto.
+$prefabs_item_egg_family_heckbug_name=Heckbug Egg
+$prefabs_item_egg_family_heckbug_description=Hatches into a common, uncommon, or rare Heckbug.\n\nFound rarely when exploring or assiting wild Heckbugs in the Sunken Sunvault during the Heckbugs In Love event.\n\n<font color='#ff3030'>Warning:</font> This will vanish from your inventory shortly after the end of the Heckbugs In Love event.

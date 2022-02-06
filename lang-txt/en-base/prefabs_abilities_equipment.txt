@@ -19,6 +19,7 @@ $prefabs_abilities_equipment_proc_dragon_spawner_combateventeffectspawner_descri
 $prefabs_abilities_equipment_proc_flower_effect_spawner_low_combateventeffectspawner_description=Damaging enemies has a chance to spawn a healing, energy regenerating flower.
 $prefabs_abilities_equipment_flask_auto_use_effect_triggerinteractableeffect_description=Automatically triggers when near death.
 $prefabs_abilities_equipment_proc_flower_effect_spawner_combateventeffectspawner_description=Damaging enemies has a chance to spawn a healing, energy regenerating flower.
+$prefabs_abilities_equipment_proc_cooldown_reduction_statmodeffect_description=Chance to reduce ability cooldowns when a nearby enemy dies.
 $prefabs_abilities_equipment_passive_cooldown_reduction_statmodeffect_description=Increases cooldown recovery speed by 25%.
 $prefabs_abilities_equipment_passive_cooldown_reduction_low_statmodeffect_description=Increases cooldown recovery speed by 10%.
 $prefabs_abilities_equipment_use_flask_aoeenergy_inventoryeventeffectspawner_description=Restores 20 energy to all nearby allies.
@@ -63,3 +64,4 @@ $abilities_equipment_banner_additional_nitro_loot_description=Increases the amou
 $abilities_equipment_banner_additional_inertgeode_loot_description=Increases chance for standard Delve enemies to drop Inert Geodes upon death
 $prefabs_abilities_equipment_scale_down_95_description=Slightly decreases your size while equipped.
 $prefabs_abilities_equipment_scale_up_105_description=Slightly increases your size while equipped.
+$prefabs_abilities_equipment_gift_spawner_description=Sometimes spawns 1 of 3 Snowfest Gifts after defeating an enemy. Each gift can be unwrapped once each day.

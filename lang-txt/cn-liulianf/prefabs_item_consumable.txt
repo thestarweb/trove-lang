@@ -1,7 +1,7 @@
 $prefabs_item_consumable_instagrower_item_name=催熟剂
 $prefabs_item_consumable_instagrower_item_description=立刻在你周围一大片区域内生成植物。按住使用。
 $prefabs_item_consumable_credits250_name=彩币袋
-$prefabs_item_consumable_credits250_description=能够在拍卖行换取原晶，买家将会花费250彩币自动赎回此物品
+$prefabs_item_consumable_credits250_description=能够在拍卖行换取原晶，拍卖获得后将自动兑换250彩币进游戏账号。
 $prefabs_item_consumable_credits250_noauction_description=使用后可获得250枚彩币。
 $prefabs_item_consumable_bigxp_name=经验小瓶
 $prefabs_item_consumable_bigxp_description=__TEST_ONLY__ 赋予10000经验
@@ -120,3 +120,7 @@ $prefabs_item_consumable_event_wishscroll_02_name=愿望卷轴：药瓶
 $prefabs_item_consumable_event_wishscroll_02_description=用此卷轴祈祷，可获得女神的祝福，额外的药瓶，持续30分钟。\n\n该卷轴的魔力是短暂的，它将在2020年底消失。
 $prefabs_item_consumable_event_wishscroll_03_name=愿望卷轴：减伤
 $prefabs_item_consumable_event_wishscroll_03_description=用此卷轴祈祷，可获得女神的祝福，减少1%的伤害，持续30分钟。\n\n该卷轴的魔力是短暂的，它将在2020年底消失。
+$prefabs_item_consumable_ally_big_name=宠物变大药
+$prefabs_item_consumable_ally_big_description=会使你的宠物变大，持续5分钟。
+$prefabs_item_consumable_xp_10000_1day_name=经验币
+$prefabs_item_consumable_xp_10000_1day_description=消耗后，立即为你当前的职业提供10,000点经验值。

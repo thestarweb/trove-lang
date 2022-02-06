@@ -102,3 +102,5 @@ $prefabs_item_pinata_starbar_notrade_name=星闪皮纳塔
 $prefabs_item_pinata_starbar_notrade_description=投掷后会生成一个星闪皮纳塔。击败它可使投掷出它的玩家和附近随机7位玩家获得丰厚的战利品。\n\n\n你可以在主城和公会世界中使用皮纳塔。
 $prefabs_item_pinata_clubit_name=好奇的公会精灵
 $prefabs_item_pinata_clubit_description=投掷后会生成一个好奇的公会精灵。将它击败可使投掷出它的玩家和附近随机7位玩家获得丰厚的战利品。\n\n\n你可以在主城和公会世界中使用皮纳塔。
+$prefabs_item_pinata_prestige_name=原初巅峰皮纳塔
+$prefabs_item_pinata_prestige_description=投掷后会生成一个原初巅峰皮纳塔。将它击败可使投掷出它的玩家和附近随机7位玩家获得丰厚的战利品。\n\n你可以在主城和公会世界中使用皮纳塔。

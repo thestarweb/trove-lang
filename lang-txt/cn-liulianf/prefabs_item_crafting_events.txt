@@ -115,3 +115,5 @@ $prefabs_item_crafting_events_november2021_puppy_chow_food_name=食物: 啄木�
 $prefabs_item_crafting_events_november2021_puppy_chow_food_desc=适合吃虫子的动物。但是你也可以吃它。\n\n剩下的啄木鸟食物将在2021年的朋友感恩节结束时消失。
 $prefabs_item_unlocker_events_november2021_qubesly_table_name=配方: 朋友感恩节晚餐盛宴
 $prefabs_item_unlocker_events_november2021_qubesly_table_desc=解锁朋友感恩节晚餐盛宴的配方，可在火鸡庆典桌上制作。
+$prefabs_item_crafting_events_feb2022_heckbug_dummy_inv_name=配方: 地狱虫练习假人
+$prefabs_item_crafting_events_feb2022_heckbug_dummy_inv_desc=教会如何在玩具工厂制作地狱虫练习假人。

@@ -95,3 +95,5 @@ $prefabs_placeable_sign_static_howto_adv_world_interactive_sign_content=Press [H
 $prefabs_placeable_sign_static_howto_all_name=How-To Interactable
 $prefabs_placeable_sign_static_howto_all_interactive_sign_title=How To Play
 $prefabs_placeable_sign_static_howto_all_interactive_sign_content=Press [HK:Loot] to learn how to play TROVE!
+$prefabs_placeable_sign_static_hub_building_prestige_interactive_sign_title=Welcome to the PARAGON'S PALACE
+$prefabs_placeable_sign_static_hub_building_prestige_interactive_sign_content=DOWN - Paragon's Palace\n\nWEST - Sun Goddess Statue\n\nNORTH - Event Venue

@@ -46,3 +46,7 @@ $prefabs_item_companion_zepperay_uncommon_name=Lithe Zepperay
 $prefabs_item_companion_zepperay_uncommon_description=Pink from its waggling tongue to its twitching tail, this Zepperay streaks across the skies as naturally as blush across a waking dawn.
 $prefabs_item_companion_zepperay_rare_name=Majestic Zepperay
 $prefabs_item_companion_zepperay_rare_description=How lightly its wings flutter! It is a pleasure to watch this Zepperay drift through Moonglow Grotto, as lilting and winsome as Geodian song.
+$prefabs_item_companion_heckbug_common_name=Growing Heckbug
+$prefabs_item_companion_heckbug_common_description=Babies are always cute, but this one might be an exception.
+$prefabs_item_companion_heckbug_rare_name=Abhorrent Heckbug
+$prefabs_item_companion_heckbug_rare_description=If this is what Geode does to heckbugs, let's just hope they never make it to the surface.

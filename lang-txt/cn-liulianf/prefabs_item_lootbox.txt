@@ -176,3 +176,9 @@ $prefabs_item_lootbox_shadowseve2021_item_name=月之骑士宝箱
 $prefabs_item_lootbox_shadowseve2021_item_description=月之骑士宝箱（Order of the Moon's Treasure Box）\n\n含有大量的奖励，包括弹跳光辉，龙币，以及极少几率开出的钻龙石或超物质。
 $prefabs_item_lootbox_delve_freerange_name=闪亮水晶储物箱
 $prefabs_item_lootbox_delve_freerange_description=闪亮水晶储物箱（Glowing Crystalline Cache）\n\n可以开出自由变化电解体，除此之外这些箱子也有很少几率会开出：深度推进器传送门、4个宠物、1个坐骑或2种旗帜样式的配方之一。
+$prefabs_item_lootbox_prestige_prime_name=原初巅峰方块
+$prefabs_item_lootbox_prestige_prime_description=打开后获得一个适合你当前职业的原初循环。
+$prefabs_item_lootbox_prestige_prime_weekly_autoconsume_name=原初巅峰方块 (每周)
+$prefabs_item_lootbox_prestige_prime_weekly_autoconsume_description=打开后获得一个适合你当前职业的原初循环。\n<font color='#ef1a1a'>此配方你每周只能制作（3）次！</font>
+$prefabs_item_lootbox_prestige_deco_name=巅峰装饰盒
+$prefabs_item_lootbox_prestige_deco_description=包含一个以巅峰地宫为主题的装饰盒

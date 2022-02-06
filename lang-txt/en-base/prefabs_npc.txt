@@ -228,3 +228,7 @@ $npc_event_september2021_golem_zombie=Zombie Golem
 $npc_event_september2021_golem_zombie_boss=Tomb Zombie Golem
 $npc_event_september2021_wraith_boneblade=Tomb Wraith
 $npc_event_luna_quberus_oct2021_luna_quberus=Q'ursed Q'berus
+$prefabs_npc_merchant_hub_prestige_sign_title=Celestial Paragon Provisioner
+$prefabs_npc_merchant_hub_prestige_sign_content=Press [HK:Loot] to see what's for sale!
+$npc_event_feb22_pirate_decoy_heckbug_name=Heckbug Practice Dummy
+$npc_event_feb22_pirate_decoy_heckbug_description=Crafted by a crafty sailor

@@ -28,3 +28,6 @@ $prefabs_item_consumable_donation_july2021_panatea_donate_name=捐献雷奥瑞�
 $prefabs_item_consumable_donation_july2021_panatea_donate_description=把捐赠雷奥瑞姆矿石回来，有微弱的机会获得皮纳塔亚筹码!
 $prefabs_item_consumable_donation_july2021_tysorion_donate_name=捐献雷奥瑞姆矿石
 $prefabs_item_consumable_donation_july2021_tysorion_donate_description=把捐赠雷奥瑞姆矿石回来，有微弱的机会获得泰索里昂印记!
+$prefabs_item_consumable_donation_auto_snowfest2021_donate_name=冰雪庆典捐赠
+$prefabs_item_consumable_donation_auto_snowfest2021_donate_description=冰雪庆典是为了体现出奉献精神，那么为什么不现在开始奉献呢？ 每一笔捐赠都会获得一个'冰雪庆典2021惊喜'，甚至有机会获得一个'冰雪庆典2021宝箱'!
+$prefabs_item_consumable_donation_auto_snowfest2021_donate_coin_description=冰雪庆典是为了体现出奉献精神，那么为什么不现在开始奉献呢？ 每一笔捐赠都会获得一个'冰雪庆典2021惊喜'和一个'冰雪庆典2021宝箱'!

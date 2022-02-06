@@ -14,3 +14,5 @@ $prefabs_item_egg_family_qubrik_name=温顺的奎布瑞克蛋
 $prefabs_item_egg_family_qubrik_description=可以孵化出一只常见的，罕见的或稀有的奎布瑞克。\n\n在鲜绿脉络中帮助野生奎布瑞克时，有极低几率获得。
 $prefabs_item_egg_family_zepperay_name=温顺的扎普瑞蛋
 $prefabs_item_egg_family_zepperay_description=可以孵化出一只常见的，罕见的或稀有的扎普瑞。\n\n在月光石窟中帮助野生扎普瑞时，有极低几率获得。
+$prefabs_item_egg_family_heckbug_name=地狱虫蛋
+$prefabs_item_egg_family_heckbug_description=可以孵化出一只常见的，罕见的或稀有的地狱虫。\n\n在地狱虫爱情活动中在沉没日库探索或协助野生地狱虫时，有极低几率获得。\n\n<font color='#ff3030'>注意:</font> 在地狱虫爱情活动结束后不久，这个东西会从你的背包中消失。

@@ -180,3 +180,5 @@ $prefabs_prefabs_quest_spawn_trigger_radiant_sign_title=Dark Heart
 $prefabs_prefabs_quest_spawn_trigger_radiant_sign_content=Press [HK:Loot] to shatter.
 $prefabs_prefabs_townportal_item_name=Origin Portal Potion
 $prefabs_prefabs_townportal_item_description=Creates a portal on impact which leads to the starting point of the world.
+$prefabs_prefabs_gm_tag_pvp_icesnareballpowerup_item_name=Ice Slick Bomb
+$prefabs_prefabs_gm_tag_pvp_icesnareballpowerup_item_description=An Ice Slick Bomb that slows nearby enemies and turns the nearby ground into ice.

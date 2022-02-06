@@ -407,3 +407,7 @@ $prefabs_item_crafting_lunardrop_name=纯净之星
 $prefabs_item_crafting_lunardrop_description=在太阳圣徒的帮助下，在光耀喷泉制作这个物品。
 $prefabs_item_crafting_shadowseve_oct2021_lunar_cond_name=月光凝结物
 $prefabs_item_crafting_shadowseve_oct2021_lunar_cond_desc=月光凝结物(Lunar Condensate)\n\n-货币和制作材料。被月之骑士团接受，用于在主城的工匠工坊的暗影制作站制作物品。\n-在中世纪高原、沙漠边境和诅咒峡谷击败入侵者后获得。\n\n月光凝结物会在2021年暗影之夜后不久消失。
+$prefabs_item_crafting_prestige_collection_name=巅峰印记(Paragon's Mark)
+$prefabs_item_crafting_prestige_collection_description=很少从原初巅峰皮纳塔那里获得。用来制作巅峰工作台的物品，在主城的公会会馆下面的巅峰地宫里。
+$prefabs_item_crafting_shadowseve_dec2021_coin_name=冰雪庆典2021代币
+$prefabs_item_crafting_shadowseve_dec2021_coin_desc=冰雪庆典2021代币(Snowfest 2021 Tokens)\n货币和制作材料. 在主城的捐赠台接受捐赠。\n\n冰雪庆典2021代币在冰雪庆典活动结束后消失。

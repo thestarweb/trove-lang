@@ -98,3 +98,7 @@ $prefabs_collections_aura_sticky_bomb_explosion_01_item_name=Cherry Bomb Burst
 $prefabs_collections_aura_sticky_bomb_explosion_01_item_description=These friendly fireworks celebrate wherever you go!
 $prefabs_collections_aura_floating_bombs_01_item_name=Mental Minefield
 $prefabs_collections_aura_floating_bombs_01_item_description=How does anyone expect you to get anything done with these bombs rolling around your brain?!
+$prefabs_collections_aura_aura_stellar_prestige_01_name=Paragon Aura: Helm
+$prefabs_collections_aura_aura_stellar_prestige_01_description=Adds a powerful Paragon aura to your helmet.
+$prefabs_collections_aura_aura_prestige_01_name=Paragon Aura: Weapon
+$prefabs_collections_aura_aura_prestige_01_description=Adds a powerful Paragon aura to your weapon.

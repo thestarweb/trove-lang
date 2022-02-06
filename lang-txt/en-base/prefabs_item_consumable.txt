@@ -120,3 +120,7 @@ $prefabs_item_consumable_event_wishscroll_02_name=Wish Scroll: Flask
 $prefabs_item_consumable_event_wishscroll_02_description=Pray with this scroll to gain a blessing from the Goddesses for an extra flask for 30 minutes.\n\nThe scroll's magic is ephemeral and it will vanish at the end of 2020.
 $prefabs_item_consumable_event_wishscroll_03_name=Wish Scroll: Damage Avoidance
 $prefabs_item_consumable_event_wishscroll_03_description=Pray with this scroll to gain a blessing from the Goddesses to take 1% less damage for 30 minutes.\n\nThe scroll's magic is ephemeral and it will vanish at the end of 2020.
+$prefabs_item_consumable_ally_big_name=Ally Up
+$prefabs_item_consumable_ally_big_description=Increases the size of your Ally for five minutes.
+$prefabs_item_consumable_xp_10000_1day_name=XP Coin
+$prefabs_item_consumable_xp_10000_1day_description=When consumed, immediately grants 10,000 Experience Points to your currently active class

@@ -176,3 +176,9 @@ $prefabs_item_lootbox_shadowseve2021_item_name=Order of the Moon's Treasure Box
 $prefabs_item_lootbox_shadowseve2021_item_description=Contains a plethora of prizes, including Bound Brilliance, Dragon Coins, and a rare chance at Diamond Dragonite or Metamatter.
 $prefabs_item_lootbox_delve_freerange_name=Glowing Crystalline Cache
 $prefabs_item_lootbox_delve_freerange_description=Guaranteed to have the possibility of containing Freerange Electrolytic Crystals!
+$prefabs_item_lootbox_prestige_prime_name=Primal Paragon Cube
+$prefabs_item_lootbox_prestige_prime_description=Contains 1 PRIMAL LOOP for your ACTIVE CLASS when opened.
+$prefabs_item_lootbox_prestige_prime_weekly_autoconsume_name=Primal Paragon Cube (WEEKLY)
+$prefabs_item_lootbox_prestige_prime_weekly_autoconsume_description=Contains 1 PRIMAL LOOP for your ACTIVE CLASS when opened. \n<font color='#e8e34f'>You may only craft this recipe three (3) times per week!</font>
+$prefabs_item_lootbox_prestige_deco_name=Paragon Decor Box
+$prefabs_item_lootbox_prestige_deco_description=Contains one Paragon's Palace themed Decoration box

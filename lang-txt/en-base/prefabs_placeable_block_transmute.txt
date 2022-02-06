@@ -7,3 +7,5 @@ $prefabs_placeable_block_transmute_water_item_name=Melty Ice
 $prefabs_placeable_block_transmute_water_item_description=Press [HK:Loot] to transmute all connected Melty Ice blocks into water.
 $prefabs_placeable_block_transmute_mimic_item_name=Mimic
 $prefabs_placeable_block_transmute_mimic_item_description=When this block is placed it will transform to match adjacent blocks.
+$prefabs_placeable_block_transmute_mimic_extra_item_name=Adaptable Mimic
+$prefabs_placeable_block_transmute_mimic_extra_item_description=When this block is placed it will transform to match adjacent blocks; even some textured and glowing blocks.

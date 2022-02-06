@@ -208,3 +208,7 @@ $prefabs_placeable_frameworks_house_veggie_name=蔬菜之家
 $prefabs_placeable_frameworks_house_veggie_desc=可在基石和公会世界中放置。\n\n\n蔬菜之家，由宝藏世界中最顶端的碧叶使者制作。\n\n<font color='#ff3030'>警告:</font> 框架会销毁所有与之相交的方块，这些方块不会返还。框架放置后不能再被拿起。
 $prefabs_placeable_frameworks_qubesly_table_name=朋友感恩节晚餐盛宴
 $prefabs_placeable_frameworks_qubesly_table_desc=可在基石和公会世界中放置。\n\n\n朋友感恩节晚餐盛宴，因为食物总是和朋友一起分享最好的东西!\n\n<font color='#ff3030'>警告:</font> 框架会销毁所有与之相交的方块，这些方块不会返还。框架放置后不能再被拿起。
+$prefabs_placeable_frameworks_house_oldcastle_name=迷人的城堡(Charming Chateau)
+$prefabs_placeable_frameworks_house_oldcastle_description=可在基石和公会世界中放置。\n\n成为我们的客人，成为我们的客人，让这个阳台接受考验。\n\n<font color='#ff3030'>警告:</font> 框架会销毁所有与之相交的方块，这些方块不会返还。框架放置后不能再被拿起。
+$prefabs_placeable_frameworks_house_heckbug_name=地狱虫洞穴(Heckbug Burrow)
+$prefabs_placeable_frameworks_house_heckbug_description=可在基石和公会世界中放置。\n\n埋头苦干，享受惬意的生活。\n\n<font color='#ff3030'>警告:</font> 框架会销毁所有与之相交的方块，这些方块不会返还。框架放置后不能再被拿起。

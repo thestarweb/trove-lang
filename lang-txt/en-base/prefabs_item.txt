@@ -102,3 +102,5 @@ $prefabs_item_pinata_starbar_notrade_name=Starglint Pinata
 $prefabs_item_pinata_starbar_notrade_description=Spawns a Starglint Pinata when thrown. Defeating it will give something good to the person who throws it and 7 other random people nearby.\n\nPinatas can be used in Hub and Club worlds.
 $prefabs_item_pinata_clubit_name=Curious Clubyata
 $prefabs_item_pinata_clubit_description=Spawns a Clubyata when thrown. Defeating it will give something good to the person who throws it and 7 other random people nearby.\n\nPinatas can be used in Hub and Club worlds.
+$prefabs_item_pinata_prestige_name=Primal Paragon Pinata
+$prefabs_item_pinata_prestige_description=Spawns a Primal Paragon Pinata when thrown. Defeating it will give something good to the person who throws it and 7 other random people nearby.\n\nPinatas can be used in Hub and Club worlds.

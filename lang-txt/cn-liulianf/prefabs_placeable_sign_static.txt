@@ -95,3 +95,5 @@ $prefabs_placeable_sign_static_howto_adv_world_interactive_sign_content=按[HK:L
 $prefabs_placeable_sign_static_howto_all_name=交互方式
 $prefabs_placeable_sign_static_howto_all_interactive_sign_title=如何游玩
 $prefabs_placeable_sign_static_howto_all_interactive_sign_content=按[HK:Loot]了解如何游玩Trove!
+$prefabs_placeable_sign_static_hub_building_prestige_interactive_sign_title=欢迎来到巅峰地宫
+$prefabs_placeable_sign_static_hub_building_prestige_interactive_sign_content=下方 - 巅峰地宫\n\n西部 - 太阳女神像\n\n北面 - 活动场地[EVENT VENUE]
