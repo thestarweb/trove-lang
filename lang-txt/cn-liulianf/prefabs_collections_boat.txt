@@ -93,3 +93,7 @@ $prefabs_collections_boat_clipper_starfish_name=海星掠夺舰
 $prefabs_collections_boat_clipper_starfish_description=海星掠夺舰（Starfish Skimmer）\n沿着水面滑行，没有一丝微风。
 $prefabs_collections_boat_clipper_yarn_name=编织机切割者
 $prefabs_collections_boat_clipper_yarn_description=Knitter Cutter\n柔和到了极点!
+$prefabs_collections_boat_clipper_candle_name=TSS卢塞纳
+$prefabs_collections_boat_clipper_candle_description=这艘寻日者的海船上将永远有光。
+$prefabs_collections_boat_galleon_tanabata_name=瓦森
+$prefabs_collections_boat_galleon_tanabata_description=与传统一起旅行。

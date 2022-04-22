@@ -1,7 +1,7 @@
 $prefabs_item_crafting_events_march2021_luckbeast_name=Luckbeast Haunch
-$prefabs_item_crafting_events_march2021_luckbeast_description=Key ingredeint for the extra-hearty Feast of St. Qubeslick\nDisappears at the end of the St. Qubeslick event
+$prefabs_item_crafting_events_march2021_luckbeast_description=Key ingredeint for the extra-hearty Feast of St. Qubeslick\n<font color='#ff3030'>Disappears</font> at the end of the St. Qubeslick event
 $prefabs_item_crafting_events_march2021_sevenspice_name=St. Qubeslick's Sevenspice
-$prefabs_item_crafting_events_march2021_sevenspice_description=This might actually be Eightspice. Is salt a spice?\n\nObtained from Dungeons in the Treasure Isles biome, found in the Drowned World as well as other adventure worlds.\nDisappears at the end of the St. Qubeslick event
+$prefabs_item_crafting_events_march2021_sevenspice_description=This might actually be Eightspice. Is salt a spice?\n\nObtained from Dungeons in the Treasure Isles biome, found in the Drowned World as well as other adventure worlds.\n<font color='#ff3030'>Disappears</font> at the end of the St. Qubeslick event
 $prefabs_item_crafting_events_april2021_chocolate_name=Bunfest Chocolate
 $prefabs_item_crafting_events_april2021_chocolate_description=Bunfest Chocolate is usually found hidden in eggs in the MEDIEVAL HIGHLANDS, FAE WILDS, CANDORIA, and GEODE TOPSIDE biomes.\n\n<font color='#ff3030'>Disappears</font> at the end of the Bunfest event
 $prefabs_item_crafting_events_april2021_refinedchocolate_name=Refined Chocolate
@@ -117,3 +117,5 @@ $prefabs_item_unlocker_events_november2021_qubesly_table_name=Recipe: Friendsgiv
 $prefabs_item_unlocker_events_november2021_qubesly_table_desc=Teaches the Recipe for the Friendsgiving Dinner Feast, craftable at the Turkeytopia Table.
 $prefabs_item_crafting_events_feb2022_heckbug_dummy_inv_name=Recipe: Heckbug Practice Dummy
 $prefabs_item_crafting_events_feb2022_heckbug_dummy_inv_desc=Teaches how to craft the Heckbug Practice Dummy at the Fun Factory.
+$prefabs_item_crafting_events_march2022_reusable_buff_name=Borrowed Luck
+$prefabs_item_crafting_events_march2022_reusable_buff_desc=This donation grants a buff of 250 Magic Find for 3 hours.\n\nDonations only accepted once each week.

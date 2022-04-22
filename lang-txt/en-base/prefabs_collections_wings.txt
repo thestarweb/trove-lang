@@ -105,3 +105,5 @@ $prefabs_collections_wings_prestige_02_item_name=Primal Paragon Wings
 $prefabs_collections_wings_prestige_02_item_description=Predatory pinions preferred by Primal Paragons
 $prefabs_collections_wings_champagen_name=Bubbly Elevators
 $prefabs_collections_wings_champagne_description=Pure carbonated apple juice.
+$prefabs_collections_wings_clouds_name=Streaks of Sunlight
+$prefabs_collections_wings_clouds_description=Close, but not ftl.

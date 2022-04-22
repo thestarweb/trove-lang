@@ -93,3 +93,7 @@ $prefabs_collections_boat_clipper_starfish_name=Starfish Skimmer
 $prefabs_collections_boat_clipper_starfish_description=Skims along the surface of the water with nary a breeze.
 $prefabs_collections_boat_clipper_yarn_name=Knitter Cutter
 $prefabs_collections_boat_clipper_yarn_description=Soft to the core!
+$prefabs_collections_boat_clipper_candle_name=TSS Lucerna
+$prefabs_collections_boat_clipper_candle_description=There will always be light on this Trovian sea ship.
+$prefabs_collections_boat_galleon_tanabata_name=Wasen
+$prefabs_collections_boat_galleon_tanabata_description=Travelling with tradition.

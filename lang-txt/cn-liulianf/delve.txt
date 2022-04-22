@@ -198,6 +198,7 @@ $Delve_EpitaphMonsterMutation=[HK:Loot] 复活。谁TM能想到{0}生物那么�
 $Delve_EpitaphMonsterName=[HK:Loot] 复活。死于{0}。
 $DelveMatchmakerSign_Title_InstancePrivate=即时秘境
 $DelveMatchmakerSign_Text_InstancePrivate=[HK:Loot] 进入秘境.\n剩余 {0} 位置.
+$DelveMatchmakerSign_Text_IntraDelve=[HK:Loot] 重新开始秘境。\n剩余 {0} 个位置。\n快点，传送门很快就会消失了
 $DelveMatchmakerSign_TitleWithOwner={0}的秘境队列
 $DelveMatchmakerSign_TitlePublic=公共秘境队列
 $DelveMatchmakerSign_Text_Custom_DepthOnly=深度: {0}

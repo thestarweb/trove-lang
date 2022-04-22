@@ -198,6 +198,7 @@ $Delve_EpitaphMonsterMutation=[HK:Loot] to resurrect.\nWho would have thought {0
 $Delve_EpitaphMonsterName=[HK:Loot] to resurrect.\nDied to {0}
 $DelveMatchmakerSign_Title_InstancePrivate=Instant Delve
 $DelveMatchmakerSign_Text_InstancePrivate=[HK:Loot] to enter delve.\n{0} slots remaining.
+$DelveMatchmakerSign_Text_IntraDelve=[HK:Loot] to restart delve.\n{0} slots remaining.\nHURRY, portal will vanish soon
 $DelveMatchmakerSign_TitleWithOwner={0}'s Delve Queue
 $DelveMatchmakerSign_TitlePublic=Public Delve Queue
 $DelveMatchmakerSign_Text_Custom_DepthOnly=Depth: {0}

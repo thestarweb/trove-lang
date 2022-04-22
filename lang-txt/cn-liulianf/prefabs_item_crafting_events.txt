@@ -1,7 +1,7 @@
 $prefabs_item_crafting_events_march2021_luckbeast_name=幸运兽的腰腿肉
-$prefabs_item_crafting_events_march2021_luckbeast_description=圣克贝斯利盛宴的主要食材。\n在幸运兽身上获得\n在圣克贝斯利活动结束不久后消失
+$prefabs_item_crafting_events_march2021_luckbeast_description=圣克贝斯利盛宴的主要食材。\n<font color='#ff3030'>在圣克贝斯利活动结束不久后消失</font>
 $prefabs_item_crafting_events_march2021_sevenspice_name=圣克贝斯利可七香粉
-$prefabs_item_crafting_events_march2021_sevenspice_description=这实际上可能是八香粉，额... 盐是香料吗？\n\n完成浸末世界和主世界的宝藏岛生物群落的地下城获得。\n在圣克贝斯利活动结束不久后消失
+$prefabs_item_crafting_events_march2021_sevenspice_description=这实际上可能是八香粉，额... 盐是香料吗？\n\n在宝藏岛生物群落的地下城获得，在浸末世界和主世界都可发现宝藏岛。\n<font color='#ff3030'>在圣克贝斯利活动结束不久后消失</font>
 $prefabs_item_crafting_events_april2021_chocolate_name=兔子庆典巧克力
 $prefabs_item_crafting_events_april2021_chocolate_description=兔子庆典巧克力通常被发现隐藏在蛋中，在中世纪高原，妖精森林，糖果世界和晶洞地表生物群落。\n\n在兔子庆典活动结束后<font color='#ff3030'>消失</font>
 $prefabs_item_crafting_events_april2021_refinedchocolate_name=精制巧克力
@@ -117,3 +117,5 @@ $prefabs_item_unlocker_events_november2021_qubesly_table_name=配方: 朋友感�
 $prefabs_item_unlocker_events_november2021_qubesly_table_desc=解锁朋友感恩节晚餐盛宴的配方，可在火鸡庆典桌上制作。
 $prefabs_item_crafting_events_feb2022_heckbug_dummy_inv_name=配方: 地狱虫练习假人
 $prefabs_item_crafting_events_feb2022_heckbug_dummy_inv_desc=教会如何在玩具工厂制作地狱虫练习假人。
+$prefabs_item_crafting_events_march2022_reusable_buff_name=借来好运
+$prefabs_item_crafting_events_march2022_reusable_buff_desc=此项捐赠可获得3小时内的增加250魔寻的BUFF。\n\n每周只接受一次捐赠。

@@ -201,3 +201,7 @@ $prefabs_item_unlocker_style_prestige_name=Paragon Style Unlocker
 $prefabs_item_unlocker_style_prestige_description=Unlock a random Paragon style you don't already have unlocked.
 $prefabs_item_unlocker_recipe_snowfest2021_item_name=Snowfest 2021 Surprise
 $prefabs_item_unlocker_recipe_snowfest2021_item_description=Unlock a random Snowfest 2021 recipe you don't already have unlocked.
+$prefabs_item_unlocker_recipe_march2022_item_name=St. Qubeslick 2022 Decoration Unlocker
+$prefabs_item_unlocker_recipe_march2022_item_description=Unlock a random St. Qubeslick 2022 Decoration recipe you don't already have unlocked. These decorations can be crafted at the Wheel of Seasons.
+$prefabs_item_unlocker_recipe_bunfest_2022_item_name=Recipe Stash: Bunfest '22
+$prefabs_item_unlocker_recipe_bunfest_2022_item_description=Unlock a random Bunfest 2022 recipe you don't already have unlocked.

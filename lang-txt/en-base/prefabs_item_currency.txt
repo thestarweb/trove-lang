@@ -33,3 +33,9 @@ $prefabs_item_currency_july2021_panatea_name=Panatean Ante
 $prefabs_item_currency_july2021_panatea_description=Using revolutionary new technology, Panatean Antes are sure to skyrocket in value!\n\n\n\n\n\n<font color='#ff3030'>Disappears</font> at the end of the Sunfest event
 $prefabs_item_currency_july2021_carys_name=Carysian Ducat
 $prefabs_item_currency_july2021_carys_description=Minted using TOP TIER House Carys technology, this is the currency of tomorrow, today!\n\n\n\n\n\n<font color='#ff3030'>Disappears</font> at the end of the Sunfest event
+$prefabs_item_currency_march2022_event_coin_name=Sir O'Lucky's Coin
+$prefabs_item_currency_march2022_event_coin_description=A coin from St. Qubeslick's horde, recovered from villainous pirates.\n\n<font color='#ff3030'>Disappears</font> at the end of the St. Qubeslick event.
+$prefabs_item_currency_march2022_event_frag_name=Fragment of Luck
+$prefabs_item_currency_march2022_event_frag_description=A fragment of luck sold by Sir O'Lucky. Can be used to purchase the Perennial Pot o' Gold, Sir O'Lucky's Standard, and Lil Lucky.\n\n<font color='#ff3030'>Disappears</font> at the end of the St. Qubeslick event.
+$prefabs_item_currency_apr_fools_event_frag_name=Fool's Gold
+$prefabs_item_currency_apr_fools_event_frag_desc=Looks valuable at first glance, but it's just a pretty rock.\n\nCan be used to craft a recipe at the Radiant Dayspring during April Fool's Day.\n\n<font color='#ff3030'>Disappears</font> shortly after April Fool's Day.

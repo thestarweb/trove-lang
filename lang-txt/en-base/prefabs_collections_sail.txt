@@ -121,3 +121,5 @@ $prefabs_collections_sail_honeycomb_description="Why I'm thrilled! It's absolute
 $prefabs_collections_sail_prestige_name=Paragon Sail
 $prefabs_collections_sail_knitted_name=Knitted Sail
 $prefabs_collections_sail_knitted_description=Impermeable to water and extremely cozy!
+$prefabs_collections_sail_tanabata_name=Star Sail
+$prefabs_collections_sail_tanabata_description=Sail across a starry sea.

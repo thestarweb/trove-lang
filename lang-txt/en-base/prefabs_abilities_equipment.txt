@@ -65,3 +65,4 @@ $abilities_equipment_banner_additional_inertgeode_loot_description=Increases cha
 $prefabs_abilities_equipment_scale_down_95_description=Slightly decreases your size while equipped.
 $prefabs_abilities_equipment_scale_up_105_description=Slightly increases your size while equipped.
 $prefabs_abilities_equipment_gift_spawner_description=Sometimes spawns 1 of 3 Snowfest Gifts after defeating an enemy. Each gift can be unwrapped once each day.
+$prefabs_abilities_equipment_march_visibilty_description=Reveals the presence of enemies hidden by the magic of St. Qubeslick.

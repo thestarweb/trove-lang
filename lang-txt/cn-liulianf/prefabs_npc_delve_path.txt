@@ -97,3 +97,4 @@ $prefabs_npc_delve_path_lunarpriest_moonacolyte_name=月亮圣徒
 $prefabs_npc_delve_path_lunarpriest_moonpriest_name=月亮祭司
 $prefabs_npc_delve_path_biped_medium_corn_basic_name=成年科布
 $prefabs_npc_delve_boss_biped_medium_corn_mean_name=科布萌芽
+$prefabs_npc_delve_boss_giant_bunsmasher_name=巨大兔子人

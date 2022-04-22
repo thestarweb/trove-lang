@@ -97,3 +97,4 @@ $prefabs_npc_delve_path_lunarpriest_moonacolyte_name=Lunar Acolyte
 $prefabs_npc_delve_path_lunarpriest_moonpriest_name=Lunar Priest
 $prefabs_npc_delve_path_biped_medium_corn_basic_name=Cobb Sprout
 $prefabs_npc_delve_boss_biped_medium_corn_mean_name=Poppa Cobb
+$prefabs_npc_delve_boss_giant_bunsmasher_name=Bunsmasher Giant

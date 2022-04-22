@@ -105,3 +105,5 @@ $prefabs_collections_wings_prestige_02_item_name=原初巅峰飞翼
 $prefabs_collections_wings_prestige_02_item_description=原初巅峰最喜欢的小翅膀
 $prefabs_collections_wings_champagen_name=泡沫电翼
 $prefabs_collections_wings_champagne_description=纯粹的碳酸苹果汁。
+$prefabs_collections_wings_clouds_name=阳光斑波
+$prefabs_collections_wings_clouds_description=很接近，但不是很好。

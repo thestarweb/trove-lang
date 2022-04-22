@@ -675,3 +675,4 @@ $Claims_snowfest2021_token=A token of appreciation during the best time of year.
 $Claims_snowfest2021_gift=What could be inside?!
 $Claims_snowfest2021_present=A Snowfest surprise!
 $Claims_snowfest2021_mainline=Donations are appreciated bud.
+$Claims_march2022_coin=A lucky coin in lucky times.

@@ -65,3 +65,4 @@ $abilities_equipment_banner_additional_inertgeode_loot_description=增加秘境�
 $prefabs_abilities_equipment_scale_down_95_description=装备时可略微减少你的体型。
 $prefabs_abilities_equipment_scale_up_105_description=装备时可略微增加你的体型。
 $prefabs_abilities_equipment_gift_spawner_description=击败敌人后有时会产生3个冰雪庆典礼物中的一个。每个礼品每天可以拆开一次。
+$prefabs_abilities_equipment_march_visibilty_description=揭示被圣克贝斯利可的魔法所隐藏的敌人的存在。

@@ -308,3 +308,8 @@ $prefabs_equipment_banner_dec2021_giftsgiving_name=奉献者旗帜
 $prefabs_equipment_banner_dec2021_giftsgiving_desc=奉献是冰雪庆典的精神。\n\n这的旗帜的魔力是暂时的，它将在冰雪庆典2021活动结束后消失。
 $prefabs_equipment_banner_renewus_2022_name=霓虹拉力赛旗帜
 $prefabs_equipment_banner_renewus_2022_desc=霓虹城中最敬业的人的一个完美旗帜。
+$prefabs_equipment_banner_stqubeslick_name=幸运爵士旗帜\n
+$prefabs_equipment_banner_stqubeslick_desc_no_warning=全部的颜色都是幸运爵士的颜色！
+$prefabs_equipment_banner_stqubeslick_desc=全部的颜色都是幸运爵士的颜色！\n\n<font color='#ff3030'>警告: 这个旗帜的力量是暂时的，它将在2022圣克贝斯利可庆典活动结束后消失。</font>
+$prefabs_equipment_banner_bunfest_name=兔子庆典旗帜
+$prefabs_equipment_banner_bunfest_desc=炫耀每年兔子庆典的骄傲和喜悦。

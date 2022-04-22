@@ -1,6 +1,6 @@
 $prefabs_item_crafting_delve_memento_epic_name=Epic Condensed Memory
-$prefabs_item_crafting_delve_memento_epic_description=Ashes to ashes, blocks to blocks...\nAcquired by Deconstructing an Epic Memento from a Delve
+$prefabs_item_crafting_delve_memento_epic_description=Ashes to ashes, blocks to blocks...\nAcquired by Loot Collecting an Epic Memento from a Delve
 $prefabs_item_crafting_delve_memento_rare_name=Rare Condensed Memory
-$prefabs_item_crafting_delve_memento_rare_description=Ashes to ashes, blocks to blocks...\nAcquired by Deconstructing a Rare Memento from a Delve
+$prefabs_item_crafting_delve_memento_rare_description=Ashes to ashes, blocks to blocks...\nAcquired by Loot Collecting a Rare Memento from a Delve
 $prefabs_item_crafting_delve_memento_uncommon_name=Uncommon Condensed Memory
-$prefabs_item_crafting_delve_memento_uncommon_description=Ashes to ashes, blocks to blocks...\nAcquired by Deconstructing an Uncommon Memento from a Delve
+$prefabs_item_crafting_delve_memento_uncommon_description=Ashes to ashes, blocks to blocks...\nAcquired by Loot Collecting an Uncommon Memento from a Delve

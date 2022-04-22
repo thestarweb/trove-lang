@@ -33,3 +33,9 @@ $prefabs_item_currency_july2021_panatea_name=皮纳塔亚筹码
 $prefabs_item_currency_july2021_panatea_description=使用革命性的新技术，皮纳塔亚筹码的价值肯定会飞速增长!\n\n\n\n\n在太阳庆典活动结束时<font color='#ff3030'>消失</font>
 $prefabs_item_currency_july2021_carys_name=卡瑞斯达克特
 $prefabs_item_currency_july2021_carys_description=使用卡瑞斯家族顶级的铸币技术，这是今天与未来的货币!\n\n\n\n\n在太阳庆典活动结束时<font color='#ff3030'>消失</font>
+$prefabs_item_currency_march2022_event_coin_name=幸运爵士币(Sir O'Lucky's Coin)
+$prefabs_item_currency_march2022_event_coin_description=圣克贝斯利部落的一枚硬币，从恶棍海盗手中夺回。\n\n<font color='#ff3030'>在圣克贝斯利活动结束不久后消失</font> 
+$prefabs_item_currency_march2022_event_frag_name=幸运碎片(Fragment of Luck)
+$prefabs_item_currency_march2022_event_frag_description=幸运爵士出售的幸运碎片。可用于购买聚金罐、幸运爵士旗帜和小幸运。\n\n<font color='#ff3030'>在圣克贝斯利活动结束不久后消失</font> 
+$prefabs_item_currency_apr_fools_event_frag_name=愚人黄金(Fool's Gold)
+$prefabs_item_currency_apr_fools_event_frag_desc=乍看之下很有价值，但它只是一块漂亮的石头。\n\n在愚人节期间，可以用来在光耀喷泉制作一个配方。\n\n<font color='#ff3030'>在愚人节后消失</font>

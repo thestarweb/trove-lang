@@ -675,6 +675,7 @@ $Claims_snowfest2021_token=在这一年中最美好的时光里，表示感谢�
 $Claims_snowfest2021_gift=里面会有什么？
 $Claims_snowfest2021_present=冰雪庆典的惊喜!
 $Claims_snowfest2021_mainline=感谢捐赠。
+$Claims_march2022_coin=幸运时代的幸运硬币。
 $Adventure_daily_august2021_3star_dungeon_name=清理3星地下城
 $Adventure_daily_august2021_3star_dungeon_shortdesc=向太阳圣徒展示你的力量.
 $Adventure_daily_august2021_3star_dungeon_longdesc=为那些寻求更高力量的人而战。带上你的勇气去地下城。当你完成后再来找我要奖励。

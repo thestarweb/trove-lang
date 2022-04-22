@@ -1,6 +1,6 @@
 $prefabs_npc_events_nov2020_diggsly_sign_title=Diggsly
 $prefabs_npc_events_nov2020_diggsly_sign_content=Use [HK:Loot] to interact
-$prefabs_npc_events_march2021_qubesly_sign_title=Qubesly
+$prefabs_npc_events_march2021_qubesly_sign_title=Sir Qubesly
 $prefabs_npc_events_march2021_qubesly_sign_text=Celebrating Bunfest in style!
 $prefabs_npc_events_may2021_sign_title=Sir Dapper Duckington
 $prefabs_npc_events_may2021_sign_text=Use [HK:Loot] to interact! QUACK! QUACK!\n'Get your SPRING FLING on!! QUACK!

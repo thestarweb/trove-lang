@@ -1,6 +1,6 @@
 $prefabs_npc_events_nov2020_diggsly_sign_title=钻头鼹鼠
 $prefabs_npc_events_nov2020_diggsly_sign_content=按 [HK:Loot] 进行互动
-$prefabs_npc_events_march2021_qubesly_sign_title=克贝斯利
+$prefabs_npc_events_march2021_qubesly_sign_title=克贝斯利爵士
 $prefabs_npc_events_march2021_qubesly_sign_text=庆祝兔子庆典的风采!
 $prefabs_npc_events_may2021_sign_title=帅气的鸭顿先生
 $prefabs_npc_events_may2021_sign_text=按 [HK:Loot] 跟我对话! 嘎嘎! 嘎嘎!\n'开始你的春日嘉年华!! 嘎嘎!

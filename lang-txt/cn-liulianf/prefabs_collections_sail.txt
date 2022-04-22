@@ -121,3 +121,5 @@ $prefabs_collections_sail_honeycomb_description="为什么我很激动! 它是�
 $prefabs_collections_sail_prestige_name=巅峰之帆
 $prefabs_collections_sail_knitted_name=编织帆
 $prefabs_collections_sail_knitted_description=不透水，非常舒适!
+$prefabs_collections_sail_tanabata_name=星空之帆
+$prefabs_collections_sail_tanabata_description=驶过星辰大海。

@@ -1,10 +1,10 @@
 $prefabs_item_fish_enchanted_rare_frogprince_item_name=Frog Prince
-$prefabs_item_fish_enchanted_rare_frogprince_item_description=Rare Fish. Deconstruct it to gain resources and add it to your collection.
+$prefabs_item_fish_enchanted_rare_frogprince_item_description=Rare Fish. Loot Collect it to gain resources and add it to your collection.
 $prefabs_item_fish_enchanted_rare_gryphon_item_name=Gryphish
-$prefabs_item_fish_enchanted_rare_gryphon_item_description=Rare Fish. Deconstruct it to gain resources and add it to your collection.
+$prefabs_item_fish_enchanted_rare_gryphon_item_description=Rare Fish. Loot Collect it to gain resources and add it to your collection.
 $prefabs_item_fish_enchanted_rare_merqubesly_item_name=Deep Sea Merthing
-$prefabs_item_fish_enchanted_rare_merqubesly_item_description=Rare Fish. Deconstruct it to gain resources and add it to your collection.
+$prefabs_item_fish_enchanted_rare_merqubesly_item_description=Rare Fish. Loot Collect it to gain resources and add it to your collection.
 $prefabs_item_fish_enchanted_rare_phoenix_item_name=Phoenix Fish
-$prefabs_item_fish_enchanted_rare_phoenix_item_description=Rare Fish. Deconstruct it to gain resources and add it to your collection.
+$prefabs_item_fish_enchanted_rare_phoenix_item_description=Rare Fish. Loot Collect it to gain resources and add it to your collection.
 $prefabs_item_fish_enchanted_rare_witch_item_name=Witchly Anemone
-$prefabs_item_fish_enchanted_rare_witch_item_description=Rare Fish. Deconstruct it to gain resources and add it to your collection.
+$prefabs_item_fish_enchanted_rare_witch_item_description=Rare Fish. Loot Collect it to gain resources and add it to your collection.
