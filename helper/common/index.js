@@ -51,8 +51,8 @@ function readTxtFile(path) {
     if (!fs_1.default.existsSync(path))
         return [];
     return fs_1.default.readFileSync(path, { encoding: 'utf8' }).split("\n").map(item => {
-        const [key, value] = item.split("=", 2);
-        return { key, value };
+        const [key, ...value] = item.split("=");
+        return { key, value: value.join('=') };
     });
 }
 exports.readTxtFile = readTxtFile;

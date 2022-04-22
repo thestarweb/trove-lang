@@ -54,7 +54,7 @@ export function binfabs2TxtsWithLog(srcdir: string, outDir: string = './'):void{
 export function readTxtFile(path:string):LangInfoItem[]{
     if(!fs.existsSync(path)) return [];
     return fs.readFileSync(path, {encoding: 'utf8'}).split("\n").map(item => {
-        const [key, value] = item.split("=", 2);
-        return {key, value};
+        const [key, ...value] = item.split("=");
+        return {key, value: value.join('=')};
     });
 }
