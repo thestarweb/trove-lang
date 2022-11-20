@@ -167,7 +167,7 @@ $prefabs_item_lootbox_delve_carpet_005_description=Contains two sample segments 
 $prefabs_item_lootbox_delve_carpet_006_name=Fulgurite Samplebook
 $prefabs_item_lootbox_delve_carpet_006_description=Contains two sample segments of Fulgurite Quilt flooring
 $prefabs_item_lootbox_trophy_item_name=Mysterious Trophy Case
-$prefabs_item_lootbox_trophy_item_description=Open it to reveal a random Trophy! Has a chance of containing Trophy's unique to this case!
+$prefabs_item_lootbox_trophy_item_description=Open it to reveal a random Trophy! Has a chance of containing Trophies unique to this case!
 $prefabs_item_lootbox_neowiz_name=Neonium Cache
 $prefabs_item_lootbox_neowiz_description=Normally contains Flux or other useful items. Rarely contains Pure Neonium.
 $prefabs_item_lootbox_delve_memento_cache_name=Pressure-locked Heirloom Case
@@ -184,13 +184,39 @@ $prefabs_item_lootbox_prestige_prime_daily_autoconsume_name=Primal Paragon Cube 
 $prefabs_item_lootbox_prestige_prime_daily_autoconsume_description=Contains 1 PRIMAL LOOP for your ACTIVE CLASS when opened. \n<font color='#e8e34f'>You may only craft this recipe one (1) time each day</font>
 $prefabs_item_lootbox_gem_booster_augment3_daily_autoconsume_name=Builder's Superior Focus (DAILY)
 $prefabs_item_lootbox_gem_booster_augment3_daily_autoconsume_description=Gem Augment. This item gives a large augment to one stat on a gem, and that gem's Power Rank. Used at the Gem Forge. Crafted at the Adventurer's Crafting Bench.\n<font color='#e8e34f'>You may only craft this recipe one (1) time each day</font>
+$prefabs_item_lootbox_gem_booster_augment3_weekly_autoconsume_name=Builder's Superior Focus (WEEKLY)
+$prefabs_item_lootbox_gem_booster_augment3_weekly_autoconsume_description=Gem Augment. This item gives a large augment to one stat on a gem, and that gem's Power Rank. Used at the Gem Forge. Crafted at the Adventurer's Crafting Bench.\n<font color='#e8e34f'>You may only craft this recipe one (1) time each week</font>
 $prefabs_item_lootbox_dragoncoin_daily_autoconsume_name=Dragon Coin (DAILY)
-$prefabs_item_lootbox_dragoncoin_daily_autoconsume_description=Used to hatch Dragons at the Dragon Crucible in the Hub.\n\nAquire by doing challenges or from the Dragon tab in the store (Press [HK:Store] Key).\n<font color='#e8e34f'>You may only craft this recipe one (1) time each day</font>
+$prefabs_item_lootbox_dragoncoin_daily_autoconsume_description=Used to hatch Dragons at the Dragon Crucible in the Hub.\n\nAcquire by doing challenges or from the Dragon tab in the store (Press [HK:Store] Key).\n<font color='#e8e34f'>You may only craft this recipe one (1) time each day</font>
+$prefabs_item_lootbox_dragoncoin_daily_autoconsume_description_controller=Used to hatch Dragons at the Dragon Crucible in the Hub.\n\n<font color='#e8e34f'>You may only craft this recipe one (1) time each day</font>
+$prefabs_item_lootbox_dragoncoin_weekly_autoconsume_name=Dragon Coin (WEEKLY)
+$prefabs_item_lootbox_dragoncoin_weekly_autoconsume_description=Used to hatch Dragons at the Dragon Crucible in the Hub.\n\nAcquire by doing challenges or from the Dragon tab in the store (Press [HK:Store] Key).\n<font color='#e8e34f'>You may only craft this recipe one (1) time each week</font>
+$prefabs_item_lootbox_dragoncoin_weekly_autoconsume_description_controller=Used to hatch Dragons at the Dragon Crucible in the Hub.\n\n<font color='#e8e34f'>You may only craft this recipe one (1) time each week</font>
 $prefabs_item_lootbox_bound_brilliance_daily_autoconsume_name=Bound Brilliance (DAILY)
 $prefabs_item_lootbox_bound_brilliance_daily_autoconsume_description=Crafting Material. A phyiscal receptacle for captured light. Used at the Adventurer's Crafting Bench to craft Gems Augments.\n\nObtained from the Weekly Class Power Rank Leaderboards and from Events.\n<font color='#e8e34f'>You may only craft this recipe one (1) time each day</font>
+$prefabs_item_lootbox_bound_brilliance_weekly_autoconsume_name=Bound Brilliance (WEEKLY)
+$prefabs_item_lootbox_bound_brilliance_weekly_autoconsume_description=Crafting Material. A phyiscal receptacle for captured light. Used at the Adventurer's Crafting Bench to craft Gems Augments.\n\nObtained from the Weekly Class Power Rank Leaderboards and from Events.\n<font color='#e8e34f'>You may only craft this recipe one (1) time each week</font>
 $prefabs_item_lootbox_crystalline_core_daily_autoconsume_name=Crystalline Core (DAILY)
 $prefabs_item_lootbox_crystalline_core_daily_autoconsume_description=This core in the hands of the Shaper could be morphed into an energy source powerful enough to act as the heart of an Ancient.\n\nObtained daily by completing 5 Star Dungeons within the time limit and from opening Geodian Topside Caches.\n\nObtained from the Weekly Class Power Rank Leaderboards and from Events.\n<font color='#e8e34f'>You may only craft this recipe one (1) time each day</font>
+$prefabs_item_lootbox_crystalline_core_weekly_autoconsume_name=Crystalline Core (WEEKLY)
+$prefabs_item_lootbox_crystalline_core_weekly_autoconsume_description=This core in the hands of the Shaper could be morphed into an energy source powerful enough to act as the heart of an Ancient.\n\nObtained daily by completing 5 Star Dungeons within the time limit and from opening Geodian Topside Caches.\n\nObtained from the Weekly Class Power Rank Leaderboards and from Events.\n<font color='#e8e34f'>You may only craft this recipe one (1) time each week.</font>
 $prefabs_item_lootbox_prestige_basic_daily_autoconsume_name=Trovian Loop (DAILY)
 $prefabs_item_lootbox_prestige_basic_daily_autoconsume_description=Awarded for each PARAGON level earned. \n<font color='#e8e34f'>You may only craft this recipe one (1) time each day</font>
+$prefabs_item_lootbox_prestige_basic_weekly_autoconsume_name=Trovian Loop (WEEKLY)
+$prefabs_item_lootbox_prestige_basic_weekly_autoconsume_description=Awarded for each PARAGON level earned. \n<font color='#e8e34f'>You may only craft this recipe one (1) time each week.</font>
 $prefabs_item_lootbox_prestige_deco_name=Paragon Decor Box
 $prefabs_item_lootbox_prestige_deco_description=Contains one Paragon's Palace themed Decoration box
+$prefabs_item_lootbox_chaos_core_weekly_autoconsume_name=Chaos Core (WEEKLY)
+$prefabs_item_lootbox_chaos_core_weekly_autoconsume_description=Used to craft rare chaotic collectibles at the Chaos Core Crafter.\n\nAcquire from Chaos Chests and by Loot Collecting Chaos Chests rewards. \n<font color='#e8e34f'>You may only craft this recipe one (1) time each week</font>
+$prefabs_item_lootbox_free_range_weekly_autoconsume_name=Freerange Electrolytic Crystals (WEEKLY)
+$prefabs_item_lootbox_free_range_weekly_autoconsume_description=Only the deepest of Delves have the right environments for the formation of this splendid snack. Usually found in Heavy Pressurized Chests. \n<font color='#e8e34f'>You may only craft this recipe one (1) time each week</font>
+$prefabs_item_lootbox_giantlands_name=Greater Sundered Uplands Cache
+$prefabs_item_lootbox_giantlands_description=Open for Ashen or Irradiant resources found in the Sundered Uplands, or rarely something more valuable!
+$prefabs_item_lootbox_giantlands_lesser_name=Lesser Sundered Uplands Cache
+$prefabs_item_lootbox_giantlands_lesser_description=Open for Ashen or Irradiant resources found in the Sundered Uplands.
+$prefabs_item_lootbox_giantlands_gold_name=Golden Sundered Uplands Cache
+$prefabs_item_lootbox_giantlands_gold_description=Open for large amounts of Sundered Uplands crafting materials or other valuable rewards!
+$prefabs_item_lootbox_giantlands_resource_ashen_name=Ashen Cache
+$prefabs_item_lootbox_giantlands_resource_ashen_description=Contains resources normally found within the Ashen Wastes in the Sundered Uplands.
+$prefabs_item_lootbox_giantlands_resource_irradiant_name=Cloudy Cache
+$prefabs_item_lootbox_giantlands_resource_irradiant_description=Contains resources normally found within the Cloud Layer of the Sundered Uplands.

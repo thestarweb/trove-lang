@@ -24,3 +24,5 @@ $prefabs_placeable_matchmaker_events_july2021_tysorion_t2_name=深度传送门: 
 $prefabs_placeable_matchmaker_events_july2021_tysorion_t2_description=排队参加原晶地狱裂痕秘境，里面有泰索里昂家族敌人，最小深度为110.\n纪念品掉落的<font color='#30ff30'>机会增加</font>!\n在太阳庆典活动结束时<font color='#ff3030'>消失</font>)
 $prefabs_placeable_matchmaker_events_october2021_shadowseve_name=秘境传送门: 狼穴
 $prefabs_placeable_matchmaker_events_october2021_shadowseve_desc=在这里，你可以排队参加通往狼穴生物群落的私人秘境。\n\n邀请:最多8名玩家\n坐骑:仅限秘境坐骑\n\n在暗影之夕活动结束后<font color='#ff3030'>消失</font>
+$prefabs_placeable_matchmaker_events_july2022_chuckp_name=秘境传送门: 查克,平索
+$prefabs_placeable_matchmaker_events_july2022_chuckp_description=排队进入查克,平索BOSS的私人秘境。

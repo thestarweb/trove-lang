@@ -98,3 +98,5 @@ $prefabs_item_terraforming_fae_tombs_in_undead_lands_item_name=Fae Tombs Terrafo
 $prefabs_item_terraforming_fae_tombs_in_undead_lands_item_desc=Terraform a zone into Fae Tombs found in Cursed Vale.\n\n<font color='#ff3030'>Warning:</font> This will destroy everything in that zone, as well as the borders of adjacent zones.
 $prefabs_item_terraforming_undead_tombs_in_faewilds_item_name=Undead Tombs Terraformer
 $prefabs_item_terraforming_undead_tombs_in_faewilds_item_desc=Terraform a zone into Undead Tombs found in the Fae Wilds.\n\n<font color='#ff3030'>Warning:</font> This will destroy everything in that zone, as well as the borders of adjacent zones.
+$prefabs_item_terraforming_giantlands_item_name=Sundered Uplands Terraformer
+$prefabs_item_terraforming_giantlands_item_description=Terraform a zone into Sundered Uplands.\n\n<font color='#ff3030'>Warning:</font> This will destroy everything in that zone, as well as the borders of adjacent zones.

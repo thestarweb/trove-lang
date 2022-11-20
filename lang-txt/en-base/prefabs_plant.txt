@@ -203,3 +203,4 @@ $prefabs_plant_popper_01_item_name=Bobble Pod Plant
 $prefabs_plant_tome_gardening_golden_watering_can_name=Golden Pitcher Plant
 $prefabs_plant_harvesting_lunarstar_item_name=Lunar Drop
 $prefabs_plant_event_wishingtree_item_name=Wishing Tree
+$prefabs_plant_event_oaktree_item_name=Healthy Tree

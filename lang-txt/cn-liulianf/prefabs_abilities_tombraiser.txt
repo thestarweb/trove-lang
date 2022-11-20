@@ -9,4 +9,4 @@ $prefabs_abilities_tombraiser_ultimate_minion_item_description=献祭你当前�
 $prefabs_abilities_tombraiser_heal_minion_name=班汐的恩惠
 $prefabs_abilities_tombraiser_heal_minion_description=创造出班汐小兵，治疗你的其他小兵。
 $prefabs_abilities_tombraiser_subclass_name=尸体狂奔
-$prefabs_abilities_tombraiser_subclass_description=敌人死亡时有几率生成一个随机小兵，同时只可存在一名小兵。
+$prefabs_abilities_tombraiser_subclass_description=敌人死亡时有几率生成一个随机的小兵。

@@ -34,3 +34,5 @@ $prefabs_item_currency_prestige_spirittank_name=Primal Loop: Revenant
 $prefabs_item_currency_prestige_spirittank_description=Awarded for each PRIME Paragon level earned as the Revenant
 $prefabs_item_currency_prestige_tombraiser_name=Primal Loop: Tomb Raiser
 $prefabs_item_currency_prestige_tombraiser_description=Awarded for each PRIME Paragon level earned as the Tomb Raiser
+$prefabs_item_currency_prestige_solarion_name=Primal Loop: Solarion
+$prefabs_item_currency_prestige_solarion_description=Awarded for each PRIME Paragon level earned as the Solarion

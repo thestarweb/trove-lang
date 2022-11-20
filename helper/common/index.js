@@ -20,11 +20,16 @@ const filterSymbol = Symbol();
 function mapBinfabDir(dir, callback, option = {}) {
     return mapDir(dir, (filename, index, length) => {
         if (filename.endsWith(".binfab")) {
-            const filePath = path_1.default.join(dir, filename);
-            option.befroeRead && option.befroeRead(filename, index, length);
-            const data = callback(filename, (0, trove_lang_tool_1.read)(fs_1.default.readFileSync(filePath)), index, length);
-            option.afterRead && option.afterRead(filename, index, length);
-            return data;
+            try {
+                const filePath = path_1.default.join(dir, filename);
+                option.befroeRead && option.befroeRead(filename, index, length);
+                const data = callback(filename, (0, trove_lang_tool_1.read)(fs_1.default.readFileSync(filePath)), index, length);
+                option.afterRead && option.afterRead(filename, index, length);
+                return data;
+            }
+            catch (e) {
+                console.error(e);
+            }
         }
         return filterSymbol;
     }).filter(item => item !== filterSymbol);

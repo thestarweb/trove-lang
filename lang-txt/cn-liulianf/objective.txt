@@ -87,3 +87,4 @@ $Objective_Event_Saminator=绝望未来
 $Objective_Event_ShadowsEve=惊悚山岭
 $Objective_FaeTombsInUndeadLands=诅咒峡谷的妖精墓穴
 $Objective_UndeadTombsInFaewilds=妖精荒野的亡灵墓穴
+$Objective_Giantlands=断裂高地

@@ -69,6 +69,8 @@ $prefabs_placeable_matchmaker_crafted_fae_wildfae_queen_description=Place to que
 $prefabs_placeable_matchmaker_crafted_fae_wildfae_spider_name=Delve Gateway: Wildfae Spider
 $prefabs_placeable_matchmaker_crafted_fae_wildfae_spider_description=Place to queue yourself for a Private Delve in which the WILD FAE SPIDER can appear.\n\nInvites: Up to 8 Players total\nMounts: Delve Restricted
 $prefabs_placeable_matchmaker_crafted_quetzalcoatlus_crow_name=Delve Gateway: Crimsin Crow
-$prefabs_placeable_matchmaker_crafted_quetzalcoatlus_crow_desc=Place to queue yourself for a Private Delve in which the CRIMSIN CROW can appear.\n\nInvites: Up to 8 Players total\nMounts: Delve Restricted\n\nMinimum Depth: 80\n<font color='#ff3030'>Disappears</font> at the end of the Shadow's Eve event
+$prefabs_placeable_matchmaker_crafted_quetzalcoatlus_crow_desc=Place to queue yourself for a Private Delve in which the CRIMSIN CROW can appear.\n\nInvites: Up to 8 Players total\nMounts: Delve Restricted\n\nMinimum Depth: 80\n
 $prefabs_placeable_matchmaker_crafted_tail_werewolf_spear_name=Delve Gateway: Werewolf Huntmaster
-$prefabs_placeable_matchmaker_crafted_tail_werewolf_spear_desc=Place to queue yourself for a Private Delve in which the WEREWOLF HUNTMASTER can appear.\n\nInvites: Up to 8 Players total\nMounts: Delve Restricted\n\nMinimum Depth: 80\n<font color='#ff3030'>Disappears</font> at the end of the Shadow's Eve event
+$prefabs_placeable_matchmaker_crafted_tail_werewolf_spear_desc=Place to queue yourself for a Private Delve in which the WEREWOLF HUNTMASTER can appear.\n\nInvites: Up to 8 Players total\nMounts: Delve Restricted\n\nMinimum Depth: 80
+$prefabs_placeable_matchmaker_crafted_phoenix_owl_name=Delve Gateway: Shadebound Crook
+$prefabs_placeable_matchmaker_crafted_phoenix_owl_desc=Place to queue yourself for a Private Delve in which the SHADEBOUND CROOK can appear.\n\nInvites: Up to 8 Players total\nMounts: Delve Restricted\n\nMinimum Depth: 80

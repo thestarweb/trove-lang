@@ -32,3 +32,5 @@ $prefabs_class_crimefighter_levelup_5=You have unlocked the Laser Leap ability! 
 $prefabs_class_bard_levelup_3=You have unlocked the Singing Crystal ability!
 $prefabs_class_bard_levelup_5=You have unlocked the Epic Riff ability!
 $prefabs_class_gem_key_levelup_25=You have been granted a Class Gem Key for reaching Level 25!
+$prefabs_class_solarion_levelup_3=You have unlocked the Guiding Light ability!
+$prefabs_class_solarion_levelup_5=You have unlocked the Prismatic Blast ability!

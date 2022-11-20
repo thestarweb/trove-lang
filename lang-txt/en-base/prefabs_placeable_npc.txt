@@ -48,3 +48,7 @@ $npc_hub_market_scriptable_01=Marakeet
 $placeable_npc_hub_market_scriptable_01_text_01=CAW! Respect the hustle.
 $npc_hub_pizza_scriptable_01=Peetza
 $placeable_npc_hub_pizza_scriptable_01_text_01=ANYBODY ORDER SOME 'ZA
+$prefabs_placeable_npc_biped_hero_rowan_prelude_name=Rowan
+$prefabs_placeable_npc_biped_hero_rowan_prelude_description=... and boy are my arms tired.
+$prefabs_placeable_npc_biped_hero_rowan_name=Rowan
+$prefabs_placeable_npc_biped_hero_rowan_description=... and boy are my arms tired.

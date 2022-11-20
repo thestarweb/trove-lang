@@ -1,3 +1,5 @@
 $prefabs_equipment_banner_event_july2021_sunfest_banner_name=Rayoreum Miner's Banner
 $prefabs_equipment_banner_event_july2021_sunfest_banner_description=Granted to the most prestigious and academic miners found in the Royal Houses, this banner allows its wearer to collect RAYOREUM ORE when mining regular ores.\n\nCannot be loot collected\n<font color='#ff3030'>Disappears</font> at the end of the Sunfest event
 $prefabs_equipment_banner_event_july2021_sunfest_banner_style_description=Granted to the most prestigious and academic miners found in the Royal Houses, this banner style confers no benefits aside from looking spiffy!
+$prefabs_equipment_banner_event_july2022_pinzo_banner_name=Chuck Pinzo Mining Banner
+$prefabs_equipment_banner_event_july2022_pinzo_banner_description=The coin of now, the coin of the future, the NEW coin of Trove. \n\n	-Chuck Pinzo.

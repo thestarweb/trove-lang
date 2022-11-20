@@ -7,4 +7,4 @@ $prefabs_abilities_knight_shield_heal_item_description=完全治疗骑士并使�
 $prefabs_abilities_knight_smash_item_name=碎击
 $prefabs_abilities_knight_smash_item_description=对前方扇形区域内的敌人造成850%伤害，并嘲讽敌人4.5秒。
 $prefabs_abilities_knight_subclass_name=整装待发
-$prefabs_abilities_knight_subclass_description=骑行地面坐骑时的移动速度上升。
+$prefabs_abilities_knight_subclass_description=骑行地面坐骑时的移动速度上升，在低生命值状态下，短时间内获得一个减伤护盾。

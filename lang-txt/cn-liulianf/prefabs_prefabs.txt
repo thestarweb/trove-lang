@@ -182,3 +182,7 @@ $prefabs_prefabs_townportal_item_name=原始传送门药水
 $prefabs_prefabs_townportal_item_description=碰撞到外界便会开启一个通往世界起点的传送门
 $prefabs_prefabs_gm_tag_pvp_icesnareballpowerup_item_name=滑冰炸弹
 $prefabs_prefabs_gm_tag_pvp_icesnareballpowerup_item_description=一个滑冰炸弹，使附近的敌人减速，并将附近的地面变成冰。
+$prefabs_quest_trigger_giantlands_sign_title=光辉防御模块
+$prefabs_quest_trigger_giantlands_sign_content=按 [HK:Loot] 激活光辉防御模块。
+$prefabs_quest_spawn_trigger_fivestar_gl_sign_title=主控台
+$prefabs_quest_spawn_trigger_fivestar_gl_sign_content=准备好后按 [HK:Loot] !

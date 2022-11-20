@@ -6,7 +6,9 @@ import path from "path";
 
 function getFileID(modid:number|string){
     return new Promise<string>(async (resolve, reject) => {
-        https.request(`https://trovesaurus.com/mod=${modid}`, (res) => {
+        https.request(`https://trovesaurus.com/mod=${modid}`,{
+            family:6
+        }, (res) => {
             res.setEncoding('utf8');
             let html = "";
             res.on('data', (d) => html += d);
@@ -35,6 +37,7 @@ function download(modid:number|string,fileid:number|string){
                 "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
                 "content-type": "application/x-www-form-urlencoded",
             },
+            family:6
         }, (res) => {
             let data = new Uint8Array(0);
             res.on('data', (d) =>{

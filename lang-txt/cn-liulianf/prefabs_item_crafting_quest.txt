@@ -5,6 +5,6 @@ $prefabs_item_crafting_quest_snowfest2020_flake_description=在冒险世界中�
 $prefabs_item_crafting_quest_snowfest2020_shadowflake_name=零下暗影雪花
 $prefabs_item_crafting_quest_snowfest2020_shadowflake_description=奇怪的是，只有在深度0以上的秘境才有。虽然它的用途刚刚才被秘境协会探明，但钻头鼹鼠对这种材料的价值很有信心，已经派公会和寻宝者都下到秘境中开始立即提取! \n\n2020冰雪庆典活动后消失
 $prefabs_item_crafting_quest_snowfest2020_token_name=格沙迪尔碎片
-$prefabs_item_crafting_quest_snowfest2020_token_description=在冰雪庆典工作台制作。无论是克贝斯利还是秘境协会，都没有完全了解这东西的工作原理。不过有一点他们可以肯定，那就是它将会在2020冰雪庆典结束后消失!
+$prefabs_item_crafting_quest_snowfest2020_token_description=在冰雪庆典工作台制作。无论是克贝斯利还是秘境协会，都没有完全了解这东西的工作原理。
 $prefabs_item_crafting_quest_snowfest2020_catalyst_name=暗影催化剂
 $prefabs_item_crafting_quest_snowfest2020_catalyst_description=克贝斯利似乎很信任产生这种奇怪的、气味难闻的液体的书... 冰雪庆典2020活动后消失

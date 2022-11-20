@@ -98,3 +98,5 @@ $prefabs_item_terraforming_fae_tombs_in_undead_lands_item_name=妖精墓穴改�
 $prefabs_item_terraforming_fae_tombs_in_undead_lands_item_desc=将一个区域改造成诅咒峡谷的妖精墓穴。\n\n<font color='#ff3030'>警告:</font> 这将摧毁该区域的一切，以及相邻区域的边界。
 $prefabs_item_terraforming_undead_tombs_in_faewilds_item_name=亡灵墓穴改造装置
 $prefabs_item_terraforming_undead_tombs_in_faewilds_item_desc=将一个区域改造成妖精荒野的亡灵墓穴。\n\n<font color='#ff3030'>警告:</font> 这将摧毁该区域的一切，以及相邻区域的边界。
+$prefabs_item_terraforming_giantlands_item_name=断裂高地地形改造装置
+$prefabs_item_terraforming_giantlands_item_description=将一个区域改造成断裂高地。\n\n<font color='#ff3030'>警告:</font> 这将摧毁该区域的一切，以及相邻区域的边界。

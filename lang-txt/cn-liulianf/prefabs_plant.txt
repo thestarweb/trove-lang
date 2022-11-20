@@ -201,3 +201,6 @@ $prefabs_plant_tome_gardening_tentacle_item_name=耕种的克苏胡的触手
 $prefabs_plant_tome_gardening_wallflower_item_name=耕种的壁花
 $prefabs_plant_popper_01_item_name=球豆荚株
 $prefabs_plant_tome_gardening_golden_watering_can_name=黄金水壶株
+$prefabs_plant_harvesting_lunarstar_item_name=银月碎片\n
+$prefabs_plant_event_wishingtree_item_name=祈愿之树
+$prefabs_plant_event_oaktree_item_name=健康之树

@@ -36,3 +36,5 @@ $prefabs_item_key_worldboss_01_name=Leviathan Key
 $prefabs_item_key_worldboss_01_description=Use this key on a Leviathan Vault to claim your rewards.
 $prefabs_item_key_delvekey_01_name=Delve Shadowkey
 $prefabs_item_key_delvekey_01_description=Delve Shadowkeys can open Shadowy Soul Vaults for great rewards, sometimes found after defeating Delve bosses. They can also be used in Shadow Towers for lesser rewards.
+$prefabs_item_key_giantlands_01_name=Key: Sunder-Ark Cache
+$prefabs_item_key_giantlands_01_description=Use when near an Unstable Sunder-Ark Cache, which appears after completion of boss waves in 5-Star dungeons in the Sundered Uplands.\n\nUnstable Sunder-Ark Caches disappear after 30 seconds, so use these keys quickly!

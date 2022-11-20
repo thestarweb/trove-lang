@@ -9,3 +9,5 @@ $prefabs_gameplay_chest_quest_shadow_ultra_sign_content=Use an Eclipse Key nearb
 $prefabs_gameplay_chest_worldboss_sign_title=Leviathan Vault
 $prefabs_gameplay_chest_worldboss_sign_content=Use a Leviathan Key nearby to claim your reward.
 $prefabs_gameplay_chest_delve_personal_sign_title=Personalized Chest!
+$prefabs_gameplay_chest_quest_giantlands_5star_sign_title=Unstable Sunder-Ark Cache
+$prefabs_gameplay_chest_quest_giantlands_5star_sign_content=Use a Sunder-Ark Cache Key within 30 seconds!

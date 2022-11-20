@@ -7,4 +7,4 @@ $prefabs_abilities_knight_shield_heal_item_description=Fully heals the Knight an
 $prefabs_abilities_knight_smash_item_name=Smash
 $prefabs_abilities_knight_smash_item_description=Damages and briefly taunts all enemies in a cone in front of the Knight.
 $prefabs_abilities_knight_subclass_name=Mounted Cavalry
-$prefabs_abilities_knight_subclass_description=Increased movement speed while riding ground based mounts.
+$prefabs_abilities_knight_subclass_description=Increased movement speed while riding ground based mounts. At low health gain a damage reduction shield for a short time.

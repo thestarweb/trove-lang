@@ -5,6 +5,6 @@ $prefabs_item_crafting_quest_snowfest2020_flake_description=Found inside Present
 $prefabs_item_crafting_quest_snowfest2020_shadowflake_name=Subzero Shadowflake
 $prefabs_item_crafting_quest_snowfest2020_shadowflake_description=Only from Delve Depths above 0, oddly enough. Though its uses are just being probed by the Delver's Guild, Diggsly is confident of this material's value, and has send the Guild and Trovians alike down into the Delves to begin immediate extraction!\nDisappears after Snowfest 2020
 $prefabs_item_crafting_quest_snowfest2020_token_name=Glashadial Shard
-$prefabs_item_crafting_quest_snowfest2020_token_description=Crafted at the Snowfest Table. Neither Qubesly nor the Delver's Guild has a complete understanding of how this stuff works. One thing they are certain of, however, is that it will disappear at the end of Snowfest 2020!
+$prefabs_item_crafting_quest_snowfest2020_token_description=Crafted at the Snowfest Table. Neither Qubesly nor the Delver's Guild has a complete understanding of how this stuff works.
 $prefabs_item_crafting_quest_snowfest2020_catalyst_name=Shadowy Catalyst
 $prefabs_item_crafting_quest_snowfest2020_catalyst_description=Qubesly seems to trust the book that produced this curious, awful-smelling liquid...\nDisappears after Snowfest 2020

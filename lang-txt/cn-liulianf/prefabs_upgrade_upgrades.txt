@@ -50,3 +50,6 @@ $prefabs_upgrade_upgrades_prestige_lunarlancer_01_lunarlancer_03_description=- �
 $prefabs_upgrade_upgrades_prestige_tombraiser_01_tombraiser_01_description=- 骷髅分裂\n- 更多幽灵
 $prefabs_upgrade_upgrades_prestige_tombraiser_01_tombraiser_02_description=- 更多幽灵\n- 爆炸女妖
 $prefabs_upgrade_upgrades_prestige_tombraiser_01_tombraiser_03_description=- 爆炸女妖\n- 骷髅分裂
+$prefabs_upgrade_upgrades_prestige_solarion_01_solarion_01_description=- 引导飞行\n- 棱镜链接
+$prefabs_upgrade_upgrades_prestige_solarion_01_solarion_02_description=- 棱镜链接\n- 曜日姿态
+$prefabs_upgrade_upgrades_prestige_solarion_01_solarion_03_description=- 曜日姿态\n- 引导飞行

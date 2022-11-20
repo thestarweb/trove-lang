@@ -184,13 +184,39 @@ $prefabs_item_lootbox_prestige_prime_daily_autoconsume_name=原初巅峰方块 (
 $prefabs_item_lootbox_prestige_prime_daily_autoconsume_description=打开后获得一个适合你当前职业的原初循环。\n<font color='#e8e34f'>此配方你每天只能制作（1）次</font>
 $prefabs_item_lootbox_gem_booster_augment3_daily_autoconsume_name=创造者的卓越加成 (每日)
 $prefabs_item_lootbox_gem_booster_augment3_daily_autoconsume_description=宝石强化道具。能大幅提升宝石的一项属性和战斗力。可在宝石熔炉使用。可在冒险者工作台制作。\n<font color='#e8e34f'>此配方你每天只能制作（1）次</font>
+$prefabs_item_lootbox_gem_booster_augment3_weekly_autoconsume_name=创造者的卓越加成 (每周)
+$prefabs_item_lootbox_gem_booster_augment3_weekly_autoconsume_description=宝石强化道具。能大幅提升宝石的一项属性和战斗力。可在宝石熔炉使用。可在冒险者工作台制作。\n<font color='#e8e34f'>你每周只能制作此配方 (1) 次</font>
 $prefabs_item_lootbox_dragoncoin_daily_autoconsume_name=龙币 (每日)
-$prefabs_item_lootbox_dragoncoin_daily_autoconsume_description=用来在主城世界的龙台孵化龙\n\n完成挑战，或访问商店的龙页面购买获得(按 [HK:Store] 键)。\n<font color='#e8e34f'>此配方你每天只能制作（1）次</font>
+$prefabs_item_lootbox_dragoncoin_daily_autoconsume_description=用来在主城世界的龙台孵化龙。\n\n完成挑战，或访问商店的龙页面购买获得(按 [HK:Store] 键)。\n<font color='#e8e34f'>此配方你每天只能制作（1）次</font>
+$prefabs_item_lootbox_dragoncoin_daily_autoconsume_description_controller=用来在主城世界的龙台孵化龙。\n\n<font color='#e8e34f'>此配方你每天只能制作（1）次</font>
+$prefabs_item_lootbox_dragoncoin_weekly_autoconsume_name=龙币 (每周)
+$prefabs_item_lootbox_dragoncoin_weekly_autoconsume_description=用来在主城世界的龙台孵化龙\n\n完成挑战，或访问商店的龙页面购买获得(按[HK:Store]键)。\n<font color='#e8e34f'>你每周只能制作此配方 (1) 次</font>
+$prefabs_item_lootbox_dragoncoin_weekly_autoconsume_description_controller=用来在主城世界的龙台孵化龙。\n\n<font color='#e8e34f'>你每周只能制作此配方 (1) 次</font>
 $prefabs_item_lootbox_bound_brilliance_daily_autoconsume_name=弹跳光辉 (每日)
 $prefabs_item_lootbox_bound_brilliance_daily_autoconsume_description=捕获光的物理容器。用于在冒险者的工作台处制作宝石强化道具。\n\n可从每周职业排行榜和相关活动事件中获得\n<font color='#e8e34f'>此配方你每天只能制作（1）次</font>
+$prefabs_item_lootbox_bound_brilliance_weekly_autoconsume_name=弹跳光辉 (每周)
+$prefabs_item_lootbox_bound_brilliance_weekly_autoconsume_description=制作素材\n\n捕获光的物理容器。用于在冒险者的工作台处制作宝石强化道具。\n\n可从每周职业排行榜和相关活动事件中获得。\n<font color='#e8e34f'>你每周只能制作此配方 (1) 次</font>
 $prefabs_item_lootbox_crystalline_core_daily_autoconsume_name=水晶核心概略 (每日)
 $prefabs_item_lootbox_crystalline_core_daily_autoconsume_description=这种核心在塑形者手中就能被转化成一种能量源，足以用来运行远古者的心脏。\n\n可以通过在每天时限内完成5星地下城或是打开晶洞高层箱获取。\n\n可从每周职业战力排行榜和相关活动事件中获得。\n<font color='#e8e34f'>此配方你每天只能制作（1）次</font>
+$prefabs_item_lootbox_crystalline_core_weekly_autoconsume_name=水晶核心概略 (每周)
+$prefabs_item_lootbox_crystalline_core_weekly_autoconsume_description=这种核心在塑形者手中就能被转化成一种能量源，足以用来运行远古者的心脏。\n\n可以通过在每天时限内完成5星地下城或是打开晶洞高层箱获取。\n\n可从每周职业排行榜和相关活动事件中获得。\n<font color='#e8e34f'>你每周只能制作此配方 (1) 次</font>
 $prefabs_item_lootbox_prestige_basic_daily_autoconsume_name=冒险循环 (每日)
 $prefabs_item_lootbox_prestige_basic_daily_autoconsume_description=每提升一次巅峰等级就会获得奖励\n<font color='#e8e34f'>此配方你每天只能制作（1）次</font>
+$prefabs_item_lootbox_prestige_basic_weekly_autoconsume_name=冒险循环 (每周)
+$prefabs_item_lootbox_prestige_basic_weekly_autoconsume_description=每提升一次巅峰等级就会获得奖励\n<font color='#e8e34f'>你每周只能制作此配方 (1) 次</font>
 $prefabs_item_lootbox_prestige_deco_name=巅峰装饰盒
 $prefabs_item_lootbox_prestige_deco_description=包含一个以巅峰地宫为主题的装饰盒
+$prefabs_item_lootbox_chaos_core_weekly_autoconsume_name=混沌核心 (每周)
+$prefabs_item_lootbox_chaos_core_weekly_autoconsume_description=可用于混沌熔炉制作混沌稀有物品。\n\n通过开启混沌宝箱，亦可通过分解混沌宝箱的奖励获得。\n<font color='#e8e34f'>你每周只能制作此配方 (1) 次</font>
+$prefabs_item_lootbox_free_range_weekly_autoconsume_name=自由变化电解晶体 (每周)
+$prefabs_item_lootbox_free_range_weekly_autoconsume_description=只有深处的秘境才有合适的环境来形成这种食物。通常出现在重型加压箱中。 \n<font color='#e8e34f'>你每周只能制作此配方 (1) 次</font>
+$prefabs_item_lootbox_giantlands_name=断裂高地大储藏箱
+$prefabs_item_lootbox_giantlands_description=打开可获得在断裂高地发现的灰烬或光辉资源，或者很少几率获得更稀有的东西！
+$prefabs_item_lootbox_giantlands_lesser_name=断裂高地小储藏箱
+$prefabs_item_lootbox_giantlands_lesser_description=打开可获得在断裂高地发现的灰烬或光辉资源。
+$prefabs_item_lootbox_giantlands_gold_name=黄金断裂高地储藏箱
+$prefabs_item_lootbox_giantlands_gold_description=打开获得大量的断裂高地制作材料或其他稀有的物品!
+$prefabs_item_lootbox_giantlands_resource_ashen_name=灰烬储藏箱
+$prefabs_item_lootbox_giantlands_resource_ashen_description=包含在断裂高地的灰烬废墟发现的资源。
+$prefabs_item_lootbox_giantlands_resource_irradiant_name=天空储藏箱
+$prefabs_item_lootbox_giantlands_resource_irradiant_description=包含在断裂高地的云层中发现的资源。

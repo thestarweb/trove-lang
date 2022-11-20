@@ -50,3 +50,6 @@ $prefabs_upgrade_upgrades_prestige_lunarlancer_01_lunarlancer_03_description=- F
 $prefabs_upgrade_upgrades_prestige_tombraiser_01_tombraiser_01_description=- SKELLBIGGLE-SPLIT\n- GHOST-MORE
 $prefabs_upgrade_upgrades_prestige_tombraiser_01_tombraiser_02_description=- GHOST-MORE\n- BANSHEE-BLAST
 $prefabs_upgrade_upgrades_prestige_tombraiser_01_tombraiser_03_description=- BANSHEE-BLAST\n- SKELLBIGGLE-SPLIT
+$prefabs_upgrade_upgrades_prestige_solarion_01_solarion_01_description=- GUIDING-FLIGHT\n- PRISMATIC-CHAIN
+$prefabs_upgrade_upgrades_prestige_solarion_01_solarion_02_description=- PRISMATIC-CHAIN\n- SOLAR-STANCE
+$prefabs_upgrade_upgrades_prestige_solarion_01_solarion_03_description=- SOLAR-STANCE\n- GUIDING-FLIGHT

@@ -1,5 +1,5 @@
 $prefabs_item_skin_adventurer_comichero_item_name=服饰：漫画英雄
-$prefabs_item_skin_adventurer_comichero_item_description=背包扩充券打折！
+$prefabs_item_skin_adventurer_comichero_item_description=爆破游侠服饰
 $prefabs_item_skin_adventurer_darkranger_item_name=服饰：黑暗爆破游侠
 $prefabs_item_skin_adventurer_darkranger_item_description=爆破游侠服饰
 $prefabs_item_skin_adventurer_magician_item_name=服饰：魔术师
@@ -339,3 +339,7 @@ $prefabs_item_skin_lunarlancer_karampus_name=服饰：皮短裤枪兵
 $prefabs_item_skin_crimefighter_snowhelper_name=服饰：冰雪庆典重击者
 $prefabs_item_skin_icesage_cookiemaker_name=服饰：饼干召唤者
 $prefabs_item_skin_trickster_mistletoe_name=服饰：槲寄生女士
+$prefabs_item_skin_faetrickster_valor_name=服饰: 英勇套装
+$prefabs_item_skin_knight_valor_name=服饰: 翻新英勇盔甲
+$prefabs_item_skin_lunarlancer_quberus_name=服饰: 卡贝鲁斯诅咒
+$prefabs_item_skin_shadowhunter_wolfhunter_name=服饰: 狼人猎手

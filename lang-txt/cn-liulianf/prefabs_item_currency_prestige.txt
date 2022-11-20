@@ -34,3 +34,5 @@ $prefabs_item_currency_prestige_spirittank_name=原初循环: 无头骑士
 $prefabs_item_currency_prestige_spirittank_description=无头骑士提升到主要巅峰等级，就可获得奖励\n\n主要巅峰等级为:素数（2,3,5,7,11等）
 $prefabs_item_currency_prestige_tombraiser_name=原初循环: 墓灵术士
 $prefabs_item_currency_prestige_tombraiser_description=墓灵术士提升到主要巅峰等级，就可获得奖励\n\n主要巅峰等级为:素数（2,3,5,7,11等）
+$prefabs_item_currency_prestige_solarion_name=原初循环: 曜日射手
+$prefabs_item_currency_prestige_solarion_description=曜日射手提升到主要巅峰等级，就可获得奖励\n\n主要巅峰等级为:素数（2,3,5,7,11等）

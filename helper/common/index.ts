@@ -26,11 +26,15 @@ export function mapBinfabDir<T=unknown>(
 ):T[]{
     return mapDir(dir, (filename:string, index:number, length:number):T|Symbol => {
         if(filename.endsWith(".binfab")){
-            const filePath = path.join(dir, filename);
-            option.befroeRead && option.befroeRead(filename, index, length);
-            const data = callback(filename, read(fs.readFileSync(filePath)), index, length);
-            option.afterRead && option.afterRead(filename, index, length);
-            return data;
+            try{
+                const filePath = path.join(dir, filename);
+                option.befroeRead && option.befroeRead(filename, index, length);
+                const data = callback(filename, read(fs.readFileSync(filePath)), index, length);
+                option.afterRead && option.afterRead(filename, index, length);
+                return data;
+            }catch(e){
+                console.error(e)
+            }
         }
         return filterSymbol;
     }).filter(item => item !== filterSymbol) as T[];

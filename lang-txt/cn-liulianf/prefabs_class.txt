@@ -32,3 +32,5 @@ $prefabs_class_crimefighter_levelup_5=你解锁了激光飞跃技能！使用这
 $prefabs_class_bard_levelup_3=你已经解锁了歌唱水晶的技能!
 $prefabs_class_bard_levelup_5=你已经解锁了史诗演奏的技能!
 $prefabs_class_gem_key_levelup_25=你已达到25级，获得一个职业宝石钥匙！
+$prefabs_class_solarion_levelup_3=你解锁了引导之光技能！
+$prefabs_class_solarion_levelup_5=你解锁了棱镜爆炸技能！

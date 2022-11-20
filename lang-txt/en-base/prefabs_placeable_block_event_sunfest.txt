@@ -1,3 +1,7 @@
 $prefabs_placeable_block_event_sunfest_house_banner_goldenvale_name=Decorative Sunfest Banner: House Carys
 $prefabs_placeable_block_event_sunfest_house_banner_pinata_name=Decorative Sunfest Banner: House Panatea
 $prefabs_placeable_block_event_sunfest_house_banner_trove_name=Decorative Sunfest Banner: House Tysorion
+$prefabs_placeable_block_event_sunfest_house_banner_pinzo_name=Decorative Sunfest Banner: Chuck Pinzo
+$prefabs_placeable_block_event_cowboy_banner_name=Decorative Cowasaur Banner
+$prefabs_placeable_block_event_dino_banner_name=Decorative Dinoboy Banner
+$prefabs_placeable_block_event_quberus_banner_name=Decorative Order of the Moon Banner

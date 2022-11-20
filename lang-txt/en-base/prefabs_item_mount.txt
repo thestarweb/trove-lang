@@ -944,3 +944,5 @@ $prefabs_item_mount_blastflower_spring_name=Mount:  Jade Bloom
 $prefabs_item_mount_blastflower_spring_description=This flower can move, but is just so rare it refuses to out of spite.
 $prefabs_item_mount_bulldozer_valor_name=Mount: Tomb Digger
 $prefabs_item_mount_pinata_prestige_name=Mount: Primal Pinata
+$prefabs_item_mount_dragon_bomberroyale_sticky_name=Golden Furious Dragon Egg
+$prefabs_item_mount_dragon_bomberroyale_sticky_description=Hatches into Zyntryn, the Fury!\n\nHaving this Dragon unlocked grants a permanent +1000 Max Health, +10% Critical Damage, +5 Jump, and +50 Magic Find.

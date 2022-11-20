@@ -1,4 +1,4 @@
 $prefabs_npc_events_snowfest_elfsly_sign_title=Elfsly
 $prefabs_npc_events_snowfest_elfsly_sign_content=It's the giving time of year.
 $prefabs_npc_events_snowfest_gift_sign_title=Snowfest Gift
-$prefabs_npc_events_snowfest_gift_sign_content=What could be inside?
+$prefabs_npc_events_snowfest_gift_sign_content=What could be inside?\n\nPress [HK:Loot] to interact.

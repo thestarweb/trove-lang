@@ -20,3 +20,6 @@ $prefabs_collections_fishing_sword_pole_item_name=Lady of the Lake
 $prefabs_collections_fishing_sword_pole_item_description=A legendary fishing rod said to enchant any fish that swims nearby. Can be made at the Nautical Assembler in Drowned Worlds.
 $prefabs_collections_fishing_mastery02_pole_name=Royal Reeler
 $prefabs_collections_fishing_mastery02_pole_description=No fish, great or small, can resist its allure.
+$prefabs_collections_fishing_upsidedown_pole_name=Kiwi Katcher
+$prefabs_collections_fishing_upsidedown_pole_item_name=Pole: Kiwi Katcher
+$prefabs_collections_fishing_upsidedown_pole_description=The real challenge is avoiding katching yourself.

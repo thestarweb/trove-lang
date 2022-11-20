@@ -4,3 +4,7 @@ $prefabs_item_lootbox_pvp_bomber_royale_season_1_name=Boom Box: Season One
 $prefabs_item_lootbox_pvp_bomber_royale_season_1_description=Open your Boom Box to collect your Bomber Royale rewards!
 $prefabs_item_lootbox_pvp_bomber_royale_season_02_name=Boom Box: Season Two
 $prefabs_item_lootbox_pvp_bomber_royale_season_02_description=Open your Boom Box to collect your Bomber Royale rewards! Very rarely contains the Golden Twin Plague Dragon Egg or other rewards from Season One.
+$prefabs_item_lootbox_battleroyale_bomber_greater_name=Bomber Box
+$prefabs_item_lootbox_battleroyale_bomber_greater_description=Contains Blast Coins and tradeable versions of most collectables (not tomes) on the Bomber Bench.\n\nBlast Coins gained from the Bomber Box allow you to exceed the limit of 300 for Blast Coins, but you will not be able to gain more from playing normally until you spend enough to be below the limit.
+$prefabs_item_lootbox_battleroyale_bomber_greater_gold_name=Sticky Bomber Box
+$prefabs_item_lootbox_battleroyale_bomber_greater_gold_description=Contains tradeable mounts, allies, bomb styles, wings, and auras available for Blast Coins. Very rarely contains Golden Dragon Eggs for Dragons acquired from Bomber Royale.

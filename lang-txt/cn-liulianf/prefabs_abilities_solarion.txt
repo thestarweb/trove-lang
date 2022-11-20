@@ -1,0 +1,10 @@
+$prefabs_abilities_solarion_passive_divine_radiance_item_name=凤凰光芒
+$prefabs_abilities_solarion_passive_divine_radiance_item_description=曜日射手从他们的伤害中持续获得神圣光芒和能量。\n -神圣光芒增加普通攻击弓箭发射的数量。\n -能量被用来为他们的 棱镜爆炸[2技能] 提供动力。\n曜日射手召唤一只凤凰来帮助他们战斗。\n -凤凰的攻击会施加持续伤害效果，每0.5秒造成150%的伤害，持续5秒，另外还会将神圣光芒和能量还给曜日射手。\n -当凤凰死亡时，它会在其位置生成一个蛋。\n -蛋会在生命值达到最大时自行愈合并爆炸一次，对附近的敌人造成550%的伤害，并施加持续伤害效果并重生凤凰。\n
+$prefabs_abilities_solarion_solar_flare_item_name=曜日风暴\n
+$prefabs_abilities_solarion_solar_flare_item_description=曜日射手发射一个带电的爆炸物，带电时间越长，影响范围越大。\n曜日风暴会产生一个持续伤害效果，每0.5秒造成150%的伤害，持续5秒，此外还会获得神圣光芒和能量。 \n在技能激活时和之后的短时间内，曜日射手会获得缓慢下降\n凤凰将针对被曜日风暴伤害的敌人。\n
+$prefabs_abilities_solarion_guiding_light_item_name=引导之光
+$prefabs_abilities_solarion_guiding_light_item_description=在目标地点召唤一道光柱，光柱会持续扩大，对该区域的敌人造成100%的伤害，每0.5秒造成150%的伤害，持续5秒，同时治疗友军。\n施加一个持续伤害效果，每0.5秒造成150%的伤害，持续5秒，另外给予神圣光芒和能量。\n如果凤凰是蛋的形态，可以让蛋更快地爆炸。\n这个能力可以快速连续施放，一次最多放置和储存3个引导之光。
+$prefabs_abilities_solarion_prismatic_burst_item_name=棱镜爆炸
+$prefabs_abilities_solarion_prismatic_burst_item_description=产生持续的能量爆炸，对周围区域的敌人造成400%的伤害。\n每次爆炸都会消耗能量，并为曜日射手提供一个伤害加成BUFF，最多可叠加5次。\n这个BUFF会持续到棱镜爆炸结束。\n一旦能量耗尽，则切换为关闭。
+$prefabs_abilities_solarion_subclass_name=凤凰之火
+$prefabs_abilities_solarion_subclass_description=普通攻击有几率引起爆炸，对敌人造成伤害，并对敌人施加每0.5秒伤害一次的持续伤害伤害效果，持续2.5秒。 这个效果造成的伤害会恢复使用者的能量。

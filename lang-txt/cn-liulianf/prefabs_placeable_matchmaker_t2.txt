@@ -67,4 +67,4 @@ $prefabs_placeable_matchmaker_t2_spikewalker_description=放置并与这个深�
 $prefabs_placeable_matchmaker_t2_wight_king_boss_name=深度推进器: 不死之王
 $prefabs_placeable_matchmaker_t2_wight_king_boss_description=放置并与这个深度推进器互动，开始一个秘境，在里面你将遇到 不死之王 一次或多次!\n\n邀请: 最多可邀请8位玩家\n坐骑: 仅限秘境坐骑\n最小深度: 26
 $prefabs_placeable_matchmaker_t2_private_name=深度推进器 (私人模式)
-$prefabs_placeable_matchmaker_t2_private_description=一旦放置深度推进器传送门，将允许放置的玩家使用 [HK:Loot] 来修改秘境的初始深度，然后再启动它!\n\n邀请: 最多可邀请8位玩家\n坐骑: 仅限秘境坐骑\n难度: 由玩家设置
+$prefabs_placeable_matchmaker_t2_private_description=放置并与这个深度推进器 [HK:Loot] 互动，开启一个私人秘境。\n\n邀请: 最多可邀请8位玩家\n坐骑: 仅限秘境坐骑\n最低深度: 23

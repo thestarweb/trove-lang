@@ -24,3 +24,5 @@ $prefabs_placeable_matchmaker_events_july2021_tysorion_t2_name=Deep Gateway: Flu
 $prefabs_placeable_matchmaker_events_july2021_tysorion_t2_description=Place to queue yourself for a FLUXTUATING FISSURES delve with HOUSE CARYS enemies and a minium depth of 110.\n<font color='#30ff30'>Increased chance</font> of memento drops!\n<font color='#ff3030'>Disappears</font> at the end of the Sunfest event
 $prefabs_placeable_matchmaker_events_october2021_shadowseve_name=Delve Gateway: Wolves' Den
 $prefabs_placeable_matchmaker_events_october2021_shadowseve_desc=Place to queue yourself for a Private Delve which leads to the Wolves' Den biome. \n\nInvites: Up to 8 Players total\nMounts: Delve Restricted\n\n<font color='#ff3030'>Disappears</font> at the end of the Shadow's Eve event
+$prefabs_placeable_matchmaker_events_july2022_chuckp_name=Delve Gateway: Chuck Pinzo
+$prefabs_placeable_matchmaker_events_july2022_chuckp_description=Place to queue yourself for a Private Delve with a Chuck Pinzo boss.

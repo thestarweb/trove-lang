@@ -36,3 +36,5 @@ $prefabs_item_key_worldboss_01_name=利维坦钥匙
 $prefabs_item_key_worldboss_01_description=使用这把钥匙来获取利维坦宝箱里的宝藏。
 $prefabs_item_key_delvekey_01_name=秘境钥匙
 $prefabs_item_key_delvekey_01_description=秘境钥匙可以打开暗影灵魂宝箱获得丰厚的奖励，它会在连续击杀3个深度为25+秘境boss后会出现。\n它们也可以在暗影塔中使用，但是奖励获得较少.
+$prefabs_item_key_giantlands_01_name=光辉方舟储藏钥匙
+$prefabs_item_key_giantlands_01_description=当靠近不稳定的光辉方舟储藏箱时使用，该储藏箱在断裂高地的5星地下城的Boss波次完成后出现。不稳定的光辉方舟储藏箱在30秒后消失，所以要迅速使用这些钥匙！

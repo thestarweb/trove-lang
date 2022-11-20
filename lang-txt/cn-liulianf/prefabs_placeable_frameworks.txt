@@ -212,3 +212,33 @@ $prefabs_placeable_frameworks_house_oldcastle_name=迷人的城堡(Charming Chat
 $prefabs_placeable_frameworks_house_oldcastle_description=可在基石和公会世界中放置。\n\n成为我们的客人，成为我们的客人，让这个阳台接受考验。\n\n<font color='#ff3030'>警告:</font> 框架会销毁所有与之相交的方块，这些方块不会返还。框架放置后不能再被拿起。
 $prefabs_placeable_frameworks_house_heckbug_name=地狱虫洞穴(Heckbug Burrow)
 $prefabs_placeable_frameworks_house_heckbug_description=可在基石和公会世界中放置。\n\n埋头苦干，享受惬意的生活。\n\n<font color='#ff3030'>警告:</font> 框架会销毁所有与之相交的方块，这些方块不会返还。框架放置后不能再被拿起。
+$prefabs_placeable_frameworks_framework_pvp_pit_name=炸弹桌: 矿坑
+$prefabs_placeable_frameworks_framework_pvp_pit_description=可在基石和公会世界中放置。\n\n证明你的价值或被添加到骨堆中。\n\n<font color='#ff3030'>警告:</font> 框架会销毁所有与之相交的方块，这些方块不会返还。框架放置后不能再被拿起。
+$prefabs_placeable_frameworks_framework_pvp_platforms_name=炸弹桌: 宁静岛
+$prefabs_placeable_frameworks_framework_pvp_platforms_description=可在基石和公会世界中放置。\n\n在这个平静的度假胜地找到宁静与和平。还有请忽略附近的爆炸声。\n\n<font color='#ff3030'>警告:</font> 框架会销毁所有与之相交的方块，这些方块不会返还。框架放置后不能再被拿起。
+$prefabs_placeable_frameworks_framework_pvp_techno_name=炸弹桌: 回响贝斯轰鸣
+$prefabs_placeable_frameworks_framework_pvp_techno_description=可在基石和公会世界中放置。\n\n战斗的声音被赋予了新的旋律。\n\n<font color='#ff3030'>警告:</font> 框架会销毁所有与之相交的方块，这些方块不会返还。框架放置后不能再被拿起。
+$prefabs_placeable_frameworks_framework_pvp_towers_name=炸弹桌: 破碎的塔楼
+$prefabs_placeable_frameworks_framework_pvp_towers_description=可在基石和公会世界中放置。\n\n胜利或被遗忘，就像曾经在这里统治过的人一样。\n\n<font color='#ff3030'>警告:</font> 框架会销毁所有与之相交的方块，这些方块不会返还。框架放置后不能再被拿起。
+$prefabs_placeable_frameworks_giantlands_bot_commandcenter_name=灰烬之笼
+$prefabs_placeable_frameworks_giantlands_bot_commandcenter_description=可在公会世界中放置。\n\n一个径向对称的房间，可以在灰烬荒原中进行防御。\n\n<font color='#ff3030'>警告:</font> 框架会销毁所有与之相交的方块，这些方块不会返还。框架放置后不能再被拿起。
+$prefabs_placeable_frameworks_giantlands_top_commandcenter_name=光辉指挥部
+$prefabs_placeable_frameworks_giantlands_top_commandcenter_description=可在公会世界中放置。\n\n一座坚固的建筑，受到断裂高地的光辉巨人的青睐。\n\n<font color='#ff3030'>警告:</font> 框架会销毁所有与之相交的方块，这些方块不会返还。框架放置后不能再被拿起。
+$prefabs_placeable_frameworks_giantlands_medium_blast_name=巨大的灰烬爆炸花
+$prefabs_placeable_frameworks_giantlands_medium_blast_description=可在公会世界中放置。\n\n这个不会爆炸。\n\n<font color='#ff3030'>警告:</font> 框架会销毁所有与之相交的方块，这些方块不会返还。框架放置后不能再被拿起。
+$prefabs_placeable_frameworks_giantlands_medium_booster_name=光辉断裂-轨道柱
+$prefabs_placeable_frameworks_giantlands_medium_booster_description=可在公会世界中放置。\n\n这些巨大的机械化怪物已经被剥夺了力量，但它们在合适的地方可能看起来不错。\n\n<font color='#ff3030'>警告:</font> 框架会销毁所有与之相交的方块，这些方块不会返还。框架放置后不能再被拿起。
+$prefabs_placeable_frameworks_giantlands_medium_module_name=光辉塔
+$prefabs_placeable_frameworks_giantlands_medium_module_description=可在公会世界中放置。\n\n四面八方都可防御。\n\n<font color='#ff3030'>警告:</font> 框架会销毁所有与之相交的方块，这些方块不会返还。框架放置后不能再被拿起。
+$prefabs_placeable_frameworks_giantlands_medium_shroom_purple_name=紫色高大真菌
+$prefabs_placeable_frameworks_giantlands_medium_shroom_purple_description=可在公会世界中放置。\n\n既不是生物，也不是商人。\n\n<font color='#ff3030'>警告:</font> 框架会销毁所有与之相交的方块，这些方块不会返还。框架放置后不能再被拿起。
+$prefabs_placeable_frameworks_giantlands_medium_shroom_red_name=红色高大真菌
+$prefabs_placeable_frameworks_giantlands_medium_shroom_red_description=可在公会世界中放置。\n\n既不是生物，也不是商人。\n\n<font color='#ff3030'>警告:</font> 框架会销毁所有与之相交的方块，这些方块不会返还。框架放置后不能再被拿起。
+$prefabs_placeable_frameworks_giantlands_small_fern_01_name=小灰烬叶
+$prefabs_placeable_frameworks_giantlands_small_fern_01_description=可在公会世界中放置。\n\n光照时，它们会长得更大。\n\n<font color='#ff3030'>警告:</font> 框架会销毁所有与之相交的方块，这些方块不会返还。框架放置后不能再被拿起。
+$prefabs_placeable_frameworks_giantlands_small_fern_02_name=大灰烬叶
+$prefabs_placeable_frameworks_giantlands_small_fern_02_description=可在公会世界中放置。\n\n光照时，它们会长得更大。\n\n<font color='#ff3030'>警告:</font> 框架会销毁所有与之相交的方块，这些方块不会返还。框架放置后不能再被拿起。
+$prefabs_placeable_frameworks_giantlands_small_tree_name=地质工程树
+$prefabs_placeable_frameworks_giantlands_small_tree_description=可在公会世界中放置。\n\n在云层的光辉实验室中完美生长。\n\n<font color='#ff3030'>警告:</font> 框架会销毁所有与之相交的方块，这些方块不会返还。框架放置后不能再被拿起。
+$prefabs_placeable_frameworks_house_threelilpigs_name=小猪草屋
+$prefabs_placeable_frameworks_house_threelilpigs_description=可在基石和公会世界中放置。\n\n可能无法承受强风和镭射激光。\n\n<font color='#ff3030'>警告:</font> 框架会销毁所有与之相交的方块，这些方块不会返还。框架放置后不能再被拿起。

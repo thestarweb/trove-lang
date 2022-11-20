@@ -286,3 +286,5 @@ $prefabs_item_plantseed_event_luck_2020_item_name=St. Qubeslick Clover Seed 2020
 $prefabs_item_plantseed_event_luck_2020_item_description=This packet of seeds is filled with luck. After this plant has sprouted it can be harvested once for a Lucky Clover.\n\nThis plant dies after 3 days. This seed is losing its luck and will vanish after St. Qubeslick 2020.
 $prefabs_item_plantseed_event_wishingtree_item_name=Wishing Tree Sapling
 $prefabs_item_plantseed_event_wishingtree_item_description=This sapling will grow into a Wishing Tree. Wishes plucked from the tree are sure to come true.\n\nThis sapling will wilt at the end of Lunar Plunge.
+$prefabs_item_plantseed_event_oaktree_item_name=Tree Sapling
+$prefabs_item_plantseed_event_oaktree_item_description=This sapling is ready to grow in to a strong and healthy tree.

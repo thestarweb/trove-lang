@@ -18,3 +18,7 @@ $prefabs_item_food_event_turkeytopia_01_name=Turkofu Cornucopia
 $prefabs_item_food_event_turkeytopia_01_description=Filling, but perishable.\n\nLeftover Turkofu Cornucopia will disappear at the start of Snowfest 2019.
 $prefabs_item_food_event_bunfest2020_name=Cleansed Bunfest Chocolate
 $prefabs_item_food_event_bunfest2020_description=Sickly Sweet.\n\nLeftover Chocolate will disappear shortly after the end of Bunfest 2020.
+$prefabs_item_food_gl_clamchowder_name="Clam" "Chow"
+$prefabs_item_food_gl_clamchowder_description=Eat to become temporarily immune to the Reflect damage ability of Ashen Spore-Spreaders in the Sundered Uplands.
+$prefabs_item_food_gl_ashen_grub_name=Grubchew
+$prefabs_item_food_gl_ashen_grub_description=Allows occasional collection of Ashfern Sporelings when defeating Ashen creatures in the Sundered Uplands.

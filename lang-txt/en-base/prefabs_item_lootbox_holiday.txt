@@ -25,3 +25,7 @@ $prefabs_item_lootbox_holiday_snowfest2021_item_name=Snowfest 2021 Treasure Box
 $prefabs_item_lootbox_holiday_snowfest2021_item_description=Contains a plethora of prizes including Bound Brilliance, Dragon Coins, Crystalline Cores and a rare chance at Diamond Dragonite or Metamatter. Also includes the Frozen Gardener Skin, Ice Cart Magrider, and The Trovian Express Mount.
 $prefabs_item_lootbox_holiday_heckbugs2022_item_name=Cave Skitterer's Trove
 $prefabs_item_lootbox_holiday_heckbugs2022_item_description=Contains a Crystals, Heckbug Eggs, The Heckbug Practice Dummy Recipe and sometimes a Heckbug Tender or Bouncin' Heckbug.
+$prefabs_item_lootbox_holiday_snowfest2022_item_name=Snowfest 2022 Treasure Box
+$prefabs_item_lootbox_holiday_snowfest2022_item_description=Contains a plethora of prizes including Bound Brilliance, Dragon Coins, Crystalline Cores and a rare chance at Diamond Dragonite or Metamatter. Also includes the Tubular Animant, Angryak, Snowfest Surfer, and Kiwi Katcher.
+$prefabs_item_lootbox_holiday_snowfest2022_rare_item_name=Premium Snowfest 2022 Treasure Box
+$prefabs_item_lootbox_holiday_snowfest2022_rare_item_description=Always includes a tradable Tubular Animant, Angryak, Snowfest Surfer, or Kiwi Katcher.

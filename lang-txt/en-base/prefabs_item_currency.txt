@@ -39,3 +39,19 @@ $prefabs_item_currency_march2022_event_frag_name=Fragment of Luck
 $prefabs_item_currency_march2022_event_frag_description=A fragment of luck sold by Sir O'Lucky. Can be used to purchase the Perennial Pot o' Gold, Sir O'Lucky's Standard, and Lil Lucky.\n\n<font color='#ff3030'>Disappears</font> at the end of the St. Qubeslick event.
 $prefabs_item_currency_apr_fools_event_frag_name=Fool's Gold
 $prefabs_item_currency_apr_fools_event_frag_desc=Looks valuable at first glance, but it's just a pretty rock.\n\nCan be used to craft a recipe at the Radiant Dayspring during April Fool's Day.\n\n<font color='#ff3030'>Disappears</font> shortly after April Fool's Day.
+$prefabs_item_currency_coin_bomb_legacy_name=Bomber Royale Coin: Burnt Coin
+$prefabs_item_currency_coin_bomb_legacy_description=Obtained by trading Season 1, Season 2, or Blast Coins at the Bomber Bench or by tomes. Used to craft past season's rewards
+$prefabs_item_currency_coin_bomb_current_name=Bomber Royale Coin: Blast Coin
+$prefabs_item_currency_coin_bomb_current_description=Obtained by successfully ranking in a Bomber Royale match or by the  tome.
+$prefabs_item_crafting_event_july2022_pinzocoin_name=Pinzoin
+$prefabs_item_crafting_event_july2022_pinzocoin_description=Used to print Trovian Finite Notes at the Pinzo Printer in the Hub.\n\nObtained by killing enemies or mining ore in Trove while wearing the Chuck Pinzo Mining Banner.
+$prefabs_item_crafting_event_july2022_ucc_name=Trovian Finite Note
+$prefabs_item_crafting_event_july2022_ucc_description=''The currency of tomorrow, here today'' Printable at any Pinzo Printer in Trove.\n\nSomehow someway this is simultaenously worth everything, according to Chuck Pinzo, and nothing, according to Qubesly.
+$prefabs_item_crafting_event_september2022_cowboy_name=Cowasaur Coin
+$prefabs_item_crafting_event_september2022_cowboy_description=A coin dedicated to your love of Dinosaurs. Can be found by defeating dungeons in the Jurassic Jungle during the Cowasaurs and Dinoboys event.\n\nUsed to craft Cowasaur Effigy at the Cowasaur Workbench in the Events area of the hub.
+$prefabs_item_crafting_event_september2022_cowboy_premium_name=Cowasaur Token
+$prefabs_item_crafting_event_september2022_cowboy_premium_description=A token dedicated to your love of Dinosaurs. Claimed by completing dailies during the Cowasaurs and Dinoboys event.\n\nUsed to craft Cowasaur Effigy at the Cowasaur Workbench in the Events area of the hub.
+$prefabs_item_crafting_event_september2022_dino_name=Dinoboy Coin
+$prefabs_item_crafting_event_september2022_dino_description=A coin dedicated to your love of Cowboys. Can be found by defeating dungeons in the Desert Frontier during the Cowasaurs and Dinoboys event.\n\nUsed to craft Dinoboy Effigy at the Dinoboy Workbench in the Events area of the hub.
+$prefabs_item_crafting_event_september2022_dino_premium_name=Dinoboy Token
+$prefabs_item_crafting_event_september2022_dino_premium_description=A token dedicated to your love of Cowboys. Claimed by completing dailies during the Cowasaurs and Dinoboys event.\n\nUsed to craft Dinoboy Effigy at the Dinoboy Workbench in the Events area of the hub.
