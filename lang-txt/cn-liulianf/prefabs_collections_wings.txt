@@ -123,3 +123,5 @@ $prefabs_collections_wings_green_name=特殊升翼
 $prefabs_collections_wings_green_description=无法抑制他们对举起你的兴奋。
 $prefabs_collections_wings_trovesaurus_name=智慧龙翼
 $prefabs_collections_wings_trovesaurus_description=用智慧的信息和恐龙的力量提升你。
+$prefabs_collections_wings_duck_mastery_name=涂油副翼
+$prefabs_collections_wings_duck_mastery_description=你可以在电视上出售的那种防水的东西!

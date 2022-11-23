@@ -123,3 +123,5 @@ $prefabs_collections_wings_green_name=Exceptional Elevators
 $prefabs_collections_wings_green_description=Cannot contain their excitement about lifting you up.
 $prefabs_collections_wings_trovesaurus_name=Sagely Saurers
 $prefabs_collections_wings_trovesaurus_description=Raising you up with sagely information and dino power.
+$prefabs_collections_wings_duck_mastery_name=Oiled Ailerons
+$prefabs_collections_wings_duck_mastery_description=The kind of Hydrophobic you can sell on TV!

@@ -21,3 +21,5 @@ $prefabs_item_fishing_pole_sword_item_name=钓竿：湖中仙女
 $prefabs_item_fishing_pole_sword_item_description=据说能引诱附近的鱼的传奇钓竿。
 $prefabs_item_fishing_boot_ancient_name=古老的靴子
 $prefabs_item_fishing_boot_ancient_description=跟波希尔达差不多老，这玩意儿是真的一点用处都派不上，我说真的。
+$prefabs_item_fishing_net_all_pools_all_liquids_name=垂钓大师的渔网
+$prefabs_item_fishing_net_all_pools_all_liquids_description=一张能同时捕获许多鱼的网。\n当被扔进任何鱼池或可钓鱼的液体时，能捕获5条鱼。\n\n需要激活的鱼饵。

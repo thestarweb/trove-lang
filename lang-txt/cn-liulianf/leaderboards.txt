@@ -186,3 +186,5 @@ $Leaderboard_Paragon_DinoTamer=每周驯龙师最高巅峰等级
 $Leaderboard_Paragon_CrimeFighter=每周先锋卫士最高巅峰等级
 $Leaderboard_Paragon_Bard=每周吟游诗人最高巅峰等级
 $Leaderboard_Paragon_Solarion=每周曜日射手最高巅峰等级
+$Leaderboard_HartsReceived=收到的头条喇叭
+$Leaderboard_HartsSent=已发送的头条喇叭

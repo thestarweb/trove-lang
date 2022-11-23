@@ -1,0 +1,6 @@
+$prefabs_item_currency_progression_fishing_branch_unlock_name=Key to the Depths
+$prefabs_item_currency_progression_fishing_branch_unlock_description=Unlocks access to greater power at the Pond of Power.\n\nUnlocks access to Major Bubbles in the Depths of the Angler.
+$prefabs_item_currency_progression_fishing_coin_name=Mark of the Angler
+$prefabs_item_currency_progression_fishing_coin_description=Coins obtained by fishing while under the effects of the Aura of the Angler.\n\nUsed as currency and a crafting materal in the Fishing Area of the Hub.
+$prefabs_item_currency_progression_fishing_node_activate_name=Trophy of the Depths
+$prefabs_item_currency_progression_fishing_node_activate_description=Used to display your mastery of fishing in trove at the Pond of Power.\n\nActivates the Bubbles in the Depths of the Angler.

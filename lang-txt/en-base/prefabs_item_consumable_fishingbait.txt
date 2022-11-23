@@ -1,0 +1,24 @@
+$prefabs_item_consumable_fishingbait_rarity_01_name=Basic Seeker Lures
+$prefabs_item_consumable_fishingbait_rarity_01_description=Increases your chances of catching Uncommon and Rare fish.\n\nLasts 2 hours or until all lures are used.
+$prefabs_item_consumable_fishingbait_rarity_02_name=Quality Seeker Lures
+$prefabs_item_consumable_fishingbait_rarity_02_description=Incrases your chances of catching Uncommon and Rare fish.\n\nLasts 2 hours or until all lures are used.
+$prefabs_item_consumable_fishingbait_rarity_03_name=Angler's Seeker Lures
+$prefabs_item_consumable_fishingbait_rarity_03_description=Increases your chances of catching Uncommon and Rare fish.\n\nLasts 2 hours or until all lures are used.
+$prefabs_item_consumable_fishingbait_rarity_03_daily_name=Angler's Seeker Lures (Daily)
+$prefabs_item_consumable_fishingbait_rarity_03_daily_description=Increases your chances of catching Uncommon and Rare fish.\n\nLasts 2 hours or until all lures are used.\n\n<font color='#e8e34f'>You may only craft this recipe one (1) time each day.</font>
+$prefabs_item_consumable_fishingbait_speed_01_name=Basic Quick Lures
+$prefabs_item_consumable_fishingbait_speed_01_description=Increases how quickly you catch fish.\n\nLasts 2 hours or until all lures are used.
+$prefabs_item_consumable_fishingbait_speed_02_name=Quality Quick Lure
+$prefabs_item_consumable_fishingbait_speed_02_description=Increases how quickly you catch fish.\n\nLasts 2 hours or until all lures are used.
+$prefabs_item_consumable_fishingbait_speed_03_name=Angler's Quick Lure
+$prefabs_item_consumable_fishingbait_speed_03_description=Increases how quickly you catch fish.\n\nLasts 2 hours or until all lures are used.
+$prefabs_item_consumable_fishingbait_speed_03_daily_name=Angler's Quick Lure (Daily)
+$prefabs_item_consumable_fishingbait_speed_03_daily_description=Increases how quickly you catch fish.\n\nLasts 2 hours or until all lures are used.\n\n<font color='#e8e34f'>You may only craft this recipe one (1) time each day.</font>
+$prefabs_item_consumable_fishingbait_trophy_01_name=Basic Depth Lures
+$prefabs_item_consumable_fishingbait_trophy_01_description=Increases the chance of catching trophy fish.\n\nLasts 2 hours or until all lures are used.
+$prefabs_item_consumable_fishingbait_trophy_02_name=Quality Depth Lures
+$prefabs_item_consumable_fishingbait_trophy_02_description=Increases the chance of catching trophy fish.\n\nLasts 2 hours or until all lures are used.
+$prefabs_item_consumable_fishingbait_trophy_03_name=Angler's Depth Lures
+$prefabs_item_consumable_fishingbait_trophy_03_description=Increases the chance of catching trophy fish.\n\nLasts 2 hours or until all lures are used.
+$prefabs_item_consumable_fishingbait_trophy_03_daily_name=Angler's Depth Lures (Daily)
+$prefabs_item_consumable_fishingbait_trophy_03_daily_description=Increases the chance of catching trophy fish.\n\nLasts 2 hours or until all lures are used.\n\n<font color='#e8e34f'>You may only craft this recipe one (1) time each day.</font>

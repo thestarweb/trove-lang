@@ -458,3 +458,15 @@ $prefabs_item_crafting_poster_cowboy_name=牛仔征服海报
 $prefabs_item_crafting_poster_cowboy_desc=一张献给牛仔荣耀的海报。为什么要躲在丛林里晒太阳？\n\n用于侏罗纪丛林中的海报木桩。
 $prefabs_item_crafting_jan2023_coin_name=皮洛特金币
 $prefabs_item_crafting_jan2023_coin_desc=来自宝藏岛的宝物。在迎新年2023期间，由霓虹城和荧光都市的皮洛特掉落。\n\n用来在光耀喷泉制的霓虹收藏品。
+$prefabs_item_crafting_fish_paste_rare_name=优质鱼罐头
+$prefabs_item_crafting_fish_paste_rare_desc=罐装的稀有鱼类。\n\n可以在垂钓者烤炉烹饪食物。
+$prefabs_item_crafting_fish_paste_rare_weekly_name=优质鱼罐头(每周)
+$prefabs_item_crafting_fish_paste_rare_weekly_desc=罐装的稀有鱼类。\n\n可以在垂钓者烤炉烹饪食物。\n\n<font color='#e8e34f'>你每周只能制作这个配方（5）次</font>
+$prefabs_item_crafting_fish_paste_common_name=基础鱼罐头
+$prefabs_item_crafting_fish_paste_common_desc=罐装的普通鱼。\n\n可以在垂钓者烤炉烹饪食物。
+$prefabs_item_crafting_fish_paste_uncommon_name=精选鱼罐头
+$prefabs_item_crafting_fish_paste_uncommon_desc=罐装的罕见鱼。\n\n可以在垂钓者烤炉烹饪食物。
+$prefabs_item_crafting_turtle_shell_name=龟壳
+$prefabs_item_crafting_turtle_shell_desc=制作材料。\n\n海龟拖杆钓到的海龟分解所获得的战利品。
+$prefabs_item_crafting_scale_depths_name=深渊鳞片
+$prefabs_item_crafting_scale_depths_desc=制作材料。\n\n分解深渊鱼的所获得的战利品。

@@ -21,3 +21,5 @@ $prefabs_item_fishing_pole_sword_item_name=Fishing Pole: Lady of the Lake
 $prefabs_item_fishing_pole_sword_item_description=A legendary fishing rod said to enchant any fish that swims nearby.
 $prefabs_item_fishing_boot_ancient_name=Ancient Boot
 $prefabs_item_fishing_boot_ancient_description=Almost as old as Boothilda. This one is completely useless. Honest.
+$prefabs_item_fishing_net_all_pools_all_liquids_name=Master Angler's Fishing Net
+$prefabs_item_fishing_net_all_pools_all_liquids_description=A net capable of catching many fish all at once. Captures 5 fish when thrown into any pool or fishable liquid.\n\nRequires an active Lure.

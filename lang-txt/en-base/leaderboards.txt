@@ -186,3 +186,5 @@ $Leaderboard_Paragon_DinoTamer=Weekly Highest Paragon Level with Dino Tamer
 $Leaderboard_Paragon_CrimeFighter=Weekly Highest Paragon Level with Vanguardian
 $Leaderboard_Paragon_Bard=Weekly Highest Paragon Level with Bard
 $Leaderboard_Paragon_Solarion=Weekly Highest Paragon Level with Solarion
+$Leaderboard_HartsReceived=HART-A-PHONES RECEIVED
+$Leaderboard_HartsSent=HART-A-PHONES SENT

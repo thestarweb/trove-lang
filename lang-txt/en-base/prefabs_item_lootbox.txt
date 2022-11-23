@@ -106,10 +106,6 @@ $prefabs_item_lootbox_club_plasmafish_03_item_name=Superior Pail o' Plasma
 $prefabs_item_lootbox_club_plasmafish_03_item_description=Some glowy flappy thing is inside, if you dare to look.
 $prefabs_item_lootbox_luminopolis_bonus_materials_name=Neon City Scrap Case
 $prefabs_item_lootbox_luminopolis_bonus_materials_description=Collection of materials commonly found in Neon City and Luminopolis.
-$prefabs_item_lootbox_conquest_relic_name=Amperium Relic Case
-$prefabs_item_lootbox_conquest_relic_description=A sealed relic case containing one of the rare Amperium relic decoration pieces.
-$prefabs_item_lootbox_conquest_rewards_name=Conquest Spoils
-$prefabs_item_lootbox_conquest_rewards_description=Awards conquest loot. Has a chance to award the rare Amperium Relic Case!
 $prefabs_item_lootbox_neon_lesser_name=Lesser Neon Cache
 $prefabs_item_lootbox_neon_lesser_description=Open for Neon City crafting materials, or a rare chance at a Dormant Amperium Dragon Egg Fragment or a Dormant Resistor Dragon Egg Fragment!
 $prefabs_item_lootbox_neon_greater_name=Greater Neon Cache
@@ -171,7 +167,7 @@ $prefabs_item_lootbox_trophy_item_description=Open it to reveal a random Trophy!
 $prefabs_item_lootbox_neowiz_name=Neonium Cache
 $prefabs_item_lootbox_neowiz_description=Normally contains Flux or other useful items. Rarely contains Pure Neonium.
 $prefabs_item_lootbox_delve_memento_cache_name=Pressure-locked Heirloom Case
-$prefabs_item_lootbox_delve_memento_cache_description=Contains 1 non-event Delve Memento of random quality.
+$prefabs_item_lootbox_delve_memento_cache_description=Contains 1 Delve Memento of random quality.
 $prefabs_item_lootbox_shadowseve2021_item_name=Order of the Moon's Treasure Box
 $prefabs_item_lootbox_shadowseve2021_item_description=Contains a plethora of prizes, including Bound Brilliance, Dragon Coins, and a rare chance at Diamond Dragonite or Metamatter.
 $prefabs_item_lootbox_delve_freerange_name=Glowing Crystalline Cache
@@ -220,3 +216,7 @@ $prefabs_item_lootbox_giantlands_resource_ashen_name=Ashen Cache
 $prefabs_item_lootbox_giantlands_resource_ashen_description=Contains resources normally found within the Ashen Wastes in the Sundered Uplands.
 $prefabs_item_lootbox_giantlands_resource_irradiant_name=Cloudy Cache
 $prefabs_item_lootbox_giantlands_resource_irradiant_description=Contains resources normally found within the Cloud Layer of the Sundered Uplands.
+$prefabs_item_lootbox_fishing_net_weekly_autoconsume_name=Master Angler's Fishing Net (Weekly)
+$prefabs_item_lootbox_fishing_net_weekly_autoconsume_description=A net capable of catching many fish all at once. Captures 5 fish when thrown into any pool or fishable liquid.\n\nRequires an active Lure.\n\n<font color='#e8e34f'>You may only craft this recipe one (1) time each week</font>
+$prefabs_item_lootbox_fishing_net_weekly_autoconsume_2_description=A net capable of catching many fish all at once. Captures 5 fish when thrown into any pool or fishable liquid.\n\nRequires an active Lure.\n\n<font color='#e8e34f'>You may only craft this recipe one (2) time each week</font>
+$prefabs_item_lootbox_fishing_net_weekly_autoconsume_3_description=A net capable of catching many fish all at once. Captures 5 fish when thrown into any pool or fishable liquid.\n\nRequires an active Lure.\n\n<font color='#e8e34f'>You may only craft this recipe one (3) time each week</font>
