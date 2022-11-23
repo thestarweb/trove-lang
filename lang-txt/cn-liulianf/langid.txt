@@ -1,1 +1,1 @@
-$LanguageName=Chinese-3.1.1-琉涟风
+$LanguageName=Chinese-3.1.2-琉涟风
