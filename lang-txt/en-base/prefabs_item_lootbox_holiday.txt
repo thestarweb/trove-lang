@@ -29,3 +29,5 @@ $prefabs_item_lootbox_holiday_snowfest2022_item_name=Snowfest 2022 Treasure Box
 $prefabs_item_lootbox_holiday_snowfest2022_item_description=Contains a plethora of prizes including Bound Brilliance, Dragon Coins, Crystalline Cores and a rare chance at Diamond Dragonite or Metamatter. Also includes the Tubular Animant, Angryak, Snowfest Surfer, and Kiwi Katcher.
 $prefabs_item_lootbox_holiday_snowfest2022_rare_item_name=Premium Snowfest 2022 Treasure Box
 $prefabs_item_lootbox_holiday_snowfest2022_rare_item_description=Always includes a tradable Tubular Animant, Angryak, Snowfest Surfer, or Kiwi Katcher.
+$prefabs_item_lootbox_holiday_heckbugs2023_item_name=Cave Hybrid's Trove
+$prefabs_item_lootbox_holiday_heckbugs2023_item_description=Contains a Crystals, Heckbug-Hybrid Eggs, Heckbug Banners and sometimes a Heckbug Kicker.

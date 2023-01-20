@@ -38,3 +38,6 @@ $prefabs_collections_fishing_stars_pole_description=Simply the best at finding m
 $prefabs_collections_fishing_turtle_pole_name=Turtle Trawler
 $prefabs_collections_fishing_turtle_pole_item_name=Pole: Turtle Trawler
 $prefabs_collections_fishing_turtle_pole_description=I like turtles.  Turtles like pizza.  Somehow this results in catching fish.\n\nCapable of catching invasive turtles from the Depths.\n\nSold by Mr. Thommas Tortoise.
+$prefabs_collections_fishing_bird_pole_name=Tweeting Trawler
+$prefabs_collections_fishing_bird_pole_item_name=Pole: Tweeting Trawler
+$prefabs_collections_fishing_bird_pole_description=Professional trawlers are often known for fishing using tools like this - sometimes it's known as chirping.

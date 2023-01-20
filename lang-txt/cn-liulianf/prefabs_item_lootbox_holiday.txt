@@ -29,3 +29,5 @@ $prefabs_item_lootbox_holiday_snowfest2022_item_name=冰雪庆典2022宝箱
 $prefabs_item_lootbox_holiday_snowfest2022_item_description=包含大量的奖品，包括弹跳光辉、龙币、水晶核心概略和罕见的钻石龙石或超物质。\n\n还包括: \n服饰: 冲浪骑士, 坐骑: 愤怒角龙, 船: 冰雪庆典冲浪者, 或者 钓竿: 奇异钓竿。
 $prefabs_item_lootbox_holiday_snowfest2022_rare_item_name=冰雪庆典2022高级宝箱
 $prefabs_item_lootbox_holiday_snowfest2022_rare_item_description=总是包括一个可交易的服饰: 冲浪骑士, 坐骑: 愤怒角龙, 船: 冰雪庆典冲浪者, 或者 钓竿: 奇异钓竿。
+$prefabs_item_lootbox_holiday_heckbugs2023_item_name=洞穴混合宝箱
+$prefabs_item_lootbox_holiday_heckbugs2023_item_description=包含水晶，混血地狱虫蛋，地狱虫旗帜，有时还包含一个地狱虫踢手。

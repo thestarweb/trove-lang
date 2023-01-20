@@ -129,3 +129,5 @@ $prefabs_collections_boat_clipper_goldfish_item_name=船: 鱼饵漂浮船
 $prefabs_collections_boat_clipper_goldfish_description=找到所有鱼与你掌握的鱼饵。
 $prefabs_collections_boat_dragon_mastery_swan_name=天鹅I
 $prefabs_collections_boat_dragon_mastery_swan_description=丑陋是在旁观者的心中。
+$prefabs_collections_boat_clipper_heckbug_name=地狱虫气垫船
+$prefabs_collections_boat_clipper_heckbug_description=在水（或熔岩！）中飞行，甚至比地狱虫飞得还快。

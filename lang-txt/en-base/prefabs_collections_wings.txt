@@ -125,3 +125,5 @@ $prefabs_collections_wings_trovesaurus_name=Sagely Saurers
 $prefabs_collections_wings_trovesaurus_description=Raising you up with sagely information and dino power.
 $prefabs_collections_wings_duck_mastery_name=Oiled Ailerons
 $prefabs_collections_wings_duck_mastery_description=The kind of Hydrophobic you can sell on TV!
+$prefabs_collections_wings_heckbug_name=Heckfly Carriers
+$prefabs_collections_wings_heckbug_description=Staying aloft through sheer tenacity.

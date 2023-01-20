@@ -141,3 +141,5 @@ $prefabs_collections_sail_goldfish_description=Go sailing with a hook, line, and
 $prefabs_collections_sail_pinzo_name=Pinzo's Sail
 $prefabs_collections_sail_pinzo_item_name=Pinzo's Sail
 $prefabs_collections_sail_pinzo_description=We all knew what this was going to be.
+$prefabs_collections_sail_heckbug_name=Heckbug Sail
+$prefabs_collections_sail_heckbug_description=Warn everyone to stay out of chomping range.

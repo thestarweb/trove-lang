@@ -36,3 +36,7 @@ $prefabs_item_magrider_board_dance_eyepad_description=据说听了它那混乱�
 $prefabs_item_magrider_board_dance_seashell_name=磁悬浮车：海妖之歌
 $prefabs_item_magrider_board_dance_seashell_description=更湿、更好
 $prefabs_item_magrider_board_carrot_name=磁悬浮车：酷炫胡萝北
+$prefabs_collections_magrider_board_pumpkinpie_name=切片滑块
+$prefabs_collections_magrider_board_pumpkinpie_description=这个派是为了跳舞而做的。
+$prefabs_item_magrider_dance_eggsurprise_item_name=磁悬浮车: 蛋蛋惊喜摇篮
+$prefabs_item_magrider_board_dance_eggsurprise_item_description=打开这个蛋，跳个舞吧。

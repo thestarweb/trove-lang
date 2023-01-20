@@ -459,13 +459,13 @@ $prefabs_item_crafting_poster_cowboy_desc=A poster devoted to the glory of Cowbo
 $prefabs_item_crafting_jan2023_coin_name=Pirrot Doubloon
 $prefabs_item_crafting_jan2023_coin_desc=Treasure from the Treasure Isles. Dropped by Pirrots in the Neon City and Luminopolis during Renewus 2023.\n\nUsed to craft neon collections at the Radiant Dayspring.
 $prefabs_item_crafting_fish_paste_rare_name=Premium Canned Fish
-$prefabs_item_crafting_fish_paste_rare_desc=Canned rare fish.\n\nUsed to cook food at the Anger''s Grill.
+$prefabs_item_crafting_fish_paste_rare_desc=Canned rare fish.\n\nUsed to cook food at the Angler''s Grill.
 $prefabs_item_crafting_fish_paste_rare_weekly_name=Premium Canned Fish (Weekly)
-$prefabs_item_crafting_fish_paste_rare_weekly_desc=Canned rare fish.\n\nUsed to cook food at the Anger''s Grill.\n\n<font color='#e8e34f'>You may only craft this recipe one (5) time each week</font>
+$prefabs_item_crafting_fish_paste_rare_weekly_desc=Canned rare fish.\n\nUsed to cook food at the Angler''s Grill.\n\n<font color='#e8e34f'>You may only craft this recipe one (5) time each week</font>
 $prefabs_item_crafting_fish_paste_common_name=Basic Canned Fish
 $prefabs_item_crafting_fish_paste_common_desc=Canned common fish.\n\nUsed to cook food at the Angler's Grill.
 $prefabs_item_crafting_fish_paste_uncommon_name=Select Canned Fish
-$prefabs_item_crafting_fish_paste_uncommon_desc=Canned uncommon fish.\n\nUsed to cook food at the Anger''s Grill.
+$prefabs_item_crafting_fish_paste_uncommon_desc=Canned uncommon fish.\n\nUsed to cook food at the Angler''s Grill.
 $prefabs_item_crafting_turtle_shell_name=Turtle Shell
 $prefabs_item_crafting_turtle_shell_desc=Crafting Material.\n\nObtained by Loot Collecting Turtles caught with the Turtle Trawler.
 $prefabs_item_crafting_scale_depths_name=Scale of the Depths

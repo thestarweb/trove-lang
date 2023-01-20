@@ -129,3 +129,5 @@ $prefabs_collections_boat_clipper_goldfish_item_name=Boat: Fishy Floater
 $prefabs_collections_boat_clipper_goldfish_description=Find all the fish with your mastery of bait.
 $prefabs_collections_boat_dragon_mastery_swan_name=Cygnet I
 $prefabs_collections_boat_dragon_mastery_swan_description=Ugly is in the heart of the beholder.
+$prefabs_collections_boat_clipper_heckbug_name=Heckfly Hovercraft
+$prefabs_collections_boat_clipper_heckbug_description=Fly through the water (or lava!) even faster than a heckfly.

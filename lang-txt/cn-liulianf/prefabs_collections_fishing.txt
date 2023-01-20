@@ -38,3 +38,6 @@ $prefabs_collections_fishing_stars_pole_description=在寻找大多数鱼方面�
 $prefabs_collections_fishing_turtle_pole_name=海龟拖杆
 $prefabs_collections_fishing_turtle_pole_item_name=钓竿: 海龟拖杆
 $prefabs_collections_fishing_turtle_pole_description=我喜欢乌龟。乌龟喜欢披萨。不知道为何这样都可以钓鱼。\n\n能够从深渊中捕捉到入侵的乌龟。\n\n由托马斯乌龟先生出售。
+$prefabs_collections_fishing_bird_pole_name=头条拖网钓竿
+$prefabs_collections_fishing_bird_pole_item_name=钓竿: 头条拖网钓竿
+$prefabs_collections_fishing_bird_pole_description=专业的拖网渔船通常以使用这样的捕鱼工具而闻名--有时它被称为鸣叫。

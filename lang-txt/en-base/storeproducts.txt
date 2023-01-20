@@ -1114,3 +1114,5 @@ $StoreProduct_item_fishing_net_name=Master Angler's Fishing Net
 $StoreProduct_item_fishing_net_description=A net capable of catching many fish all at once. Captures 5 fish when thrown into any pool or fishable liquid.\n\nRequires an active Lure.
 $StoreProduct_item_currency_progression_progression_branch_unlock_name=Constellation Key
 $StoreProduct_item_currency_progression_progression_branch_unlock_description=Constellation Keys can be used in the Star Chart to unlock branches or reset all used Celestial Spheres.
+$StoreProduct_trove_heckbug_horde_pack_name=Huge Heckbug Horde
+$StoreProduct_trove_heckbug_horde_pack_description=This limited time pack unlocks the Heckfly Carriers wings, the Waving Wings aura, the Heckling Half-Pint and Heckbug Harvester allies, the Heckwrangler mount, the Heckfly Hovercraft boat, the Heckbug sail, and the Heckling Hider, Heckalyte, and Heckbug Harnesser Costumes.\n\nCatch them before they float away!

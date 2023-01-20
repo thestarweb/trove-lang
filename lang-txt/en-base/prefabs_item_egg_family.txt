@@ -16,3 +16,5 @@ $prefabs_item_egg_family_zepperay_name=Tame Zepperay Egg
 $prefabs_item_egg_family_zepperay_description=Hatches into a common, uncommon, or rare Zepperay.\n\nFound rarely when assiting wild Zepperays in Moonglow Grotto.
 $prefabs_item_egg_family_heckbug_name=Heckbug Egg
 $prefabs_item_egg_family_heckbug_description=Hatches into a common, uncommon, or rare Heckbug.\n\nFound rarely when exploring or assiting wild Heckbugs in the Sunken Sunvault during the Heckbugs In Love event.
+$prefabs_item_egg_family_heckbug_hybrid_name=Heckbug-Hybrid Egg
+$prefabs_item_egg_family_heckbug_hybrid_description=Hatches into a common, uncommon, or rare Heckbug-Hybrid.\n\nFound rarely when exploring or assiting wild Heckbugs in the Verdant Veins during the Heckbugs In Love event.

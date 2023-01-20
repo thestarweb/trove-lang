@@ -23,3 +23,27 @@ $prefabs_item_fishing_boot_ancient_name=Ancient Boot
 $prefabs_item_fishing_boot_ancient_description=Almost as old as Boothilda. This one is completely useless. Honest.
 $prefabs_item_fishing_net_all_pools_all_liquids_name=Master Angler's Fishing Net
 $prefabs_item_fishing_net_all_pools_all_liquids_description=A net capable of catching many fish all at once. Captures 5 fish when thrown into any pool or fishable liquid.\n\nRequires an active Lure.
+$prefabs_item_fishing_birdrod_blankscroll_code_01_name=Salient Line of Code #1
+$prefabs_item_fishing_birdrod_blankscroll_code_01_description=#include &lt;iostream>
+$prefabs_item_fishing_birdrod_blankscroll_code_02_name=Salient Line of Code #2
+$prefabs_item_fishing_birdrod_blankscroll_code_02_description=using namespace std;
+$prefabs_item_fishing_birdrod_blankscroll_code_03_name=Salient Line of Code #3
+$prefabs_item_fishing_birdrod_blankscroll_code_03_description=int main() {
+$prefabs_item_fishing_birdrod_blankscroll_code_04_name=Salient Line of Code #4
+$prefabs_item_fishing_birdrod_blankscroll_code_04_description=cout &lt;&lt; "Hello World!";
+$prefabs_item_fishing_birdrod_blankscroll_code_05_name=Salient Line of Code #5
+$prefabs_item_fishing_birdrod_blankscroll_code_05_description=return 0; }
+$prefabs_item_fishing_birdrod_blankscroll_code_06_name=Salient Line of Code #6
+$prefabs_item_fishing_birdrod_blankscroll_code_06_description=if(true != false)\n{\n\n}
+$prefabs_item_fishing_birdrod_blankscroll_code_07_name=Salient Line of Code #7
+$prefabs_item_fishing_birdrod_blankscroll_code_07_description=bool isEven(int n) { bool even = (n % 2 == 0); if(even == true) { return true; } else (return false; } }
+$prefabs_item_fishing_birdrod_blankscroll_code_08_name=Salient Line of Code #8
+$prefabs_item_fishing_birdrod_blankscroll_code_08_description=if ( water == level )\n{\n	earth = flat;\n}
+$prefabs_item_fishing_birdrod_used_ego_potion_name=Used Ego Potion
+$prefabs_item_fishing_birdrod_used_ego_potion_description=There's usually some residue left over, but even that's washed away now.
+$prefabs_item_fishing_birdrod_used_pinzoin_name=Washed Out Pinzoin
+$prefabs_item_fishing_birdrod_used_pinzoin_description=Upon reading the fine print, it turns out Pinzoins lose all value when exposed to liquid, or sunlight, or air.
+$prefabs_item_fishing_birdrod_used_net_name=The Net
+$prefabs_item_fishing_birdrod_used_net_description=Connecting fish to people since the dawn of 'The Net'.
+$prefabs_item_fishing_birdrod_used_car_name=Planet Trekker
+$prefabs_item_fishing_birdrod_used_car_description=From Trove to Geode and back, this car has seen it all.

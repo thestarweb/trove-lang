@@ -2673,3 +2673,6 @@ $prefabs_placeable_deco_fishing_banner_top_item_name=Pond of Power Banner - Top
 $prefabs_placeable_deco_fishing_banner_mid_item_name=Pond of Power Banner - Middle
 $prefabs_placeable_deco_fishing_banner_bot_item_name=Pond of Power Banner - Bottom
 $prefabs_placeable_deco_fishing_banner_standing_item_name=Pond of Power Banner - Standing
+$prefabs_placeable_deco_heckbug_banner_top_item_name=Heckbug Banner - Top
+$prefabs_placeable_deco_heckbug_banner_mid_item_name=Heckbug Banner - Middle
+$prefabs_placeable_deco_heckbug_banner_bot_item_name=Heckbug Banner - Bottom

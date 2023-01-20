@@ -110,3 +110,5 @@ $prefabs_collections_aura_berserker_weapon_name=The Berserker's Brutality
 $prefabs_collections_aura_berserker_head_name=The Berserker's Cunning
 $prefabs_collections_aura_berserker_head_description=Fueled by rage, bloodlust, and the color red.
 $prefabs_collections_aura_berserker_weapon_description=When one weapon is not enough, use 'em all.
+$prefabs_collections_aura_aura_heckbug_name=Waving Wings
+$prefabs_collections_aura_aura_heckbug_description=Faintly buzzing with aggressive affection.

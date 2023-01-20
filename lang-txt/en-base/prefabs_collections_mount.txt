@@ -1784,3 +1784,5 @@ $prefabs_collections_mount_dragon_mastery_duck_name=Fowlyx the Impermeable
 $prefabs_collections_mount_dragon_mastery_duck_description=Oil and Water--tale as old as Chronomancer Qubesly--is but a hint of the true staying power of Fowlyx.
 $prefabs_collections_mount_tortoise_mastery_duck_name=Wakling Waddlemum
 $prefabs_collections_mount_tortoise_mastery_duck_description=Unless she trusts you, never get between a Waddlemum and her Brood.
+$prefabs_collections_mount_dragonlong_heckbug_name=Heckwrangler
+$prefabs_collections_mount_dragonlong_heckbug_description=Luring in the unsuspecting for one heck of a chomp.

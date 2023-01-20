@@ -110,3 +110,5 @@ $prefabs_collections_aura_berserker_weapon_name=狂暴者的爆虐
 $prefabs_collections_aura_berserker_head_name=狂暴者的狡诈
 $prefabs_collections_aura_berserker_head_description=以愤怒、嗜血和血色为动力。
 $prefabs_collections_aura_berserker_weapon_description=当一把武器还不够用时，就全部使用。
+$prefabs_collections_aura_aura_heckbug_name=挥舞翅膀
+$prefabs_collections_aura_aura_heckbug_description=微弱的声响，带有威胁性的情感。

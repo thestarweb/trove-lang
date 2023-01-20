@@ -116,5 +116,5 @@ $Claims_fishing_capricorn_fragment_description=A fragment of the Depths' power.
 $Claims_fishing_reward_hermitcrab_deltalith_description=The depths conquered the Delves and its inhabitants use the deltaliths as shells.
 $Claims_fishing_reward_howlug_snail_description=These creatures are the only light in the depths.
 $Claims_fishing_reward_hoppet_shark_description=Proof that the most terrifying predators are not the largest.
-$Claims_fishing_adv_reward_description=Freshwater Fran's payment for completing a speical order.
+$Claims_fishing_adv_reward_description=Freshwater Fran's payment for completing a special order.
 $Claims_fishing_tutorial_reward_description=Saltwater Sam's reward for learning to fish.

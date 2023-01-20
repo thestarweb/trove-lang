@@ -1,7 +1,7 @@
 $fishing_progression_workbench_name=Pond of Power
 $fishing_progression_workbench_desc=Power rises from the depths.\nPress [HK:Loot] to interact.
 $fishing_progression_name=Depths of the Angler
-$fishing_progression_desc=The Depths are an alien place of power, mystery, and predators. Those that can master the Depths can weild it's power.
+$fishing_progression_desc=The Depths are an alien place of power, mystery, and predators. Those that can master the Depths can wield it's power.
 $fishing_tree_name=Depths of the Angler
 $fishing_tree_desc=The Depths stir and power is available for those willing to seize it.
 $fishing_tree_detail=Meet with Murkwater Mark under in the Hub to gain the Aura of the Angler and begin your delve into the Depths.

@@ -141,3 +141,5 @@ $prefabs_collections_sail_goldfish_description=带着鱼钩、鱼线出海，但
 $prefabs_collections_sail_pinzo_name=平索的帆
 $prefabs_collections_sail_pinzo_item_name=平索的帆
 $prefabs_collections_sail_pinzo_description=我们都知道这将是一个什么情况。
+$prefabs_collections_sail_heckbug_name=地狱虫之帆
+$prefabs_collections_sail_heckbug_description=警告每个人不要进入此范围。

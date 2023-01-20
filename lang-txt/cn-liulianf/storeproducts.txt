@@ -1114,3 +1114,5 @@ $StoreProduct_item_fishing_net_name=垂钓大师的渔网
 $StoreProduct_item_fishing_net_description=一张能同时捕获许多鱼的网。当被扔进任何鱼池或可钓鱼的液体时，能捕获5条鱼。\n\n需要激活的鱼饵。
 $StoreProduct_item_currency_progression_progression_branch_unlock_name=星座钥匙
 $StoreProduct_item_currency_progression_progression_branch_unlock_description=星座钥匙可以在星图中使用，可以解锁分支或重置星图并返还所有已使用的天球。
+$StoreProduct_trove_heckbug_horde_pack_name=巨型的地狱虫群(2023)
+$StoreProduct_trove_heckbug_horde_pack_description=这个限时礼包可以解锁 飞翼：地狱虫精神载体、光环特效：挥舞翅膀、宠物：半品脱地狱虫 和 宠物：地狱虫收割者、坐骑：地狱牧马、船：地狱虫气垫船、船帆：地狱虫之帆，以及地狱驭虫师(曜日)、地狱隐匿师(枪械)和地狱火师(龙法)的服饰。\n\n在他们飘走之前抓住他们!
