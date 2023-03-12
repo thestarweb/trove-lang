@@ -264,3 +264,4 @@ $CollectionName_August2022_LunarPlunge=银月遗落2022
 $CollectionName_CritterBombs=生物炸弹
 $CollectionName_TrapBombs=陷阱炸弹
 $CollectionName_Progression=星图
+$CollectionName_Curiosities=珍品

@@ -129,3 +129,6 @@ $prefabs_item_consumable_magicfind_1000_description=Increases Magic Find by 1000
 $prefabs_item_consumable_xp_double_bomberroyale_name=Double Experience Potion (WEEKLY)
 $prefabs_item_consumable_jan2023_renewus_name=Lucky Doubloon
 $prefabs_item_consumable_jan2023_renewus_description=On use, increases your Magic Find by 50, Physical Damage by 10%, and Magical Damage by 10% for one hour.\n\nDropped by Pirrots defeated in the Neon City and Luminopolis.
+$prefabs_item_consumable_meta_800_name=Oil-free Downfeather
+$prefabs_item_consumable_meta_800_description=National currency of the Commonwealth of Ducks-most-Noble-and-Attractive & other Fowl of varying Regality, the quality is unmistakable.\n\nHold on to this for the future!
+$prefabs_item_consumable_meta_800_requirement_failureloc=This item cannot be used yet. Hold on to it.

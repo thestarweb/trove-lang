@@ -596,3 +596,5 @@ $prefabs_item_recipe_item_consumable_giantlands_scroll_resources_obsidian_name=�
 $prefabs_item_recipe_item_consumable_giantlands_scroll_resources_obsidian_description=在断裂高地工作台上允许制作 卷轴: 资源收集++ (黑曜石)
 $prefabs_item_recipe_item_food_gl_clamchowder_name=配方: 哈利杂烩
 $prefabs_item_recipe_item_food_gl_clamchowder_description=在断裂高地工作台上允许制作哈利杂烩
+$prefabs_item_recipe_banner_april2021_bunfest_name=配方: 兔托邦旗帜
+$prefabs_item_recipe_banner_april2021_bunfest_description=学习这个配方可以解锁兔子庆典制作站的兔托邦旗帜配方。

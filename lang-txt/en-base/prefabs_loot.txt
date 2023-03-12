@@ -3093,3 +3093,6 @@ $prefabs_loot_Hat_equipment_helm_solarion_ignite_name=Darkness Drakoneer Visor
 $prefabs_loot_equipment_weapon_bow_solarion_ignite_name=Darkness Drakoneer Firework Flinger
 $prefabs_loot_Helm_equipment_helm_spirittank_xmasdandee_name=Tubular Top
 $prefabs_loot_spear_equipment_helm_spirittank_xmasdandee_name=Tubular Paddle
+$prefabs_loot_Hat_equipment_helm_cranny_name=Cranny's Cranium
+$prefabs_loot_Hat_equipment_helm_cranny_description=Cranny's cranium, constantly crammed with curiousity, conferred for consideration.
+$prefabs_loot_Hat_equipment_hat_061[uzr7nckl]_name=Translator's Topper

@@ -18,7 +18,7 @@ import config from "./common/config";
                 return {key: item.key, value: mixMap.get(item.key)};
             }
             if(item.value === cnMap.get(item.key) || !cnMap.has(item.key)) return item;
-            const n = (cnMap.get(item.key).indexOf("\\n") != -1 || item.value.indexOf("\\n") != -1 || cnMap.get(item.key).length > 100 || item.value.length > 150) ? "\n" : "";
+            const n = (cnMap.get(item.key).indexOf("\\n") != -1 || item.value.indexOf("\\n") != -1 || cnMap.get(item.key).length > 100 || item.value.length > 150) ? "\\n" : "";
             return {key: item.key, value: `${cnMap.get(item.key)}${n}(${item.value})`};
         }).map(({key, value}) => ({key, value: value.replace(/[\n\r]/g, "").replace(/\\n/g, "\n")}));
         if(newData.length > 0){

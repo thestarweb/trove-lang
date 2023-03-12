@@ -596,3 +596,5 @@ $prefabs_item_recipe_item_consumable_giantlands_scroll_resources_obsidian_name=O
 $prefabs_item_recipe_item_consumable_giantlands_scroll_resources_obsidian_description=Allows crafting of Scroll: Resource Collection++ (Obsidian) at the Sundered Uplands Workbench
 $prefabs_item_recipe_item_food_gl_clamchowder_name=Recipe: "Clam" "Chow"
 $prefabs_item_recipe_item_food_gl_clamchowder_description=Allows crafting of "Clam" "Chow" at the Sundered Uplands Workbench
+$prefabs_item_recipe_banner_april2021_bunfest_name=Recipe: Buntopia Standard
+$prefabs_item_recipe_banner_april2021_bunfest_description=Learn this recipe to unlock the Buntopia Standard recipe on the Bunfest Station.

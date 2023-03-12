@@ -118,3 +118,4 @@ $Claims_fishing_reward_howlug_snail_description=这些生物是深海中唯一�
 $Claims_fishing_reward_hoppet_shark_description=证明最可怕的捕食者不是最大的。
 $Claims_fishing_adv_reward_description=完成淡水弗兰特殊订单的报酬。
 $Claims_fishing_tutorial_reward_description=从咸水山姆学习钓鱼技巧所获得的奖励。
+$Claims_GoldenThread_event_april2023_reward=庆祝兔子庆典的奖励!

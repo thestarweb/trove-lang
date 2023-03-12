@@ -718,3 +718,6 @@ $prefabs_skins_gunslinger_heckbug_skinset_name=Heckling Hider
 $prefabs_skins_gunslinger_heckbug_skinset_description=A costume for the Gunslinger.\n\nHiding amongst the horde.
 $prefabs_skins_dracolyte_heckbug_skinset_name=Heckalyte
 $prefabs_skins_dracolyte_heckbug_skinset_description=A costume for the Dracolyte.\n\nBecome the avatar of the heckbugs.
+$prefabs_skins_solarion_eggman_skinset_name=Egg-arion
+$prefabs_skins_solarion_eggman_skinset_item_name=Costume: Egg-arion
+$prefabs_skins_solarion_eggman_skinset_desc=A costume for the Solarion.\n\nThe Solarions mastered the art of camoflauge in the Egglands. It doesn't hurt that King Egon is so fixated looking for bunny ears.

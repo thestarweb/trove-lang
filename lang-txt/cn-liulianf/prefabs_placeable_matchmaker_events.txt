@@ -8,8 +8,8 @@ $prefabs_placeable_matchmaker_events_nov2021_turkeytopia_boss_name=秘境传送�
 $prefabs_placeable_matchmaker_events_nov2021_turkeytopia_boss_description=排队进入私人秘境，这个秘境疾走火鸡会偶尔出现。\n\n邀请:最多8名玩家\n坐骑:仅限秘境坐骑
 $prefabs_placeable_matchmaker_events_dec2020_library_name=秘境传送门:图书馆
 $prefabs_placeable_matchmaker_events_dec2020_library_description=排队进入私人秘境图书馆.\n\n邀请:最多8名玩家\n坐骑:仅限秘境坐骑
-$prefabs_placeable_matchmaker_events_april2021_bunfest_name=秘境传送门:兔托邦
-$prefabs_placeable_matchmaker_events_april2021_bunfest_description=排队进入秘境私人秘境，此秘境通往兔托邦生物群落 . \n\n邀请:最多8名玩家\n坐骑:仅限秘境坐骑\n\n在兔子庆典活动结束后<font color='#ff3030'>消失</font>
+$prefabs_placeable_matchmaker_events_april2021_bunfest_name=深度推进器:兔托邦
+$prefabs_placeable_matchmaker_events_april2021_bunfest_description=排队进入秘境私人秘境，此秘境通往兔托邦生物群落 . \n\n邀请:最多8名玩家\n坐骑:仅限秘境坐骑
 $prefabs_placeable_matchmaker_events_july2021_carys_name=传送门: 原晶. 裂痕 (卡瑞斯)
 $prefabs_placeable_matchmaker_events_july2021_carys_description=排队参加原晶地狱裂痕秘境，里面有卡瑞斯家族敌人与大量原晶助熔剂.\n\n\n\n\n在太阳庆典活动结束时<font color='#ff3030'>消失</font>)
 $prefabs_placeable_matchmaker_events_july2021_panatea_name=传送门: 原晶. 裂痕 (皮纳塔亚)
@@ -26,3 +26,7 @@ $prefabs_placeable_matchmaker_events_october2021_shadowseve_name=秘境传送门
 $prefabs_placeable_matchmaker_events_october2021_shadowseve_desc=在这里，你可以排队参加通往狼穴生物群落的私人秘境。\n\n邀请:最多8名玩家\n坐骑:仅限秘境坐骑\n\n在暗影之夕活动结束后<font color='#ff3030'>消失</font>
 $prefabs_placeable_matchmaker_events_july2022_chuckp_name=秘境传送门: 查克,平索
 $prefabs_placeable_matchmaker_events_july2022_chuckp_description=排队进入查克,平索BOSS的私人秘境。
+$prefabs_placeable_matchmaker_events_bunfest_trex_eggman_name=深度推进器: 霸王蛋龙
+$prefabs_placeable_matchmaker_events_bunfest_trex_eggman_description=你可以排队进入私人秘境，霸王蛋龙会偶尔出现。\n\n邀请:最多8名玩家\n坐骑:仅限秘境坐骑\n\n
+$prefabs_placeable_matchmaker_events_bunfest_golem_eggman_name=深度推进器: 埃贡国王
+$prefabs_placeable_matchmaker_events_bunfest_golem_eggman_description=你可以排队进入私人秘境，埃贡国王会偶尔出现。\n\n邀请:最多8名玩家\n坐骑:仅限秘境坐骑

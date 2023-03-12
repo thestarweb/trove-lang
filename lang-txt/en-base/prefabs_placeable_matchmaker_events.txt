@@ -8,8 +8,8 @@ $prefabs_placeable_matchmaker_events_nov2021_turkeytopia_boss_name=Delve Gateway
 $prefabs_placeable_matchmaker_events_nov2021_turkeytopia_boss_description=Place to queue yourself for a Private Delve in which Trotting Turkey can occasionally appear.\n\nInvites: Up to 8 Players total\nMounts: Delve Restricted
 $prefabs_placeable_matchmaker_events_dec2020_library_name=Delve Gateway: The Understacks
 $prefabs_placeable_matchmaker_events_dec2020_library_description=Place to queue yourself for a Private Delve for THE UNDERSTACKS \n\nInvites: Up to 8 Players total\nMounts: Delve Restricted
-$prefabs_placeable_matchmaker_events_april2021_bunfest_name=Delve Gateway: Buntopia
-$prefabs_placeable_matchmaker_events_april2021_bunfest_description=Place to queue yourself for a Private Delve which leads to the BUNTOPIA biome. \n\nInvites: Up to 8 Players total\nMounts: Delve Restricted\n\n<font color='#ff3030'>Disappears</font> at the end of the Bunfest event
+$prefabs_placeable_matchmaker_events_april2021_bunfest_name=Depth Stepper: Buntopia
+$prefabs_placeable_matchmaker_events_april2021_bunfest_description=Place to queue yourself for a Private Delve which leads to the BUNTOPIA biome. \n\nInvites: Up to 8 Players total\nMounts: Delve Restricted
 $prefabs_placeable_matchmaker_events_july2021_carys_name=Gateway: Flux. Fissures (Carys)
 $prefabs_placeable_matchmaker_events_july2021_carys_description=Place to queue yourself for a FLUXTUATING FISSURES delve with HOUSE CARYS enemies and oodles of FLUX D'CAT.\n\n\n\n\n<font color='#ff3030'>Disappears</font> at the end of the Sunfest event
 $prefabs_placeable_matchmaker_events_july2021_panatea_name=Gateway: Flux. Fissures (Panatea)
@@ -26,3 +26,7 @@ $prefabs_placeable_matchmaker_events_october2021_shadowseve_name=Delve Gateway: 
 $prefabs_placeable_matchmaker_events_october2021_shadowseve_desc=Place to queue yourself for a Private Delve which leads to the Wolves' Den biome. \n\nInvites: Up to 8 Players total\nMounts: Delve Restricted\n\n<font color='#ff3030'>Disappears</font> at the end of the Shadow's Eve event
 $prefabs_placeable_matchmaker_events_july2022_chuckp_name=Delve Gateway: Chuck Pinzo
 $prefabs_placeable_matchmaker_events_july2022_chuckp_description=Place to queue yourself for a Private Delve with a Chuck Pinzo boss.
+$prefabs_placeable_matchmaker_events_bunfest_trex_eggman_name=Depth Stepper: Tyr-egg-asaurus
+$prefabs_placeable_matchmaker_events_bunfest_trex_eggman_description=Place to queue yourself for a Private Delve in which TYR-EGG-ASAUARUS can occasionally appear.\n\nInvites: Up to 8 Players total\nMounts: Delve Restricted
+$prefabs_placeable_matchmaker_events_bunfest_golem_eggman_name=Depth Stepper: King Egon
+$prefabs_placeable_matchmaker_events_bunfest_golem_eggman_description=Place to queue yourself for a Private Delve in which KING EGON can occasionally appear.\n\nInvites: Up to 8 Players total\nMounts: Delve Restricted

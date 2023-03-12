@@ -79,3 +79,4 @@ $prefabs_abilities_equipment_proc_cursed_bite_combateventeffectspawner_descripti
 $prefabs_abilities_equipment_proc_curse_cure_combateventeffectspawner_description=Elsphodel's Protection - Protects against the Q'rsed Bite and summons the fury of the moon on enemies periodically.
 $prefabs_abilities_equipment_proc_friendsgiving_food_omni_description=Friendsgiving's Feast - Damaging enemies can sometimes give you a Friendsgiving snack.
 $prefabs_abilities_equipment_proc_friendsgiving_food_description=Friendsgiving's Feast - Damaging enemies can sometimes grant a bite of this food.
+$prefabs_abilities_equipment_proc_coin_spawner_description=Make Your Own Luck - Damaging enemies can sometimes spawn an explosive St. Qubeslick coin.

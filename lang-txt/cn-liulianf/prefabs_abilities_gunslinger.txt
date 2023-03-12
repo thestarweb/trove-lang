@@ -1,7 +1,7 @@
 $prefabs_abilities_gunslinger_blast_jump_item_name=爆炸跳
 $prefabs_abilities_gunslinger_blast_jump_item_description=使枪械师飞向空中，杀伤附近所有敌人
-$prefabs_abilities_gunslinger_charge_shot_item_name=蓄能射击
-$prefabs_abilities_gunslinger_charge_shot_item_description=按键蓄力2秒以上可提升蓄能射击的伤害和范围\n[满能的直击伤害为325%，爆炸伤害为275%，未完全充能爆炸伤害为175%]
+$prefabs_abilities_gunslinger_charge_shot_item_name=蓄力狙击
+$prefabs_abilities_gunslinger_charge_shot_item_description=按着技能可蓄能，最大蓄能需要0.85秒，可以以增加其伤害和范围。并且对敌人施加一个debuff，让敌人受到的伤害增加，持续5秒。在最大蓄能状态下，当目标生命值低于35%时，敌人会受到额外伤害。\n\n未充能：它对目标造成 200% 的魔法伤害。\n充能 1 圈：它对目标造成 350% 的魔法伤害，在目标周围区域造成 175% 的魔法伤害。\n充能 2 圈：它对目标造成 950% 的魔法伤害，在目标周围区域造成 375% 的魔法伤害。此外还会对敌人施加一个减益效果：你对敌人造成的伤害增加 10%，持续 10 秒。\n
 $prefabs_abilities_gunslinger_charge_shot_full_charge_item_name=蓄能射击
 $prefabs_abilities_gunslinger_charge_shot_full_charge_item_description=只有有耐心的人才能收获大奖。
 $prefabs_abilities_gunslinger_charge_shot_normal_item_name=蓄能射击
@@ -9,6 +9,6 @@ $prefabs_abilities_gunslinger_charge_shot_normal_item_description=只有有耐�
 $prefabs_abilities_gunslinger_fast_attack_item_name=边跑边打
 $prefabs_abilities_gunslinger_fast_attack_item_description=提升枪械师的移动速度和攻速，并使枪械师即使是在攻击的时候也能全速奔跑。
 $prefabs_abilities_gunslinger_passive_instant_charge_shot_item_name=随缘一枪
-$prefabs_abilities_gunslinger_passive_instant_charge_shot_item_description=当枪械师处于空中时，对敌人造成的伤害可降低下坠速度。造成伤害可使下一发蓄能射击无需蓄能便达全力。
+$prefabs_abilities_gunslinger_passive_instant_charge_shot_item_description=在空中对敌人造成伤害时会降低枪械师降落的速度。造成伤害有20%的几率使 蓄力狙击[右键] 达到最大蓄能。\n\n普通攻击伤害为165%。
 $prefabs_abilities_gunslinger_subclass_name=毁灭之雨
 $prefabs_abilities_gunslinger_subclass_description=空中对敌人造成伤害提升。

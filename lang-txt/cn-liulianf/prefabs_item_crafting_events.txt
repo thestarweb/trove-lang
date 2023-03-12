@@ -3,11 +3,11 @@ $prefabs_item_crafting_events_march2021_luckbeast_description=圣克贝斯利盛
 $prefabs_item_crafting_events_march2021_sevenspice_name=圣克贝斯利可七香粉
 $prefabs_item_crafting_events_march2021_sevenspice_description=这实际上可能是八香粉，额... 盐是香料吗？\n\n在宝藏岛生物群落的地下城获得，在浸末世界和主世界都可发现宝藏岛。\n<font color='#ff3030'>在圣克贝斯利活动结束不久后消失</font>
 $prefabs_item_crafting_events_april2021_chocolate_name=兔子庆典巧克力
-$prefabs_item_crafting_events_april2021_chocolate_description=兔子庆典巧克力通常被发现隐藏在蛋中，在中世纪高原，妖精森林，糖果世界和晶洞地表生物群落。\n\n在兔子庆典活动结束后<font color='#ff3030'>消失</font>
+$prefabs_item_crafting_events_april2021_chocolate_description=兔子庆典巧克力通常被发现隐藏在蛋中，在中世纪高原，妖精森林，糖果世界和晶洞地表生物群落。
 $prefabs_item_crafting_events_april2021_refinedchocolate_name=精制巧克力
-$prefabs_item_crafting_events_april2021_refinedchocolate_description=在许多兔子庆典配方中使用，这种巧克力是丰富的，颓废的，闻起来像兔子。\n\n在兔子庆典活动结束后<font color='#ff3030'>消失</font>
+$prefabs_item_crafting_events_april2021_refinedchocolate_description=在许多兔子庆典配方中使用，这种巧克力是丰富的，颓废的，闻起来像兔子。
 $prefabs_item_crafting_events_april2021_token_name=兔子庆典代币
-$prefabs_item_crafting_events_april2021_token_description=兔子庆典的唯一官方紀念品! 奖励给在主城完成兔子庆典每日冒险的寻宝者。\n\n在兔子庆典活动结束后<font color='#ff3030'>消失</font>
+$prefabs_item_crafting_events_april2021_token_description=兔子庆典的唯一官方紀念品! 奖励给在主城完成兔子庆典每日冒险的寻宝者。
 $prefabs_item_crafting_events_july2021_carys_flux_name=原晶助熔剂
 $prefabs_item_crafting_events_july2021_carys_flux_description=唯一具有正确的冶金特性的助熔剂，用于铸造卡瑞斯达克特，没有任何替代物！\n\n\n\n\n在太阳庆典活动结束时<font color='#ff3030'>消失</font>)
 $prefabs_item_crafting_events_july2021_minercard_name=皇家采矿许可证

@@ -264,3 +264,4 @@ $CollectionName_August2022_LunarPlunge=Lunar Plunge 2022
 $CollectionName_CritterBombs=Critter Bombs
 $CollectionName_TrapBombs=Trap Bombs
 $CollectionName_Progression=Star Chart
+$CollectionName_Curiosities=Curiosities

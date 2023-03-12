@@ -111,3 +111,6 @@ $prefabs_collections_magrider_board_dance_volcano_item_name=Magrider: Volcanic M
 $prefabs_collections_magrider_board_dance_volcano_description=Fires you up while it fires up.
 $prefabs_collections_magrider_board_stars_name=Charter's Chair
 $prefabs_collections_magrider_board_stars_description=Ride the rails as you chart the constellations.
+$prefabs_collections_magrider_board_bumpercar_name=Bumper Car of the Future
+$prefabs_collections_magrider_board_bumpercar_item_name=Magrider: Bumper Car of the Future
+$prefabs_collections_magrider_board_bumpercar_desc=The bumper car of tomorrow, today.

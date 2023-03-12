@@ -75,9 +75,9 @@ $prefabs_item_gem_large_blue_candybarbarian_swap_t110_description=只有糖果�
 $prefabs_item_gem_large_blue_candybarbarian_swap_t111_name=趋之若鹜
 $prefabs_item_gem_large_blue_candybarbarian_swap_t111_description=只有糖果野蛮人可以使用的附魔水蓝宝石。糖碎现会使野蛮人直跃而起再坠落下来，将附近敌人吸过来，并施加短暂的诱饵效果。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
 $prefabs_item_gem_large_blue_gunslinger_swap_t110_name=极限蓄能
-$prefabs_item_gem_large_blue_gunslinger_swap_t110_description=只有枪械师可以使用的附魔水蓝宝石。边跑边打现在会降低攻速，但能使打出的每一枪都变为满蓄能的蓄能射击。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_blue_gunslinger_swap_t110_description=只有枪械师可以使用的附魔水蓝宝石。边跑边打现在会降低攻速，但能使打出的每一发都是400%伤害的爆炸子弹，并且在一个区域内造成375%的爆炸伤害。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
 $prefabs_item_gem_large_blue_gunslinger_swap_t111_name=极限蓄能
-$prefabs_item_gem_large_blue_gunslinger_swap_t111_description=只有枪械师可以使用的附魔水蓝宝石。边跑边打现在会降低攻速，但能使打出的每一枪都变为满蓄能的蓄能射击。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_blue_gunslinger_swap_t111_description=只有枪械师可以使用的附魔水蓝宝石。边跑边打现在会降低攻速，但能使打出的每一发都是400%伤害的爆炸子弹，并且在一个区域内造成375%的爆炸伤害。。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
 $prefabs_item_gem_large_blue_nova_stun_t109_name=眩晕爆发
 $prefabs_item_gem_large_blue_nova_stun_t109_description=任意职业都可以使用的附魔水蓝宝石。\n\n<font size='20'>1.</font>受到伤害时有20%的概率向5方向生成眩晕球\n<font size='20'>2.</font>眩晕敌人1秒\n<font color='#34FF7B'>丨伤害: 1.5 x 物理/魔法伤害(满爆率coe算)丨\n丨伤害2次,8秒冷却丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
 $prefabs_item_gem_large_blue_nova_stun_t110_name=眩晕爆发
@@ -175,9 +175,9 @@ $prefabs_item_gem_large_red_candybarbarian_swap_t110_description=只有糖果野
 $prefabs_item_gem_large_red_candybarbarian_swap_t111_name=趋之若鹜
 $prefabs_item_gem_large_red_candybarbarian_swap_t111_description=只有糖果野蛮人可以使用的附魔火焰宝石。糖碎现会使野蛮人直跃而起再坠落下来，将附近敌人吸过来，并施加短暂的诱饵效果。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
 $prefabs_item_gem_large_red_gunslinger_swap_t110_name=极限蓄能
-$prefabs_item_gem_large_red_gunslinger_swap_t110_description=只有枪械师可以使用的附魔火焰宝石。边跑边打现在会降低攻速，但能使打出的每一枪都变为满蓄能的蓄能射击。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_red_gunslinger_swap_t110_description=只有枪械师可以使用的附魔火焰宝石。边跑边打现在会降低攻速，但能使打出的每一发都是400%伤害的爆炸子弹，并且在一个区域内造成375%的爆炸伤害。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
 $prefabs_item_gem_large_red_gunslinger_swap_t111_name=极限蓄能
-$prefabs_item_gem_large_red_gunslinger_swap_t111_description=只有枪械师可以使用的附魔火焰宝石。边跑边打现在会降低攻速，但能使打出的每一枪都变为满蓄能的蓄能射击。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_red_gunslinger_swap_t111_description=只有枪械师可以使用的附魔火焰宝石。边跑边打现在会降低攻速，但能使打出的每一发都是400%伤害的爆炸子弹，并且在一个区域内造成375%的爆炸伤害。。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
 $prefabs_item_gem_large_red_nova_stun_t109_name=眩晕爆发
 $prefabs_item_gem_large_red_nova_stun_t109_description=任意职业都可以使用的附魔火焰宝石。\n\n<font size='20'>1.</font>受到伤害时有20%的概率向5方向生成眩晕球\n<font size='20'>2.</font>眩晕敌人1秒\n<font color='#34FF7B'>丨伤害: 1.5 x 物理/魔法伤害(满爆率coe算)丨\n丨伤害2次,8秒冷却丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
 $prefabs_item_gem_large_red_nova_stun_t110_name=眩晕爆发
@@ -269,9 +269,9 @@ $prefabs_item_gem_large_yellow_candybarbarian_swap_t110_description=只有糖果
 $prefabs_item_gem_large_yellow_candybarbarian_swap_t111_name=趋之若鹜
 $prefabs_item_gem_large_yellow_candybarbarian_swap_t111_description=只有糖果野蛮人可以使用的附魔天空宝石。糖碎现会使野蛮人直跃而起再坠落下来，将附近敌人吸过来，并施加短暂的诱饵效果。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
 $prefabs_item_gem_large_yellow_gunslinger_swap_t110_name=极限蓄能
-$prefabs_item_gem_large_yellow_gunslinger_swap_t110_description=只有枪械师可以使用的附魔天空宝石。边跑边打现在会降低攻速，但能使打出的每一枪都变为满蓄能的蓄能射击。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_yellow_gunslinger_swap_t110_description=只有枪械师可以使用的附魔天空宝石。边跑边打现在会降低攻速，但能使打出的每一发都是400%伤害的爆炸子弹，并且在一个区域内造成375%的爆炸伤害。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
 $prefabs_item_gem_large_yellow_gunslinger_swap_t111_name=极限蓄能
-$prefabs_item_gem_large_yellow_gunslinger_swap_t111_description=只有枪械师可以使用的附魔天空宝石。边跑边打现在会降低攻速，但能使打出的每一枪都变为满蓄能的蓄能射击。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_yellow_gunslinger_swap_t111_description=只有枪械师可以使用的附魔天空宝石。边跑边打现在会降低攻速，但能使打出的每一发都是400%伤害的爆炸子弹，并且在一个区域内造成375%的爆炸伤害。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
 $prefabs_item_gem_large_yellow_nova_stun_t109_name=眩晕爆发
 $prefabs_item_gem_large_yellow_nova_stun_t109_description=任意职业都可以使用的附魔天空宝石。\n\n<font size='20'>1.</font>受到伤害时有20%的概率向5方向生成眩晕球\n<font size='20'>2.</font>眩晕敌人1秒\n<font color='#34FF7B'>丨伤害: 1.5 x 物理/魔法伤害(满爆率coe算)丨\n丨伤害2次,8秒冷却丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
 $prefabs_item_gem_large_yellow_nova_stun_t110_name=眩晕爆发

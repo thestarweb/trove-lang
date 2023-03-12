@@ -24,13 +24,13 @@ $prefabs_item_fishing_boot_ancient_description=跟波希尔达差不多老，这
 $prefabs_item_fishing_net_all_pools_all_liquids_name=垂钓大师的渔网
 $prefabs_item_fishing_net_all_pools_all_liquids_description=一张能同时捕获许多鱼的网。\n当被扔进任何鱼池或可钓鱼的液体时，能捕获5条鱼。\n\n需要激活的鱼饵。
 $prefabs_item_fishing_birdrod_blankscroll_code_01_name=溢出的代码 #1
-$prefabs_item_fishing_birdrod_blankscroll_code_01_description=#include &lt;iostream>\n\n大概意思：c/c++的头文件\n\n\n目前没什么作用的物品。\n
+$prefabs_item_fishing_birdrod_blankscroll_code_01_description=#include &lt;iostream>\n\n大概意思：c/c++的输入输出流头文件\n\n\n目前没什么作用的物品。\n
 $prefabs_item_fishing_birdrod_blankscroll_code_02_name=溢出的代码 #2
 $prefabs_item_fishing_birdrod_blankscroll_code_02_description=using namespace std;\n\n大概意思：引入std命名空间。\n\n\n目前没什么作用的物品。
 $prefabs_item_fishing_birdrod_blankscroll_code_03_name=溢出的代码 #3
 $prefabs_item_fishing_birdrod_blankscroll_code_03_description=int main() {\n\n大概意思：主函数的开头\n\n\n目前没什么作用的物品。
 $prefabs_item_fishing_birdrod_blankscroll_code_04_name=溢出的代码 #4
-$prefabs_item_fishing_birdrod_blankscroll_code_04_description=cout &lt;&lt; "Hello World!";\n\n大概意思：输出文本"Hello World!";\n\n\n目前没什么作用的物品。
+$prefabs_item_fishing_birdrod_blankscroll_code_04_description=cout &lt;&lt; "Hello World!";\n\n大概意思：输出"Hello World!";\n\n\n目前没什么作用的物品。
 $prefabs_item_fishing_birdrod_blankscroll_code_05_name=溢出的代码 #5
 $prefabs_item_fishing_birdrod_blankscroll_code_05_description=return 0; }\n\n大概意思：返回 0\n\n\n目前没什么作用的物品。
 $prefabs_item_fishing_birdrod_blankscroll_code_06_name=溢出的代码 #6
@@ -38,12 +38,12 @@ $prefabs_item_fishing_birdrod_blankscroll_code_06_description=if(true != false)\
 $prefabs_item_fishing_birdrod_blankscroll_code_07_name=溢出的代码 #7
 $prefabs_item_fishing_birdrod_blankscroll_code_07_description=bool isEven(int n) { bool even = (n % 2 == 0); if(even == true) { return true; } else (return false; } }\n\n大概意思：就是判断一些玩意，返回是真还是假。\n\n\n目前没什么作用的物品。
 $prefabs_item_fishing_birdrod_blankscroll_code_08_name=溢出的代码 #8
-$prefabs_item_fishing_birdrod_blankscroll_code_08_description=if ( water == level )\n{\n	earth = flat;\n}\n\n大概意思：\n如果 ( 水 == 岩浆 )\n{\n	地面 = 平坦;\n}\n\n\n目前没什么作用的物品。
+$prefabs_item_fishing_birdrod_blankscroll_code_08_description=if ( water == level )\n{\n	earth = flat;\n}\n\n大概意思：\n如果 ( 水 == 水平线 )\n{\n	地面 = 平坦;\n}\n\n\n目前没什么作用的物品。
 $prefabs_item_fishing_birdrod_used_ego_potion_name=用过的自大药水
-$prefabs_item_fishing_birdrod_used_ego_potion_description=通常会有一些残留物，但现在连这些都被洗掉了。
+$prefabs_item_fishing_birdrod_used_ego_potion_description=通常会有一些残留物，但现在连这些都被洗掉了。\n\n目前没什么作用的物品。
 $prefabs_item_fishing_birdrod_used_pinzoin_name=洗净的平索姆
-$prefabs_item_fishing_birdrod_used_pinzoin_description=在阅读了细小的文字后，发现平索姆暴露在液体或阳光或空气时会失去所有的价值。
+$prefabs_item_fishing_birdrod_used_pinzoin_description=在阅读了细小的文字后，发现平索姆暴露在液体或阳光或空气时会失去所有的价值。\n\n目前没什么作用的物品。
 $prefabs_item_fishing_birdrod_used_net_name=网
-$prefabs_item_fishing_birdrod_used_net_description=自"网"出现后，将鱼与人联系起来。
+$prefabs_item_fishing_birdrod_used_net_description=自"网"出现后，将鱼与人联系起来。\n\n目前没什么作用的物品。
 $prefabs_item_fishing_birdrod_used_car_name=星球穿越者
-$prefabs_item_fishing_birdrod_used_car_description=从宝藏世界到晶洞再到宝藏世界，这辆车见证了这一切。
+$prefabs_item_fishing_birdrod_used_car_description=从宝藏世界到晶洞再到宝藏世界，这辆车见证了这一切。\n\n目前没什么作用的物品。

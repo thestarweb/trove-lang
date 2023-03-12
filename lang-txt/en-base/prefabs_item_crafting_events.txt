@@ -3,11 +3,11 @@ $prefabs_item_crafting_events_march2021_luckbeast_description=Key ingredeint for
 $prefabs_item_crafting_events_march2021_sevenspice_name=St. Qubeslick's Sevenspice
 $prefabs_item_crafting_events_march2021_sevenspice_description=This might actually be Eightspice. Is salt a spice?\n\nObtained from Dungeons in the Treasure Isles biome, found in the Drowned World as well as other adventure worlds.\n<font color='#ff3030'>Disappears</font> at the end of the St. Qubeslick event
 $prefabs_item_crafting_events_april2021_chocolate_name=Bunfest Chocolate
-$prefabs_item_crafting_events_april2021_chocolate_description=Bunfest Chocolate is usually found hidden in eggs in the MEDIEVAL HIGHLANDS, FAE WILDS, CANDORIA, and GEODE TOPSIDE biomes.\n\n<font color='#ff3030'>Disappears</font> at the end of the Bunfest event
+$prefabs_item_crafting_events_april2021_chocolate_description=Bunfest Chocolate is usually found hidden in eggs in the MEDIEVAL HIGHLANDS, FAE WILDS, CANDORIA, and GEODE TOPSIDE biomes.
 $prefabs_item_crafting_events_april2021_refinedchocolate_name=Refined Chocolate
-$prefabs_item_crafting_events_april2021_refinedchocolate_description=Used in many Bunfest recipes, this chocolate is rich, decadent, and smells like bunnies.\n\n<font color='#ff3030'>Disappears</font> at the end of the Bunfest event
+$prefabs_item_crafting_events_april2021_refinedchocolate_description=Used in many Bunfest recipes, this chocolate is rich, decadent, and smells like bunnies.
 $prefabs_item_crafting_events_april2021_token_name=Bunfest Token
-$prefabs_item_crafting_events_april2021_token_description=The only official token of Bunfest! Awarded for completing Daily Bunfest Adventures from the Hub\n\n<font color='#ff3030'>Disappears</font> at the end of the Bunfest event
+$prefabs_item_crafting_events_april2021_token_description=The only official token of Bunfest! Awarded for completing Daily Bunfest Adventures from the Hub
 $prefabs_item_crafting_events_july2021_carys_flux_name=Flux d'Cat
 $prefabs_item_crafting_events_july2021_carys_flux_description=The only flux with the right metallurgic properties to mint the CARYSIAN DUCAT, accept no substitutes!\n\n\n\n\n<font color='#ff3030'>Disappears</font> at the end of the Sunfest event
 $prefabs_item_crafting_events_july2021_minercard_name=Royal Mining License

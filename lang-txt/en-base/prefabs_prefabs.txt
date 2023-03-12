@@ -186,3 +186,5 @@ $prefabs_quest_trigger_giantlands_sign_title=Irradiant Defense Module
 $prefabs_quest_trigger_giantlands_sign_content=Press [HK:Loot] to activate the Irradiant Defense Module.
 $prefabs_quest_spawn_trigger_fivestar_gl_sign_title=Master Console
 $prefabs_quest_spawn_trigger_fivestar_gl_sign_content=Press [HK:Loot] when ready!
+$prefabs_prefabs_quest_spawn_trigger_egghunt_sign_title=Bunfest Bounty
+$prefabs_prefabs_quest_spawn_trigger_egghunt_sign_content=Press [HK:Loot] to begin the egg hunt.
