@@ -188,3 +188,5 @@ $prefabs_quest_spawn_trigger_fivestar_gl_sign_title=主控台
 $prefabs_quest_spawn_trigger_fivestar_gl_sign_content=准备好后按 [HK:Loot] !
 $prefabs_prefabs_quest_spawn_trigger_egghunt_sign_title=兔子庆典的奖励
 $prefabs_prefabs_quest_spawn_trigger_egghunt_sign_content=按 [HK:Loot] 开始寻蛋。
+$prefabs_prefabs_quest_assault_pumpkin_trigger_sign_title=被诅咒的南瓜雕像
+$prefabs_prefabs_quest_assault_pumpkin_trigger_sign_content=按 [HK:Loot] 激活被诅咒的南瓜雕像。

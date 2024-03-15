@@ -1,0 +1,2 @@
+$prefabs_item_consumable_martialarts_system_litany_name=将咒语转换为符文
+$prefabs_item_consumable_martialarts_system_litany_description=消耗当前装备的咒语，将其转化为符文，效果一直持续到本周结束（每周一晚上19：00）。\n\n每次只能激活1个符文。

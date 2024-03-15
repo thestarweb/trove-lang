@@ -1,0 +1,4 @@
+$prefabs_item_consumable_mastery_810_pet_papercrane_mastery_01_name=行走鸭守护者
+$prefabs_item_consumable_mastery_810_pet_papercrane_mastery_01_description=专精之咒\n暂时升级宠物：行走鸭的效果，这样当它触发时，它也会召唤一个行走鸭守护者来帮助你战斗。\n\n持续3小时。\n\n这将替换任何其他已激活的专精之咒效果。
+$prefabs_item_consumable_mastery_830_tome_duckfeather_mastery_01_name=羽绒毛论文 - 咒语绑定
+$prefabs_item_consumable_mastery_830_tome_duckfeather_mastery_01_description=专精之咒\n在击败任何敌人时暂时增加获得空白卷轴的几率。\n\n持续12小时。\n\n这将替换任何其他已激活的专精之咒效果。

@@ -1,0 +1,8 @@
+$prefabs_item_consumable_delveusable_delve_usable_mount_name=Mount Upgrade: Delve Usable
+$prefabs_item_consumable_delveusable_delve_usable_mount_description=Consume to PERMANENTLY upgrade your currently equipped mount, allowing it to be used in PRIVATE and CHALLENGE Delves.
+$prefabs_item_consumable_delveusable_delve_usable_mount_tradable_name=Mount Upgrade: Delve Usable
+$prefabs_item_consumable_delveusable_delve_usable_mount_tradable_description=Consume to PERMANENTLY upgrade your currently equipped mount, allowing it to be used in PRIVATE and CHALLENGE Delves.
+$prefabs_item_consumable_delveusable_delve_usable_wings_name=Wing Upgrade: Delve Usable
+$prefabs_item_consumable_delveusable_delve_usable_wings_description=Consume to PERMANENTLY upgrade your currently equipped pair of wings, allowing them to be used in PRIVATE and CHALLENGE Delves.
+$prefabs_item_consumable_delveusable_delve_usable_wings_tradable_name=Wing Upgrade: Delve Usable
+$prefabs_item_consumable_delveusable_delve_usable_wings_tradable_description=Consume to PERMANENTLY upgrade your currently equipped pair of wings, allowing them to be used in PRIVATE and CHALLENGE Delves.

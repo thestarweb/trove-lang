@@ -1,0 +1,49 @@
+$prefabs_effects_mysticism_buff_mana_npcdeath_giantlands_description=增加游离寻宝魔力在断裂高地冒险世界中的拾获的数量，并且断裂高地冒险世界的敌人也会掉落游离寻宝魔力。
+$prefabs_effects_mysticism_buff_mana_npcdeath_candy_description=增加游离寻宝魔力在糖果冒险世界中的拾获的数量，并且糖果冒险世界的敌人也会掉落游离寻宝魔力。
+$prefabs_effects_mysticism_buff_mana_npcdeath_dinosaur_description=增加游离寻宝魔力在侏罗纪丛林冒险世界中的拾获的数量，并且侏罗纪丛林冒险世界的敌人也会掉落游离寻宝魔力。
+$prefabs_effects_mysticism_buff_mana_npcdeath_dragon_description=增加游离寻宝魔力在龙火山峰冒险世界中的拾获的数量，并且龙火山峰冒险世界的敌人也会掉落游离寻宝魔力。
+$prefabs_effects_mysticism_buff_mana_npcdeath_fae_description=增加游离寻宝魔力在妖精森林冒险世界中的拾获的数量，并且妖精森林的敌人也会掉落游离寻宝魔力。
+$prefabs_effects_mysticism_buff_mana_npcdeath_frontier_description=增加游离寻宝魔力在沙漠边境冒险世界中的拾获的数量，并且沙漠边境的敌人也会掉落游离寻宝魔力。
+$prefabs_effects_mysticism_buff_mana_npcdeath_highlands_description=增加游离寻宝魔力在中世纪高原冒险世界中的拾获的数量，并且中世纪高原的敌人也会掉落游离寻宝魔力
+$prefabs_effects_mysticism_buff_mana_npcdeath_neon_description=增加游离寻宝魔力在霓虹城冒险世界中的拾获的数量，并且霓虹城的敌人也会掉落游离寻宝魔力。
+$prefabs_effects_mysticism_buff_mana_npcdeath_spires_description=增加游离寻宝魔力在蓬丘仙境冒险世界中的拾获的数量，并且蓬丘仙境的敌人也会掉落游离寻宝魔力。
+$prefabs_effects_mysticism_buff_mana_npcdeath_tundra_description=增加游离寻宝魔力在永冻界冒险世界中的拾获的数量，并且永冻界的敌人也会掉落游离寻宝魔力。
+$prefabs_effects_mysticism_buff_mana_npcdeath_undead_description=增加游离寻宝魔力在诅咒峡谷冒险世界中的拾获的数量，并且诅咒峡谷的敌人也会掉落游离寻宝魔力。
+$prefabs_effects_mysticism_buff_mana_npcdeath_all_description=增加游离寻宝魔力的拾获的数量，并且击败敌人也会掉落游离寻宝魔力。
+$prefabs_effects_mysticism_buff_jump_10_name=增益: 跳跃++
+$prefabs_effects_mysticism_buff_jump_10_description=跳跃提高10再提高5%，直到一天的结束（北京时间19：00）。 \n\n<font color='#ffcf72'>每次只能激活一种增益。</font>
+$prefabs_effects_mysticism_buff_jump_10_effect_description=跳跃提高10再提高5%。
+$prefabs_effects_mysticism_buff_stability_name=增益: 稳定性++
+$prefabs_effects_mysticism_buff_stability_description=将稳定性提高500再提高5%，直到一天的结束（北京时间19：00）。\n\n<font color='#ffcf72'>每次只能激活一种增益。</font>
+$prefabs_effects_mysticism_buff_stability_effect_description=将稳定性提高500再提高5%。
+$prefabs_effects_mysticism_buff_chocolate_heal_name=增益: 巧克力亲和
+$prefabs_effects_mysticism_buff_chocolate_heal_description=在巧克力中生命回复提高5,000，并且免疫减速效果，可获得短暂的缓降效果，直到一天的结束（北京时间19：00）。\n\n<font color='#ffcf72'>每次只能激活一种增益。</font>
+$prefabs_effects_mysticism_buff_chocolate_heal_effect_description=在巧克力中生命回复提高5,000，并且免疫减速效果。
+$prefabs_effects_mysticism_buff_slowfall_name=增益: 血族的恩泽
+$prefabs_effects_mysticism_buff_slowfall_description=在冒险世界、秘境和主城跳跃时，可获得短暂的缓降效果，直到一天的结束（北京时间19：00）。\n\n<font color='#ffcf72'>每次只能激活一种增益。</font>
+$prefabs_effects_mysticism_buff_slowfall_jumpeventeffectspawner_effect_description=在冒险世界、秘境和主城跳跃时，可获得短暂的缓降效果。
+$prefabs_effects_mysticism_buff_slowfall_effect_description=可按下[HK:Dodge]键取消缓降效果。
+$prefabs_effects_mysticism_buff_phys_damage_name=增益: 蛮兽意志
+$prefabs_effects_mysticism_buff_phys_damage_description=物理伤害提高1%，直到一天的结束（北京时间19：00）。\n\n<font color='#ffcf72'>每次只能激活一种增益。</font>
+$prefabs_effects_mysticism_buff_phys_damage_effect_description=物理伤害提高1%。
+$prefabs_effects_mysticism_buff_npc_highlight_name=增益: 追踪视线
+$prefabs_effects_mysticism_buff_npc_highlight_description=定期隔墙显示附近的NPC，直到一天的结束（北京时间19：00）。\n\n<font color='#ffcf72'>每次只能激活一种增益。</font>
+$prefabs_effects_mysticism_buff_npc_highlight_effect_description=定期隔墙显示附近的NPC。
+$prefabs_effects_mysticism_buff_magic_damage_name=增益: 思维敏捷
+$prefabs_effects_mysticism_buff_magic_damage_description=魔法伤害提高1%，直到一天的结束（北京时间19：00）。\n\n<font color='#ffcf72'>每次只能激活一种增益。</font>
+$prefabs_effects_mysticism_buff_magic_damage_effect_description=魔法伤害提高1%。
+$prefabs_effects_mysticism_buff_ice_noslip_name=增益: 冰境
+$prefabs_effects_mysticism_buff_ice_noslip_description=防止在冰上打滑，直到一天的结束（北京时间19：00）。\n\n<font color='#ffcf72'>每次只能激活一种增益。</font>
+$prefabs_effects_mysticism_buff_ice_noslip_effect_description=防止在冰上打滑。
+$prefabs_effects_mysticism_buff_healthregeneration_name=增益: 再生
+$prefabs_effects_mysticism_buff_healthregeneration_description=生命回复提高10,000后再提高5%，直到一天的结束（北京时间19：00）。\n\n<font color='#ffcf72'>每次只能激活一种增益。</font>
+$prefabs_effects_mysticism_buff_healthregeneration_effect_description=生命回复提高10,000后再提高5%。
+$prefabs_effects_mysticism_buff_flask_capacity_name=增益: 药瓶容量
+$prefabs_effects_mysticism_buff_flask_capacity_description=最大药瓶数量增加3个，直到一天的结束（北京时间19：00）。\n\n<font color='#ffcf72'>每次只能激活一种增益。</font>
+$prefabs_effects_mysticism_buff_flask_capacity_effect_description=最大药瓶数量增加3个。
+$prefabs_effects_mysticism_buff_waterwalk_name=增益: 水行者
+$prefabs_effects_mysticism_buff_waterwalk_description=将脚下的水变成可行走的地面，直到一天的结束（北京时间19：00）。\n\n<font color='#ffcf72'>每次只能激活一种增益。</font>
+$prefabs_effects_mysticism_buff_waterwalk_effect_description=将脚下的水变成可行走的地面。
+$prefabs_effects_mysticism_buff_firewalk_name=增益: 火行者
+$prefabs_effects_mysticism_buff_firewalk_description=将脚下的岩浆变成可行走的地面，直到一天的结束（北京时间19：00）。\n\n<font color='#ffcf72'>每次只能激活一种增益。</font>
+$prefabs_effects_mysticism_buff_firewalk_effect_description=将脚下的岩浆变成可行走的地面。

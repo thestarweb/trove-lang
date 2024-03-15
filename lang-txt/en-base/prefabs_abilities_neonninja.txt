@@ -8,3 +8,4 @@ $prefabs_abilities_neonninja_stasis_blade_item_name=Stasis Blade
 $prefabs_abilities_neonninja_stasis_blade_item_description=The Neon Ninja dashes forward. Enemies struck take damage and are rooted in place for 2 seconds.
 $prefabs_abilities_neonninja_subclass_name=Assassinate
 $prefabs_abilities_neonninja_subclass_description=Chance to deal bonus damage to enemies with less than 20% health.
+$prefabs_abilities_neonninja_shadow_flip_effect_spawn_description=Stealth. Movement Speed increased by 50%. Throwing Stars available.

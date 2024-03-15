@@ -11,3 +11,7 @@ $prefabs_gameplay_chest_worldboss_sign_content=Use a Leviathan Key nearby to cla
 $prefabs_gameplay_chest_delve_personal_sign_title=Personalized Chest!
 $prefabs_gameplay_chest_quest_giantlands_5star_sign_title=Unstable Sunder-Ark Cache
 $prefabs_gameplay_chest_quest_giantlands_5star_sign_content=Use a Sunder-Ark Cache Key within 30 seconds!
+$prefabs_gameplay_chest_delve_castle_catastra_keyed_sign_title=Reinforced Gemerald Cache
+$prefabs_gameplay_chest_delve_castle_catastra_keyed_sign_content=Equip and Use 'Fi's Key' to open and give loot to all NEARBY PLAYERS.
+$prefabs_gameplay_chest_quest_oct2023_pumpkin_sign_title=Cache of the Patch
+$prefabs_gameplay_chest_quest_oct2023_pumpkin_sign_content=Use a Pumpkin Patch Cache Key within 30 seconds!

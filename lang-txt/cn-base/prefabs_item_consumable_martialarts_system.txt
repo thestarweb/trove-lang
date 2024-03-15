@@ -1,0 +1,2 @@
+$prefabs_item_consumable_martialarts_system_litany_name=符咒化为祷文
+$prefabs_item_consumable_martialarts_system_litany_description=使用当前已装备符咒，将其转化为祷文，获得对应效果，可持续至下一周开始前。\n\n每次仅可激活1条祷文。

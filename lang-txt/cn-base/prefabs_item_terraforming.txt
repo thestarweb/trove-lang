@@ -1,0 +1,106 @@
+$prefabs_item_terraforming_candy_item_name=糖果地形改造装置
+$prefabs_item_terraforming_candy_item_description=将某一区域改造成糖果世界。\n\n\n<font color='#ff3030'>警告：</font>该操作将摧毁目标区域中的一切，包括相邻区域的边界。
+$prefabs_item_terraforming_candy_styler_item_name=糖果样式修改器
+$prefabs_item_terraforming_candy_styler_item_description=以糖果的风格装点区域
+$prefabs_item_terraforming_dragon_volcanicfields_item_name=火山原地形改造装置
+$prefabs_item_terraforming_dragon_volcanicfields_item_description=将某一区域改造成熔岩平原。\n\n\n<font color='#ff3030'>警告：</font>该操作将摧毁目标区域中的一切，包括相邻区域的边界。
+$prefabs_item_terraforming_dragon_volcanicfields_styler_item_name=火山原地形设计装置
+$prefabs_item_terraforming_dragon_volcanicfields_styler_item_description=以火山原的风格装点区域。
+$prefabs_item_terraforming_faewilds_item_name=神秘谷地形改造装置
+$prefabs_item_terraforming_faewilds_item_description=将某一区域改造成奇异山谷。\n\n\n<font color='#ff3030'>警告：</font>该操作将摧毁目标区域中的一切，包括相邻区域的边界。
+$prefabs_item_terraforming_faewilds_styler_item_name=神秘谷样式修改器
+$prefabs_item_terraforming_faewilds_styler_item_description=以神秘谷的风格装点区域。
+$prefabs_item_terraforming_frontier_item_name=沙漠边境地形改造装置
+$prefabs_item_terraforming_frontier_item_description=将某一区域改造成沙漠边境。\n\n\n<font color='#ff3030'>警告：</font>该操作将摧毁目标区域中的一切，包括相邻区域的边界。
+$prefabs_item_terraforming_frontier_styler_item_name=沙漠边境样式修改器
+$prefabs_item_terraforming_frontier_styler_item_description=以沙漠边境的风格装点区域。
+$prefabs_item_terraforming_highlands_item_name=中世纪高原地形改造装置
+$prefabs_item_terraforming_highlands_item_description=将某一区域改造成中世纪高原。\n\n\n<font color='#ff3030'>警告：</font>该操作将摧毁目标区域中的一切，包括相邻区域的边界。
+$prefabs_item_terraforming_highlands_fjord_item_name=弗丽佳的峡湾地形改造装置
+$prefabs_item_terraforming_highlands_fjord_item_description=将某一区域改造成弗丽嘉峡湾。\n\n\n<font color='#ff3030'>警告：</font>该操作将摧毁目标区域中的一切，包括相邻区域的边界。
+$prefabs_item_terraforming_highlands_fjord_styler_item_name=弗丽佳的峡湾样式修改器
+$prefabs_item_terraforming_highlands_fjord_styler_item_description=以弗丽佳的峡湾的风格装点区域。
+$prefabs_item_terraforming_highlands_styler_item_name=中世纪高原样式修改器
+$prefabs_item_terraforming_highlands_styler_item_description=以中世纪高原的风格装点区域。
+$prefabs_item_terraforming_isletreasure_item_name=宝藏岛地形改造装置
+$prefabs_item_terraforming_isletreasure_item_description=将某一区域改造成宝藏岛。\n\n\n<font color='#ff3030'>警告：</font>该操作将摧毁目标区域中的一切，包括相邻区域的边界。
+$prefabs_item_terraforming_isletreasure_styler_item_name=宝藏岛样式修改器
+$prefabs_item_terraforming_isletreasure_styler_item_description=以宝藏岛的风格装点区域。
+$prefabs_item_terraforming_neoncity_item_name=霓虹城地形改造装置
+$prefabs_item_terraforming_neoncity_item_description=将某一区域改造成霓虹城。\n\n\n<font color='#ff3030'>警告：</font>该操作将摧毁目标区域中的一切，包括相邻区域的边界。
+$prefabs_item_terraforming_neoncity_resistor_item_name=霓虹城荧光都市地形改造装置
+$prefabs_item_terraforming_neoncity_resistor_item_description=将某一区域改造成霓虹城的荧光都市地形。\n\n\n<font color='#ff3030'>警告：</font>该操作将摧毁目标区域中的一切，包括相邻区域的边界。
+$prefabs_item_terraforming_neoncity_styler_item_name=霓虹城样式修改器
+$prefabs_item_terraforming_neoncity_styler_item_description=以霓虹城的风格装点区域。
+$prefabs_item_terraforming_newzone_item_name=世界扩张地形改造装置
+$prefabs_item_terraforming_newzone_item_description=将悔恨之海改造成可用区域。\n\n<font color='#ff3030'>警告：</font>该操作将摧毁目标区域中的一切，包括相邻区域的边界。
+$prefabs_item_terraforming_newzone_styler_item_name=世界扩张器
+$prefabs_item_terraforming_newzone_styler_item_description=把悔恨之海改造成能够使用的地形。
+$prefabs_item_terraforming_parkinglot_item_name=放空思维地形改造装置
+$prefabs_item_terraforming_parkinglot_item_description=将某一区域改造成空白区域。\n\n\n<font color='#ff3030'>警告：</font>该操作将摧毁目标区域中的一切，包括相邻区域的边界。
+$prefabs_item_terraforming_parkinglot_styler_item_name=放空思维样式修改器
+$prefabs_item_terraforming_parkinglot_styler_item_description=以空石板的风格装点区域。
+$prefabs_item_terraforming_peaceful_item_name=和平山丘地形改造装置
+$prefabs_item_terraforming_peaceful_item_description=将某一区域改造成和平山丘。\n\n\n<font color='#ff3030'>警告：</font>该操作将摧毁目标区域中的一切，包括相邻区域的边界。
+$prefabs_item_terraforming_peacefulfield_item_name=地形改造
+$prefabs_item_terraforming_peacefulfield_item_description=将某一生态地形改造成安宁平原。\n\n\n<font color='#ff3030'>警告：</font>该操作将摧毁目标区域中的一切，包括相邻区域的边界。
+$prefabs_item_terraforming_peacefulfield_styler_item_name=地形改造
+$prefabs_item_terraforming_peacefulfield_styler_item_description=将某一生态地形改造成安宁平原。\n\n\n<font color='#ff3030'>警告：</font>该操作将摧毁目标区域中的一切，包括相邻区域的边界。
+$prefabs_item_terraforming_peaceful_plains_item_name=安宁平原地形改造装置
+$prefabs_item_terraforming_peaceful_plains_item_description=将某一区域改造成安宁平原。\n\n\n<font color='#ff3030'>警告：</font>该操作将摧毁目标区域中的一切，包括相邻区域的边界。
+$prefabs_item_terraforming_peaceful_plains_styler_item_name=安宁平原地形改造装置
+$prefabs_item_terraforming_peaceful_plains_styler_item_description=以安宁平原的风格装点区域。
+$prefabs_item_terraforming_peaceful_rockplains_item_name=冻土地形改造
+$prefabs_item_terraforming_peaceful_rockplains_item_description=将某一生态地形改造成永冻苔原。\n\n\n<font color='#ff3030'>警告：</font>该操作将摧毁目标区域中的一切，包括相邻区域的边界。
+$prefabs_item_terraforming_peaceful_rockplains_styler_item_name=冻土地形改造
+$prefabs_item_terraforming_peaceful_rockplains_styler_item_description=将某一生态地形改造成永冻苔原。\n\n\n<font color='#ff3030'>警告：</font>该操作将摧毁目标区域中的一切，包括相邻区域的边界。
+$prefabs_item_terraforming_peaceful_styler_item_name=和平山丘样式修改器
+$prefabs_item_terraforming_peaceful_styler_item_description=以和平山丘的风格装点区域。
+$prefabs_item_terraforming_seaofdeepregret_item_name=深悔之海地形改造装置
+$prefabs_item_terraforming_seaofdeepregret_item_description=将某一区域改造回深悔之海。\n\n\n<font color='#ff3030'>警告：</font>该操作将摧毁目标区域中的一切，包括相邻区域的边界。
+$prefabs_item_terraforming_seaofdeepregret_styler_item_name=深悔之海样式修改器
+$prefabs_item_terraforming_seaofdeepregret_styler_item_description=将某一区域改造回深悔之海。\n\n\n<font color='#ff3030'>警告：</font>该操作将摧毁目标区域中的一切，包括相邻区域的边界。
+$prefabs_item_terraforming_seaofdeeptranquility_item_name=宁静之海地形改造装置
+$prefabs_item_terraforming_seaofdeeptranquility_item_description=将某一区域改造成宁静之海。\n\n\n<font color='#ff3030'>警告：</font>该操作将摧毁目标区域中的一切，包括相邻区域的边界。
+$prefabs_item_terraforming_seaofdeeptranquility_styler_item_name=宁静之海样式修改器
+$prefabs_item_terraforming_seaofdeeptranquility_styler_item_description=以宁静之海的风格装点区域。
+$prefabs_item_terraforming_seaofregret_item_name=悔恨之海地形改造装置
+$prefabs_item_terraforming_seaofregret_item_description=将某一区域改造回悔恨之海。\n\n\n<font color='#ff3030'>警告：</font>该操作将摧毁目标区域中的一切，包括相邻区域的边界。
+$prefabs_item_terraforming_seaofregret_styler_item_name=悔恨之海样式修改器
+$prefabs_item_terraforming_seaofregret_styler_item_description=将某一区域改造回悔恨之海。\n\n\n<font color='#ff3030'>警告：</font>该操作将摧毁目标区域中的一切，包括相邻区域的边界。
+$prefabs_item_terraforming_tundra_item_name=永冻界地形改造装置
+$prefabs_item_terraforming_tundra_item_description=将某一区域改造成永冻界。\n\n\n<font color='#ff3030'>警告：</font>该操作将摧毁目标区域中的一切，包括相邻区域的边界。
+$prefabs_item_terraforming_tundra_styler_item_name=永冻界样式修改器
+$prefabs_item_terraforming_tundra_styler_item_description=以永冻界的风格装点区域
+$prefabs_item_terraforming_undead_item_name=诅咒峡谷地形改造装置
+$prefabs_item_terraforming_undead_item_description=将某一区域改造成诅咒峡谷。\n\n\n<font color='#ff3030'>警告：</font>该操作将摧毁目标区域中的一切，包括相邻区域的边界。
+$prefabs_item_terraforming_undead_styler_item_name=诅咒峡谷样式修改器
+$prefabs_item_terraforming_undead_styler_item_description=以诅咒峡谷的风格装点区域。
+$prefabs_item_terraforming_jurassic_forest_item_name=史前世界地形改造装置
+$prefabs_item_terraforming_jurassic_forest_item_description=将某一区域改造成原始保护区。\n\n\n<font color='#ff3030'>警告：</font>该操作将摧毁目标区域中的一切，包括相邻区域的边界。
+$prefabs_item_terraforming_jurassic_swamp_item_name=蜥蜴沼泽地形改造装置
+$prefabs_item_terraforming_jurassic_swamp_item_description=将某一区域改造成巨蜥沼泽。\n\n\n<font color='#ff3030'>警告：</font>该操作将摧毁目标区域中的一切，包括相邻区域的边界。
+$prefabs_item_terraforming_jurassic_forest_styler_item_name=侏罗纪丛林样式修改器
+$prefabs_item_terraforming_jurassic_forest_styler_item_description=以侏罗纪丛林的风格装点区域。
+$prefabs_item_terraforming_jurassic_swamp_styler_item_name=蜥蜴沼泽样式修改器
+$prefabs_item_terraforming_jurassic_swamp_styler_item_description=以蜥蜴沼泽的风格装点一片区域
+$prefabs_item_terraforming_spires_item_name=蓬丘仙境地形改造装置
+$prefabs_item_terraforming_spires_item_description=将某一区域改造成蓬丘仙境。\n\n\n<font color='#ff3030'>警告：</font>该操作将摧毁目标区域中的一切，包括相邻区域的边界。
+$prefabs_item_terraforming_geode_cerise_sandsea_item_name=鲜红沙海地形改造装置
+$prefabs_item_terraforming_geode_cerise_sandsea_item_description=将某一区域改造成晶洞鲜红沙海。\n\n\n<font color='#ff3030'>警告：</font>该操作将摧毁目标区域中的一切，包括相邻区域的边界。
+$prefabs_item_terraforming_geode_hollow_dunes_item_name=空虚沙丘地形改造装置
+$prefabs_item_terraforming_geode_hollow_dunes_item_description=将某一区域改造成晶洞空虚沙丘。\n\n\n<font color='#ff3030'>警告：</font>该操作将摧毁目标区域中的一切，包括相邻区域的边界。
+$prefabs_item_terraforming_geode_skyway_item_name=晶洞航路地形改造装置
+$prefabs_item_terraforming_geode_skyway_item_description=将某一区域改造成晶洞航路。\n\n\n<font color='#ff3030'>警告：</font>该操作将摧毁目标区域中的一切，包括相邻区域的边界。
+$prefabs_item_terraforming_geode_weathered_wastelands_item_name=风霜废土地形改造装置
+$prefabs_item_terraforming_geode_weathered_wastelands_item_description=将某一区域改造成晶洞风霜废土。\n\n\n<font color='#ff3030'>警告：</font>该操作将摧毁目标区域中的一切，包括相邻区域的边界。
+$prefabs_item_terraforming_fae_tombs_in_undead_lands_item_name=妖精墓穴改造装置
+$prefabs_item_terraforming_fae_tombs_in_undead_lands_item_desc=将一个区域改造成诅咒峡谷的妖精墓穴。\n\n\n<font color='#ff3030'>警告:</font> 这将摧毁该区域的一切，以及相邻区域的边界。
+$prefabs_item_terraforming_undead_tombs_in_faewilds_item_name=亡灵墓穴改造装置
+$prefabs_item_terraforming_undead_tombs_in_faewilds_item_desc=将一个区域改造成妖精荒野的亡灵墓穴。\n\n\n<font color='#ff3030'>警告:</font> 这将摧毁该区域的一切，以及相邻区域的边界。
+$prefabs_item_terraforming_giantlands_item_name=断裂高地地形改造装置
+$prefabs_item_terraforming_giantlands_item_description=将一个区域改造成断裂高地。\n\n\n<font color='#ff3030'>警告:</font> 这将摧毁该区域的一切，以及相邻区域的边界。
+$prefabs_item_terraforming_tundra_tombs_name=冰封谷地形改造装置
+$prefabs_item_terraforming_tundra_tombs_item_desc=将一个区域改造成冰封谷。\n\n\n<font color='#ff3030'>警告:</font> 这将摧毁该区域的一切，以及相邻区域的边界。
+$prefabs_item_terraforming_dragon_tombs_name=燃烧谷地形改造装置
+$prefabs_item_terraforming_dragon_tombs_item_desc=将一个区域改造成燃烧谷。\n\n\n<font color='#ff3030'>警告:</font> 这将摧毁该区域的一切，以及相邻区域的边界。

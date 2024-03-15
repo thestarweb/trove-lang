@@ -1,0 +1,25 @@
+$prefabs_item_consumable_mysticism_buff_manatrack_biome_giantlands_name=增益: 断裂魔力猎人
+$prefabs_item_consumable_mysticism_buff_manatrack_biome_giantlands_description=激活后，增加游离寻宝魔力在断裂高地冒险世界中的拾获的数量，并且此世界的敌人也会掉落游离寻宝魔力，效果一直持续到当天结束（即北京时间19：00）。\n\n<font color='#ffcf72'>每次只能激活一种增益。</font>
+$prefabs_item_consumable_mysticism_buff_manatrack_biome_highlands_name=增益: 高原魔力猎人
+$prefabs_item_consumable_mysticism_buff_manatrack_biome_highlands_description=激活后，增加游离寻宝魔力在中世纪高原冒险世界中的拾获的数量，并且此世界的敌人也会掉落游离寻宝魔力，效果一直持续到当天结束（即北京时间19：00）。\n\n<font color='#ffcf72'>每次只能激活一种增益。</font>
+$prefabs_item_consumable_mysticism_buff_manatrack_biome_tundra_name=增益: 永冻界魔力猎人
+$prefabs_item_consumable_mysticism_buff_manatrack_biome_tundra_description=激活后，增加游离寻宝魔力在永冻界冒险世界中的拾获的数量，并且此世界的敌人也会掉落游离寻宝魔力，效果一直持续到当天结束（即北京时间19：00）。\n\n<font color='#ffcf72'>每次只能激活一种增益。</font>
+$prefabs_item_consumable_mysticism_buff_manatrack_biome_undead_name=增益: 诅咒峡谷魔力猎人
+$prefabs_item_consumable_mysticism_buff_manatrack_biome_undead_description=激活后，增加游离寻宝魔力在诅咒峡谷冒险世界中的拾获的数量，并且此世界的敌人也会掉落游离寻宝魔力，效果一直持续到当天结束（即北京时间19：00）。\n\n<font color='#ffcf72'>每次只能激活一种增益。</font>
+$prefabs_item_consumable_mysticism_buff_manatrack_biome_frontier_name=增益: 沙漠魔力猎人
+$prefabs_item_consumable_mysticism_buff_manatrack_biome_frontier_description=激活后，增加游离寻宝魔力在沙漠边境冒险世界中的拾获的数量，并且此世界的敌人也会掉落游离寻宝魔力，效果一直持续到当天结束（即北京时间19：00）。\n\n<font color='#ffcf72'>每次只能激活一种增益。</font>
+$prefabs_item_consumable_mysticism_buff_manatrack_biome_fae_name=增益: 妖精森林魔力猎人
+$prefabs_item_consumable_mysticism_buff_manatrack_biome_fae_description=激活后，增加游离寻宝魔力在妖精森林冒险世界中的拾获的数量，并且此世界的敌人也会掉落游离寻宝魔力，效果一直持续到当天结束（即北京时间19：00）。\n\n<font color='#ffcf72'>每次只能激活一种增益。</font>
+$prefabs_item_consumable_mysticism_buff_manatrack_biome_candy_name=增益: 糖果魔力猎人
+$prefabs_item_consumable_mysticism_buff_manatrack_biome_candy_description=激活后，增加游离寻宝魔力在糖果冒险世界中的拾获的数量，并且此世界的敌人也会掉落游离寻宝魔力，效果一直持续到当天结束（即北京时间19：00）。\n\n<font color='#ffcf72'>每次只能激活一种增益。</font>
+$prefabs_item_consumable_mysticism_buff_manatrack_biome_neon_name=增益: 霓虹魔力猎人
+$prefabs_item_consumable_mysticism_buff_manatrack_biome_neon_description=激活后，增加游离寻宝魔力在霓虹城冒险世界中的拾获的数量，并且此世界的敌人也会掉落游离寻宝魔力，效果一直持续到当天结束（即北京时间19：00）。\n\n<font color='#ffcf72'>每次只能激活一种增益。</font>
+$prefabs_item_consumable_mysticism_buff_manatrack_biome_dinosaur_name=增益: 丛林魔力猎人
+$prefabs_item_consumable_mysticism_buff_manatrack_biome_dinosaur_description=激活后，增加游离寻宝魔力在侏罗纪丛林冒险世界中的拾获的数量，并且此世界的敌人也会掉落游离寻宝魔力，效果一直持续到当天结束（即北京时间19：00）。\n\n<font color='#ffcf72'>每次只能激活一种增益。</font>
+$prefabs_item_consumable_mysticism_buff_manatrack_biome_dragon_name=增益: 山峰魔力猎人
+$prefabs_item_consumable_mysticism_buff_manatrack_biome_dragon_description=激活后，增加游离寻宝魔力在龙火山峰冒险世界中的拾获的数量，并且此世界的敌人也会掉落游离寻宝魔力，效果一直持续到当天结束（即北京时间19：00）。\n\n<font color='#ffcf72'>每次只能激活一种增益。</font>
+$prefabs_item_consumable_mysticism_buff_manatrack_biome_spires_name=增益: 蓬丘魔力猎人
+$prefabs_item_consumable_mysticism_buff_manatrack_biome_spires_description=激活后，增加游离寻宝魔力在蓬丘仙境冒险世界中的拾获的数量，并且此世界的敌人也会掉落游离寻宝魔力，效果一直持续到当天结束（即北京时间19：00）。\n\n<font color='#ffcf72'>每次只能激活一种增益。</font>
+$prefabs_item_consumable_mysticism_potion_learn_recipe_generic=学习/解锁此秘术配方的制作方法
+$prefabs_item_consumable_mysticism_buff_manatrack_biome_all_name=增益: 伟大的魔力猎人
+$prefabs_item_consumable_mysticism_buff_manatrack_biome_all_description=增加游离寻宝魔力在任何生物群落中的拾获的数量，并允许通过击败几乎任何敌人来收集游离寻宝魔力，效果一直持续到当天结束（即北京时间19：00）。

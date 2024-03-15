@@ -1,0 +1,2 @@
+$prefabs_harvesting_buoy_ggj_sign_title=Nigh Impenetrable Garbage Pile
+$prefabs_harvesting_buoy_ggj_sign_content=No normal boat cannon could possibly destroy this.

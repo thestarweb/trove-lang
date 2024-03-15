@@ -16,3 +16,5 @@ $prefabs_abilities_crimefighter_passive=Touchdown
 $prefabs_abilities_crimefighter_passive_description=Become supercharged while gliding. When you land create a shockwave in front of your landing destination.
 $prefabs_abilities_crimefighter_subclass_name=Up and Away
 $prefabs_abilities_crimefighter_subclass_description=Gain the Vanguardian's Touchdown passive. While gliding become supercharged and create a shockwave in front of your landing destination.
+$prefabs_abilities_crimefighter_super_buff_ranged_effect_description=Increases Attack Speed by 50%. Increases Physical Damage by 50%.
+$prefabs_abilities_crimefighter_super_buff_melee_effect_description=Increases Movement Speed by 30. Reduces Incoming Damage by 25%.

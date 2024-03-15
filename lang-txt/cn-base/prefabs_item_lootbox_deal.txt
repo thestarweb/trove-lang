@@ -1,0 +1,4 @@
+$prefabs_item_lootbox_deal_bronze_item_name=青铜财宝箱
+$prefabs_item_lootbox_deal_bronze_item_description=打开获得一些资源。
+$prefabs_item_lootbox_deal_wood_item_name=木质财宝箱
+$prefabs_item_lootbox_deal_wood_item_description=打开获得一些资源。

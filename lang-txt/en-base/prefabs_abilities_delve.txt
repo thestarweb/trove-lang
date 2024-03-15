@@ -1,0 +1,2 @@
+$prefabs_abilities_delve_player_queued_name=Delve Queue
+$prefabs_abilities_delve_player_queued_description=Queued to enter a Delve. If you have placed a "Matchmaker," interact with it again to "READY" and "RUSH" the Delve.

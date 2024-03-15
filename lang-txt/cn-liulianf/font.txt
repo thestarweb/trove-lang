@@ -1,2 +1,2 @@
-$Font_OverrideName=languages/zh/A-zh-CN.ttf
+$Font_OverrideName=languages/zh-Hans/A-zh-CN.ttf
 $Font_TextfieldOffset=0

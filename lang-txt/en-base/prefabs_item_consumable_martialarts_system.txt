@@ -1,0 +1,2 @@
+$prefabs_item_consumable_martialarts_system_litany_name=Adopt MANTRA as LITANY
+$prefabs_item_consumable_martialarts_system_litany_description=Consume your currently equipped Mantra, converting it into a LITANY, applying a portion of its effect for the remainder of the CURRENT WEEK.\n\nOnly 1 Litany may be active at a time.

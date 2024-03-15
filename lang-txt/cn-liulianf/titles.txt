@@ -1,0 +1,10 @@
+$Titles_New=新
+$TitlesSelector=称号
+$Titles_Both=前缀/后缀
+$Titles_Prefix=前缀
+$Titles_Suffix=后缀
+$Titles_PrefixOnly=仅限前缀
+$Titles_SuffixOnly=仅限后缀
+$Titles_FavoriteOnly=仅限收藏
+$Title_Select_Location=选择称号位置
+$generic_title_recipe_description=在"称号证书印章"处使用，以便制作该称号。

@@ -12,3 +12,4 @@ $prefabs_abilities_gunslinger_passive_instant_charge_shot_item_name=随缘一枪
 $prefabs_abilities_gunslinger_passive_instant_charge_shot_item_description=在空中对敌人造成伤害时会降低枪械师降落的速度。造成伤害有20%的几率使 蓄力狙击[右键] 达到最大蓄能。\n\n普通攻击伤害为165%。
 $prefabs_abilities_gunslinger_subclass_name=毁灭之雨
 $prefabs_abilities_gunslinger_subclass_description=空中对敌人造成伤害提升。
+$prefabs_abilities_gunslinger_slowfall_description_description=降低下落速度.

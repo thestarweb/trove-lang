@@ -1,0 +1,8 @@
+$prefabs_effects_catastrophe_vision_banner_combateventeffectspawner_description=Your eyes tingle, especially near Adventure World outposts...
+$prefabs_effects_catastrophe_vision_emptyeffect_description=Your eyes tingle, especially near Adventure World outposts...
+$prefabs_effects_catastrophe_gemerald_lootchance_description=Increases the drop chance of Cat's Eye Gemeralds when defeating creatures within the CASTLE CATASTRA delve biome
+$prefabs_effects_catastrophe_gemerald_lootchance_double_description=GREATLY increases the drop chance of Cat's Eye Gemeralds when defeating creatures within the CASTLE CATASTRA delve biome
+$prefabs_effects_catastrophe_gemerald_crafting_description=When equipped, unlocks the ability to craft additional Cat's Eye Gemeralds at the Box o' Nine Tails
+$prefabs_effects_catastrophe_gemerald_dungeons_description=Gives a small chance to acquire Cat's Eye Gemeralds when completing Dungeons in Adventure Worlds
+$prefabs_effects_catastrophe_gemerald_mining_description=Gives a small chance to acquire Cat's Eye Gemeralds when mining Shapestone, Formicite, or Infinium in Adventure Worlds
+$prefabs_effects_pet_pebble_bamboo_dropchance_description=When harvesting Bamboo Shoots in the Forbidden Spires, increases the amount of Bamboo Shoots obtained, and slightly increases the drop chance of Bamboo Dragon Egg Fragments.\n\nThe 'Duraveln - the Bamboo Dragon' event must currently be ACTIVE (check the /welcome screen! [HK:WelcomeScreen]).

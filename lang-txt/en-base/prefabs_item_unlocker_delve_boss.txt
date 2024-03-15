@@ -22,3 +22,4 @@ $prefabs_item_unlocker_delve_boss_fae_wildfae_spider=Memento: Wild Fae Spider
 $prefabs_item_unlocker_delve_boss_dream_monster_ultra_name=Memento: Ultra Dream Monster
 $prefabs_item_unlocker_delve_boss_dream_monster_ultrafire_name=Memento: Burnt Dream Monster
 $prefabs_item_unlocker_delve_boss_dream_monster_ultrafrost_name=Memento: Frostbitten Dream Monster
+$prefabs_item_unlocker_delve_boss_castle_catastrophe_generic_name=Memento: Lowly Caretaker

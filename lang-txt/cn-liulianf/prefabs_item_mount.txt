@@ -946,3 +946,7 @@ $prefabs_item_mount_bulldozer_valor_name=坐骑: 墓地挖掘机
 $prefabs_item_mount_pinata_prestige_name=坐骑: 原初巅峰皮纳塔
 $prefabs_item_mount_dragon_bomberroyale_sticky_name=黄金暴怒龙蛋
 $prefabs_item_mount_dragon_bomberroyale_sticky_description=孵化成辛特林，暴怒者!\n\n解锁此龙后，可获得永久+1000最大生命值，+10%暴击伤害，+5跳跃，以及+50魔寻。
+$prefabs_item_mount_cycle_crypt_name=菲的邪恶机器
+$prefabs_item_mount_cycle_crypt_description=具有收藏的价值。
+$prefabs_item_mount_mechquad_mysticism_name=坐骑: 神秘机械
+$prefabs_item_mount_mechquad_mysticism_description=仔细想想，科技和魔法其实很相似。

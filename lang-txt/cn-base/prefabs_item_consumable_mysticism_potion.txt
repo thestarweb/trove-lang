@@ -1,0 +1,73 @@
+$prefabs_item_consumable_mysticism_potion_manatrack_biome_candy_name=药剂：糖果国度魔力猎手
+$prefabs_item_consumable_mysticism_potion_manatrack_biome_candy_description=提高糖果国度冒险世界生态地形的万能寻宝魔力产量，效果持续4小时。另外，击败此处的敌方单位后掉落万能寻宝魔力。\n\n<font color='#ffcf72'>每次仅可激活一(1)瓶药剂。\n拍卖行：购买时自动使用(1)</font>
+$prefabs_item_consumable_mysticism_potion_manatrack_biome_dinosaur_name=药剂：丛林魔力猎手
+$prefabs_item_consumable_mysticism_potion_manatrack_biome_dinosaur_description=提高侏罗纪丛林冒险世界生态地形的万能寻宝魔力产量，效果持续4小时。另外，击败此处的敌方单位后掉落万能寻宝魔力。\n\n<font color='#ffcf72'>每次仅可激活一(1)瓶药剂。\n拍卖行：购买时自动使用(1)。</font>
+$prefabs_item_consumable_mysticism_potion_manatrack_biome_dragon_name=药剂：山峰魔力猎手
+$prefabs_item_consumable_mysticism_potion_manatrack_biome_dragon_description=提高龙火山峰冒险世界生态地形的万能寻宝魔力产量，效果持续4小时。另外，击败此处的敌方单位后掉落万能寻宝魔力。\n\n<font color='#ffcf72'>每次仅可激活一(1)瓶药剂。\n拍卖行：购买时自动使用(1)。</font>
+$prefabs_item_consumable_mysticism_potion_manatrack_biome_fae_name=药剂：妖精森林魔力猎手
+$prefabs_item_consumable_mysticism_potion_manatrack_biome_fae_description=提高妖精森林冒险世界生态地形的万能寻宝魔力产量，效果持续4小时。另外，击败此处的敌方单位后掉落万能寻宝魔力。\n\n<font color='#ffcf72'>每次仅可激活一(1)瓶药剂。\n拍卖行：购买时自动使用(1)。</font>
+$prefabs_item_consumable_mysticism_potion_manatrack_biome_frontier_name=药剂：沙漠魔力猎手
+$prefabs_item_consumable_mysticism_potion_manatrack_biome_frontier_description=提高沙漠边境冒险世界生态地形的万能寻宝魔力产量，效果持续4小时。另外，击败此处的敌方单位后掉落万能寻宝魔力。\n\n<font color='#ffcf72'>每次仅可激活一(1)瓶药剂。\n拍卖行：购买时自动使用(1)。</font>
+$prefabs_item_consumable_mysticism_potion_manatrack_biome_giantlands_name=药剂：断裂之地魔力猎手
+$prefabs_item_consumable_mysticism_potion_manatrack_biome_giantlands_description=提高断裂高地冒险世界生态地形的万能寻宝魔力产量，效果持续4小时。另外，击败此处的敌方单位后掉落万能寻宝魔力。\n\n<font color='#ffcf72'>每次仅可激活一(1)瓶药剂。\n拍卖行：购买时自动使用(1)。</font>
+$prefabs_item_consumable_mysticism_potion_manatrack_biome_highlands_name=药剂：高原魔力猎手
+$prefabs_item_consumable_mysticism_potion_manatrack_biome_highlands_description=提高中世纪高原冒险世界生态地形的万能寻宝魔力产量，效果持续4小时。另外，击败此处的敌方单位后掉落万能寻宝魔力。\n\n<font color='#ffcf72'>每次仅可激活一(1)瓶药剂。\n拍卖行：购买时自动使用(1)。</font>
+$prefabs_item_consumable_mysticism_potion_manatrack_biome_neon_name=药剂：霓虹魔力猎手
+$prefabs_item_consumable_mysticism_potion_manatrack_biome_neon_description=提高霓虹城冒险世界生态地形的万能寻宝魔力产量，效果持续4小时。另外，击败此处的敌方单位后掉落万能寻宝魔力。\n\n<font color='#ffcf72'>每次仅可激活一(1)瓶药剂。\n拍卖行：购买时自动使用(1)。</font>
+$prefabs_item_consumable_mysticism_potion_manatrack_biome_spires_name=药剂：仙境魔力猎手
+$prefabs_item_consumable_mysticism_potion_manatrack_biome_spires_description=提高蓬丘仙境冒险世界生态地形的万能寻宝魔力产量，效果持续4小时。另外，击败此处的敌方单位后掉落万能寻宝魔力。\n\n<font color='#ffcf72'>每次仅可激活一(1)瓶药剂。\n拍卖行：购买时自动使用(1)。</font>
+$prefabs_item_consumable_mysticism_potion_manatrack_biome_tundra_name=药剂：永冻界魔力猎手
+$prefabs_item_consumable_mysticism_potion_manatrack_biome_tundra_description=提高永冻界冒险世界生态地形的万能寻宝魔力产量，效果持续4小时。另外，击败此处的敌方单位后掉落万能寻宝魔力。\n\n<font color='#ffcf72'>每次仅可激活一(1)瓶药剂。\n拍卖行：购买时自动使用(1)。</font>
+$prefabs_item_consumable_mysticism_potion_manatrack_biome_undead_name=药剂：诅咒峡谷魔力猎手
+$prefabs_item_consumable_mysticism_potion_manatrack_biome_undead_description=提高诅咒峡谷冒险世界生态地形的万能寻宝魔力产量，效果持续4小时。另外，击败此处的敌方单位后掉落万能寻宝魔力。\n\n<font color='#ffcf72'>每次仅可激活一(1)瓶药剂。\n拍卖行：购买时自动使用(1)。</font>
+$prefabs_item_consumable_mysticism_potion_mana_attuned_giantlands_learn_name=解锁：“药剂：断裂之地魔力猎手”
+$prefabs_item_consumable_mysticism_potion_mana_attuned_candy_learn_name=解锁：“药剂：糖果国度魔力猎手”
+$prefabs_item_consumable_mysticism_potion_mana_attuned_dinosaur_learn_name=解锁：“药剂：丛林魔力猎手”
+$prefabs_item_consumable_mysticism_potion_mana_attuned_dragon_learn_name=解锁：“药剂：山峰魔力猎手”
+$prefabs_item_consumable_mysticism_potion_mana_attuned_fae_learn_name=解锁：“药剂：妖精森林魔力猎手”
+$prefabs_item_consumable_mysticism_potion_mana_attuned_frontier_learn_name=解锁：“药剂：沙漠魔力猎手”
+$prefabs_item_consumable_mysticism_potion_mana_attuned_highlands_learn_name=解锁：“药剂：高原魔力猎手”
+$prefabs_item_consumable_mysticism_potion_mana_attuned_neon_learn_name=解锁：“药剂：霓虹城魔力猎手”
+$prefabs_item_consumable_mysticism_potion_mana_attuned_spires_learn_name=解锁：“药剂：仙境魔力猎手”
+$prefabs_item_consumable_mysticism_potion_mana_attuned_tundra_learn_name=解锁：“药剂：永冻界魔力猎手”
+$prefabs_item_consumable_mysticism_potion_mana_attuned_undead_learn_name=解锁：“药剂：诅咒峡谷魔力猎手”
+$prefabs_item_consumable_mysticism_potion_waterwalk_name=药剂：水行者
+$prefabs_item_consumable_mysticism_potion_waterwalk_description=将水面转化为可行走的地面，效果持续4小时。\n\n<font color='#ffcf72'>每次仅可激活一(1)瓶药剂。\n拍卖行：购买时自动使用(1)。</font>
+$prefabs_item_consumable_mysticism_potion_firewalk_name=药剂：火行者
+$prefabs_item_consumable_mysticism_potion_firewalk_description=将岩浆转化为可行走的地面，效果持续4小时。\n\n<font color='#ffcf72'>每次仅可激活一(1)瓶药剂。\n拍卖行：购买时自动使用(1)。</font>
+$prefabs_item_consumable_mysticism_potion_stability_name=药剂：稳定性++
+$prefabs_item_consumable_mysticism_potion_stability_description=稳定性提高500后再提高5%，效果持续4小时。\n\n<font color='#ffcf72'>每次仅可激活一(1)瓶药剂。\n拍卖行：购买时自动使用(1)。</font>
+$prefabs_item_consumable_mysticism_potion_slowfall_name=药剂：血族之仪
+$prefabs_item_consumable_mysticism_potion_slowfall_description=在冒险世界、秘境和主城中暂时获得降落减缓的效果。\n\n<font color='#ffcf72'>每次仅可激活一(1)瓶药剂。\n拍卖行：购买时自动使用(1)。</font>
+$prefabs_item_consumable_mysticism_potion_phys_damage_name=药剂：野兽之力
+$prefabs_item_consumable_mysticism_potion_phys_damage_description=物理伤害提高1%，效果持续4小时。\n\n<font color='#ffcf72'>每次仅可激活一(1)瓶药剂。\n拍卖行：购买时自动使用(1)。</font>
+$prefabs_item_consumable_mysticism_potion_npc_highlight_name=药剂：灵视
+$prefabs_item_consumable_mysticism_potion_npc_highlight_description=定期隔墙显露附近NPC的行踪，效果持续4小时。\n\n<font color='#ffcf72'>每次仅可激活一(1)瓶药剂。\n拍卖行：购买时自动使用(1)。</font>
+$prefabs_item_consumable_mysticism_potion_jump_name=药剂：跳跃++
+$prefabs_item_consumable_mysticism_potion_jump_description=跳跃提高10后再提高5%，效果持续4小时。\n\n<font color='#ffcf72'>每次仅可激活一(1)瓶药剂。\n拍卖行：购买时自动使用(1)。</font>
+$prefabs_item_consumable_mysticism_potion_ice_noslip_name=药剂：冰封
+$prefabs_item_consumable_mysticism_potion_ice_noslip_description=防止在冰面上行动时打滑，效果持续4小时。\n\n<font color='#ffcf72'>每次仅可激活一(1)瓶药剂。\n拍卖行：购买时自动使用(1)。</font>
+$prefabs_item_consumable_mysticism_potion_healthregeneration_name=药剂：再生
+$prefabs_item_consumable_mysticism_potion_healthregeneration_description=生命回复量提高10000后再提高5%，效果持续4小时。\n\n<font color='#ffcf72'>每次仅可激活一(1)瓶药剂。\n拍卖行：购买时自动使用(1)。</font>
+$prefabs_item_consumable_mysticism_potion_flask_capacity_name=药剂：药瓶携带量
+$prefabs_item_consumable_mysticism_potion_flask_capacity_description=药瓶携带上限增加3，效果持续4小时。\n\n<font color='#ffcf72'>每次仅可激活一(1)瓶药剂。\n拍卖行：购买时自动使用(1)。</font>
+$prefabs_item_consumable_mysticism_potion_magic_damage_name=药剂：思维敏捷
+$prefabs_item_consumable_mysticism_potion_magic_damage_description=魔法伤害提高1%，效果持续4小时。\n\n<font color='#ffcf72'>每次仅可激活一(1)瓶药剂。\n拍卖行：购买时自动使用(1)。</font>
+$prefabs_item_consumable_mysticism_potion_chocolate_heal_name=药剂：巧克力亲和
+$prefabs_item_consumable_mysticism_potion_chocolate_heal_description=在巧克力环境中，免疫减速效果，同时生命回复量提高5000，效果持续4小时。\n\n<font color='#ffcf72'>每次仅可激活一(1)瓶药剂。\n拍卖行：购买时自动使用(1)。</font>
+$prefabs_item_consumable_mysticism_potion_flask_capacity_learn_name=解锁：“药剂：药瓶携带量”
+$prefabs_item_consumable_mysticism_potion_chocolate_heal_learn_name=解锁：“药剂：巧克力亲和”
+$prefabs_item_consumable_mysticism_potion_gl_flight_name=药剂：自由飞翔
+$prefabs_item_consumable_mysticism_potion_gl_flight_description=允许玩家在断裂高地不受限制地飞行，效果持续4小时。\n\n<font color='#ffcf72'>每次仅可激活一(1)瓶药剂。\n拍卖行：购买时自动使用(1)。</font>
+$prefabs_item_consumable_mysticism_potion_gl_flight_effect_description=允许玩家在断裂高地不受限制地飞行。
+$prefabs_item_consumable_mysticism_potion_gl_flight_learn_name=解锁：“药剂：自由飞翔”
+$prefabs_item_consumable_mysticism_potion_firewalk_learn_name=解锁：“药剂：火行者”
+$prefabs_item_consumable_mysticism_potion_healthregeneration_learn_name=解锁：“药剂：再生”
+$prefabs_item_consumable_mysticism_potion_ice_noslip_learn_name=解锁：“药剂：冰封”
+$prefabs_item_consumable_mysticism_potion_jump_learn_name=解锁：“药剂：跳跃++”
+$prefabs_item_consumable_mysticism_potion_magic_damage_learn_name=解锁：“药剂：思维敏捷”
+$prefabs_item_consumable_mysticism_potion_npc_highlight_learn_name=解锁：“药剂：灵视”
+$prefabs_item_consumable_mysticism_potion_phys_damage_learn_name=解锁：“药剂：野兽之力”
+$prefabs_item_consumable_mysticism_potion_slowfall_learn_name=解锁：“药剂：血族之仪”
+$prefabs_item_consumable_mysticism_potion_stability_learn_name=解锁：“药剂：稳定性++”
+$prefabs_item_consumable_mysticism_potion_waterwalk_learn_name=解锁：“药剂：水行者”

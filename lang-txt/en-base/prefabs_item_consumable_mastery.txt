@@ -1,0 +1,4 @@
+$prefabs_item_consumable_mastery_810_pet_papercrane_mastery_01_name=Wakling Watchdog
+$prefabs_item_consumable_mastery_810_pet_papercrane_mastery_01_description=MASTER'S SPELL\nTemporarily upgrades the Ally: Wakling's effect so that, when it triggers, it also summons a Wakling Egguardian to help you fight.\n\nLasts 3 hours.\n\nThis will REPLACE any other active Master rank spells.
+$prefabs_item_consumable_mastery_830_tome_duckfeather_mastery_01_name=Downfeather Dissertation - Spellbinder
+$prefabs_item_consumable_mastery_830_tome_duckfeather_mastery_01_description=MASTER'S SPELL\nTemporarily adds a chance to acquire BLANK SCROLLS when defeating any enemy.\n\nLasts 12 hours.\n\nThis will REPLACE any other active Master rank spells.

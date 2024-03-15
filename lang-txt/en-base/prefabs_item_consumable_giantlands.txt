@@ -1,9 +1,9 @@
 $prefabs_item_consumable_giantlands_scroll_flightrestritions_bronze_name=Scroll: Freedom of Flight (Bronze)
 $prefabs_item_consumable_giantlands_scroll_flightrestritions_bronze_description=Allows unrestricted flight within the Sundered Uplands.\nDuration: 1 hour, online or offline\nMust be in Sundered Uplands to consume
-$prefabs_item_consumable_giantlands_scroll_flightrestritions_gold_name=Scroll: Freedom of Flight (Gold)
-$prefabs_item_consumable_giantlands_scroll_flightrestritions_gold_description=Allows unrestricted flight within the Sundered Uplands.\nDuration: 3 days, online or offline\nMust be in Sundered Uplands to consume\nSold by Fungi Scrollpeddlers in the Sundered Uplands
-$prefabs_item_consumable_giantlands_scroll_flightrestritions_obsidian_name=Scroll: Freedom of Flight (Obsidian)
-$prefabs_item_consumable_giantlands_scroll_flightrestritions_obsidian_description=Allows unrestricted flight within the Sundered Uplands.\nDuration: 1 week, online or offline\nMust be in Sundered Uplands to consume
+$prefabs_item_consumable_giantlands_scroll_flightrestritions_gold_name=Scroll: BUFF: Freedom of Flight (Gold)
+$prefabs_item_consumable_giantlands_scroll_flightrestritions_gold_description=Allows unrestricted flight within the Sundered Uplands.\nDuration: 3 days, online or offline\nMust be in Sundered Uplands to consume\nREMOVES all active MYSTICISM BUFFS!
+$prefabs_item_consumable_giantlands_scroll_flightrestritions_obsidian_name=Scroll: BUFF: Freedom of Flight (Obsidian)
+$prefabs_item_consumable_giantlands_scroll_flightrestritions_obsidian_description=Allows unrestricted flight within the Sundered Uplands.\nDuration: 1 week, online or offline\nMust be in Sundered Uplands to consume\nREMOVES all active MYSTICISM BUFFS!
 $prefabs_item_consumable_giantlands_scroll_flightrestritions_silver_name=Scroll: Freedom of Flight (Silver)
 $prefabs_item_consumable_giantlands_scroll_flightrestritions_silver_description=Allows unrestricted flight within the Sundered Uplands.\nDuration: 1 day, online or offline\nMust be in Sundered Uplands to consume
 $prefabs_item_consumable_giantlands_scroll_mod_incdmg_bronze_name=Scroll: Defense++ (Bronze)

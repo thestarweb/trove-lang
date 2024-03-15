@@ -22,3 +22,5 @@ $prefabs_item_food_gl_clamchowder_name="Clam" "Chow"
 $prefabs_item_food_gl_clamchowder_description=Eat to become temporarily immune to the Reflect damage ability of Ashen Spore-Spreaders in the Sundered Uplands.
 $prefabs_item_food_gl_ashen_grub_name=Grubchew
 $prefabs_item_food_gl_ashen_grub_description=Allows occasional collection of Ashfern Sporelings when defeating Ashen creatures in the Sundered Uplands.
+$prefabs_item_food_mysticism_alchemystics_insight_name=Alchemystic's Insight
+$prefabs_item_food_mysticism_alchemystics_insight_description=When Equipped in the Auto-Use slot, allows Trovians the insight required to transform a currently active BUFF into a POTION RECIPE at the ALCHEMYSTIC'S LAB

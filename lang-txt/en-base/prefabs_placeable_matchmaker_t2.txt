@@ -68,3 +68,5 @@ $prefabs_placeable_matchmaker_t2_wight_king_boss_name=Depth Stepper: Wight King
 $prefabs_placeable_matchmaker_t2_wight_king_boss_description=Place and interact with this Depth Stepper to begin a Delve where you will encounter the WIGHT KING boss ONE OR MORE TIMES!\n\nInvites: Up to 8 Players total\nMounts: Delve Restricted\nMin Depth: 26
 $prefabs_placeable_matchmaker_t2_private_name=Depth Stepper (Private Mode)
 $prefabs_placeable_matchmaker_t2_private_description=Place and interact with this Depth Stepper to begin a Private Delve\n\nInvites: Up to 8 Players total\nMounts: Delve Restricted\nMin Depth: 23
+$prefabs_placeable_matchmaker_t2_castle_catastrophe_fiona_name=Depth Stepper: Furrious Fiona
+$prefabs_placeable_matchmaker_t2_castle_catastrophe_fiona_description=Place and interact with this Depth Stepper to begin a Delve where the Shadowy Soul Vault will be guarded ONE OR MORE TIMES by FURRIOUS FIONA!\n\nInvites: Up to 8 Players total\nMounts: Delve Restricted\nMin Depth: 110

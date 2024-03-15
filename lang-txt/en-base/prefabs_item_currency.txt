@@ -15,7 +15,7 @@ $prefabs_item_currency_sunfest_pinata_2019_description=Earned when defeating Sun
 $prefabs_item_currency_sunfest_start_2019_name=Golden Sunfest Token
 $prefabs_item_currency_sunfest_start_2019_description=Redeem at Qubesly in the hub for a banner signifying loyalty to one of three Trovian dragons and their Houses\n\nThis token will disappear at the end of Sunfest.
 $prefabs_item_currency_sunfest_trove_2019_name=Mark of Ty
-$prefabs_item_currency_sunfest_trove_2019_description=Earned when defeating Sunfest invaders while 'Sunfest Banner: House Tysorion' is equipped.\n\nUnspent coins will disappear at the end of Sunfest.
+$prefabs_item_currency_sunfest_trove_2019_description=Earned when defeating Sunfest invaders while 'Sunfest Banner: House Tysorion' is equipped.
 $prefabs_item_currency_sunfest_end_2019_name=Chinhairs of the Idol
 $prefabs_item_currency_sunfest_end_2019_description=Redeem at your House Purveyor in the hub for a permanent banner signifying your house loyalty.\n\nThese hairs will disappear at the end of Sunfest.
 $prefabs_item_currency_sunfest_goldenvale_2019_name=Carysian Ducat
@@ -28,17 +28,17 @@ $prefabs_item_currency_sunfest_trove_2020_description=Earned when defeating Sunf
 $prefabs_item_currency_sunfest_goldenvale_2020_description=Earned when defeating Sunfest invaders while representing House Carys.\n\nUnspent coins will disappear at the end of Sunfest.
 $prefabs_item_currency_sunfest_start_2020_description=Redeem at Qubesly in the hub for a badge signifying loyalty to one of three Trovian dragons and their Houses\n\nThis token will disappear at the end of Sunfest.
 $prefabs_item_currency_july2021_tysorion_name=Mark of Ty
-$prefabs_item_currency_july2021_tysorion_description=Backed by the full faith and credit of the Royal House of Tysorion.\n\n\n\n\n\n<font color='#ff3030'>Disappears</font> at the end of the Sunfest event
+$prefabs_item_currency_july2021_tysorion_description=Backed by the full faith and credit of the Royal House of Tysorion.
 $prefabs_item_currency_july2021_panatea_name=Panatean Ante
-$prefabs_item_currency_july2021_panatea_description=Using revolutionary new technology, Panatean Antes are sure to skyrocket in value!\n\n\n\n\n\n<font color='#ff3030'>Disappears</font> at the end of the Sunfest event
+$prefabs_item_currency_july2021_panatea_description=Using revolutionary new technology, Panatean Antes are sure to skyrocket in value!
 $prefabs_item_currency_july2021_carys_name=Carysian Ducat
-$prefabs_item_currency_july2021_carys_description=Minted using TOP TIER House Carys technology, this is the currency of tomorrow, today!\n\n\n\n\n\n<font color='#ff3030'>Disappears</font> at the end of the Sunfest event
+$prefabs_item_currency_july2021_carys_description=Minted using TOP TIER House Carys technology, this is the currency of tomorrow, today!
 $prefabs_item_currency_march2022_event_coin_name=Sir O'Lucky's Coin
-$prefabs_item_currency_march2022_event_coin_description=A coin from St. Qubeslick's horde, recovered from villainous pirates.\n\n<font color='#ff3030'>Disappears</font> at the end of the St. Qubeslick event.
+$prefabs_item_currency_march2022_event_coin_description=A coin from St. Qubeslick''s horde, recovered from villainous pirates.
 $prefabs_item_currency_march2022_event_frag_name=Fragment of Luck
-$prefabs_item_currency_march2022_event_frag_description=A fragment of luck sold by Sir O'Lucky. Can be used to purchase the Perennial Pot o' Gold, Sir O'Lucky's Standard, and Lil Lucky.\n\n<font color='#ff3030'>Disappears</font> at the end of the St. Qubeslick event.
+$prefabs_item_currency_march2022_event_frag_description=A fragment of luck sold by Sir O'Lucky. Can be used to purchase and craft rewards during St. Qubeslick.
 $prefabs_item_currency_apr_fools_event_frag_name=Fool's Gold
-$prefabs_item_currency_apr_fools_event_frag_desc=Looks valuable at first glance, but it's just a pretty rock.\n\nCan be used to craft a recipe at the Radiant Dayspring during April Fool's Day.\n\n<font color='#ff3030'>Disappears</font> shortly after April Fool's Day.
+$prefabs_item_currency_apr_fools_event_frag_desc='Looks valuable at first glance, but it''s just a pretty rock.\n\nCan be used to craft a recipe at the Radiant Dayspring during April Fool''s Day.
 $prefabs_item_currency_coin_bomb_legacy_name=Bomber Royale Coin: Burnt Coin
 $prefabs_item_currency_coin_bomb_legacy_description=Obtained by trading Season 1, Season 2, or Blast Coins at the Bomber Bench or by tomes. Used to craft past season's rewards
 $prefabs_item_currency_coin_bomb_current_name=Bomber Royale Coin: Blast Coin
@@ -59,3 +59,15 @@ $prefabs_item_crafting_event_september2022_dino_name=Dinoboy Coin
 $prefabs_item_crafting_event_september2022_dino_description=A coin dedicated to your love of Cowboys. Can be found by defeating dungeons in the Desert Frontier during the Cowasaurs and Dinoboys event.\n\nUsed to craft Dinoboy Effigy at the Dinoboy Workbench in the Events area of the hub.
 $prefabs_item_crafting_event_september2022_dino_premium_name=Dinoboy Token
 $prefabs_item_crafting_event_september2022_dino_premium_description=A token dedicated to your love of Cowboys. Claimed by completing dailies during the Cowasaurs and Dinoboys event.\n\nUsed to craft Dinoboy Effigy at the Dinoboy Workbench in the Events area of the hub.
+$prefabs_item_crafting_event_july2023_cakecoin_name=Sunfest Anniversary Coin
+$prefabs_item_crafting_event_july2023_cakecoin_desc=Claimed by participating in the Sunfest Event.\n\nUsed to craft rewards at the Sunfest Safe Baking Oven.
+$prefabs_item_crafting_event_august2023_sununion_name=Elysian Offense Coin
+$prefabs_item_crafting_event_august2023_sununion_desc=Claimed by completing tasks for the Elysian Offsense. It can be used at the Radiant Dayspring to craft various items and collections.
+$prefabs_item_currency_delve_crystal_catastrophe_name=Cat's Eye Gemerald
+$prefabs_item_currency_delve_crystal_catastrophe_description=Used to acquire various goods and services within Castle Catastra, where it can also be acquired.
+$prefabs_item_crafting_event_september2023_frozen_name=Rime Crests
+$prefabs_item_crafting_event_september2022_frozen_description=A mark taken from the Rime Wardens in the Frozen Vaults.\n\nUsed to craft rewards at the Molten Anvil in the Events area of the Hub.
+$prefabs_item_crafting_event_september2023_burning_name=Smoldering Mark
+$prefabs_item_crafting_event_september2022_burning_description=A mark taken from the Smoldering Clutch in the Smoldering Vaults.\n\nUsed to craft rewards at the Frozen Anvil in the Events area of the Hub.
+$prefabs_item_crafting_event_oct2023_pumpkin_name=Shadow's Eve Pumpkin Coin
+$prefabs_item_crafting_event_oct2023_pumpkin_desc=Claimed by participating in the Shadow's Eve Event.\n\nUsed to craft rewards at the Shadowy Station.

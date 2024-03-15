@@ -1,0 +1,4 @@
+$prefabs_npc_events_snowfest_elfsly_sign_title=艾洛西
+$prefabs_npc_events_snowfest_elfsly_sign_content=现在是一年中的奉献时间。
+$prefabs_npc_events_snowfest_gift_sign_title=冰雪庆典礼物
+$prefabs_npc_events_snowfest_gift_sign_content=里面会有什么呢？\n\n\n按 [HK:Loot] 进行互动。

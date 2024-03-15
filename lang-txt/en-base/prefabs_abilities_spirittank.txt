@@ -8,3 +8,4 @@ $prefabs_abilities_spirittank_passive_spiritcharge_name=Vengeful Spirits
 $prefabs_abilities_spirittank_passive_spiritcharge_description=Basic attacks and Bulwark Bash return 5% of damage dealt in health after the first attack. Basic attack applies a debuff to targets increasing damage from all sources by 5%. Lasts 5 seconds. A Spirit Wraith will spawn to protect you from death, empowering you until it can do so again.
 $prefabs_abilities_spirittank_subclass_name=Hatred of the Oathbound
 $prefabs_abilities_spirittank_subclass_description=Successful attacks return health.
+$prefabs_abilities_spirittank_passive_effect_cooldown_effect_description=Increases Health Regeneration by 100%. Increases Physical Damage by 50%. You are NOT currently protected from Death.

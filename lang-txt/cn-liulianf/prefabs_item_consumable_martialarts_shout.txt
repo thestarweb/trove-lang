@@ -1,0 +1,10 @@
+$prefabs_item_consumable_martialarts_shout_slam_energy_name=呐喊: 激昂呐喊
+$prefabs_item_consumable_martialarts_shout_slam_energy_description=消耗后，在5秒内能量回复提高25%。\n\n装备在消耗品槽位中，当使用“重击”技能时消耗（妖精诡术师[HK:Ability1]、寒冰贤者[HK:PrimaryAbility]、骑士[HK:PrimaryAbility]）。\n冷却时间: 60秒
+$prefabs_item_consumable_martialarts_shout_flamebegin_incdmg_name=呐喊: 瘆人尖叫
+$prefabs_item_consumable_martialarts_shout_flamebegin_incdmg_description=消耗后，可在10秒内降低10%受到伤害。\n\n装备在消耗品槽位中，当使用火龙法师和墓灵术师使用[HK:BasicAbility]技能3秒以上时消耗。\n冷却时间: 30秒
+$prefabs_item_consumable_martialarts_shout_throw_slow_name=呐喊: 恐吓嘶喊
+$prefabs_item_consumable_martialarts_shout_throw_slow_description=消耗后，降低附近敌人85%的移动速度，持续5秒。\n\n装备在消耗品槽位中，当使用投掷类技能或物品时消耗。\n冷却时间: 60秒
+$prefabs_item_consumable_martialarts_shout_leapjump_explosion_name=呐喊: 震耳欲聋
+$prefabs_item_consumable_martialarts_shout_leapjump_explosion_description=消耗后，降落时引发爆炸。\n\n装备在消耗品槽位中，当使用弹跳类技能时消耗（糖果野蛮人[HK:Ability1]、银月枪兵[HK:Ability1]）。\n冷却时间: 30秒
+$prefabs_item_consumable_martialarts_shout_chargeend_blockaoe_name=呐喊: 爆炸吼叫
+$prefabs_item_consumable_martialarts_shout_chargeend_blockaoe_description=消耗后，在你当前位置立即产生爆炸。\n\n装备在消耗品槽位中，在使用冲锋类技能时消耗（骑士[HK:Ability1]、霓虹忍者[HK:Ability1]、先锋卫士[HK:Ability2]）。\n冷却时间: 45秒

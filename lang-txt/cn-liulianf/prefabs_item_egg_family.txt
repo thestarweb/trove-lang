@@ -18,3 +18,5 @@ $prefabs_item_egg_family_heckbug_name=地狱虫蛋
 $prefabs_item_egg_family_heckbug_description=可以孵化出一只常见的，罕见的或稀有的地狱虫。\n\n在地狱虫爱情活动中在沉没日库探索或协助野生地狱虫时，有极低几率获得。
 $prefabs_item_egg_family_heckbug_hybrid_name=混血地狱虫蛋
 $prefabs_item_egg_family_heckbug_hybrid_description=可以孵化出一只常见的，罕见的或稀有的混血地狱虫。\n\n在地狱虫爱情活动期间，在鲜绿脉络探索或协助野生地狱虫时很少发现。
+$prefabs_item_egg_family_heckbug_mysitcal_name=神秘地狱虫蛋
+$prefabs_item_egg_family_heckbug_mystical_description=可以孵化出一只常见的，罕见的或稀有的神秘地狱虫。\n\n在地狱虫爱情活动期间，在晶洞洞穴月光石窟中探索或帮助野生地狱虫时很少能发现。

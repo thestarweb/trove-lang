@@ -1,0 +1,4 @@
+$prefabs_item_currency_ringcrafting_ticket_golden_name=镀金指环制作券
+$prefabs_item_currency_ringcrafting_ticket_golden_description=用于在指环煅制台上制作水晶3镀金戒指盒。\n\n\n通过分解水晶3或水晶4戒指获得。
+$prefabs_item_currency_ringcrafting_ticket_name=指环制作券
+$prefabs_item_currency_ringcrafting_ticket_description=用于在指环煅制台上制作水晶2皇家戒指盒。\n\n\n通过分解水晶1或水晶2戒指获得。

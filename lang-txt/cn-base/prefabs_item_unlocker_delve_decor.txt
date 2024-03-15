@@ -1,0 +1,13 @@
+$prefabs_item_unlocker_delve_decor_amperium_name=纪念品: 安博瑞洞窟
+$prefabs_item_unlocker_delve_decor_beeHive_name=纪念品: 蜂巢
+$prefabs_item_unlocker_delve_decor_candyland_name=纪念品: 糖果洞穴
+$prefabs_item_unlocker_delve_decor_graveyard_name=纪念品: 诅咒洞穴
+$prefabs_item_unlocker_delve_decor_neonUnderground_name=纪念品: 霓虹洞窟
+$prefabs_item_unlocker_delve_decor_qbthulhu_name=纪念品: 克苏胡领域之隅
+$prefabs_item_unlocker_delve_decor_saurianSwamp_name=纪念品: 远古隧道
+$prefabs_item_unlocker_delve_decor_terracotta_name=纪念品: 禁忌深渊
+$prefabs_item_unlocker_delve_decor_toxic_name=纪念品: 剧毒甬道
+$prefabs_item_unlocker_delve_decor_underwater_name=纪念品: 海底甬道
+$prefabs_item_unlocker_delve_decor_volcano_name=纪念品: 熔岩洞窟
+$prefabs_item_unlocker_delve_decor_bunfest_name=纪念品: 兔托邦
+$prefabs_item_unlocker_delve_decor_faewild_name=纪念品: 崩坏王朝

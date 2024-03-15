@@ -1,0 +1,2 @@
+$prefabs_placeable_crafting_martialarts_pinzo_name=专利平索打印机
+$prefabs_placeable_crafting_martialarts_pinzo_desc=充分具备制作查克·平索绝大部分装饰品的功能，但此打印机已经过修改，以防止大规模生产，其中包括更多的查克·平索。

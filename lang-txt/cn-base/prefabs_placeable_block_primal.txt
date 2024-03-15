@@ -1,0 +1,7 @@
+$prefabs_placeable_block_primal_blue_item_name=纯蓝
+$prefabs_placeable_block_primal_green_item_name=纯绿
+$prefabs_placeable_block_primal_grey_item_name=纯灰
+$prefabs_placeable_block_primal_orange_item_name=纯橙
+$prefabs_placeable_block_primal_purple_item_name=纯紫
+$prefabs_placeable_block_primal_red_item_name=纯红
+$prefabs_placeable_block_primal_yellow_item_name=纯黄

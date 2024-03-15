@@ -1,0 +1,5 @@
+$prefabs_npc_outpost_geodevug_boulder_greensunwar_name=绿色太阳战士圆石晶洞人
+$prefabs_npc_outpost_geodevug_pebble_purplesunmage_name=紫色太阳法师小晶洞人
+$prefabs_npc_outpost_luminopolis_sugarglider_kamipr_name=过虑的同情之神
+$prefabs_npc_outpost_adventurine_merchant_sign_title=哨站商人
+$prefabs_npc_outpost_adventurine_merchant_sign_content=按[HK:Loot]与商人交易。

@@ -1,0 +1,25 @@
+$prefabs_item_consumable_mysticism_buff_manatrack_biome_giantlands_name=增益：断裂之地魔力猎手
+$prefabs_item_consumable_mysticism_buff_manatrack_biome_giantlands_description=激活后，提高断裂高地冒险世界生态地形的万能寻宝魔力产量，效果持续至第二天开始前。在断裂高地击败敌方时获得万能寻宝魔力。\n\n<font color='#ffcf72'>每次仅可激活一(1)个增益效果。</font>
+$prefabs_item_consumable_mysticism_buff_manatrack_biome_highlands_name=增益：高原魔力猎手
+$prefabs_item_consumable_mysticism_buff_manatrack_biome_highlands_description=激活后，提高中世纪高原冒险世界生态地形的万能寻宝魔力产量，效果持续至第二天开始前。在中世纪高原击败敌方时获得万能寻宝魔力。\n\n<font color='#ffcf72'>每次仅可激活一(1)个增益效果。</font>
+$prefabs_item_consumable_mysticism_buff_manatrack_biome_tundra_name=增益：永冻界魔力猎手
+$prefabs_item_consumable_mysticism_buff_manatrack_biome_tundra_description=激活后，提高永冻界冒险世界生态地形的万能寻宝魔力产量，效果持续至第二天开始前。在永冻界击败敌方时获得万能寻宝魔力。\n\n<font color='#ffcf72'>每次仅可激活一(1)个增益效果。</font>
+$prefabs_item_consumable_mysticism_buff_manatrack_biome_undead_name=增益：诅咒峡谷魔力猎手
+$prefabs_item_consumable_mysticism_buff_manatrack_biome_undead_description=激活后，提高诅咒峡谷冒险世界生态地形的万能寻宝魔力产量，效果持续至第二天开始前。在诅咒峡谷击败敌方时获得万能寻宝魔力。\n\n<font color='#ffcf72'>每次仅可激活一(1)个增益效果。</font>
+$prefabs_item_consumable_mysticism_buff_manatrack_biome_frontier_name=增益：沙漠魔力猎手
+$prefabs_item_consumable_mysticism_buff_manatrack_biome_frontier_description=激活后，提高沙漠边境冒险世界生态地形的万能寻宝魔力产量，效果持续至第二天开始前。在沙漠边境击败敌方时获得万能寻宝魔力。\n\n<font color='#ffcf72'>每次仅可激活一(1)个增益效果。</font>
+$prefabs_item_consumable_mysticism_buff_manatrack_biome_fae_name=增益：妖精森林魔力猎手
+$prefabs_item_consumable_mysticism_buff_manatrack_biome_fae_description=激活后，提高妖精森林冒险世界生态地形的万能寻宝魔力产量，效果持续至第二天开始前。在妖精森林击败敌方时获得万能寻宝魔力。\n\n<font color='#ffcf72'>每次仅可激活一(1)个增益效果。</font>
+$prefabs_item_consumable_mysticism_buff_manatrack_biome_candy_name=增益：糖果国度魔力猎手
+$prefabs_item_consumable_mysticism_buff_manatrack_biome_candy_description=激活后，提高糖果国度冒险世界生态地形的万能寻宝魔力产量，效果持续至第二天开始前。在糖果国度击败敌方时获得万能寻宝魔力。\n\n<font color='#ffcf72'>每次仅可激活一(1)个增益效果。</font>
+$prefabs_item_consumable_mysticism_buff_manatrack_biome_neon_name=增益：霓虹城魔力猎手
+$prefabs_item_consumable_mysticism_buff_manatrack_biome_neon_description=激活后，提高霓虹城冒险世界生态地形的万能寻宝魔力产量，效果持续至第二天开始前。在霓虹城击败敌方时获得万能寻宝魔力。\n\n<font color='#ffcf72'>每次仅可激活一(1)个增益效果。</font>
+$prefabs_item_consumable_mysticism_buff_manatrack_biome_dinosaur_name=增益：丛林魔力猎手
+$prefabs_item_consumable_mysticism_buff_manatrack_biome_dinosaur_description=激活后，提高侏罗纪丛林冒险世界生态地形的万能寻宝魔力产量，效果持续至第二天开始前。在侏罗纪丛林击败敌方时获得万能寻宝魔力。\n\n<font color='#ffcf72'>每次仅可激活一(1)个增益效果。</font>
+$prefabs_item_consumable_mysticism_buff_manatrack_biome_dragon_name=增益：山峰魔力猎手
+$prefabs_item_consumable_mysticism_buff_manatrack_biome_dragon_description=激活后，提高龙火山峰冒险世界生态地形的万能寻宝魔力产量，效果持续至第二天开始前。在龙火山峰击败敌方时获得万能寻宝魔力。\n\n<font color='#ffcf72'>每次仅可激活一(1)个增益效果。</font>
+$prefabs_item_consumable_mysticism_buff_manatrack_biome_spires_name=增益：仙境魔力猎手
+$prefabs_item_consumable_mysticism_buff_manatrack_biome_spires_description=激活后，提高蓬丘仙境冒险世界生态地形的万能寻宝魔力产量，效果持续至第二天开始前。在蓬丘仙境击败敌方时获得万能寻宝魔力。\n\n<font color='#ffcf72'>每次仅可激活一(1)个增益效果。</font>
+$prefabs_item_consumable_mysticism_potion_learn_recipe_generic=制作后即可学习/解锁本神秘学配方
+$prefabs_item_consumable_mysticism_buff_manatrack_biome_all_name=增益：超级魔力猎手
+$prefabs_item_consumable_mysticism_buff_manatrack_biome_all_description=提高所有生态地形的万能寻宝魔力产量，且击败几乎任意类型的敌方后，均可获得万能寻宝魔力，效果持续至第二天开始前。

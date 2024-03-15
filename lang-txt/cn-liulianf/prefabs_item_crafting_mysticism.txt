@@ -1,0 +1,2 @@
+$prefabs_item_crafting_mysticism_hardened_mana_fragment_name=魔力结晶碎片
+$prefabs_item_crafting_mysticism_hardened_mana_fragment_description=制作增益或魔药时的偶然产品。可在炼金实验室中转化为游离的寻宝魔力。

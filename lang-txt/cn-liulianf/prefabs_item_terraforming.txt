@@ -100,3 +100,7 @@ $prefabs_item_terraforming_undead_tombs_in_faewilds_item_name=亡灵墓穴改造
 $prefabs_item_terraforming_undead_tombs_in_faewilds_item_desc=将一个区域改造成妖精荒野的亡灵墓穴。\n\n<font color='#ff3030'>警告:</font> 这将摧毁该区域的一切，以及相邻区域的边界。
 $prefabs_item_terraforming_giantlands_item_name=断裂高地地形改造装置
 $prefabs_item_terraforming_giantlands_item_description=将一个区域改造成断裂高地。\n\n<font color='#ff3030'>警告:</font> 这将摧毁该区域的一切，以及相邻区域的边界。
+$prefabs_item_terraforming_tundra_tombs_name=冰封谷地形改造装置
+$prefabs_item_terraforming_tundra_tombs_item_desc=将一个区域改造成冰封谷。\n\n<font color='#ff3030'>警告:</font> 这将摧毁该区域的一切，以及相邻区域的边界。
+$prefabs_item_terraforming_dragon_tombs_name=燃烧谷地形改造装置
+$prefabs_item_terraforming_dragon_tombs_item_desc=将一个区域改造成燃烧谷。\n\n<font color='#ff3030'>警告:</font> 这将摧毁该区域的一切，以及相邻区域的边界。

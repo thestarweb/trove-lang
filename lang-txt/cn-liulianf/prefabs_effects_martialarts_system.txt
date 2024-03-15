@@ -1,0 +1,2 @@
+$prefabs_effects_martialarts_system_enlightened_name=启迪
+$prefabs_effects_martialarts_system_enlightened_description=增加光明1%

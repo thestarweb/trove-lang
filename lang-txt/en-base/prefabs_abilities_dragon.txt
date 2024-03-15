@@ -1,3 +1,5 @@
+$prefabs_abilities_dragon_gemopal_yeet_buff_name=Advanced Jumping
+$prefabs_abilities_dragon_gemopal_yeet_buff_description=Increases Jump by 5 and Jump Height by 100%.
 $prefabs_abilities_dragon_bomber_cannon_item_name=Dragon Fire
 $prefabs_abilities_dragon_bone_cannon_item_name=Dragon Fire
 $prefabs_abilities_dragon_winter_2015_cannon_item_name=Dragon Fire

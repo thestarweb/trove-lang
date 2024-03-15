@@ -17,3 +17,7 @@ $prefabs_npc_delve_merchant_hub_matchmakers_sign_content=Press [HK:Loot] to see 
 $prefabs_npc_delve_merchant_underwater_name=Delve Underwater Merchant
 $prefabs_npc_delve_merchant_underwater_sign_title=Shelbert the Crabacus
 $prefabs_npc_delve_merchant_underwater_sign_content=Press [HK:Loot] to see what Shelbert has for to offer!
+$prefabs_npc_delve_merchant_catastrophe_name=$DNT - Quartermeowster
+$prefabs_npc_delve_merchant_catastrophe_sign_title=Griff, Field Merchant
+$prefabs_npc_delve_merchant_catastrophe_sign_content=Check my wares! [HK:Loot] to interact.
+$prefabs_npc_delve_merchant_catastrophe_postboss_sign_title=Quartermeowster Griff

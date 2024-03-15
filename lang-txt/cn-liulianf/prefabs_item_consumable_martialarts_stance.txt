@@ -1,0 +1,14 @@
+$prefabs_item_consumable_martialarts_stance_chargeshot_criticalhit_name=架势: 神枪手
+$prefabs_item_consumable_martialarts_stance_chargeshot_criticalhit_description=消耗后，暴击率提高5%，持续5分钟（消耗品槽位中还需要存在一个架势: 神枪手）。\n\n装备在消耗品槽位中，当（驯龙师和枪械师）使用[HK:PrimaryAbility]技能时蓄能时间超过7秒时消耗。
+$prefabs_item_consumable_martialarts_stance_meleeswing_vacuum_name=架势: 重力摇晃
+$prefabs_item_consumable_martialarts_stance_meleeswing_vacuum_description=消耗后，把附近的敌人拉近身边。\n\n装备在消耗品槽位中，当使用“甩/旋转/挥”类型的技能时消耗（吟游诗人[HK:PrimaryAbility]、爆破游侠[HK:BasicAbility]、糖果野蛮人[HK:PrimaryAbility]、骑士[HK:BasicAbility]、银月枪兵[HK:BasicAbility]、霓虹忍者[HK:PrimaryAbility]、无头骑士[HK:PrimaryAbility]、先锋卫士[HK:BasicAbility]）。\n冷却时间: 60秒
+$prefabs_item_consumable_martialarts_stance_run_jump_name=架势: 奔跑动力传递
+$prefabs_item_consumable_martialarts_stance_run_jump_description=消耗后，单次跳跃高度增加75%。\n\n装备在消耗品槽位中，当向前奔跑5秒后跳跃时消耗。\n冷却时间: 30秒
+$prefabs_item_consumable_martialarts_stance_shoot_combatevent_explosion_name=架势: 爆炸子弹
+$prefabs_item_consumable_martialarts_stance_shoot_combatevent_explosion_description=消耗后，你的远程投射物击中敌人时会引起爆炸，持续15秒。\n\n装备在消耗品槽位中，当使用"射击类"[HK:BasicAbility]技能5秒以上时消耗（爆破游侠(弓)、碧叶使者、驯龙师、妖精诡术师、枪械师、寒冰贤者、海洋探索者、暗影猎手、曜日射手、先锋卫士(远程)）。\n冷却时间: 120秒
+$prefabs_item_consumable_martialarts_stance_shoot_jumpblock_name=架势: 弹跳陷阱
+$prefabs_item_consumable_martialarts_stance_shoot_jumpblock_description=消耗后，在你周围生成发射器方便你快速逃脱。\n\n装备在消耗品槽位中，当使用"射击类"[HK:BasicAbility]技能时消耗（爆破游侠(弓)、碧叶使者、驯龙师、妖精诡术师、枪械师、寒冰贤者、海洋探索者、暗影猎手、曜日射手、先锋卫士(远程)）。\n冷却时间: 60秒
+$prefabs_item_consumable_martialarts_stance_meleeunarmed_robotaoe_name=架势: 霓虹猛击
+$prefabs_item_consumable_martialarts_stance_meleeunarmed_robotaoe_description=消耗后，将附近的机器人敌人拉近身边。\n\n装备在消耗品槽位中，当先锋卫士使用[HK:Ability2]技能时消耗。\n冷却时间: 90秒
+$prefabs_item_consumable_martialarts_stance_meleeswing_robotaoe_name=架势: 霓虹摇晃
+$prefabs_item_consumable_martialarts_stance_meleeswing_robotaoe_description=消耗后，把附近的机器人敌人拉近身边。\n\n当使用“甩/旋转/挥”类型的技能时消耗（吟游诗人[HK:PrimaryAbility]、爆破游侠[HK:BasicAbility]、糖果野蛮人[HK:PrimaryAbility]、骑士[HK:BasicAbility]、银月枪兵[HK:BasicAbility]、霓虹忍者[HK:PrimaryAbility]、无头骑士[HK:PrimaryAbility]、先锋卫士[HK:BasicAbility]）\n冷却时间: 90秒

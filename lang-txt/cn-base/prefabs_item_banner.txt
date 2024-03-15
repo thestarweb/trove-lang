@@ -1,0 +1,2 @@
+$prefabs_item_banner_test_name=测试旗帜
+$prefabs_item_banner_test_description=测试PVP旗帜

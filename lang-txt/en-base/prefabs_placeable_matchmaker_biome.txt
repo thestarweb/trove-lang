@@ -30,3 +30,5 @@ $prefabs_placeable_matchmaker_biome_library_name=Delve Gateway: The Understacks
 $prefabs_placeable_matchmaker_biome_library_description=Place to queue yourself for a Private Delve for THE UNDERSTACKS! \n\nInvites: Up to 8 Players total\nMounts: Delve Restricted
 $prefabs_placeable_matchmaker_biome_volcano_name=Delve Gateway: Volcanic Vaults
 $prefabs_placeable_matchmaker_biome_volcano_description=Place to queue yourself for a Private Delve with the VOLCANIC VAULTS biome appearing more often than usual!\n\nInvites: Up to 8 Players total\nMounts: Delve Restricted\nMinimum Depth: 25
+$prefabs_placeable_matchmaker_biome_castle_catastrophe_t2_name=Depth Stepper: Castle Catastra
+$prefabs_placeable_matchmaker_biome_castle_catastrophe_t2_description=Place and interact with this Depth Stepper to begin a Delve where the Shadowy Soul Vault will appear in CASTLE CATASTRA biome ONE OR MORE TIMES!\n\nInvites: Up to 8 Players total\nMounts: Delve Restricted\nMinimum Depth: 110

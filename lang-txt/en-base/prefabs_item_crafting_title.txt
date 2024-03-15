@@ -1,0 +1,14 @@
+$prefabs_item_crafting_title_dragon_basic_name=Diluted Draconic Essence
+$prefabs_item_crafting_title_dragon_basic_description=Used to craft Seasonal Draconic Essence from the DRAGON CRUCIBLE.\n\nObtained by LOOT COLLECTING Seasonal Draconic Essences, or purchased using DRAGON COINS from the DRACONIC BROWSER.
+$prefabs_item_crafting_title_dragon_fall_name=Burnt Draconic Essence
+$prefabs_item_crafting_title_dragon_fall_description=Used to acquire TEMPORARY, Seasonal Draconic titles from the DRAGON CRUCIBLE.\n\nAccess the TITLE SELECTOR from the CHARACTER SHEET [HK:CharacterSheet]\n\nObtained uncommonly from Greater Dragon Caches.
+$prefabs_item_crafting_title_dragon_spring_name=Germinating Draconic Essence
+$prefabs_item_crafting_title_dragon_spring_description=Used to acquire TEMPORARY, Seasonal Draconic titles from the DRAGON CRUCIBLE.\n\nAccess the TITLE SELECTOR from the CHARACTER SHEET [HK:CharacterSheet]\n\nObtained uncommonly from Greater Dragon Caches.
+$prefabs_item_crafting_title_dragon_summer_name=Scorching Draconic Essence
+$prefabs_item_crafting_title_dragon_summer_description=Used to acquire TEMPORARY, Seasonal Draconic titles from the DRAGON CRUCIBLE.\n\nAccess the TITLE SELECTOR from the CHARACTER SHEET [HK:CharacterSheet]\n\nObtained uncommonly from Greater Dragon Caches.
+$prefabs_item_crafting_title_dragon_winter_name=Glacial Draconic Essence
+$prefabs_item_crafting_title_dragon_winter_description=Used to acquire TEMPORARY, Seasonal Draconic titles from the DRAGON CRUCIBLE.\n\nAccess the TITLE SELECTOR from the CHARACTER SHEET [HK:CharacterSheet]\n\nObtained uncommonly from Greater Dragon Caches.
+$prefabs_item_crafting_title_title_stamp_name=Official Trovian Document Stamper
+$prefabs_item_crafting_title_title_stamp_description=Used to officially notarize important Trovian documents for official Trovian officials!\n\nA micro-laboratory embedded in the handle can turn almost ANYTHING into ink suitable for Title signing!\n\nNOTE!: The Official Trovian Document Stamper automatically returns to inventory after crafting titles. One is all you need!
+$prefabs_item_crafting_title_title_authorization_name=Title Authorization Form
+$prefabs_item_crafting_title_title_authorization_description=Each one signed ahead-of-time by a single Trovian officiant! Some are famous!

@@ -6,6 +6,7 @@ $prefabs_abilities_icemage_icicledrop_item_name=Ice Crash
 $prefabs_abilities_icemage_icicledrop_item_description=Drops an icicle from the heavens, dealing damage over an area that chills enemies, slowing their movement speed. Also turns lava blocks into water blocks for a short time.
 $prefabs_abilities_icemage_passive_icewalking_item_name=Coldhearted
 $prefabs_abilities_icemage_passive_icewalking_item_description=The Ice Sage's basic attack chills enemies, slowing their movement speed. Additionally, Ice Sages can walk across ice without slipping.
+$prefabs_abilities_icemage_passive_icewalking_effect_description=Can walk across Ice without slipping
 $prefabs_abilities_icemage_passive_painfreeze_name=Pain Freeze
 $prefabs_abilities_icemage_passive_painfreeze_description=The Ice Sage's empowered basic attack freezes for 1 second on the first hit. It also chills enemies, slowing their movement speed. Enemies hit three times with Basic Attack while "Pain Freeze" is equipped explode taking additional damage. Ice Sages can still walk across ice without slipping.
 $prefabs_abilities_ice_mage_subclass_name=Glacial Ward

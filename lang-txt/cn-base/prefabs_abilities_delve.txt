@@ -1,0 +1,2 @@
+$prefabs_abilities_delve_player_queued_name=秘境队列
+$prefabs_abilities_delve_player_queued_description=排队进入秘境。如果您已放置“匹配器”，请再次与其互动，准备就绪后进入秘境。

@@ -17,7 +17,7 @@ $prefabs_item_holiday_pumpkin_thrown_item_description=Keep your friends scared, 
 $prefabs_item_holiday_hellbug_summon_item_name=Preserved Pow Meat
 $prefabs_item_holiday_hellbug_summon_item_description=This tasty Pow Flank can be used attract a friendly Heckbug to follow you around for 10 minutes.\n\nPreserved Pow Meat will rot away at the end of Heckbugs in Love 2020.
 $prefabs_item_holiday_hellbug_heckychow_summon_item_name=Hecky Bag of Hecky Chow
-$prefabs_item_holiday_hellbug_heckychow_summon_item_description=This tasty Hecky Bag of Hecky Chow can be used attract a friendly Heckbug to follow you around for 10 minutes.\n\n<font color='#ff3030'>Warning:</font> This will vanish from your inventory shortly after the end of the Heckbugs In Love event.
+$prefabs_item_holiday_hellbug_heckychow_summon_item_description=This tasty Hecky Bag of Hecky Chow can be used attract a friendly Heckbug to follow you around for 10 minutes.
 $prefabs_item_holiday_sunfest_summon_goldenvale_item_name=Carys House Badge
 $prefabs_item_holiday_sunfest_summon_goldenvale_item_description=Authorizes its bearer to collect Carysian Ducats on behalf of House Carys while displayed.\n\nActivating grants 5 Movement Speed and summons a friend to follow you until you switch worlds.\n\nThis badge will be revoked at the end of Sunfest.
 $prefabs_item_holiday_sunfest_summon_pinata_item_name=Panatea House Badge

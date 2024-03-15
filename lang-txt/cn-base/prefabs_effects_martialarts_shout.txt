@@ -1,0 +1,4 @@
+$prefabs_effects_martialarts_shout_flamebegin_incdmg_buff_name=尖声恐吓
+$prefabs_effects_martialarts_shout_flamebegin_incdmg_buff_description=减少 10% 受到的伤害。
+$prefabs_effects_martialarts_shout_slam_energy_buff_name=振奋之吼
+$prefabs_effects_martialarts_shout_slam_energy_buff_description=能量回复+25%。

@@ -1,6 +1,11 @@
 $prefabs_item_food_events_march2021_lite_name=St. Qubeslick's Delite!
-$prefabs_item_food_events_march2021_lite_description=It's bite sized and tasty!\nOnce eaten, allows you to see the otherwise invisible Luckbeast in the Jurassic Jungle!\n<font color='#ff3030'>Disappears</font> at the end of the St. Qubeslick event
+$prefabs_item_food_events_march2021_lite_description=It's bite sized and tasty!\nOnce eaten, allows you to see the otherwise invisible Luckbeast in the Jurassic Jungle!
 $prefabs_item_food_events_march2021_feast_name=Feast of St. Qubeslick
-$prefabs_item_food_events_march2021_feast_description=A hearty meal perfect for any Trovian on the hunt!\nOnce eaten, allows you to see the otherwise invisible Luckbeast in the Jurassic Jungle!\n<font color='#ff3030'>Disappears</font> at the end of the St. Qubeslick event
+$prefabs_item_food_events_march2021_feast_description=A hearty meal perfect for any Trovian on the hunt!\nOnce eaten, allows you to see the otherwise invisible Luckbeast in the Jurassic Jungle!
+$prefabs_item_food_events_march2024_feast_description=A hearty meal perfect that Luck-creatures have become drawn towards. Cook a Feast and see if you can draw in some Lucky Snakes. Be warned though, other predators might arrive.\n\nOnce a Feast has been set another can not be set for 10 minutes.
+$prefabs_item_food_events_march2024_clear_feast_name=Clean Dishes
+$prefabs_item_food_events_march2024_clear_feast_desc=Cleans the dishes from the Lucky Stone, allowing another Feast to be crafted.\n\nCosts for this recipe increase with each crafting and reset at the end of the day.
 $prefabs_item_food_events_april2021_food_name='Spirit of Bunfest' Sugarpetal Treat
 $prefabs_item_food_events_april2021_food_description=Light and delicious!
+$prefabs_item_food_events_renewus2024_protein_bar_name=Garx's Championship Protein Bar
+$prefabs_item_food_events_renewus2024_protein_bar_desc=To fight like a champion you have to train like a champion. To train like a champion you have to eat like a champion.\n\nBe the Champion Garx knows you can be.

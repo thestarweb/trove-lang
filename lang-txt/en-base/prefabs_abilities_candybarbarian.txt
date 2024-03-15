@@ -12,3 +12,4 @@ $prefabs_abilities_candybarbarian_swirlwind_item_name=Vanilla Swirlwind
 $prefabs_abilities_candybarbarian_swirlwind_item_description=The Candy Barbarian spins around, attacking all nearby foes and creating Healing Candy for himself.
 $prefabs_abilities_candybarbarian_subclass_name=Sugar Rush
 $prefabs_abilities_candybarbarian_subclass_description=Damaging an enemy has a chance to drop candy that increases attack and movement speed or healing.
+$prefabs_abilities_candybarbarian_ragecandy_effect_buff_description=Increases Movement Speed by 40. Increases Attack Speed by 200%. Increases Physical Damage by 130%.

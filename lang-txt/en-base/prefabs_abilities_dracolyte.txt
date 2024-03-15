@@ -10,3 +10,4 @@ $prefabs_abilities_dracolyte_passive_lava_resistance_item_name=Fireborn
 $prefabs_abilities_dracolyte_passive_lava_resistance_item_description=The Dracolyte's attacks cause enemies to Burn, increasing their damage taken from all sources. The Dracolyte also moves much faster through lava, and takes less damage from it than other Trovians.
 $prefabs_abilities_dracolyte_subclass_name=Burning Zealot
 $prefabs_abilities_dracolyte_subclass_description=Physical damage to enemies has a chance to apply fire to them.
+$prefabs_abilities_dracolyte_passive_effect_dot_lava_resisted_description=Increases Movement Speed by 75%. Reduced Lava damage.

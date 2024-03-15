@@ -1,0 +1,2 @@
+$prefabs_item_crafting_mysticism_hardened_mana_fragment_name=结晶魔力碎片
+$prefabs_item_crafting_mysticism_hardened_mana_fragment_description=制作增益或药剂时有几率获得。可在炼金实验室转化为万能寻宝魔力。

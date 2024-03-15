@@ -1,0 +1,2 @@
+$prefabs_placeable_crafting_martialarts_pinzo_name=Patented Pinzo Printer
+$prefabs_placeable_crafting_martialarts_pinzo_desc=Fully capable of crafting many of Chuck Pinzo's decorations, but this printer has been modified to prevent mass production of, among other things, more Chuck Pinzos.

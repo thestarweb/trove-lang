@@ -1,0 +1,12 @@
+$prefabs_item_consumable_martialarts_mantra_sleep_healthregeneration_name=Mantra of Regeneration
+$prefabs_item_consumable_martialarts_mantra_sleep_healthregeneration_description=When equipped in Auto-Use, /SLEEP for 10+ seconds to increase HEALTH REGENERATION by +500 and +5% for 2 hours.\n\nWhile equipped, CONSUME at the RELIC of PRESERVATION to apply as a LITANY effect for the remainder of the current week.
+$prefabs_item_consumable_martialarts_mantra_glide_slowfall_name=Mantra of Featherlight
+$prefabs_item_consumable_martialarts_mantra_glide_slowfall_description=When equipped, steadily GLIDE for 10+ seconds in Hub or Adventure Worlds to receive SLOWFALL for 10 seconds.\n\nWhile equipped, CONSUME at the RELIC of PRESERVATION to apply as a LITANY effect for the remainder of the current week.
+$prefabs_item_consumable_martialarts_mantra_mine_blockaoe_name=Mantra of Mega-Lasermancy
+$prefabs_item_consumable_martialarts_mantra_mine_blockaoe_description=When equipped in Auto-Use, MINING for 5s total triggers a large EXPLOSION.\nCooldown: 30s\n\nWhile equipped, CONSUME at the RELIC of PRESERVATION to apply as a LITANY effect for the remainder of the current week.
+$prefabs_item_consumable_martialarts_mantra_pose_magicfind_name=Mantra of Luck
+$prefabs_item_consumable_martialarts_mantra_pose_magicfind_description=When equipped in Auto-Use, MOUNT-up and strike an /EPICPOSE to increase MAGIC FIND by +25 and +1% for 2 hours.\n\nWhile equipped, CONSUME at the RELIC of PRESERVATION to apply as a LITANY effect for the remainder of the current week.
+$prefabs_item_consumable_martialarts_mantra_mine_blockreveal_name=Mantra of Meta-Lasermancy
+$prefabs_item_consumable_martialarts_mantra_mine_blockreveal_description=When equipped in Auto-Use, MINING for 3s total briefly reveals nearby resource blocks.\nCooldown: 5s\n\nWhile equipped, CONSUME at the RELIC of PRESERVATION to apply as a LITANY effect for the remainder of the current week.
+$prefabs_item_consumable_martialarts_mantra_drink_heal_name=Mantra: When in Trove!
+$prefabs_item_consumable_martialarts_mantra_drink_heal_description=When equipped in Auto-Use, heals 5% of Max Health whenever DRINKING a Flask.\n\nWhile equipped, CONSUME at the RELIC of PRESERVATION to apply as a LITANY effect for the remainder of the current week.

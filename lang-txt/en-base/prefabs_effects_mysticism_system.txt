@@ -1,0 +1,1 @@
+$prefabs_effects_mysticism_system_alchemy_reveal_potions_description=Allows Learning of POTION recipes for active Buffs at the Alchemystic's Lab

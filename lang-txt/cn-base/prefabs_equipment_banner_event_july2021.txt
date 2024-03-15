@@ -1,0 +1,5 @@
+$prefabs_equipment_banner_event_july2021_sunfest_banner_name=雷奥瑞姆矿工的旗帜
+$prefabs_equipment_banner_event_july2021_sunfest_banner_description=这面旗帜被授予皇室中最有声望和学术性的矿工，它允许佩戴者在开采普通矿石时收集雷奥瑞姆矿石。\n\n无法分解成战利品\n在太阳庆典活动结束时<font color='#ff3030'>消失</font>)
+$prefabs_equipment_banner_event_july2021_sunfest_banner_style_description=授予皇室中最有声望和学术性的矿工，这种旗帜风格除了看起来很有气势外，没有任何好处！
+$prefabs_equipment_banner_event_july2022_pinzo_banner_name=查克,平索采矿旗
+$prefabs_equipment_banner_event_july2022_pinzo_banner_description=现在的钱币，未来的钱币，Trove的新钱币。 \n\n	-查克,平索.

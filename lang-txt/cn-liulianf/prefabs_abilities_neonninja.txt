@@ -8,3 +8,4 @@ $prefabs_abilities_neonninja_stasis_blade_item_name=静电之刃
 $prefabs_abilities_neonninja_stasis_blade_item_description=霓虹忍者向前冲出，被击中的敌人受到伤害且被禁足2秒。
 $prefabs_abilities_neonninja_subclass_name=暗杀
 $prefabs_abilities_neonninja_subclass_description=有几率对生命低于20%的敌人造成额外伤害。
+$prefabs_abilities_neonninja_shadow_flip_effect_spawn_description=隐身。移动速度提高50%。技能闪烁之星可用。

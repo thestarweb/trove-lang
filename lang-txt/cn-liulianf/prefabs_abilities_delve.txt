@@ -1,0 +1,2 @@
+$prefabs_abilities_delve_player_queued_name=秘境队伍
+$prefabs_abilities_delve_player_queued_description=排队进入秘境。如果放置了传送门，请再次与其交互以准备开始秘境。

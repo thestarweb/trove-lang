@@ -10,3 +10,4 @@ $prefabs_item_unlocker_delve_path_events_iguana_tysorion_name=纪念品: 泰索�
 $prefabs_item_unlocker_delve_path_events_quetzalcoatlus_carys_name=纪念品: 卡瑞斯羽蛇翼龙
 $prefabs_item_unlocker_delve_path_events_quetzalcoatlus_panatea_name=纪念品: 皮纳塔亚羽蛇翼龙
 $prefabs_item_unlocker_delve_path_events_quetzalcoatlus_tysorion_name=纪念品: 泰索里昂羽蛇翼龙
+$prefabs_item_unlocker_delve_path_events_bat_eggman_name=纪念品: 欢快蛋壳

@@ -1,0 +1,6 @@
+$prefabs_item_plotter_flattener_item_name=竞技场压路器
+$prefabs_item_plotter_flattener_item_description=推平一个区域，将其改造成竞技场或小型游戏区。\n\n\n<font color='#ff3030'>警告：</font>该操作将摧毁目标区域中的一切，包括相邻区域的边界。
+$prefabs_item_plotter_flattener_bedrock_item_name=竞技场地压路器
+$prefabs_item_plotter_flattener_bedrock_item_description=推平一个区域至露出地基，将其改造成竞技场或小型游戏区。\n\n\n<font color='#ff3030'>警告：</font>该操作将摧毁目标区域中的一切，包括相邻区域的边界。
+$prefabs_item_plotter_surveyor_item_name=竞技场探索工具
+$prefabs_item_plotter_surveyor_item_description=显示一片能够用作战斗竞技场的区域。

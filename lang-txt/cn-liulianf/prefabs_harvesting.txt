@@ -1,0 +1,2 @@
+$prefabs_harvesting_buoy_ggj_sign_title=近乎不可逾越的垃圾堆
+$prefabs_harvesting_buoy_ggj_sign_content=任何普通的船用大炮都不可能摧毁它。

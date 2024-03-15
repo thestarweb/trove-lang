@@ -18,3 +18,5 @@ $prefabs_item_egg_family_heckbug_name=Heckbug Egg
 $prefabs_item_egg_family_heckbug_description=Hatches into a common, uncommon, or rare Heckbug.\n\nFound rarely when exploring or assiting wild Heckbugs in the Sunken Sunvault during the Heckbugs In Love event.
 $prefabs_item_egg_family_heckbug_hybrid_name=Heckbug-Hybrid Egg
 $prefabs_item_egg_family_heckbug_hybrid_description=Hatches into a common, uncommon, or rare Heckbug-Hybrid.\n\nFound rarely when exploring or assiting wild Heckbugs in the Verdant Veins during the Heckbugs In Love event.
+$prefabs_item_egg_family_heckbug_mysitcal_name=Mystical Heckbug Egg
+$prefabs_item_egg_family_heckbug_mystical_description=Hatches into a common, uncommon, or rare Mystical Heckbug.\n\nFound rarely when exploring or assiting wild Heckbugs in the Moonglow Grotto during the Heckbugs In Love event.

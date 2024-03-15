@@ -242,3 +242,10 @@ $prefabs_placeable_frameworks_giantlands_small_tree_name=地质工程树
 $prefabs_placeable_frameworks_giantlands_small_tree_description=可在公会世界中放置。\n\n在云层的光辉实验室中完美生长。\n\n<font color='#ff3030'>警告:</font> 框架会销毁所有与之相交的方块，这些方块不会返还。框架放置后不能再被拿起。
 $prefabs_placeable_frameworks_house_threelilpigs_name=小猪草屋
 $prefabs_placeable_frameworks_house_threelilpigs_description=可在基石和公会世界中放置。\n\n可能无法承受强风和镭射激光。\n\n<font color='#ff3030'>警告:</font> 框架会销毁所有与之相交的方块，这些方块不会返还。框架放置后不能再被拿起。
+$prefabs_placeable_frameworks_ggj_fountain_name=宾鸡委员会的喷泉
+$prefabs_placeable_frameworks_ggj_fountain_description=这个宾鸡委员会的喷泉是由宾鸡喷泉委托委员会委托的，该委员会是宾鸡委员会的一个子公司。\n\n<font color='#ff3030'>警告:</font> 框架会销毁所有与之相交的方块，这些方块不会返还。框架放置后不能再被拿起。
+$prefabs_placeable_frameworks_catastrophe_crypt_name=菲的地窖
+$prefabs_placeable_frameworks_catastrophe_crypt_description=需要一个舒适的地方来凉快一下？这一个是完美的地方!\n\n<font color='#ff3030'>警告:</font> 框架会销毁所有与之相交的方块，这些方块不会返还。框架放置后不能再被拿起。
+$prefabs_placeable_frameworks_house_pinzo_name=平索的弹性公寓
+$prefabs_placeable_frameworks_house_pinzo_recipe_name=配方：平索的弹性公寓
+$prefabs_placeable_frameworks_house_pinzo_description=只可在公会世界放置。\n\n查克,平索另一个奇妙的创造，一个可以在任何地方、任何时间安置的公寓...只要该地区符合规范，并且你有正确的许可证。这些服务是单独出售的。\n\n<font color='#ff3030'>警告:</font> 框架会销毁所有与之相交的方块，这些方块不会返还。框架放置后不能再被拿起。

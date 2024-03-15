@@ -1,0 +1,422 @@
+$prefabs_item_gem_large_blue_icemage_t110_name=痛苦冻结
+$prefabs_item_gem_large_blue_icemage_t110_description=只有寒冰贤者可以使用的附魔水蓝宝石。\n\n寒冰贤者的基础攻击首次命中敌人时可使其冻结1秒，并对敌人施加寒冷效果，降低他们的移动速度。攻击命中敌人三次可使他们爆炸，造成625%的额外伤害。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_blue_icemage_t111_name=痛苦冻结
+$prefabs_item_gem_large_blue_icemage_t111_description=只有寒冰贤者可以使用的附魔水蓝宝石。\n\n寒冰贤者的基础攻击首次命中敌人时可使其冻结1秒，并对敌人施加寒冷效果，降低他们的移动速度。攻击命中敌人三次可使他们爆炸，造成625%的额外伤害。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_blue_increase_shoot_speed_t109_name=不稳高速
+$prefabs_item_gem_large_blue_increase_shoot_speed_t109_description=任意职业都可以使用的附魔水蓝宝石。\n\n<font size='20'>1.</font>使远程攻击体(子弹、法球)的速度提升50%\n<font size='20'>2.</font>攻击距离也有所提高\n<font size='20'>3.</font>只有爆破游侠的回旋镖，速度增加，距离不增加\n<font size='20'>4.</font>对海盗的炮台无效\n<font color='#34FF7B'>丨速度<font size='20'>≠</font>攻速丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_blue_increase_shoot_speed_t110_name=不稳高速
+$prefabs_item_gem_large_blue_increase_shoot_speed_t110_description=任意职业都可以使用的附魔水蓝宝石。\n\n<font size='20'>1.</font>使远程攻击体(子弹、法球)的速度提升50%\n<font size='20'>2.</font>攻击距离也有所提高\n<font size='20'>3.</font>只有爆破游侠的回旋镖，速度增加，距离不增加\n<font size='20'>4.</font>对海盗的炮台无效\n<font color='#34FF7B'>丨速度<font size='20'>≠</font>攻速丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_blue_increase_shoot_speed_t111_name=不稳高速
+$prefabs_item_gem_large_blue_increase_shoot_speed_t111_description=任意职业都可以使用的附魔水蓝宝石。\n\n<font size='20'>1.</font>使远程攻击体(子弹、法球)的速度提升50%\n<font size='20'>2.</font>攻击距离也有所提高\n<font size='20'>3.</font>只有爆破游侠的回旋镖，速度增加，距离不增加\n<font size='20'>4.</font>对海盗的炮台无效\n<font color='#34FF7B'>丨速度<font size='20'>≠</font>攻速丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_blue_piratelord_swap_t110_name=ARR火炮
+$prefabs_item_gem_large_blue_piratelord_swap_t110_description=只有海洋探索者可以使用的附魔水蓝宝石。两门大副炮能加倍你的火力。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_blue_piratelord_swap_t111_name=ARR火炮
+$prefabs_item_gem_large_blue_piratelord_swap_t111_description=只有海洋探索者可以使用的附魔水蓝宝石。两门大副炮能加倍你的火力。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_blue_tombraiser_swap_t110_name=召唤班汐
+$prefabs_item_gem_large_blue_tombraiser_swap_t110_description=只有墓灵术师可以使用的附魔水蓝宝石。可创造一只班汐小兵，治疗周围所有己方小兵。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_blue_tombraiser_swap_t111_name=召唤班汐
+$prefabs_item_gem_large_blue_tombraiser_swap_t111_description=只有墓灵术师可以使用的附魔水蓝宝石。可创造一只班汐小兵，治疗周围所有己方小兵。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_blue_trickster_swap_t110_name=残忍微笑
+$prefabs_item_gem_large_blue_trickster_swap_t110_description=只有妖精诡术师可以使用的附魔水蓝宝石。闪现诱饵可以移动了；它们会靠近敌人并在接触时自爆，对其造成伤害并眩晕之。只可同时嵌入一颗这种宝石。
+$prefabs_item_gem_large_blue_trickster_swap_t111_name=残忍微笑
+$prefabs_item_gem_large_blue_trickster_swap_t111_description=只有妖精诡术师可以使用的附魔水蓝宝石。闪现诱饵可以移动了；它们会靠近敌人并在接触时自爆，对其造成伤害并眩晕之。只可同时嵌入一颗这种宝石。
+$prefabs_item_gem_large_blue_trickster_shield_t110_name=金蝉脱壳
+$prefabs_item_gem_large_blue_trickster_shield_t110_description=妖精诡术师的强化水蓝宝石。妖精短时间内免疫伤害、移动速度提升并额外生成闪现诱饵。妖精诡术师生命低时宝石自动发动，有冷却时间，这种宝石一次只可嵌入一颗
+$prefabs_item_gem_large_blue_trickster_shield_t111_name=金蝉脱壳
+$prefabs_item_gem_large_blue_trickster_shield_t111_description=妖精诡术师的强化水蓝宝石。妖精短时间内免疫伤害、移动速度提升并额外生成闪现诱饵。妖精诡术师生命低时宝石自动发动，有冷却时间，这种宝石一次只可嵌入一颗
+$prefabs_item_gem_large_blue_trickster_egobuff_t110_name=自我救赎
+$prefabs_item_gem_large_blue_trickster_egobuff_t110_description=妖精诡术师的附魔水蓝宝石。自我爆破现需一次额外攻击才可移除加成。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_blue_trickster_egobuff_t111_name=自我救赎
+$prefabs_item_gem_large_blue_trickster_egobuff_t111_description=妖精诡术师的附魔水蓝宝石。自我爆破现需一次额外攻击才可移除加成。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_blue_adventurer_swap_t110_name=咯鸡炸弹
+$prefabs_item_gem_large_blue_adventurer_swap_t110_description=只有爆破游侠可以使用的附魔水蓝宝石。大型炸弹和小小炸弹升级为咯鸡炸弹。爆炸后生成短时间内攻击敌人的小鸡。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_blue_adventurer_swap_t111_name=咯鸡炸弹
+$prefabs_item_gem_large_blue_adventurer_swap_t111_description=只有爆破游侠可以使用的附魔水蓝宝石。大型炸弹和小小炸弹升级为咯鸡炸弹。爆炸后生成短时间内攻击敌人的小鸡。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_blue_basic_attack_dot_t109_name=刺痛诅咒
+$prefabs_item_gem_large_blue_basic_attack_dot_t109_description=任意职业都可以使用的附魔水蓝宝石。\n\n<font size='20'>1.</font>造成伤害时，有 20%的概率对目标造成持续伤害\n<font size='20'>2.</font>持续伤害持续约4秒，每秒伤害2次\n<font size='20'>3.</font>持续伤害可以堆叠，堆叠的数量会增加伤害(上限不明)\n<font size='20'>4.</font>此伤害<font size='20'>无法造成暴击</font>\n<font color='#34FF7B'>丨伤害: 0.05 x 堆叠数 x 物理/魔法伤害丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_blue_basic_attack_dot_t110_name=刺痛诅咒
+$prefabs_item_gem_large_blue_basic_attack_dot_t110_description=任意职业都可以使用的附魔水蓝宝石。\n\n<font size='20'>1.</font>造成伤害时，有 20%的概率对目标造成持续伤害\n<font size='20'>2.</font>持续伤害持续约4秒，每秒伤害2次\n<font size='20'>3.</font>持续伤害可以堆叠，堆叠的数量会增加伤害(上限不明)\n<font size='20'>4.</font>此伤害<font size='20'>无法造成暴击</font>\n<font color='#34FF7B'>丨伤害: 0.05 x 堆叠数 x 物理/魔法伤害丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_blue_basic_attack_dot_t111_name=刺痛诅咒
+$prefabs_item_gem_large_blue_basic_attack_dot_t111_description=任意职业都可以使用的附魔水蓝宝石。\n\n<font size='20'>1.</font>造成伤害时，有 20%的概率对目标造成持续伤害\n<font size='20'>2.</font>持续伤害持续约4秒，每秒伤害2次\n<font size='20'>3.</font>持续伤害可以堆叠，堆叠的数量会增加伤害(上限不明)\n<font size='20'>4.</font>此伤害<font size='20'>无法造成暴击</font>\n<font color='#34FF7B'>丨伤害: 0.05 x 堆叠数 x 物理/魔法伤害丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_blue_neonninja_swap_t110_name=启发蛊镖
+$prefabs_item_gem_large_blue_neonninja_swap_t110_description=只有霓虹忍者可以使用的附魔水蓝宝石。\n\n投出的手里剑体积更大、效果范围更广，且能够贯穿敌人并施加静电之刃效果。三环手里剑伤害[275%/475%/1000%]和暴击伤害均提升。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_blue_neonninja_swap_t111_name=启发蛊镖
+$prefabs_item_gem_large_blue_neonninja_swap_t111_description=只有霓虹忍者可以使用的附魔水蓝宝石。\n\n投出的手里剑体积更大、效果范围更广，且能够贯穿敌人并施加静电之刃效果。三环手里剑伤害[275%/475%/1000%]和暴击伤害均提升。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_blue_shield_t109_name=方形幕布
+$prefabs_item_gem_large_blue_shield_t109_description=任意职业都可以使用的附魔水蓝宝石。\n\n<font size='20'>1.</font>5秒钟内未受到任何伤害，会生成一个护盾\n<font size='20'>2.</font>护盾可免疫一次伤害\n<font size='20'>3.</font>被攻击护盾会消失，攻击者会昏迷1秒\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_blue_shield_t110_name=方形幕布
+$prefabs_item_gem_large_blue_shield_t110_description=任意职业都可以使用的附魔水蓝宝石。\n\n<font size='20'>1.</font>5秒钟内未受到任何伤害，会生成一个护盾\n<font size='20'>2.</font>护盾可免疫一次伤害\n<font size='20'>3.</font>被攻击护盾会消失，攻击者会昏迷1秒\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_blue_shield_t111_name=方形幕布
+$prefabs_item_gem_large_blue_shield_t111_description=任意职业都可以使用的附魔水蓝宝石。\n\n<font size='20'>1.</font>5秒钟内未受到任何伤害，会生成一个护盾\n<font size='20'>2.</font>护盾可免疫一次伤害\n<font size='20'>3.</font>被攻击护盾会消失，攻击者会昏迷1秒\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_blue_chloromancer_t110_name=植物效力
+$prefabs_item_gem_large_blue_chloromancer_t110_description=只有碧叶使者可以使用的附魔水蓝宝石。当附魔成长技能(2技能)被激活时，花法会治疗附近的植物和队友。队友每1.5秒恢复10％的生命，持续12秒。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_blue_chloromancer_t111_name=植物效力
+$prefabs_item_gem_large_blue_chloromancer_t111_description=只有碧叶使者可以使用的附魔水蓝宝石。当附魔成长技能(2技能)被激活时，花法会治疗附近的植物和队友。队友每1.5秒恢复10％的生命，持续12秒。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_blue_knight_t110_name=灵魂侍从
+$prefabs_item_gem_large_blue_knight_t110_description=只有骑士可以使用的附魔水蓝宝石。\n\n冲锋不再将你向前推进，会有一个灵魂侍从替你向前冲刺，对撞到的敌人造成850%伤害并眩晕敌人。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_blue_knight_t111_name=灵魂侍从
+$prefabs_item_gem_large_blue_knight_t111_description=只有骑士可以使用的附魔水蓝宝石。\n\n冲锋不再将你向前推进，会有一个灵魂侍从替你向前冲刺，对撞到的敌人造成850%伤害并眩晕敌人。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_blue_lunarlancer_swap_t110_name=暗影枪兵
+$prefabs_item_gem_large_blue_lunarlancer_swap_t110_description=只有银月枪兵可以使用的附魔水蓝宝石。普通攻击有几率产生一个你的暗影分身攻击敌人。在银月形态中召唤暗影分身几率增加。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_blue_lunarlancer_swap_t111_name=暗影枪兵
+$prefabs_item_gem_large_blue_lunarlancer_swap_t111_description=只有银月枪兵可以使用的附魔水蓝宝石。普通攻击有几率产生一个你的暗影分身攻击敌人。在银月形态中召唤暗影分身几率增加。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_blue_npcdeath_explosion_t109_name=爆炸性结局
+$prefabs_item_gem_large_blue_npcdeath_explosion_t109_description=任意职业都可以使用的附魔水蓝宝石。\n\n<font size='20'>1.</font>击杀敌人时有几率产生爆炸\n<font color='#34FF7B'>丨伤害: 4.5 x 物理/魔法的伤害(满爆率coe算)丨\n丨冷却时间: 15 秒丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_blue_npcdeath_explosion_t110_name=爆炸性结局
+$prefabs_item_gem_large_blue_npcdeath_explosion_t110_description=任意职业都可以使用的附魔水蓝宝石。\n\n<font size='20'>1.</font>击杀敌人时有几率产生爆炸\n<font color='#34FF7B'>丨伤害: 4.5 x 物理/魔法的伤害(满爆率coe算)丨\n丨冷却时间: 15 秒丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_blue_npcdeath_explosion_t111_name=爆炸性结局
+$prefabs_item_gem_large_blue_npcdeath_explosion_t111_description=任意职业都可以使用的附魔水蓝宝石。\n\n<font size='20'>1.</font>击杀敌人时有几率产生爆炸\n<font color='#34FF7B'>丨伤害: 4.5 x 物理/魔法的伤害(满爆率coe算)丨\n丨冷却时间: 15 秒丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_blue_spirittank_t110_name=后援突袭
+$prefabs_item_gem_large_blue_spirittank_t110_description=只有无头骑士可以使用的附魔水蓝宝石。使堡垒冲撞无需冷却，且对受到伤害的敌人施加持续伤害效果。持续伤害无法吸取敌方生命值。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_blue_spirittank_t111_name=后援突袭
+$prefabs_item_gem_large_blue_spirittank_t111_description=只有无头骑士可以使用的附魔水蓝宝石。使堡垒冲撞无需冷却，且对受到伤害的敌人施加持续伤害效果。持续伤害无法吸取敌方生命值。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_blue_candybarbarian_swap_t110_name=趋之若鹜
+$prefabs_item_gem_large_blue_candybarbarian_swap_t110_description=只有糖果野蛮人可以使用的附魔水蓝宝石。糖碎现会使野蛮人直跃而起再坠落下来，将附近敌人吸过来，并施加短暂的诱饵效果。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_blue_candybarbarian_swap_t111_name=趋之若鹜
+$prefabs_item_gem_large_blue_candybarbarian_swap_t111_description=只有糖果野蛮人可以使用的附魔水蓝宝石。糖碎现会使野蛮人直跃而起再坠落下来，将附近敌人吸过来，并施加短暂的诱饵效果。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_blue_gunslinger_swap_t110_name=极限蓄能
+$prefabs_item_gem_large_blue_gunslinger_swap_t110_description=只有枪械师可以使用的附魔水蓝宝石。边跑边打现在会降低攻速，但能使打出的每一发都是400%伤害的爆炸子弹，并且在一个区域内造成375%的爆炸伤害。。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_blue_gunslinger_swap_t111_name=极限蓄能
+$prefabs_item_gem_large_blue_gunslinger_swap_t111_description=只有枪械师可以使用的附魔水蓝宝石。边跑边打现在会降低攻速，但能使打出的每一发都是400%伤害的爆炸子弹，并且在一个区域内造成375%的爆炸伤害。。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_blue_nova_stun_t109_name=眩晕爆发
+$prefabs_item_gem_large_blue_nova_stun_t109_description=任意职业都可以使用的附魔水蓝宝石。受到伤害后有几率生成一圈致晕投射物，短时间内使敌人致残。只可同时嵌入一颗这种宝石。该宝石有冷却时间。
+$prefabs_item_gem_large_blue_nova_stun_t110_name=眩晕爆发
+$prefabs_item_gem_large_blue_nova_stun_t110_description=任意职业都可以使用的附魔水蓝宝石。受到伤害后有几率生成一圈致晕投射物，短时间内使敌人致残。只可同时嵌入一颗这种宝石。该宝石有冷却时间。
+$prefabs_item_gem_large_blue_nova_stun_t111_name=眩晕爆发
+$prefabs_item_gem_large_blue_nova_stun_t111_description=任意职业都可以使用的附魔水蓝宝石。\n\n<font size='20'>1.</font>受到伤害时有20%的概率向5方向生成眩晕球\n<font size='20'>2.</font>眩晕敌人1秒\n<font color='#34FF7B'>丨伤害: 1.5 x 物理/魔法伤害(满爆率coe算)丨\n丨伤害2次,8秒冷却丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_blue_npcdeath_damage_aura_t109_name=纵火碟
+$prefabs_item_gem_large_blue_npcdeath_damage_aura_t109_description=任意职业都可以使用的附魔水蓝宝石。击败一名敌人有机率生成一个能够杀伤周围敌人的火焰圆盘。只可同时嵌入一颗这种宝石。该宝石有冷却时间。
+$prefabs_item_gem_large_blue_npcdeath_damage_aura_t110_name=纵火碟
+$prefabs_item_gem_large_blue_npcdeath_damage_aura_t110_description=任意职业都可以使用的附魔水蓝宝石。击败一名敌人有机率生成一个能够杀伤周围敌人的火焰圆盘。只可同时嵌入一颗这种宝石。该宝石有冷却时间。
+$prefabs_item_gem_large_blue_npcdeath_damage_aura_t111_name=纵火碟
+$prefabs_item_gem_large_blue_npcdeath_damage_aura_t111_description=任意职业都可以使用的附魔水蓝宝石。\n\n<font size='20'>1.</font>击杀敌人时20％的几率生成一个火盘\n<font size='20'>2.</font>火盘的范围是玩家的半径4格，极限5格\n<font size='20'>3.</font>每秒伤害 1.5 次\n<font color='#34FF7B'>丨伤害: 2.75 x 物理/魔法的伤害(满爆率coe算)丨\n丨移动速度+30丨\n丨火盘持续约 10 秒丨\n丨冷却时间 25 秒丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_blue_shadowhunter_swap_t110_name=暗影闪击
+$prefabs_item_gem_large_blue_shadowhunter_swap_t110_description=只有暗影猎手可以使用的附魔水蓝宝石。普通攻击伤害从375%降低到200%，但变为快速射出的箭矢流。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_blue_shadowhunter_swap_t111_name=暗影闪击
+$prefabs_item_gem_large_blue_shadowhunter_swap_t111_description=只有暗影猎手可以使用的附魔水蓝宝石。普通攻击伤害从375%降低到200%，但变为快速射出的箭矢流。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_blue_solarion_swap_t110_name=棱镜链接
+$prefabs_item_gem_large_blue_solarion_swap_t110_description=只有曜日射手可以使用的附魔水蓝宝石。\n\n棱镜爆炸[2技能] 现在会在凤凰和曜日射手周围脉冲，可以让曜日射手在攻击时保持距离，并在凤凰周围造成AOE伤害。\n\n丨只可同时嵌入一颗同类宝石丨
+$prefabs_item_gem_large_blue_solarion_swap_t111_name=棱镜链接
+$prefabs_item_gem_large_blue_solarion_swap_t111_description=只有曜日射手可以使用的附魔水蓝宝石。\n\n棱镜爆炸[2技能] 现在会在凤凰和曜日射手周围脉冲，可以让曜日射手在攻击时保持距离，并在凤凰周围造成AOE伤害。\n\n丨只可同时嵌入一颗同类宝石丨
+$prefabs_item_gem_large_red_icemage_t110_name=痛苦冻结
+$prefabs_item_gem_large_red_icemage_t110_description=只有寒冰贤者可以使用的附魔火焰宝石。\n\n寒冰贤者的基础攻击首次命中敌人时可使其冻结1秒，并对敌人施加寒冷效果，降低他们的移动速度。攻击命中敌人三次可使他们爆炸，造成625%的额外伤害。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_red_icemage_t111_name=痛苦冻结
+$prefabs_item_gem_large_red_icemage_t111_description=只有寒冰贤者可以使用的附魔火焰宝石。\n\n寒冰贤者的基础攻击首次命中敌人时可使其冻结1秒，并对敌人施加寒冷效果，降低他们的移动速度。攻击命中敌人三次可使他们爆炸，造成625%的额外伤害。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_red_increase_shoot_speed_t109_name=不稳高速
+$prefabs_item_gem_large_red_increase_shoot_speed_t109_description=任意职业都可以使用的附魔火焰宝石。\n\n<font size='20'>1.</font>使远程攻击体(子弹、法球)的速度提升50%\n<font size='20'>2.</font>攻击距离也有所提高\n<font size='20'>3.</font>只有爆破游侠的回旋镖，速度增加，距离不增加\n<font size='20'>4.</font>对海盗的炮台无效\n<font color='#34FF7B'>丨速度<font size='20'>≠</font>攻速丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_red_increase_shoot_speed_t110_name=不稳高速
+$prefabs_item_gem_large_red_increase_shoot_speed_t110_description=任意职业都可以使用的附魔火焰宝石。\n\n<font size='20'>1.</font>使远程攻击体(子弹、法球)的速度提升50%\n<font size='20'>2.</font>攻击距离也有所提高\n<font size='20'>3.</font>只有爆破游侠的回旋镖，速度增加，距离不增加\n<font size='20'>4.</font>对海盗的炮台无效\n<font color='#34FF7B'>丨速度<font size='20'>≠</font>攻速丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_red_increase_shoot_speed_t111_name=不稳高速
+$prefabs_item_gem_large_red_increase_shoot_speed_t111_description=任意职业都可以使用的附魔火焰宝石。\n\n<font size='20'>1.</font>使远程攻击体(子弹、法球)的速度提升50%\n<font size='20'>2.</font>攻击距离也有所提高\n<font size='20'>3.</font>只有爆破游侠的回旋镖，速度增加，距离不增加\n<font size='20'>4.</font>对海盗的炮台无效\n<font color='#34FF7B'>丨速度<font size='20'>≠</font>攻速丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_red_piratelord_swap_t110_name=ARR火炮
+$prefabs_item_gem_large_red_piratelord_swap_t110_description=只有海洋探索者可以使用的附魔火焰宝石。两门大副炮能加倍你的火力。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_red_piratelord_swap_t111_name=ARR火炮
+$prefabs_item_gem_large_red_piratelord_swap_t111_description=只有海洋探索者可以使用的附魔火焰宝石。两门大副炮能加倍你的火力。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_red_tombraiser_swap_t110_name=召唤班汐
+$prefabs_item_gem_large_red_tombraiser_swap_t110_description=只有墓灵术师可以使用的附魔火焰宝石。可创造一只班汐小兵，治疗周围所有己方小兵。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_red_tombraiser_swap_t111_name=召唤班汐
+$prefabs_item_gem_large_red_tombraiser_swap_t111_description=只有墓灵术师可以使用的附魔火焰宝石。可创造一只班汐小兵，治疗周围所有己方小兵。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_red_trickster_swap_t110_name=残忍微笑
+$prefabs_item_gem_large_red_trickster_swap_t110_description=只有妖精诡术师可以使用的附魔火焰宝石。闪现诱饵可以移动了；它们会靠近敌人并在接触时自爆，对其造成伤害并眩晕之。只可同时嵌入一颗这种宝石。
+$prefabs_item_gem_large_red_trickster_swap_t111_name=残忍微笑
+$prefabs_item_gem_large_red_trickster_swap_t111_description=只有妖精诡术师可以使用的附魔火焰宝石。闪现诱饵可以移动了；它们会靠近敌人并在接触时自爆，对其造成伤害并眩晕之。只可同时嵌入一颗这种宝石。
+$prefabs_item_gem_large_red_trickster_shield_t110_name=金蝉脱壳
+$prefabs_item_gem_large_red_trickster_shield_t110_description=妖精诡术师的强化火焰宝石。妖精短时间内免疫伤害、移动速度提升并额外生成闪现诱饵。妖精诡术师生命低时宝石自动发动，有冷却时间，这种宝石一次只可嵌入一颗。
+$prefabs_item_gem_large_red_trickster_shield_t111_name=金蝉脱壳
+$prefabs_item_gem_large_red_trickster_shield_t111_description=妖精诡术师的强化火焰宝石。妖精短时间内免疫伤害、移动速度提升并额外生成闪现诱饵。妖精诡术师生命低时宝石自动发动，有冷却时间，这种宝石一次只可嵌入一颗。
+$prefabs_item_gem_large_red_trickster_egobuff_t110_name=自我救赎
+$prefabs_item_gem_large_red_trickster_egobuff_t110_description=妖精诡术师的附魔火焰宝石。自我爆破现需一次额外攻击才可移除加成。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_red_trickster_egobuff_t111_name=自我救赎
+$prefabs_item_gem_large_red_trickster_egobuff_t111_description=妖精诡术师的附魔火焰宝石。自我爆破现需一次额外攻击才可移除加成。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_red_adventurer_swap_t110_name=咯鸡炸弹
+$prefabs_item_gem_large_red_adventurer_swap_t110_description=只有爆破游侠可以使用的附魔火焰宝石。大型炸弹和小小炸弹升级为咯鸡炸弹。爆炸后生成短时间内攻击敌人的小鸡。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_red_adventurer_swap_t111_name=咯鸡炸弹
+$prefabs_item_gem_large_red_adventurer_swap_t111_description=只有爆破游侠可以使用的附魔火焰宝石。大型炸弹和小小炸弹升级为咯鸡炸弹。爆炸后生成短时间内攻击敌人的小鸡。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_red_basic_attack_dot_t109_name=刺痛诅咒
+$prefabs_item_gem_large_red_basic_attack_dot_t109_description=任意职业都可以使用的附魔火焰宝石。\n\n<font size='20'>1.</font>造成伤害时，有 20%的概率对目标造成持续伤害\n<font size='20'>2.</font>持续伤害持续约4秒，每秒伤害2次\n<font size='20'>3.</font>持续伤害可以堆叠，堆叠的数量会增加伤害(上限不明)\n<font size='20'>4.</font>此伤害<font size='20'>无法造成暴击</font>\n<font color='#34FF7B'>丨伤害: 0.05 x 堆叠数 x 物理/魔法伤害丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_red_basic_attack_dot_t110_name=刺痛诅咒
+$prefabs_item_gem_large_red_basic_attack_dot_t110_description=任意职业都可以使用的附魔火焰宝石。\n\n<font size='20'>1.</font>造成伤害时，有 20%的概率对目标造成持续伤害\n<font size='20'>2.</font>持续伤害持续约4秒，每秒伤害2次\n<font size='20'>3.</font>持续伤害可以堆叠，堆叠的数量会增加伤害(上限不明)\n<font size='20'>4.</font>此伤害<font size='20'>无法造成暴击</font>\n<font color='#34FF7B'>丨伤害: 0.05 x 堆叠数 x 物理/魔法伤害丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_red_basic_attack_dot_t111_name=刺痛诅咒
+$prefabs_item_gem_large_red_basic_attack_dot_t111_description=任意职业都可以使用的附魔火焰宝石。\n\n<font size='20'>1.</font>造成伤害时，有 20%的概率对目标造成持续伤害\n<font size='20'>2.</font>持续伤害持续约4秒，每秒伤害2次\n<font size='20'>3.</font>持续伤害可以堆叠，堆叠的数量会增加伤害(上限不明)\n<font size='20'>4.</font>此伤害<font size='20'>无法造成暴击</font>\n<font color='#34FF7B'>丨伤害: 0.05 x 堆叠数 x 物理/魔法伤害丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_red_neonninja_swap_t110_name=启发蛊镖
+$prefabs_item_gem_large_red_neonninja_swap_t110_description=只有霓虹忍者可以使用的附魔火焰宝石。\n\n投出的手里剑体积更大、效果范围更广，且能够贯穿敌人并施加静电之刃效果。三环手里剑伤害[275%/475%/1000%]和暴击伤害均提升。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_red_neonninja_swap_t111_name=启发蛊镖
+$prefabs_item_gem_large_red_neonninja_swap_t111_description=只有霓虹忍者可以使用的附魔火焰宝石。\n\n投出的手里剑体积更大、效果范围更广，且能够贯穿敌人并施加静电之刃效果。三环手里剑伤害[275%/475%/1000%]和暴击伤害均提升。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_red_shield_t109_name=方形幕布
+$prefabs_item_gem_large_red_shield_t109_description=任意职业都可以使用的附魔火焰宝石。\n\n<font size='20'>1.</font>5秒钟内未受到任何伤害，会生成一个护盾\n<font size='20'>2.</font>护盾可免疫一次伤害\n<font size='20'>3.</font>被攻击护盾会消失，攻击者会昏迷1秒\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_red_shield_t110_name=方形幕布
+$prefabs_item_gem_large_red_shield_t110_description=任意职业都可以使用的附魔火焰宝石。\n\n<font size='20'>1.</font>5秒钟内未受到任何伤害，会生成一个护盾\n<font size='20'>2.</font>护盾可免疫一次伤害\n<font size='20'>3.</font>被攻击护盾会消失，攻击者会昏迷1秒\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_red_shield_t111_name=方形幕布
+$prefabs_item_gem_large_red_shield_t111_description=任意职业都可以使用的附魔火焰宝石。\n\n<font size='20'>1.</font>5秒钟内未受到任何伤害，会生成一个护盾\n<font size='20'>2.</font>护盾可免疫一次伤害\n<font size='20'>3.</font>被攻击护盾会消失，攻击者会昏迷1秒\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_red_chloromancer_t110_name=植物效力
+$prefabs_item_gem_large_red_chloromancer_t110_description=只有碧叶使者可以使用的附魔火焰宝石。当附魔成长技能(2技能)被激活时，花法会治疗附近的植物和队友。队友每1.5秒恢复10％的生命，持续12秒。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_red_chloromancer_t111_name=植物效力
+$prefabs_item_gem_large_red_chloromancer_t111_description=只有碧叶使者可以使用的附魔火焰宝石。当附魔成长技能(2技能)被激活时，花法会治疗附近的植物和队友。队友每1.5秒恢复10％的生命，持续12秒。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_red_knight_t110_name=灵魂侍从
+$prefabs_item_gem_large_red_knight_t110_description=只有骑士可以使用的附魔火焰宝石。\n\n冲锋不再将你向前推进，会有一个灵魂侍从替你向前冲刺，对撞到的敌人造成850%伤害并眩晕敌人。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_red_knight_t111_name=灵魂侍从
+$prefabs_item_gem_large_red_knight_t111_description=只有骑士可以使用的附魔火焰宝石。\n\n冲锋不再将你向前推进，会有一个灵魂侍从替你向前冲刺，对撞到的敌人造成850%伤害并眩晕敌人。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_red_lunarlancer_swap_t110_name=暗影枪兵
+$prefabs_item_gem_large_red_lunarlancer_swap_t110_description=只有银月枪兵可以使用的附魔火焰宝石。普通攻击有几率产生一个你的暗影分身攻击敌人。在银月形态中召唤暗影分身几率增加。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_red_lunarlancer_swap_t111_name=暗影枪兵
+$prefabs_item_gem_large_red_lunarlancer_swap_t111_description=只有银月枪兵可以使用的附魔火焰宝石。普通攻击有几率产生一个你的暗影分身攻击敌人。在银月形态中召唤暗影分身几率增加。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_red_npcdeath_explosion_t109_name=爆炸性结局
+$prefabs_item_gem_large_red_npcdeath_explosion_t109_description=任意职业都可以使用的附魔火焰宝石。\n\n<font size='20'>1.</font>击杀敌人时有几率产生爆炸\n<font color='#34FF7B'>丨伤害: 4.5 x 物理/魔法的伤害(满爆率coe算)丨\n丨冷却时间: 15 秒丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_red_npcdeath_explosion_t110_name=爆炸性结局
+$prefabs_item_gem_large_red_npcdeath_explosion_t110_description=任意职业都可以使用的附魔火焰宝石。\n\n<font size='20'>1.</font>击杀敌人时有几率产生爆炸\n<font color='#34FF7B'>丨伤害: 4.5 x 物理/魔法的伤害(满爆率coe算)丨\n丨冷却时间: 15 秒丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_red_npcdeath_explosion_t111_name=爆炸性结局
+$prefabs_item_gem_large_red_npcdeath_explosion_t111_description=任意职业都可以使用的附魔火焰宝石。\n\n<font size='20'>1.</font>击杀敌人时有几率产生爆炸\n<font color='#34FF7B'>丨伤害: 4.5 x 物理/魔法的伤害(满爆率coe算)丨\n丨冷却时间: 15 秒丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_red_spirittank_t110_name=后援突袭
+$prefabs_item_gem_large_red_spirittank_t110_description=只有无头骑士可以使用的附魔火焰宝石。使堡垒冲撞无需冷却，且对受到伤害的敌人施加持续伤害效果。持续伤害无法吸取敌方生命值。只可同时嵌入一颗这种宝石。
+$prefabs_item_gem_large_red_spirittank_t111_name=后援突袭
+$prefabs_item_gem_large_red_spirittank_t111_description=只有无头骑士可以使用的附魔火焰宝石。使堡垒冲撞无需冷却，且对受到伤害的敌人施加持续伤害效果。持续伤害无法吸取敌方生命值。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_red_candybarbarian_swap_t110_name=趋之若鹜
+$prefabs_item_gem_large_red_candybarbarian_swap_t110_description=只有糖果野蛮人可以使用的附魔火焰宝石。糖碎现会使野蛮人直跃而起再坠落下来，将附近敌人吸过来，并施加短暂的诱饵效果。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_red_candybarbarian_swap_t111_name=趋之若鹜
+$prefabs_item_gem_large_red_candybarbarian_swap_t111_description=只有糖果野蛮人可以使用的附魔火焰宝石。糖碎现会使野蛮人直跃而起再坠落下来，将附近敌人吸过来，并施加短暂的诱饵效果。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_red_gunslinger_swap_t110_name=极限蓄能
+$prefabs_item_gem_large_red_gunslinger_swap_t110_description=只有枪械师可以使用的附魔火焰宝石。边跑边打现在会降低攻速，但能使打出的每一发都是400%伤害的爆炸子弹，并且在一个区域内造成375%的爆炸伤害。。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_red_gunslinger_swap_t111_name=极限蓄能
+$prefabs_item_gem_large_red_gunslinger_swap_t111_description=只有枪械师可以使用的附魔火焰宝石。边跑边打现在会降低攻速，但能使打出的每一发都是400%伤害的爆炸子弹，并且在一个区域内造成375%的爆炸伤害。。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_red_nova_stun_t109_name=眩晕爆发
+$prefabs_item_gem_large_red_nova_stun_t109_description=任意职业都可以使用的附魔火焰宝石。受到伤害有几率生成一圈致晕投射物，短时间内使敌人致残。只可同时嵌入一颗这种宝石。该宝石有冷却时间。
+$prefabs_item_gem_large_red_nova_stun_t110_name=眩晕爆发
+$prefabs_item_gem_large_red_nova_stun_t110_description=任意职业都可以使用的附魔火焰宝石。受到伤害有几率生成一圈致晕投射物，短时间内使敌人致残。只可同时嵌入一颗这种宝石。该宝石有冷却时间。
+$prefabs_item_gem_large_red_nova_stun_t111_name=眩晕爆发
+$prefabs_item_gem_large_red_nova_stun_t111_description=任意职业都可以使用的附魔火焰宝石。\n\n<font size='20'>1.</font>受到伤害时有20%的概率向5方向生成眩晕球\n<font size='20'>2.</font>眩晕敌人1秒\n<font color='#34FF7B'>丨伤害: 1.5 x 物理/魔法伤害(满爆率coe算)丨\n丨伤害2次,8秒冷却丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_red_npcdeath_damage_aura_t109_name=纵火碟
+$prefabs_item_gem_large_red_npcdeath_damage_aura_t109_description=任意职业都可以使用的附魔火焰宝石。击败一名敌人有机率生成一个能够杀伤周围敌人的火焰圆盘。只可同时嵌入一颗这种宝石。该宝石有冷却时间。
+$prefabs_item_gem_large_red_npcdeath_damage_aura_t110_name=纵火碟
+$prefabs_item_gem_large_red_npcdeath_damage_aura_t110_description=任意职业都可以使用的附魔火焰宝石。击败一名敌人有机率生成一个能够杀伤周围敌人的火焰圆盘。只可同时嵌入一颗这种宝石。该宝石有冷却时间。
+$prefabs_item_gem_large_red_npcdeath_damage_aura_t111_name=纵火碟
+$prefabs_item_gem_large_red_npcdeath_damage_aura_t111_description=任意职业都可以使用的附魔火焰宝石。\n\n<font size='20'>1.</font>击杀敌人时20％的几率生成一个火盘\n<font size='20'>2.</font>火盘的范围是玩家的半径4格，极限5格\n<font size='20'>3.</font>每秒伤害 1.5 次\n<font color='#34FF7B'>丨伤害: 2.75 x 物理/魔法的伤害(满爆率coe算)丨\n丨移动速度+30丨\n丨火盘持续约 10 秒丨\n丨冷却时间 25 秒丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_red_shadowhunter_swap_t110_name=暗影闪击
+$prefabs_item_gem_large_red_shadowhunter_swap_t110_description=只有暗影猎手可以使用的附魔火焰宝石。普通攻击伤害从375%降低到200%，但变为快速射出的箭矢流。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_red_shadowhunter_swap_t111_name=暗影闪击
+$prefabs_item_gem_large_red_shadowhunter_swap_t111_description=只有暗影猎手可以使用的附魔火焰宝石。普通攻击伤害从375%降低到200%，但变为快速射出的箭矢流。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_red_solarion_swap_t110_name=棱镜链接
+$prefabs_item_gem_large_red_solarion_swap_t110_description=只有曜日射手可以使用的附魔火焰宝石。\n\n棱镜爆炸[2技能] 现在会在凤凰和曜日射手周围脉冲，可以让曜日射手在攻击时保持距离，并在凤凰周围造成AOE伤害。\n\n丨只可同时嵌入一颗同类宝石丨
+$prefabs_item_gem_large_red_solarion_swap_t111_name=棱镜链接
+$prefabs_item_gem_large_red_solarion_swap_t111_description=只有曜日射手可以使用的附魔火焰宝石。\n\n棱镜爆炸[2技能] 现在会在凤凰和曜日射手周围脉冲，可以让曜日射手在攻击时保持距离，并在凤凰周围造成AOE伤害。\n\n丨只可同时嵌入一颗同类宝石丨
+$prefabs_item_gem_large_yellow_icemage_t110_name=痛苦冻结
+$prefabs_item_gem_large_yellow_icemage_t110_description=只有寒冰贤者可以使用的附魔天空宝石。\n\n寒冰贤者的基础攻击首次命中敌人时可使其冻结1秒，并对敌人施加寒冷效果，降低他们的移动速度。攻击命中敌人三次可使他们爆炸，造成625%的额外伤害。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_yellow_icemage_t111_name=痛苦冻结
+$prefabs_item_gem_large_yellow_icemage_t111_description=只有寒冰贤者可以使用的附魔天空宝石。\n\n寒冰贤者的基础攻击首次命中敌人时可使其冻结1秒，并对敌人施加寒冷效果，降低他们的移动速度。攻击命中敌人三次可使他们爆炸，造成625%的额外伤害。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_yellow_increase_shoot_speed_t109_name=不稳高速
+$prefabs_item_gem_large_yellow_increase_shoot_speed_t109_description=任意职业都可以使用的附魔天空宝石。\n\n<font size='20'>1.</font>使远程攻击体(子弹、法球)的速度提升50%\n<font size='20'>2.</font>攻击距离也有所提高\n<font size='20'>3.</font>只有爆破游侠的回旋镖，速度增加，距离不增加\n<font size='20'>4.</font>对海盗的炮台无效\n<font color='#34FF7B'>丨速度<font size='20'>≠</font>攻速丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_yellow_increase_shoot_speed_t110_name=不稳高速
+$prefabs_item_gem_large_yellow_increase_shoot_speed_t110_description=任意职业都可以使用的附魔天空宝石。\n\n<font size='20'>1.</font>使远程攻击体(子弹、法球)的速度提升50%\n<font size='20'>2.</font>攻击距离也有所提高\n<font size='20'>3.</font>只有爆破游侠的回旋镖，速度增加，距离不增加\n<font size='20'>4.</font>对海盗的炮台无效\n<font color='#34FF7B'>丨速度<font size='20'>≠</font>攻速丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_yellow_increase_shoot_speed_t111_name=不稳高速
+$prefabs_item_gem_large_yellow_increase_shoot_speed_t111_description=任意职业都可以使用的附魔天空宝石。\n\n<font size='20'>1.</font>使远程攻击体(子弹、法球)的速度提升50%\n<font size='20'>2.</font>攻击距离也有所提高\n<font size='20'>3.</font>只有爆破游侠的回旋镖，速度增加，距离不增加\n<font size='20'>4.</font>对海盗的炮台无效\n<font color='#34FF7B'>丨速度<font size='20'>≠</font>攻速丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_yellow_piratelord_swap_t110_name=ARR火炮
+$prefabs_item_gem_large_yellow_piratelord_swap_t110_description=只有海洋探索者可以使用的附魔天空宝石。两门大副炮能加倍你的火力。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_yellow_piratelord_swap_t111_name=ARR火炮
+$prefabs_item_gem_large_yellow_piratelord_swap_t111_description=只有海洋探索者可以使用的附魔天空宝石。两门大副炮能加倍你的火力。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_yellow_tombraiser_swap_t110_name=召唤班汐
+$prefabs_item_gem_large_yellow_tombraiser_swap_t110_description=只有墓灵术师可以使用的附魔天空宝石。可创造一只班汐小兵，治疗周围所有己方小兵。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_yellow_tombraiser_swap_t111_name=召唤班汐
+$prefabs_item_gem_large_yellow_tombraiser_swap_t111_description=只有墓灵术师可以使用的附魔天空宝石。可创造一只班汐小兵，治疗周围所有己方小兵。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_yellow_trickster_swap_t110_name=残忍微笑
+$prefabs_item_gem_large_yellow_trickster_swap_t110_description=只有妖精诡术师可以使用的附魔天空宝石。闪现诱饵可以移动了；它们会靠近敌人并在接触时自爆，对其造成伤害并眩晕之。只可同时嵌入一颗这种宝石。
+$prefabs_item_gem_large_yellow_trickster_swap_t111_name=残忍微笑
+$prefabs_item_gem_large_yellow_trickster_swap_t111_description=只有妖精诡术师可以使用的附魔天空宝石。闪现诱饵可以移动了；它们会靠近敌人并在接触时自爆，对其造成伤害并眩晕之。只可同时嵌入一颗这种宝石。
+$prefabs_item_gem_large_yellow_trickster_shield_t110_name=金蝉脱壳
+$prefabs_item_gem_large_yellow_trickster_shield_t110_description=妖精诡术师的强化天空宝石。妖精短时间内免疫伤害、移动速度提升并额外生成闪现诱饵。妖精诡术师生命值过低时宝石自动发动，有冷却时间，这种宝石一次只可嵌入一颗。
+$prefabs_item_gem_large_yellow_trickster_shield_t111_name=金蝉脱壳
+$prefabs_item_gem_large_yellow_trickster_shield_t111_description=妖精诡术师的强化天空宝石。妖精短时间内免疫伤害、移动速度提升并额外生成闪现诱饵。妖精诡术师生命值过低时宝石自动发动，有冷却时间，这种宝石一次只可嵌入一颗。
+$prefabs_item_gem_large_yellow_trickster_egobuff_t110_name=自我救赎
+$prefabs_item_gem_large_yellow_trickster_egobuff_t110_description=妖精诡术师的附魔天空宝石。自我爆破现需一次额外攻击才可移除加成。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_yellow_trickster_egobuff_t111_name=自我救赎
+$prefabs_item_gem_large_yellow_trickster_egobuff_t111_description=妖精诡术师的附魔天空宝石。自我爆破现需一次额外攻击才可移除加成。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_yellow_adventurer_swap_t110_name=咯鸡炸弹
+$prefabs_item_gem_large_yellow_adventurer_swap_t110_description=只有爆破游侠可以使用的附魔天空宝石。大型炸弹和小小炸弹升级为咯鸡炸弹。爆炸后生成短时间内攻击敌人的小鸡。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_yellow_adventurer_swap_t111_name=咯鸡炸弹
+$prefabs_item_gem_large_yellow_adventurer_swap_t111_description=只有爆破游侠可以使用的附魔天空宝石。大型炸弹和小小炸弹升级为咯鸡炸弹。爆炸后生成短时间内攻击敌人的小鸡。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_yellow_neonninja_swap_t110_name=启发蛊镖
+$prefabs_item_gem_large_yellow_neonninja_swap_t110_description=只有霓虹忍者可以使用的附魔天空宝石。\n\n投出的手里剑体积更大、效果范围更广，且能够贯穿敌人并施加静电之刃效果。三环手里剑伤害[275%/475%/1000%]和暴击伤害均提升。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_yellow_neonninja_swap_t111_name=启发蛊镖
+$prefabs_item_gem_large_yellow_neonninja_swap_t111_description=只有霓虹忍者可以使用的附魔天空宝石。\n\n投出的手里剑体积更大、效果范围更广，且能够贯穿敌人并施加静电之刃效果。三环手里剑伤害[275%/475%/1000%]和暴击伤害均提升。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_yellow_shield_t109_name=方形幕布
+$prefabs_item_gem_large_yellow_shield_t109_description=任意职业都可以使用的附魔天空宝石。\n\n<font size='20'>1.</font>5秒钟内未受到任何伤害，会生成一个护盾\n<font size='20'>2.</font>护盾可免疫一次伤害\n<font size='20'>3.</font>被攻击护盾会消失，攻击者会昏迷1秒\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_yellow_shield_t110_name=方形幕布
+$prefabs_item_gem_large_yellow_shield_t110_description=任意职业都可以使用的附魔天空宝石。\n\n<font size='20'>1.</font>5秒钟内未受到任何伤害，会生成一个护盾\n<font size='20'>2.</font>护盾可免疫一次伤害\n<font size='20'>3.</font>被攻击护盾会消失，攻击者会昏迷1秒\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_yellow_shield_t111_name=方形幕布
+$prefabs_item_gem_large_yellow_shield_t111_description=任意职业都可以使用的附魔天空宝石。\n\n<font size='20'>1.</font>5秒钟内未受到任何伤害，会生成一个护盾\n<font size='20'>2.</font>护盾可免疫一次伤害\n<font size='20'>3.</font>被攻击护盾会消失，攻击者会昏迷1秒\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_yellow_chloromancer_t110_name=植物效力
+$prefabs_item_gem_large_yellow_chloromancer_t110_description=只有碧叶使者可以使用的附魔天空宝石。当附魔成长技能(2技能)被激活时，花法会治疗附近的植物和队友。队友每1.5秒恢复10％的生命，持续12秒。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_yellow_chloromancer_t111_name=植物效力
+$prefabs_item_gem_large_yellow_chloromancer_t111_description=只有碧叶使者可以使用的附魔天空宝石。当附魔成长技能(2技能)被激活时，花法会治疗附近的植物和队友。队友每1.5秒恢复10％的生命，持续12秒。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_yellow_knight_t110_name=灵魂侍从
+$prefabs_item_gem_large_yellow_knight_t110_description=只有骑士可以使用的附魔天空宝石。\n\n冲锋不再将你向前推进，会有一个灵魂侍从替你向前冲刺，对撞到的敌人造成850%伤害并眩晕敌人。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_yellow_knight_t111_name=灵魂侍从
+$prefabs_item_gem_large_yellow_knight_t111_description=只有骑士可以使用的附魔天空宝石。\n\n冲锋不再将你向前推进，会有一个灵魂侍从替你向前冲刺，对撞到的敌人造成850%伤害并眩晕敌人。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_yellow_lunarlancer_swap_t110_name=暗影枪兵
+$prefabs_item_gem_large_yellow_lunarlancer_swap_t110_description=只有银月枪兵可以使用的附魔天空宝石。普通攻击有几率产生一个你的暗影分身攻击敌人。在银月形态中召唤暗影分身几率增加。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_yellow_lunarlancer_swap_t111_name=暗影枪兵
+$prefabs_item_gem_large_yellow_lunarlancer_swap_t111_description=只有银月枪兵可以使用的附魔天空宝石。普通攻击有几率产生一个你的暗影分身攻击敌人。在银月形态中召唤暗影分身几率增加。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_yellow_npcdeath_explosion_t109_name=爆炸性结局
+$prefabs_item_gem_large_yellow_npcdeath_explosion_t109_description=任意职业都可以使用的附魔天空宝石。\n\n<font size='20'>1.</font>击杀敌人时有几率产生爆炸\n<font color='#34FF7B'>丨伤害: 4.5 x 物理/魔法的伤害(满爆率coe算)丨\n丨冷却时间: 15 秒丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_yellow_npcdeath_explosion_t110_name=爆炸性结局
+$prefabs_item_gem_large_yellow_npcdeath_explosion_t110_description=任意职业都可以使用的附魔天空宝石。\n\n<font size='20'>1.</font>击杀敌人时有几率产生爆炸\n<font color='#34FF7B'>丨伤害: 4.5 x 物理/魔法的伤害(满爆率coe算)丨\n丨冷却时间: 15 秒丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_yellow_npcdeath_explosion_t111_name=爆炸性结局
+$prefabs_item_gem_large_yellow_npcdeath_explosion_t111_description=任意职业都可以使用的附魔天空宝石。\n\n<font size='20'>1.</font>击杀敌人时有几率产生爆炸\n<font color='#34FF7B'>丨伤害: 4.5 x 物理/魔法的伤害(满爆率coe算)丨\n丨冷却时间: 15 秒丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_yellow_spirittank_t110_name=后援突袭
+$prefabs_item_gem_large_yellow_spirittank_t110_description=只有无头骑士可以使用的附魔天空宝石。使堡垒冲撞无需冷却，且对受到伤害的敌人施加持续伤害效果。持续伤害无法吸取敌方生命值。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_yellow_spirittank_t111_name=后援突袭
+$prefabs_item_gem_large_yellow_spirittank_t111_description=只有无头骑士可以使用的附魔天空宝石。使堡垒冲撞无需冷却，且对受到伤害的敌人施加持续伤害效果。持续伤害无法吸取敌方生命值。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_yellow_candybarbarian_swap_t110_name=趋之若鹜
+$prefabs_item_gem_large_yellow_candybarbarian_swap_t110_description=只有糖果野蛮人可以使用的附魔天空宝石。糖碎现会使野蛮人直跃而起再坠落下来，将附近敌人吸过来，并施加短暂的诱饵效果。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_yellow_candybarbarian_swap_t111_name=趋之若鹜
+$prefabs_item_gem_large_yellow_candybarbarian_swap_t111_description=只有糖果野蛮人可以使用的附魔天空宝石。糖碎现会使野蛮人直跃而起再坠落下来，将附近敌人吸过来，并施加短暂的诱饵效果。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_yellow_gunslinger_swap_t110_name=极限蓄能
+$prefabs_item_gem_large_yellow_gunslinger_swap_t110_description=只有枪械师可以使用的附魔天空宝石。边跑边打现在会降低攻速，但能使打出的每一发都是400%伤害的爆炸子弹，并且在一个区域内造成375%的爆炸伤害。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_yellow_gunslinger_swap_t111_name=极限蓄能
+$prefabs_item_gem_large_yellow_gunslinger_swap_t111_description=只有枪械师可以使用的附魔天空宝石。边跑边打现在会降低攻速，但能使打出的每一发都是400%伤害的爆炸子弹，并且在一个区域内造成375%的爆炸伤害。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_yellow_nova_stun_t109_name=眩晕爆发
+$prefabs_item_gem_large_yellow_nova_stun_t109_description=任意职业都可以使用的附魔天空宝石。受到伤害有几率生成一圈致晕投射物，短时间内使敌人致残。只可同时嵌入一颗这种宝石。该宝石有冷却时间。
+$prefabs_item_gem_large_yellow_nova_stun_t110_name=眩晕爆发
+$prefabs_item_gem_large_yellow_nova_stun_t110_description=任意职业都可以使用的附魔天空宝石。受到伤害有几率生成一圈致晕投射物，短时间内使敌人致残。只可同时嵌入一颗这种宝石。该宝石有冷却时间。
+$prefabs_item_gem_large_yellow_nova_stun_t111_name=眩晕爆发
+$prefabs_item_gem_large_yellow_nova_stun_t111_description=任意职业都可以使用的附魔天空宝石。\n\n<font size='20'>1.</font>受到伤害时有20%的概率向5方向生成眩晕球\n<font size='20'>2.</font>眩晕敌人1秒\n<font color='#34FF7B'>丨伤害: 1.5 x 物理/魔法伤害(满爆率coe算)丨\n丨伤害2次,8秒冷却丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_yellow_npcdeath_damage_aura_t109_name=纵火碟
+$prefabs_item_gem_large_yellow_npcdeath_damage_aura_t109_description=任意职业都可以使用的附魔天空宝石。击败一名敌人有机率生成一个能够杀伤周围敌人的火焰圆盘。只可同时嵌入一颗这种宝石。该宝石有冷却时间。
+$prefabs_item_gem_large_yellow_npcdeath_damage_aura_t110_name=纵火碟
+$prefabs_item_gem_large_yellow_npcdeath_damage_aura_t110_description=任意职业都可以使用的附魔天空宝石。击败一名敌人有机率生成一个能够杀伤周围敌人的火焰圆盘。只可同时嵌入一颗这种宝石。该宝石有冷却时间。
+$prefabs_item_gem_large_yellow_npcdeath_damage_aura_t111_name=纵火碟
+$prefabs_item_gem_large_yellow_npcdeath_damage_aura_t111_description=任意职业都可以使用的附魔天空宝石。\n\n<font size='20'>1.</font>击杀敌人时20％的几率生成一个火盘\n<font size='20'>2.</font>火盘的范围是玩家的半径4格，极限5格\n<font size='20'>3.</font>每秒伤害 1.5 次\n<font color='#34FF7B'>丨伤害: 2.75 x 物理/魔法的伤害(满爆率coe算)丨\n丨移动速度+30丨\n丨火盘持续约 10 秒丨\n丨冷却时间 25 秒丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_yellow_shadowhunter_swap_t110_name=暗影闪击
+$prefabs_item_gem_large_yellow_shadowhunter_swap_t110_description=只有暗影猎手可以使用的附魔天空宝石。普通攻击伤害从375%降低到200%，但变为快速射出的箭矢流。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_yellow_shadowhunter_swap_t111_name=暗影闪击
+$prefabs_item_gem_large_yellow_shadowhunter_swap_t111_description=只有暗影猎手可以使用的附魔天空宝石。普通攻击伤害从375%降低到200%，但变为快速射出的箭矢流。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_blue_dracolyte_swap_t110_name=燃烧魔杖
+$prefabs_item_gem_large_blue_dracolyte_swap_t110_description=只有火龙法师可以使用的附魔水蓝宝石。引爆燃尽献祭时，会创造一只在短时间内攻击敌人的迷你火龙法师小兵。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_blue_dracolyte_swap_t111_name=燃烧魔杖
+$prefabs_item_gem_large_blue_dracolyte_swap_t111_description=只有火龙法师可以使用的附魔水蓝宝石。引爆燃尽献祭时，会创造一只在短时间内攻击敌人的迷你火龙法师小兵。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_yellow_dracolyte_swap_t110_name=燃烧魔杖
+$prefabs_item_gem_large_yellow_dracolyte_swap_t110_description=只有火龙法师可以使用的附魔天空宝石。引爆燃尽献祭时，会创造一只在短时间内攻击敌人的迷你火龙法师小兵。只可同时嵌入一颗这种宝石。
+$prefabs_item_gem_large_yellow_dracolyte_swap_t111_name=燃烧魔杖
+$prefabs_item_gem_large_yellow_dracolyte_swap_t111_description=只有火龙法师可以使用的附魔天空宝石。引爆燃尽献祭时，会创造一只在短时间内攻击敌人的迷你火龙法师小兵。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_red_dracolyte_swap_t110_name=燃烧魔杖
+$prefabs_item_gem_large_red_dracolyte_swap_t110_description=只有火龙法师可以使用的附魔火焰宝石。引爆燃尽献祭时，会创造一只短时间内会攻击敌人的迷你火龙法师小兵。只可同时嵌入一颗这种宝石。
+$prefabs_item_gem_large_red_dracolyte_swap_t111_name=燃烧魔杖
+$prefabs_item_gem_large_red_dracolyte_swap_t111_description=只有火龙法师可以使用的附魔火焰宝石。引爆燃尽献祭时，会创造一只在短时间内攻击敌人的迷你火龙法师小兵。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_blue_dinotamer_dinotime_t110_name=恐龙时刻
+$prefabs_item_gem_large_blue_dinotamer_dinotime_t110_description=只有驯龙师可以使用的附魔水蓝宝石。提升究极能力“召唤恐龙坐骑”的持续时间和究极能力“吐酸”的攻速。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_blue_dinotamer_dinotime_t111_name=恐龙时刻
+$prefabs_item_gem_large_blue_dinotamer_dinotime_t111_description=只有驯龙师可以使用的附魔水蓝宝石。提升究极能力“召唤恐龙坐骑”的持续时间和究极能力“吐酸”的攻速。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_blue_dinotamer_tripleshot_t110_name=强化狩猎镖
+$prefabs_item_gem_large_blue_dinotamer_tripleshot_t110_description=只有驯龙师可以使用的附魔水蓝宝石。将狩猎镖的数量从一发提升到三发。只可同时嵌入一颗这种宝石。
+$prefabs_item_gem_large_blue_dinotamer_tripleshot_t111_name=强化狩猎镖
+$prefabs_item_gem_large_blue_dinotamer_tripleshot_t111_description=只有驯龙师可以使用的附魔水蓝宝石。将狩猎镖的数量从一发提升到三发。只可同时嵌入一颗这种宝石。
+$prefabs_item_gem_large_yellow_dinotamer_dinotime_t110_name=恐龙时刻
+$prefabs_item_gem_large_yellow_dinotamer_dinotime_t110_description=只有驯龙师可以使用的附魔天空宝石。提升究极能力“召唤恐龙坐骑”的持续时间和究极能力“吐酸”的攻速。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_yellow_dinotamer_dinotime_t111_name=恐龙时刻
+$prefabs_item_gem_large_yellow_dinotamer_dinotime_t111_description=只有驯龙师可以使用的附魔天空宝石。提升究极能力“召唤恐龙坐骑”的持续时间和究极能力“吐酸”的攻速。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_yellow_dinotamer_tripleshot_t110_name=强化狩猎镖
+$prefabs_item_gem_large_yellow_dinotamer_tripleshot_t110_description=只有驯龙师可以使用的附魔天空宝石。将狩猎镖的数量从一发提升到三发。只可同时嵌入一颗这种宝石。
+$prefabs_item_gem_large_yellow_dinotamer_tripleshot_t111_name=强化狩猎镖
+$prefabs_item_gem_large_yellow_dinotamer_tripleshot_t111_description=只有驯龙师可以使用的附魔天空宝石。将狩猎镖的数量从一发提升到三发。只可同时嵌入一颗这种宝石。
+$prefabs_item_gem_large_red_dinotamer_dinotime_t110_name=恐龙时刻
+$prefabs_item_gem_large_red_dinotamer_dinotime_t110_description=只有驯龙师可以使用的附魔火焰宝石。提升究极能力“召唤恐龙坐骑”的持续时间和究极能力“吐酸”的攻速。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_red_dinotamer_dinotime_t111_name=恐龙时刻
+$prefabs_item_gem_large_red_dinotamer_dinotime_t111_description=只有驯龙师可以使用的附魔火焰宝石。提升究极能力“召唤恐龙坐骑”的持续时间和究极能力“吐酸”的攻速。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_red_dinotamer_tripleshot_t110_name=强化狩猎镖
+$prefabs_item_gem_large_red_dinotamer_tripleshot_t110_description=只有驯龙师可以使用的附魔火焰宝石。将狩猎镖的数量从一发提升到三发。只可同时嵌入一颗这种宝石。
+$prefabs_item_gem_large_red_dinotamer_tripleshot_t111_name=强化狩猎镖
+$prefabs_item_gem_large_red_dinotamer_tripleshot_t111_description=只有驯龙师可以使用的附魔火焰宝石。将狩猎镖的数量从一发提升到三发。只可同时嵌入一颗这种宝石。
+$prefabs_item_gem_large_blue_crimefighter_attackswap_t110_name=英雄的披风
+$prefabs_item_gem_large_blue_crimefighter_attackswap_t110_description=只有先锋卫士可以使用的附魔水蓝宝石。命中连击的最后一击可以略微减少技能的冷却时间。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_blue_crimefighter_attackswap_t111_name=英雄的披风
+$prefabs_item_gem_large_blue_crimefighter_attackswap_t111_description=只有先锋卫士可以使用的附魔水蓝宝石。命中连击的最后一击可以略微减少技能的冷却时间。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_red_crimefighter_attackswap_t110_name=英雄的披风
+$prefabs_item_gem_large_red_crimefighter_attackswap_t110_description=只有先锋卫士可以使用的附魔火焰宝石。命中连击的最后一击可以略微减少技能的冷却时间。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_red_crimefighter_attackswap_t111_name=英雄的披风
+$prefabs_item_gem_large_red_crimefighter_attackswap_t111_description=只有先锋卫士可以使用的附魔火焰宝石。命中连击的最后一击可以略微减少技能的冷却时间。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_yellow_crimefighter_attackswap_t110_name=英雄的披风
+$prefabs_item_gem_large_yellow_crimefighter_attackswap_t110_description=只有先锋卫士可以使用的附魔天空宝石。命中连击的最后一击可以略微减少技能的冷却时间。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_yellow_crimefighter_attackswap_t111_name=英雄的披风
+$prefabs_item_gem_large_yellow_crimefighter_attackswap_t111_description=只有先锋卫士可以使用的附魔天空宝石。命中连击的最后一击可以略微减少技能的冷却时间。\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_blue_bard_crystalswap_t110_name=旋律大师
+$prefabs_item_gem_large_blue_bard_crystalswap_t110_description=吟游诗人的附魔水蓝宝石，装备后普通攻击范围增加，吟游诗人史诗演奏的3首歌曲效果增加。
+$prefabs_item_gem_large_blue_bard_crystalswap_t111_name=旋律大师
+$prefabs_item_gem_large_blue_bard_crystalswap_t111_description=吟游诗人的附魔水蓝宝石，装备后普通攻击范围增加，吟游诗人史诗演奏的3首歌曲效果增加。
+$prefabs_item_gem_large_red_bard_crystalswap_t110_name=旋律大师
+$prefabs_item_gem_large_red_bard_crystalswap_t110_description=吟游诗人的附魔火焰宝石，装备后普通攻击范围增加，吟游诗人史诗演奏的3首歌曲效果增加。
+$prefabs_item_gem_large_red_bard_crystalswap_t111_name=旋律大师
+$prefabs_item_gem_large_red_bard_crystalswap_t111_description=吟游诗人的附魔火焰宝石，装备后普通攻击范围增加，吟游诗人史诗演奏的3首歌曲效果增加。
+$prefabs_item_gem_large_yellow_bard_crystalswap_t110_name=旋律大师
+$prefabs_item_gem_large_yellow_bard_crystalswap_t110_description=吟游诗人的附魔天空宝石，装备后普通攻击范围增加，吟游诗人史诗演奏的3首歌曲效果增加。
+$prefabs_item_gem_large_yellow_bard_crystalswap_t111_name=旋律大师
+$prefabs_item_gem_large_yellow_bard_crystalswap_t111_description=吟游诗人的附魔天空宝石，装备后普通攻击范围增加，吟游诗人史诗演奏的3首歌曲效果增加。
+$prefabs_item_gem_large_red_nova_snare_t109_name=深陷符咒
+$prefabs_item_gem_large_red_nova_snare_t109_description=任意职业都可以使用的附魔火焰宝石。受到伤害有几率生成一圈陷阱投射物，降低敌人的移动速度。只可同时嵌入一颗这种宝石。该宝石有冷却时间。
+$prefabs_item_gem_large_red_nova_snare_t110_name=深陷符咒
+$prefabs_item_gem_large_red_nova_snare_t110_description=任意职业都可以使用的附魔火焰宝石。受到伤害有几率生成一圈陷阱投射物，降低敌人的移动速度。只可同时嵌入一颗这种宝石。该宝石有冷却时间。
+$prefabs_item_gem_large_red_nova_snare_t111_name=深陷符咒
+$prefabs_item_gem_large_red_nova_snare_t111_description=任意职业都可以使用的附魔火焰宝石。\n\n<font size='20'>1.</font>受到伤害时有33%的概率向5方向生成缓速"小蜘蛛"\n<font size='20'>2.</font>降低敌人移动速度2秒\n<font color='#34FF7B'>丨伤害: 1.5 x 物理/魔法伤害(满爆率coe算)丨\n丨伤害2次,5秒冷却丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_blue_nova_snare_t109_name=深陷符咒
+$prefabs_item_gem_large_blue_nova_snare_t109_description=任意职业都可以使用的附魔水蓝宝石。受到伤害有几率生成一圈陷阱投射物，降低敌人的移动速度。只可同时嵌入一颗这种宝石。该宝石有冷却时间。
+$prefabs_item_gem_large_blue_nova_snare_t110_name=深陷符咒
+$prefabs_item_gem_large_blue_nova_snare_t110_description=任意职业都可以使用的附魔水蓝宝石。受到伤害有几率生成一圈陷阱投射物，降低敌人的移动速度。只可同时嵌入一颗这种宝石。该宝石有冷却时间。
+$prefabs_item_gem_large_blue_nova_snare_t111_name=深陷符咒
+$prefabs_item_gem_large_blue_nova_snare_t111_description=任意职业都可以使用的附魔水蓝宝石。\n\n<font size='20'>1.</font>受到伤害时有33%的概率向5方向生成缓速"小蜘蛛"\n<font size='20'>2.</font>降低敌人移动速度2秒\n<font color='#34FF7B'>丨伤害: 1.5 x 物理/魔法伤害(满爆率coe算)丨\n丨伤害2次,5秒冷却丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_yellow_nova_snare_t109_name=深陷符咒
+$prefabs_item_gem_large_yellow_nova_snare_t109_description=任意职业都可以使用的附魔天空宝石。受到伤害有几率生成一圈陷阱投射物，降低敌人的移动速度。只可同时嵌入一颗这种宝石。该宝石有冷却时间。
+$prefabs_item_gem_large_yellow_nova_snare_t110_name=深陷符咒
+$prefabs_item_gem_large_yellow_nova_snare_t110_description=任意职业都可以使用的附魔天空宝石。受到伤害有几率生成一圈陷阱投射物，降低敌人的移动速度。只可同时嵌入一颗这种宝石。该宝石有冷却时间。
+$prefabs_item_gem_large_yellow_nova_snare_t111_name=深陷符咒
+$prefabs_item_gem_large_yellow_nova_snare_t111_description=任意职业都可以使用的附魔天空宝石。\n\n<font size='20'>1.</font>受到伤害时有33%的概率向5方向生成缓速"小蜘蛛"\n<font size='20'>2.</font>降低敌人移动速度2秒\n<font color='#34FF7B'>丨伤害: 1.5 x 物理/魔法伤害(满爆率coe算)丨\n丨伤害2次,5秒冷却丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_yellow_basic_attack_dot_t109_name=刺痛诅咒
+$prefabs_item_gem_large_yellow_basic_attack_dot_t109_description=任意职业都可以使用的附魔天空宝石。\n\n<font size='20'>1.</font>造成伤害时，有 20%的概率对目标造成持续伤害\n<font size='20'>2.</font>持续伤害持续约4秒，每秒伤害2次\n<font size='20'>3.</font>持续伤害可以堆叠，堆叠的数量会增加伤害(上限不明)\n<font size='20'>4.</font>此伤害<font size='20'>无法造成暴击</font>\n<font color='#34FF7B'>丨伤害: 0.05 x 堆叠数 x 物理/魔法伤害丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_yellow_basic_attack_dot_t110_name=刺痛诅咒
+$prefabs_item_gem_large_yellow_basic_attack_dot_t110_description=任意职业都可以使用的附魔天空宝石。\n\n<font size='20'>1.</font>造成伤害时，有 20%的概率对目标造成持续伤害\n<font size='20'>2.</font>持续伤害持续约4秒，每秒伤害2次\n<font size='20'>3.</font>持续伤害可以堆叠，堆叠的数量会增加伤害(上限不明)\n<font size='20'>4.</font>此伤害<font size='20'>无法造成暴击</font>\n<font color='#34FF7B'>丨伤害: 0.05 x 堆叠数 x 物理/魔法伤害丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_yellow_basic_attack_dot_t111_name=刺痛诅咒
+$prefabs_item_gem_large_yellow_basic_attack_dot_t111_description=任意职业都可以使用的附魔天空宝石。\n\n<font size='20'>1.</font>造成伤害时，有 20%的概率对目标造成持续伤害\n<font size='20'>2.</font>持续伤害持续约4秒，每秒伤害2次\n<font size='20'>3.</font>持续伤害可以堆叠，堆叠的数量会增加伤害(上限不明)\n<font size='20'>4.</font>此伤害<font size='20'>无法造成暴击</font>\n<font color='#34FF7B'>丨伤害: 0.05 x 堆叠数 x 物理/魔法伤害丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_blue_nova_dot_t109_name=灵魂奔涌
+$prefabs_item_gem_large_blue_nova_dot_t109_description=任意职业都可以使用的附魔水蓝宝石。\n\n<font size='20'>1.</font>受到伤害时有20%的概率向5方向生成持续伤害和直击伤害的攻击球\n<font size='20'>2.</font>持续伤害的时间约5秒，每秒伤害2次\n<font size='20'>3.</font>持续伤害可以堆叠，堆叠的数量会增加伤害\n<font size='20'>4.</font>持续伤害<font size='20'>无法造成暴击</font>\n<font color='#34FF7B'>丨持续伤害: 0.025 x 堆叠数 x 最大生命丨\n丨直击伤害: 1.5 x 物理/魔法(4秒CD)丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_blue_nova_dot_t110_name=灵魂奔涌
+$prefabs_item_gem_large_blue_nova_dot_t110_description=任意职业都可以使用的附魔水蓝宝石。\n\n<font size='20'>1.</font>受到伤害时有20%的概率向5方向生成持续伤害和直击伤害的攻击球\n<font size='20'>2.</font>持续伤害的时间约5秒，每秒伤害2次\n<font size='20'>3.</font>持续伤害可以堆叠，堆叠的数量会增加伤害\n<font size='20'>4.</font>持续伤害<font size='20'>无法造成暴击</font>\n<font color='#34FF7B'>丨持续伤害: 0.025 x 堆叠数 x 最大生命丨\n丨直击伤害: 1.5 x 物理/魔法(4秒CD)丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_blue_nova_dot_t111_name=灵魂奔涌
+$prefabs_item_gem_large_blue_nova_dot_t111_description=任意职业都可以使用的附魔水蓝宝石。\n\n<font size='20'>1.</font>受到伤害时有20%的概率向5方向生成持续伤害和直击伤害的攻击球\n<font size='20'>2.</font>持续伤害的时间约5秒，每秒伤害2次\n<font size='20'>3.</font>持续伤害可以堆叠，堆叠的数量会增加伤害\n<font size='20'>4.</font>持续伤害<font size='20'>无法造成暴击</font>\n<font color='#34FF7B'>丨持续伤害: 0.025 x 堆叠数 x 最大生命丨\n丨直击伤害: 1.5 x 物理/魔法(4秒CD)丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_red_nova_dot_t109_name=灵魂奔涌
+$prefabs_item_gem_large_red_nova_dot_t109_description=任意职业都可以使用的附魔火焰宝石。受到伤害有几率生成一圈投射物，基于你的最大生命对敌人造成持续性伤害。只可同时嵌入一颗这种宝石。该宝石有冷却时间。
+$prefabs_item_gem_large_red_nova_dot_t110_name=灵魂奔涌
+$prefabs_item_gem_large_red_nova_dot_t110_description=任意职业都可以使用的附魔火焰宝石。受到伤害有几率生成一圈投射物，基于你的最大生命对敌人造成持续性伤害。只可同时嵌入一颗这种宝石。该宝石有冷却时间。
+$prefabs_item_gem_large_red_nova_dot_t111_name=灵魂奔涌
+$prefabs_item_gem_large_red_nova_dot_t111_description=任意职业都可以使用的附魔火焰宝石。\n\n<font size='20'>1.</font>受到伤害时有20%的概率向5方向生成持续伤害和直击伤害的攻击球\n<font size='20'>2.</font>持续伤害的时间约5秒，每秒伤害2次\n<font size='20'>3.</font>持续伤害可以堆叠，堆叠的数量会增加伤害\n<font size='20'>4.</font>持续伤害<font size='20'>无法造成暴击</font>\n<font color='#34FF7B'>丨持续伤害: 0.025 x 堆叠数 x 最大生命丨\n丨直击伤害: 1.5 x 物理/魔法(4秒CD)丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_yellow_nova_dot_t109_name=灵魂奔涌
+$prefabs_item_gem_large_yellow_nova_dot_t109_description=任意职业都可以使用的附魔天空宝石。受到伤害有几率生成一圈投射物，基于你的最大生命对敌人造成持续性伤害。只可同时嵌入一颗这种宝石。该宝石有冷却时间。
+$prefabs_item_gem_large_yellow_nova_dot_t110_name=灵魂奔涌
+$prefabs_item_gem_large_yellow_nova_dot_t110_description=任意职业都可以使用的附魔天空宝石。受到伤害有几率生成一圈投射物，基于你的最大生命对敌人造成持续性伤害。只可同时嵌入一颗这种宝石。该宝石有冷却时间。
+$prefabs_item_gem_large_yellow_nova_dot_t111_name=灵魂奔涌
+$prefabs_item_gem_large_yellow_nova_dot_t111_description=任意职业都可以使用的附魔天空宝石。\n\n<font size='20'>1.</font>受到伤害时有20%的概率向5方向生成持续伤害和直击伤害的攻击球\n<font size='20'>2.</font>持续伤害的时间约5秒，每秒伤害2次\n<font size='20'>3.</font>持续伤害可以堆叠，堆叠的数量会增加伤害\n<font size='20'>4.</font>持续伤害<font size='20'>无法造成暴击</font>\n<font color='#34FF7B'>丨持续伤害: 0.025 x 堆叠数 x 最大生命丨\n丨直击伤害: 1.5 x 物理/魔法(4秒CD)丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_yellow_solarion_swap_t110_name=棱镜链接
+$prefabs_item_gem_large_yellow_solarion_swap_t110_description=只有曜日射手可以使用的附魔天空宝石。\n\n棱镜爆炸[2技能] 现在会在凤凰和曜日射手周围脉冲，可以让曜日射手在攻击时保持距离，并在凤凰周围造成AOE伤害。\n\n丨只可同时嵌入一颗同类宝石丨
+$prefabs_item_gem_large_yellow_solarion_swap_t111_name=棱镜链接
+$prefabs_item_gem_large_yellow_solarion_swap_t111_description=只有曜日射手可以使用的附魔天空宝石。\n\n棱镜爆炸[2技能] 现在会在凤凰和曜日射手周围脉冲，可以让曜日射手在攻击时保持距离，并在凤凰周围造成AOE伤害。\n\n丨只可同时嵌入一颗同类宝石丨
+$prefabs_item_gem_large_opal_flower_power_spawner_t109_name=鲜花之力
+$prefabs_item_gem_large_opal_flower_power_spawner_t109_description=任意职业都可以使用的附魔宇宙宝石。\n\n<font size='20'>1.</font>受到伤害时有20%的概率创造出"炸裂花"\n<font size='20'>2.</font>"炸裂花"在敌人接近时，会每0.5秒减少自身的20%血。当血掉光，会造成爆炸并伤害附近的敌人，附近的方块也会被破坏\n<font size='20'>3.</font>"炸裂花"范围: 以花为中心，5x5平面 + 向上1格为6x6向上3格的立方体 - 四边的角落1x3柱子 + 再向上1格5x5的平面\n<font color='#34FF7B'>丨"炸裂花"生命值: 10000,稳定性: 9999丨\n丨伤害: 2.75 x 物理/魔法伤害(满爆率coe算)丨\n丨12秒冷却丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_opal_flower_power_spawner_t110_name=鲜花之力
+$prefabs_item_gem_large_opal_flower_power_spawner_t110_description=任意职业都可以使用的附魔宇宙宝石。\n\n<font size='20'>1.</font>受到伤害时有20%的概率创造出"炸裂花"\n<font size='20'>2.</font>"炸裂花"在敌人接近时，会每0.5秒减少自身的20%血。当血掉光，会造成爆炸并伤害附近的敌人，附近的方块也会被破坏\n<font size='20'>3.</font>"炸裂花"范围: 以花为中心，5x5平面 + 向上1格为6x6向上3格的立方体 - 四边的角落1x3柱子 + 再向上1格5x5的平面\n<font color='#34FF7B'>丨"炸裂花"生命值: 10000,稳定性: 9999丨\n丨伤害: 2.75 x 物理/魔法伤害(满爆率coe算)丨\n丨12秒冷却丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_opal_flower_power_spawner_t111_name=鲜花之力
+$prefabs_item_gem_large_opal_flower_power_spawner_t111_description=任意职业都可以使用的附魔宇宙宝石。\n\n<font size='20'>1.</font>受到伤害时有20%的概率创造出"炸裂花"\n<font size='20'>2.</font>"炸裂花"在敌人接近时，会每0.5秒减少自身的20%血。当血掉光，会造成爆炸并伤害附近的敌人，附近的方块也会被破坏\n<font size='20'>3.</font>"炸裂花"范围: 以花为中心，5x5平面 + 向上1格为6x6向上3格的立方体 - 四边的角落1x3柱子 + 再向上1格5x5的平面\n<font color='#34FF7B'>丨"炸裂花"生命值: 10000,稳定性: 9999丨\n丨伤害: 2.75 x 物理/魔法伤害(满爆率coe算)丨\n丨12秒冷却丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_opal_empyrean_barrier_spawner_t109_name=苍天屏障
+$prefabs_item_gem_large_opal_empyrean_barrier_spawner_t109_description=任意职业都可以使用的附魔宇宙宝石。\n\n<font size='20'>1.</font>每隔15秒获得减少10%伤害的护盾\n<font size='20'>2.</font>护盾已存在的情况下不会叠加\n<font size='20'>3.</font>总共受到25%的伤害的情况下护盾会被破坏，对周围造成伤害\n<font color='#34FF7B'>丨伤害: 0.25 x 最大生命丨\n丨护盾15秒循环丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_opal_empyrean_barrier_spawner_t110_name=苍天屏障
+$prefabs_item_gem_large_opal_empyrean_barrier_spawner_t110_description=任意职业都可以使用的附魔宇宙宝石。\n\n<font size='20'>1.</font>每隔15秒获得减少10%伤害的护盾\n<font size='20'>2.</font>护盾已存在的情况下不会叠加\n<font size='20'>3.</font>总共受到25%的伤害的情况下护盾会被破坏，对周围造成伤害\n<font color='#34FF7B'>丨伤害: 0.25 x 最大生命丨\n丨护盾15秒循环丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_opal_empyrean_barrier_spawner_t111_name=苍天屏障
+$prefabs_item_gem_large_opal_empyrean_barrier_spawner_t111_description=任意职业都可以使用的附魔宇宙宝石。\n\n<font size='20'>1.</font>每隔15秒获得减少10%伤害的护盾\n<font size='20'>2.</font>护盾已存在的情况下不会叠加\n<font size='20'>3.</font>总共受到25%的伤害的情况下护盾会被破坏，对周围造成伤害\n<font color='#34FF7B'>丨伤害: 0.25 x 最大生命丨\n丨护盾15秒循环丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_opal_battle_frenzy_t109_name=狂暴勇士
+$prefabs_item_gem_large_opal_battle_frenzy_t109_description=任意职业都可以使用的附魔宇宙宝石。\n\n<font size='20'>1.</font>对敌人造成伤害会获得狂乱状态<font color='#34FF7B'>攻击速度+15%,光明+250(持续3秒)</font>\n<font size='20'>2.</font>在狂乱状态下再击中10次目标的话，进入勇士状态<font color='#34FF7B'>攻击速度+25%,光明+500(持续2秒)</font>\n<font size='20'>3.</font>狂乱状态与勇士状态可叠加\n<font color='#34FF7B'>丨叠加加成: 攻击速度+40%，光+750丨\n丨宝石冷却时间为1秒丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_opal_battle_frenzy_t110_name=狂暴勇士
+$prefabs_item_gem_large_opal_battle_frenzy_t110_description=任意职业都可以使用的附魔宇宙宝石。\n\n<font size='20'>1.</font>对敌人造成伤害会获得狂乱状态<font color='#34FF7B'>攻击速度+15%,光明+250(持续3秒)</font>\n<font size='20'>2.</font>在狂乱状态下再击中10次目标的话，进入勇士状态<font color='#34FF7B'>攻击速度+25%,光明+500(持续2秒)</font>\n<font size='20'>3.</font>狂乱状态与勇士状态可叠加\n<font color='#34FF7B'>丨叠加加成: 攻击速度+40%，光+750丨\n丨宝石冷却时间为1秒丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_opal_battle_frenzy_t111_name=狂暴勇士
+$prefabs_item_gem_large_opal_battle_frenzy_t111_description=任意职业都可以使用的附魔宇宙宝石。\n\n<font size='20'>1.</font>对敌人造成伤害会获得狂乱状态<font color='#34FF7B'>攻击速度+15%,光明+250(持续3秒)</font>\n<font size='20'>2.</font>在狂乱状态下再击中10次目标的话，进入勇士状态<font color='#34FF7B'>攻击速度+25%,光明+500(持续2秒)</font>\n<font size='20'>3.</font>狂乱状态与勇士状态可叠加\n<font color='#34FF7B'>丨叠加加成: 攻击速度+40%，光+750丨\n丨宝石冷却时间为1秒丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_opal_vampiric_t109_name=吸血鬼征服者
+$prefabs_item_gem_large_opal_vampiric_t109_description=任意职业都可以使用的附魔宇宙宝石。\n\n<font size='20'>1.</font>暴击有65%的概率增加移动速度+20(持续5.5秒)\n<font size='20'>2.</font>在增加移动速度([激活被动])的状态下造成暴击有65%的概率会恢复造成伤害5%的生命\n<font size='20'>3.</font>在究极暗影塔的恢复额外增加501%(总共可以恢复506%所造成伤害的生命)\n<font color='#34FF7B'>丨宝石冷却时间为0.1秒丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_opal_vampiric_t110_name=吸血鬼征服者
+$prefabs_item_gem_large_opal_vampiric_t110_description=任意职业都可以使用的附魔宇宙宝石。\n\n<font size='20'>1.</font>暴击有65%的概率增加移动速度+20(持续5.5秒)\n<font size='20'>2.</font>在增加移动速度([激活被动])的状态下造成暴击有65%的概率会恢复造成伤害5%的生命\n<font size='20'>3.</font>在究极暗影塔的恢复额外增加501%(总共可以恢复506%所造成伤害的生命)\n<font color='#34FF7B'>丨宝石冷却时间为0.1秒丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_opal_vampiric_t111_name=吸血鬼征服者
+$prefabs_item_gem_large_opal_vampiric_t111_description=任意职业都可以使用的附魔宇宙宝石。\n\n<font size='20'>1.</font>暴击有65%的概率增加移动速度+20(持续5.5秒)\n<font size='20'>2.</font>在增加移动速度([激活被动])的状态下造成暴击有65%的概率会恢复造成伤害5%的生命\n<font size='20'>3.</font>在究极暗影塔的恢复额外增加501%(总共可以恢复506%所造成伤害的生命)\n<font color='#34FF7B'>丨宝石冷却时间为0.1秒丨</font>\n\n<font color='#34FF7B'>丨只可同时嵌入一颗同类宝石丨</font>
+$prefabs_item_gem_large_prismatic_mastery_t150_name=恢宏棱镜宝石
+$prefabs_item_gem_large_prismatic_mastery_t150_description=强化棱镜宝石：可镶嵌至任意强化宝石槽位，中心散发着柔和的七色光泽。

@@ -1,0 +1,4 @@
+$prefabs_item_unlocker_mysticism_mana_expansion_name=Mana Maximizer
+$prefabs_item_unlocker_mysticism_mana_expansion_description=Increases the maximum amount of Wild Trovian Mana you can carry by 100!
+$prefabs_item_unlocker_mysticism_mana_expansion_1000_name=MEGA Mana Maximizer
+$prefabs_item_unlocker_mysticism_mana_expansion_1000_description=Increases the maximum amount of Wild Trovian Mana you can carry by 1000!

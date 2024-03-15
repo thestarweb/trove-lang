@@ -1,0 +1,2 @@
+$Font_OverrideName=languages/zh/Default.ttf
+$Font_TextfieldOffset=4

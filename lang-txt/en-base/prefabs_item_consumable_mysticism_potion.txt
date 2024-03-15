@@ -1,0 +1,73 @@
+$prefabs_item_consumable_mysticism_potion_manatrack_biome_candy_name=POTION: Candorian Manahunter
+$prefabs_item_consumable_mysticism_potion_manatrack_biome_candy_description=Increases WILD TROVIAN MANA Harvest yield in CANDORIAN Adventure World Biomes for 4 hours. Additionally, enemies here will drop Wild Trovian Mana. \n\n<font color='#ffcf72'>You may only have ONE (1) POTION active at a time.\nMarketplace: Auto-Consume on Purchase (1)</font>
+$prefabs_item_consumable_mysticism_potion_manatrack_biome_dinosaur_name=POTION: Jungle Manahunter
+$prefabs_item_consumable_mysticism_potion_manatrack_biome_dinosaur_description=Increases WILD TROVIAN MANA Harvest yield in JURASSIC JUNGLE Adventure World Biomes for 4 hours. Additionally, enemies here will drop Wild Trovian Mana.\n\n<font color='#ffcf72'>You may only have ONE (1) POTION active at a time.\nMarketplace: Auto-Consume on Purchase (1).</font>
+$prefabs_item_consumable_mysticism_potion_manatrack_biome_dragon_name=POTION: Peaks Manahunter
+$prefabs_item_consumable_mysticism_potion_manatrack_biome_dragon_description=Increases WILD TROVIAN MANA Harvest yield in DRAGONFIRE PEAKS Adventure World Biomes for 4 hours. Additionally, enemies here will drop Wild Trovian Mana.\n\n<font color='#ffcf72'>You may only have ONE (1) POTION active at a time.\nMarketplace: Auto-Consume on Purchase (1).</font>
+$prefabs_item_consumable_mysticism_potion_manatrack_biome_fae_name=POTION: Fae Forest Manahunter
+$prefabs_item_consumable_mysticism_potion_manatrack_biome_fae_description=Increases WILD TROVIAN MANA Harvest yield in FAE FOREST Adventure World Biomes for 4 hours. Additionally, enemies here will drop Wild Trovian Mana.\n\n<font color='#ffcf72'>You may only have ONE (1) POTION active at a time.\nMarketplace: Auto-Consume on Purchase (1).</font>
+$prefabs_item_consumable_mysticism_potion_manatrack_biome_frontier_name=POTION: Desert Manahunter
+$prefabs_item_consumable_mysticism_potion_manatrack_biome_frontier_description=Increases WILD TROVIAN MANA Harvest yield in DESERT FRONTIER Adventure World Biomes for 4 hours. Additionally, enemies here will drop Wild Trovian Mana.\n\n<font color='#ffcf72'>You may only have ONE (1) POTION active at a time.\nMarketplace: Auto-Consume on Purchase (1).</font>
+$prefabs_item_consumable_mysticism_potion_manatrack_biome_giantlands_name=POTION: Sundered Manahunter
+$prefabs_item_consumable_mysticism_potion_manatrack_biome_giantlands_description=Increases WILD TROVIAN MANA Harvest yield in SUNDERED UPLANDS Adventure World Biomes  for 4 hours. Additionally, enemies here will drop Wild Trovian Mana.\n\n<font color='#ffcf72'>You may only have ONE (1) POTION active at a time.\nMarketplace: Auto-Consume on Purchase (1).</font>
+$prefabs_item_consumable_mysticism_potion_manatrack_biome_highlands_name=POTION: Highlands Manahunter
+$prefabs_item_consumable_mysticism_potion_manatrack_biome_highlands_description=Increases WILD TROVIAN MANA Harvest yield in MEDIEVAL HIGHLANDS Adventure World Biomes for 4 hours. Additionally, enemies here will drop Wild Trovian Mana.\n\n<font color='#ffcf72'>You may only have ONE (1) POTION active at a time.\nMarketplace: Auto-Consume on Purchase (1).</font>
+$prefabs_item_consumable_mysticism_potion_manatrack_biome_neon_name=POTION: Neon Manahunter
+$prefabs_item_consumable_mysticism_potion_manatrack_biome_neon_description=Increases WILD TROVIAN MANA Harvest yield in NEON CITY Adventure World Biomes for 4 hours. Additionally, enemies here will drop Wild Trovian Mana.\n\n<font color='#ffcf72'>You may only have ONE (1) POTION active at a time.\nMarketplace: Auto-Consume on Purchase (1).</font>
+$prefabs_item_consumable_mysticism_potion_manatrack_biome_spires_name=POTION: Spires Manahunter
+$prefabs_item_consumable_mysticism_potion_manatrack_biome_spires_description=Increases WILD TROVIAN MANA Harvest yield in FORBIDDEN SPIRES Adventure World Biomes for 4 hours. Additionally, enemies here will drop Wild Trovian Mana.\n\n<font color='#ffcf72'>You may only have ONE (1) POTION active at a time.\nMarketplace: Auto-Consume on Purchase (1).</font>
+$prefabs_item_consumable_mysticism_potion_manatrack_biome_tundra_name=POTION: Permafrost Manahunter
+$prefabs_item_consumable_mysticism_potion_manatrack_biome_tundra_description=Increases WILD TROVIAN MANA Harvest yield in PERMAFROST Adventure World Biomes for 4 hours. Additionally, enemies here will drop Wild Trovian Mana.\n\n<font color='#ffcf72'>You may only have ONE (1) POTION active at a time.\nMarketplace: Auto-Consume on Purchase (1).</font>
+$prefabs_item_consumable_mysticism_potion_manatrack_biome_undead_name=POTION: Cursed Vale Manahunter
+$prefabs_item_consumable_mysticism_potion_manatrack_biome_undead_description=Increases WILD TROVIAN MANA Harvest yield in CURSED VALE Adventure World Biomes for 4 hours. Additionally, enemies here will drop Wild Trovian Mana.\n\n<font color='#ffcf72'>You may only have ONE (1) POTION active at a time.\nMarketplace: Auto-Consume on Purchase (1).</font>
+$prefabs_item_consumable_mysticism_potion_mana_attuned_giantlands_learn_name=Unlock: 'POTION: Sundered Manahunter'
+$prefabs_item_consumable_mysticism_potion_mana_attuned_candy_learn_name=Unlock: 'POTION: Candorian Manahunter'
+$prefabs_item_consumable_mysticism_potion_mana_attuned_dinosaur_learn_name=Unlock: 'POTION: Jungle Manahunter'
+$prefabs_item_consumable_mysticism_potion_mana_attuned_dragon_learn_name=Unlock: 'POTION: Peaks Manahunter'
+$prefabs_item_consumable_mysticism_potion_mana_attuned_fae_learn_name=Unlock: 'POTION: Forest Manahunter'
+$prefabs_item_consumable_mysticism_potion_mana_attuned_frontier_learn_name=Unlock: 'POTION: Desert Manahunter'
+$prefabs_item_consumable_mysticism_potion_mana_attuned_highlands_learn_name=Unlock: 'POTION: Highlands Manahunter'
+$prefabs_item_consumable_mysticism_potion_mana_attuned_neon_learn_name=Unlock: 'POTION: Neon City Manahunter'
+$prefabs_item_consumable_mysticism_potion_mana_attuned_spires_learn_name=Unlock: 'POTION: Spires Manahunter'
+$prefabs_item_consumable_mysticism_potion_mana_attuned_tundra_learn_name=Unlock: 'POTION: Permafrost Manahunter'
+$prefabs_item_consumable_mysticism_potion_mana_attuned_undead_learn_name=Unlock: 'POTION: Cursed Vale Manahunter'
+$prefabs_item_consumable_mysticism_potion_waterwalk_name=POTION: Waterwalker
+$prefabs_item_consumable_mysticism_potion_waterwalk_description=Transforms water beneath your feet into walkable ground for 4 hours\n\n<font color='#ffcf72'>You may only have ONE (1) POTION active at a time.\nMarketplace: Auto-Consume on Purchase (1).</font>
+$prefabs_item_consumable_mysticism_potion_firewalk_name=POTION: Firewalker
+$prefabs_item_consumable_mysticism_potion_firewalk_description=Transforms lava beneath your feet into walkable ground for 4 hours\n\n<font color='#ffcf72'>You may only have ONE (1) POTION active at a time.\nMarketplace: Auto-Consume on Purchase (1).</font>
+$prefabs_item_consumable_mysticism_potion_stability_name=POTION: Stability++
+$prefabs_item_consumable_mysticism_potion_stability_description=Increases Stability by 500 and 5% for 4 hours\n\n<font color='#ffcf72'>You may only have ONE (1) POTION active at a time.\nMarketplace: Auto-Consume on Purchase (1).</font>
+$prefabs_item_consumable_mysticism_potion_slowfall_name=POTION: Vampire's Grace
+$prefabs_item_consumable_mysticism_potion_slowfall_description=Grants a short duration SLOWFALL when JUMPING in ADVENTURE WORLDS, DELVES, and the HUB\n\n<font color='#ffcf72'>You may only have ONE (1) POTION active at a time.\nMarketplace: Auto-Consume on Purchase (1).</font>
+$prefabs_item_consumable_mysticism_potion_phys_damage_name=POTION: Strength of Beasts
+$prefabs_item_consumable_mysticism_potion_phys_damage_description=Increases Physical Damage by 1% for 4 hours\n\n<font color='#ffcf72'>You may only have ONE (1) POTION active at a time.\nMarketplace: Auto-Consume on Purchase (1).</font>
+$prefabs_item_consumable_mysticism_potion_npc_highlight_name=POTION: Aura-Vision
+$prefabs_item_consumable_mysticism_potion_npc_highlight_description=Periodically reveals nearby NPCs through walls for 4 hours\n\n<font color='#ffcf72'>You may only have ONE (1) POTION active at a time.\nMarketplace: Auto-Consume on Purchase (1).</font>
+$prefabs_item_consumable_mysticism_potion_jump_name=POTION: Jump++
+$prefabs_item_consumable_mysticism_potion_jump_description=Increases Jump by 10 and 5% for 4 hours\n\n<font color='#ffcf72'>You may only have ONE (1) POTION active at a time.\nMarketplace: Auto-Consume on Purchase (1).</font>
+$prefabs_item_consumable_mysticism_potion_ice_noslip_name=POTION: Icebound
+$prefabs_item_consumable_mysticism_potion_ice_noslip_description=Prevents SLIPPING when on ICE for 4 hours\n\n<font color='#ffcf72'>You may only have ONE (1) POTION active at a time.\nMarketplace: Auto-Consume on Purchase (1).</font>
+$prefabs_item_consumable_mysticism_potion_healthregeneration_name=POTION: Regeneration
+$prefabs_item_consumable_mysticism_potion_healthregeneration_description=Increases HEALTH REGENERATION by 10,000 and 5% for 4 hours\n\n<font color='#ffcf72'>You may only have ONE (1) POTION active at a time.\nMarketplace: Auto-Consume on Purchase (1).</font>
+$prefabs_item_consumable_mysticism_potion_flask_capacity_name=POTION: Flask Capacity
+$prefabs_item_consumable_mysticism_potion_flask_capacity_description=Increases Maximum Flasks by 3 for 4 hours\n\n<font color='#ffcf72'>You may only have ONE (1) POTION active at a time.\nMarketplace: Auto-Consume on Purchase (1).</font>
+$prefabs_item_consumable_mysticism_potion_magic_damage_name=POTION: Keen Mind
+$prefabs_item_consumable_mysticism_potion_magic_damage_description=Increases Magic Damage by 1% for 4 hours\n\n<font color='#ffcf72'>You may only have ONE (1) POTION active at a time.\nMarketplace: Auto-Consume on Purchase (1).</font>
+$prefabs_item_consumable_mysticism_potion_chocolate_heal_name=POTION: Chocolate Affinity
+$prefabs_item_consumable_mysticism_potion_chocolate_heal_description=Blocks SLOW and increases HEALTH REGENERATION by 5,000 when in CHOCOLATE for 4 hours\n\n<font color='#ffcf72'>You may only have ONE (1) POTION active at a time.\nMarketplace: Auto-Consume on Purchase (1).</font>
+$prefabs_item_consumable_mysticism_potion_flask_capacity_learn_name=Unlock: 'POTION: Flask Capacity'
+$prefabs_item_consumable_mysticism_potion_chocolate_heal_learn_name=Unlock: 'POTION: Chocolate Affinity'
+$prefabs_item_consumable_mysticism_potion_gl_flight_name=POTION: Freedom of Flight
+$prefabs_item_consumable_mysticism_potion_gl_flight_description=Allows unrestricted flight within the Sundered Uplands for 4 hours.\n\n<font color='#ffcf72'>You may only have ONE (1) POTION active at a time.\nMarketplace: Auto-Consume on Purchase (1).</font>
+$prefabs_item_consumable_mysticism_potion_gl_flight_effect_description=Allows unrestricted flight within the Sundered Uplands
+$prefabs_item_consumable_mysticism_potion_gl_flight_learn_name=Unlock: 'POTION: Freedom of Flight'
+$prefabs_item_consumable_mysticism_potion_firewalk_learn_name=Unlock: 'POTION: Firewalker'
+$prefabs_item_consumable_mysticism_potion_healthregeneration_learn_name=Unlock: 'POTION: Regeneration'
+$prefabs_item_consumable_mysticism_potion_ice_noslip_learn_name=Unlock: 'POTION: Icebound'
+$prefabs_item_consumable_mysticism_potion_jump_learn_name=Unlock: 'POTION: Jump++'
+$prefabs_item_consumable_mysticism_potion_magic_damage_learn_name=Unlock: 'POTION: Keen Mind'
+$prefabs_item_consumable_mysticism_potion_npc_highlight_learn_name=Unlock: 'POTION: Aura-Vision'
+$prefabs_item_consumable_mysticism_potion_phys_damage_learn_name=Unlock: 'POTION: Strength of Beasts'
+$prefabs_item_consumable_mysticism_potion_slowfall_learn_name=Unlock: 'POTION: Vampire's Grace'
+$prefabs_item_consumable_mysticism_potion_stability_learn_name=Unlock: 'POTION: Stability++'
+$prefabs_item_consumable_mysticism_potion_waterwalk_learn_name=Unlock: 'POTION: Waterwalker'

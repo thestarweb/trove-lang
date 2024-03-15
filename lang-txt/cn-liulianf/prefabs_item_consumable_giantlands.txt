@@ -1,9 +1,9 @@
 $prefabs_item_consumable_giantlands_scroll_flightrestritions_bronze_name=卷轴: 自由飞翔 (青铜)
 $prefabs_item_consumable_giantlands_scroll_flightrestritions_bronze_description=允许玩家在断裂高地不受限制的飞行。\n期限: 1小时，在线或离线\n必须在断裂高地使用\n\n由断裂高地的真菌卷轴小贩出售
-$prefabs_item_consumable_giantlands_scroll_flightrestritions_gold_name=卷轴: 自由飞翔 (黄金)
-$prefabs_item_consumable_giantlands_scroll_flightrestritions_gold_description=允许玩家在断裂高地不受限制的飞行。\n期限: 3天，在线或离线\n必须在断裂高地使用\n\n由断裂高地的真菌卷轴小贩出售
-$prefabs_item_consumable_giantlands_scroll_flightrestritions_obsidian_name=卷轴: 自由飞翔 (黑曜石)
-$prefabs_item_consumable_giantlands_scroll_flightrestritions_obsidian_description=允许玩家在断裂高地不受限制的飞行。\n期限: 1周，在线或离线\n必须在断裂高地使用\n\n在断裂高地工作台制作
+$prefabs_item_consumable_giantlands_scroll_flightrestritions_gold_name=卷轴：效果：自由飞翔 (黄金)
+$prefabs_item_consumable_giantlands_scroll_flightrestritions_gold_description=允许玩家在断裂高地不受限制的飞行。\n期限: 3天，在线或离线\n必须在断裂高地使用\n移除所有已激活的秘术效果\n\n由断裂高地的真菌卷轴小贩出售
+$prefabs_item_consumable_giantlands_scroll_flightrestritions_obsidian_name=卷轴：效果：自由飞翔 (黑曜石)
+$prefabs_item_consumable_giantlands_scroll_flightrestritions_obsidian_description=允许玩家在断裂高地不受限制的飞行。\n期限: 1周，在线或离线\n必须在断裂高地使用\n移除所有已激活的秘术效果\n\n在断裂高地工作台制作
 $prefabs_item_consumable_giantlands_scroll_flightrestritions_silver_name=卷轴: 自由飞翔 (白银)
 $prefabs_item_consumable_giantlands_scroll_flightrestritions_silver_description=允许玩家在断裂高地不受限制的飞行。\n期限: 1天，在线或离线\n必须在断裂高地使用\n\n由断裂高地的真菌卷轴小贩出售
 $prefabs_item_consumable_giantlands_scroll_mod_incdmg_bronze_name=卷轴: 防御++ (青铜)

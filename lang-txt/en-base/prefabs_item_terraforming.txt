@@ -100,3 +100,7 @@ $prefabs_item_terraforming_undead_tombs_in_faewilds_item_name=Undead Tombs Terra
 $prefabs_item_terraforming_undead_tombs_in_faewilds_item_desc=Terraform a zone into Undead Tombs found in the Fae Wilds.\n\n<font color='#ff3030'>Warning:</font> This will destroy everything in that zone, as well as the borders of adjacent zones.
 $prefabs_item_terraforming_giantlands_item_name=Sundered Uplands Terraformer
 $prefabs_item_terraforming_giantlands_item_description=Terraform a zone into Sundered Uplands.\n\n<font color='#ff3030'>Warning:</font> This will destroy everything in that zone, as well as the borders of adjacent zones.
+$prefabs_item_terraforming_tundra_tombs_name=Frozen Vaults Terraformer
+$prefabs_item_terraforming_tundra_tombs_item_desc=Terraform a zone into the Frozen Vaults.\n\n<font color='#ff3030'>Warning:</font> This will destroy everything in that zone, as well as the borders of adjacent zones.
+$prefabs_item_terraforming_dragon_tombs_name=Smoldering Vaults Terraformer
+$prefabs_item_terraforming_dragon_tombs_item_desc=Terraform a zone into the Smoldering Vaults.\n\n<font color='#ff3030'>Warning:</font> This will destroy everything in that zone, as well as the borders of adjacent zones.

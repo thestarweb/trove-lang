@@ -13,7 +13,9 @@
   "scripts": {
     "build:mix": "node ./helper/build-star-mix.js",
     "load:en": "node ./helper/load-en.js",
-    "load:cn": "node ./helper/load-llf-cn.js"
+    "load:cn": "npm run load:cn-base&&load:cn-llf",
+    "load:cn-base": "node ./helper/load-cn.js",
+    "load:cn-llf": "node ./helper/load-llf-cn.js"
   },
   "author": "",
   "license": "ISC"

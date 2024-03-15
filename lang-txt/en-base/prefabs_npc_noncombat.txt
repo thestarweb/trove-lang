@@ -1,0 +1,3 @@
+$prefabs_npc_noncombat_merchant_pentapod_catastrophe_name=Fiona Catastra
+$prefabs_npc_noncombat_merchant_pentapod_catastrophe_sign_title=Fiona Catastra
+$prefabs_npc_noncombat_merchant_pentapod_catastrophe_sign_content=Purveyor and reaper of the finest goods for this life and the next!\n[HK:Loot] to see her wares.

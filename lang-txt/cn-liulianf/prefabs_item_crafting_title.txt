@@ -1,0 +1,14 @@
+$prefabs_item_crafting_title_dragon_basic_name=稀释龙之精华
+$prefabs_item_crafting_title_dragon_basic_description=可在龙台制作当前季节的龙之精华\n\n通过分解发芽龙之精华、灼热龙之精华、燃烧龙之精华、冰川龙之精华获得，或使用龙币从龙台旁边的 龙族拜访者 购买。
+$prefabs_item_crafting_title_dragon_fall_name=燃烧龙之精华
+$prefabs_item_crafting_title_dragon_fall_description=可用于在龙台上获取临时的秋季巨龙称号。\n\n称号可以从角色属性菜单 [HK:CharacterSheet] 中进入称号选择菜单选择你喜欢的称号。\n\n从大型龙箱有很少几率获取。
+$prefabs_item_crafting_title_dragon_spring_name=发芽龙之精华
+$prefabs_item_crafting_title_dragon_spring_description=可用于在龙台上获取临时的春季巨龙称号。\n\n称号可以从角色属性菜单 [HK:CharacterSheet] 中进入称号选择菜单选择你喜欢的称号。\n\n从大型龙箱有很少几率获取。
+$prefabs_item_crafting_title_dragon_summer_name=灼热龙之精华
+$prefabs_item_crafting_title_dragon_summer_description=可用于在龙台上获取临时的夏季巨龙称号。\n\n称号可以从角色属性菜单 [HK:CharacterSheet] 中进入称号选择菜单选择你喜欢的称号。\n\n从大型龙箱有很少几率获取。
+$prefabs_item_crafting_title_dragon_winter_name=冰川龙之精华
+$prefabs_item_crafting_title_dragon_winter_description=可用于在龙台上获取临时的冬季巨龙称号。\n\n称号可以从角色属性菜单 [HK:CharacterSheet] 中进入称号选择菜单选择你喜欢的称号。\n\n从大型龙箱有很少几率获取。
+$prefabs_item_crafting_title_title_stamp_name=寻日者官方印章
+$prefabs_item_crafting_title_title_stamp_description=寻日者官方正式文件所用到的印章！\n\n\n嵌入的微型实验手柄几乎可以将任何东西变成适合签名的墨水！\n\n\n注意：寻日者官方印章在制作完成后会自动返回背包。只需一个即可！
+$prefabs_item_crafting_title_title_authorization_name=称号授权表
+$prefabs_item_crafting_title_title_authorization_description=每一份都由一位寻日者官方人员提前签署！有些人很有名！

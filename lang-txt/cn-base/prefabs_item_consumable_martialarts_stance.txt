@@ -1,0 +1,14 @@
+$prefabs_item_consumable_martialarts_stance_chargeshot_criticalhit_name=姿态：神射手
+$prefabs_item_consumable_martialarts_stance_chargeshot_criticalhit_description=使用后，暴击提高5%，效果持续5分钟（只要自动使用槽位中还有一个神射手）。\n\n装备在自动使用槽位后，蓄力射击技能（驯龙师和枪械师）持续超过7秒时自动使用。
+$prefabs_item_consumable_martialarts_stance_meleeswing_vacuum_name=姿态：重力挥击
+$prefabs_item_consumable_martialarts_stance_meleeswing_vacuum_description=使用后，将附近敌方拉至身边。\n\n装备在自动使用槽位后，发动挥击技能（吟游诗人、爆破游侠、糖果野蛮人、骑士、银月枪兵、霓虹忍者、无头骑士和先锋卫士）时自动使用。\n冷却时间：60秒
+$prefabs_item_consumable_martialarts_stance_run_jump_name=姿态：奔跑动量传递
+$prefabs_item_consumable_martialarts_stance_run_jump_description=使用后，1次跳跃的跳跃高度提高75%。\n\n装备在自动使用槽位后，在向前奔跑5秒后跳跃时自动使用。\n冷却时间：30秒
+$prefabs_item_consumable_martialarts_stance_shoot_combatevent_explosion_name=姿态：爆炸射弹
+$prefabs_item_consumable_martialarts_stance_shoot_combatevent_explosion_description=使用后，射弹命中敌方时立即引爆，效果持续15秒。\n\n装备在自动使用槽位后，射击技能（爆破游侠、碧叶使者、驯龙师、妖精诡术师、枪械师、寒冰贤者、海洋探索者、暗影猎手、曜日射手和先锋卫士）持续超过5秒时自动使用。\n冷却时间：120秒
+$prefabs_item_consumable_martialarts_stance_shoot_jumpblock_name=姿态：弹簧陷阱
+$prefabs_item_consumable_martialarts_stance_shoot_jumpblock_description=使用后，四周出现发射器，便于迅速逃离所在位置。\n\n装备在自动使用槽位后，发动射击技能（爆破游侠、碧叶使者、驯龙师、妖精诡术师、枪械师、寒冰贤者、海洋探索者、暗影猎手、曜日射手和先锋卫士）时自动使用。\n冷却时间：60秒
+$prefabs_item_consumable_martialarts_stance_meleeunarmed_robotaoe_name=姿态：霓虹重拳
+$prefabs_item_consumable_martialarts_stance_meleeunarmed_robotaoe_description=使用后，将附近敌方机器人拉至身边。\n\n装备在自动使用槽位后，发动上勾拳技能（先锋卫士）时自动使用。\n冷却时间：90秒
+$prefabs_item_consumable_martialarts_stance_meleeswing_robotaoe_name=姿态：霓虹挥击
+$prefabs_item_consumable_martialarts_stance_meleeswing_robotaoe_description=使用后，将附近敌方机器人拉至身边。\n\n装备在自动使用槽位后，发动挥击技能（吟游诗人、爆破游侠、糖果野蛮人、骑士、银月枪兵、霓虹忍者、无头骑士和先锋卫士）时自动使用。\n冷却时间：90秒

@@ -1,0 +1,12 @@
+$prefabs_item_egg_gold_name=黄金伙伴蛋
+$prefabs_item_egg_gold_description=孵化成8种稀有伙伴之一。
+$prefabs_item_egg_silver_name=白银伙伴蛋
+$prefabs_item_egg_silver_description=孵化成16种稀有或罕见伙伴之一。
+$prefabs_item_egg_bronze_name=青铜伙伴蛋
+$prefabs_item_egg_bronze_description=有几率孵化成24种普通、罕见或稀有伙伴之一。
+$prefabs_item_egg_silver_influence_name=希望白银伙伴蛋
+$prefabs_item_egg_silver_influence_description=孵化成16种稀有或罕见伙伴之一。受到矿脉之星之后可确保孵化出一只稀有伙伴。
+$prefabs_item_egg_bronze_influence_name=希望青铜伙伴蛋
+$prefabs_item_egg_bronze_influence_description=孵化成24种普通，罕见或稀有伙伴之一。受到矿脉之星之后可确保孵化出一只稀有或罕见伙伴。
+$prefabs_item_egg_tutorial_name=吼罗格蛋
+$prefabs_item_egg_tutorial_description=寻日者盖布罗托付给你的物品，能孵化成一只普通的吼罗格。

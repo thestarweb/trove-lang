@@ -1,0 +1,13 @@
+$prefabs_npc_hub_merchant_mysticism_name=Mystenta Cull, Mystic Merchant
+$prefabs_npc_hub_merchant_mysticism_sign_content=Press [HK:Loot] browse items used for the MYSTIC ARTS!
+$prefabs_npc_hub_merchant_martialarts_sign_title=Disciple Daniel
+$prefabs_npc_hub_merchant_martialarts_sign_content=Press [HK:Loot] to make a purchase & help fund the Neon Punch Club!
+$prefabs_npc_hub_martialarts_master_sign_title=Master Pun-chi
+$prefabs_npc_hub_martialarts_master_sign_desc=''...''\nPress [HK:Loot] to interact.
+$prefabs_npc_hub_merchant_mysticism_deco_1_name=Helper Twobsly
+$prefabs_npc_hub_merchant_mysticism_deco_2_name=Helper Threebsly
+$prefabs_npc_hub_merchant_mysticism_deco_3_name=Helper Fourbsly
+$prefabs_npc_hub_merchant_mysticism_deco_sign_content=Placeable Decorations for sale [HK:Loot]!
+$prefabs_npc_hub_merchant_martialarts_deco_1_name=Helpful Grasshopper
+$prefabs_npc_hub_merchant_martialarts_deco_2_name=Another Helpful Grasshopper
+$prefabs_npc_hub_merchant_martialarts_deco_sign_content=Placeable Decorations for sale [HK:Loot]! Fund the Neon Punch Club!

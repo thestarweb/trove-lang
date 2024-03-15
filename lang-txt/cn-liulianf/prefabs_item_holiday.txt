@@ -17,7 +17,7 @@ $prefabs_item_holiday_pumpkin_thrown_item_description=让朋友害怕，让敌�
 $prefabs_item_holiday_hellbug_summon_item_name=去年的腊肉
 $prefabs_item_holiday_hellbug_summon_item_description=这种美味的腊肉可用来吸引友好的小地狱虫跟随你10分钟。\n\n这些腊肉会在地狱虫的爱情2020结束后不久消失
 $prefabs_item_holiday_hellbug_heckychow_summon_item_name=袋装地狱杂烩
-$prefabs_item_holiday_hellbug_heckychow_summon_item_description=这袋美味的地狱杂烩可用来吸引友好的小地狱虫跟随你10分钟。\n\n<font color='#ff3030'>注意:</font> 在地狱虫的爱情活动结束后从你背包中消失.
+$prefabs_item_holiday_hellbug_heckychow_summon_item_description=这袋美味的地狱杂烩可用来吸引友好的小地狱虫跟随你10分钟。
 $prefabs_item_holiday_sunfest_summon_goldenvale_item_name=卡瑞斯家族徽章
 $prefabs_item_holiday_sunfest_summon_goldenvale_item_description=授权其持有者在显示时代表卡瑞斯收集卡瑞斯印记。\n\n激活后可获得5移动速度，并召唤一位朋友跟随你，直到你切换世界。\n\n此徽章将在太阳庆典结束后消失
 $prefabs_item_holiday_sunfest_summon_pinata_item_name=皮纳塔家族徽章

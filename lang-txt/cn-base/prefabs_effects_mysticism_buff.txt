@@ -1,0 +1,49 @@
+$prefabs_effects_mysticism_buff_mana_npcdeath_giantlands_description=击败来自断裂高地生态地形的敌方单位后，可收集万能寻宝魔力。提高断裂高地的万能寻宝魔力产量。
+$prefabs_effects_mysticism_buff_mana_npcdeath_candy_description=击败来自糖果国度生态地形的敌方单位后，可收集万能寻宝魔力。提高糖果国度的万能寻宝魔力产量。
+$prefabs_effects_mysticism_buff_mana_npcdeath_dinosaur_description=击败来自侏罗纪丛林生态地形的敌方单位后，可收集万能寻宝魔力。提高侏罗纪丛林的万能寻宝魔力产量。
+$prefabs_effects_mysticism_buff_mana_npcdeath_dragon_description=击败来自龙火山峰生态地形的敌方单位后，可收集万能寻宝魔力。提高龙火山峰的万能寻宝魔力产量。
+$prefabs_effects_mysticism_buff_mana_npcdeath_fae_description=击败来自妖精森林生态地形的敌方单位后，可收集万能寻宝魔力。提高妖精森林的万能寻宝魔力产量。
+$prefabs_effects_mysticism_buff_mana_npcdeath_frontier_description=击败来自沙漠边境生态地形的敌方单位后，可收集万能寻宝魔力。提高沙漠边境的万能寻宝魔力产量。
+$prefabs_effects_mysticism_buff_mana_npcdeath_highlands_description=击败来自中世纪高原生态地形的敌方单位后，可收集万能寻宝魔力。提高中世纪高原的万能寻宝魔力产量。
+$prefabs_effects_mysticism_buff_mana_npcdeath_neon_description=击败来自霓虹城生态地形的敌方单位后，可收集万能寻宝魔力。提高霓虹城的万能寻宝魔力产量。
+$prefabs_effects_mysticism_buff_mana_npcdeath_spires_description=击败来自蓬丘仙境生态地形的敌方单位后，可收集万能寻宝魔力。提高蓬丘仙境的万能寻宝魔力产量。
+$prefabs_effects_mysticism_buff_mana_npcdeath_tundra_description=击败来自永冻界生态地形的敌方单位后，可收集万能寻宝魔力。提高永冻界的万能寻宝魔力产量。
+$prefabs_effects_mysticism_buff_mana_npcdeath_undead_description=击败来自诅咒峡谷生态地形的敌方单位后，可收集万能寻宝魔力。提高诅咒峡谷的万能寻宝魔力产量。
+$prefabs_effects_mysticism_buff_mana_npcdeath_all_description=击败敌方后获得万能寻宝魔力。提高万能寻宝魔力产量。
+$prefabs_effects_mysticism_buff_jump_10_name=增益：跳跃++
+$prefabs_effects_mysticism_buff_jump_10_description=跳跃提高10后再提高5%，效果持续至第二天开始前。\n\n<font color='#ffcf72'>每次仅可激活一(1)个增益效果。</font>
+$prefabs_effects_mysticism_buff_jump_10_effect_description=跳跃提高10后再提高5%
+$prefabs_effects_mysticism_buff_stability_name=增益：稳定性++
+$prefabs_effects_mysticism_buff_stability_description=稳定性提高500后再提高5%，效果持续至第二天开始前。\n\n<font color='#ffcf72'>每次仅可激活一(1)个增益效果。</font>
+$prefabs_effects_mysticism_buff_stability_effect_description=稳定性提高500后再提高5%
+$prefabs_effects_mysticism_buff_chocolate_heal_name=增益：巧克力亲和
+$prefabs_effects_mysticism_buff_chocolate_heal_description=在巧克力环境中，免疫减速效果，同时生命回复量提高5000，效果持续至第二天开始前。\n\n<font color='#ffcf72'>每次仅可激活一(1)个增益效果。</font>
+$prefabs_effects_mysticism_buff_chocolate_heal_effect_description=在巧克力中，免疫减速效果且生命值回复量提高5000
+$prefabs_effects_mysticism_buff_slowfall_name=增益：血族之仪
+$prefabs_effects_mysticism_buff_slowfall_description=在冒险世界、秘境和主城中暂时获得降落减缓的效果，效果持续至第二天开始前。\n\n<font color='#ffcf72'>每次仅可激活一(1)个增益效果。</font>
+$prefabs_effects_mysticism_buff_slowfall_jumpeventeffectspawner_effect_description=在冒险世界、秘境和主城内跳跃时获得缓慢降落的效果，持续时间较短
+$prefabs_effects_mysticism_buff_slowfall_effect_description=缓慢降落。闪躲即可中断该效果。
+$prefabs_effects_mysticism_buff_phys_damage_name=增益：野兽之力
+$prefabs_effects_mysticism_buff_phys_damage_description=物理伤害提高1.0%，效果持续至第二天开始前。\n\n<font color='#ffcf72'>每次仅可激活一(1)个增益效果。</font>
+$prefabs_effects_mysticism_buff_phys_damage_effect_description=增加 1% 物理伤害。
+$prefabs_effects_mysticism_buff_npc_highlight_name=增益：灵视
+$prefabs_effects_mysticism_buff_npc_highlight_description=定期隔墙显露附近NPC的行踪，效果持续至第二天开始前。\n\n<font color='#ffcf72'>每次仅可激活一(1)个增益效果。</font>
+$prefabs_effects_mysticism_buff_npc_highlight_effect_description=定期隔墙显露附近NPC的行踪
+$prefabs_effects_mysticism_buff_magic_damage_name=增益：思维敏捷
+$prefabs_effects_mysticism_buff_magic_damage_description=魔法伤害提高1.0%，效果持续至第二天开始前。\n\n<font color='#ffcf72'>每次仅可激活一(1)个增益效果。</font>
+$prefabs_effects_mysticism_buff_magic_damage_effect_description=增加 1% 魔法伤害。
+$prefabs_effects_mysticism_buff_ice_noslip_name=增益：冰封
+$prefabs_effects_mysticism_buff_ice_noslip_description=防止在冰面上行动时打滑，效果持续至第二天开始前。\n\n<font color='#ffcf72'>每次仅可激活一(1)个增益效果。</font>
+$prefabs_effects_mysticism_buff_ice_noslip_effect_description=防止在冰面上行动时打滑
+$prefabs_effects_mysticism_buff_healthregeneration_name=增益：再生
+$prefabs_effects_mysticism_buff_healthregeneration_description=生命回复量提高5000后再提高5%，效果持续至第二天开始前。\n\n<font color='#ffcf72'>每次仅可激活一(1)个增益效果。</font>
+$prefabs_effects_mysticism_buff_healthregeneration_effect_description=生命回复提高5000后再提高5%
+$prefabs_effects_mysticism_buff_flask_capacity_name=增益：药瓶携带量
+$prefabs_effects_mysticism_buff_flask_capacity_description=药瓶携带上限增加3，效果持续至第二天开始前。\n\n<font color='#ffcf72'>每次仅可激活一(1)个增益效果。</font>
+$prefabs_effects_mysticism_buff_flask_capacity_effect_description=药瓶携带上限增加3
+$prefabs_effects_mysticism_buff_waterwalk_name=增益：水行者
+$prefabs_effects_mysticism_buff_waterwalk_description=将水面转化为可行走的地面，效果持续至第二天开始前。\n\n<font color='#ffcf72'>每次仅可激活一(1)个增益效果。</font>
+$prefabs_effects_mysticism_buff_waterwalk_effect_description=将水面转化为可行走的地面
+$prefabs_effects_mysticism_buff_firewalk_name=增益：火行者
+$prefabs_effects_mysticism_buff_firewalk_description=将岩浆转化为可行走的地面，效果持续至第二天开始前。\n\n<font color='#ffcf72'>每次仅可激活一(1)个增益效果。</font>
+$prefabs_effects_mysticism_buff_firewalk_effect_description=将岩浆转化为可行走的地面

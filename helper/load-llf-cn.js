@@ -10,7 +10,9 @@ const common_1 = require("./common");
 const path_1 = __importDefault(require("path"));
 function getFileID(modid) {
     return new Promise(async (resolve, reject) => {
-        https_1.default.request(`https://trovesaurus.com/mod=${modid}`, { }, (res) => {
+        https_1.default.request(`https://trovesaurus.com/mod=${modid}`, {
+            // family: 6
+        }, (res) => {
             res.setEncoding('utf8');
             let html = "";
             res.on('data', (d) => html += d);
@@ -32,14 +34,14 @@ function getFileID(modid) {
 }
 function download(modid, fileid) {
     return new Promise(async (resolve, reject) => {
-        const req = https_1.default.request(`https://trovesaurus.com/mod=${modid}`, {
+        const req = https_1.default.request(`https://trovesaurus.com/mod=${modid}/chinese-language`, {
             method: 'POST',
             headers: {
-                "referrer": `https://trovesaurus.com/mod=${modid}`,
+                "referrer": `https://trovesaurus.com/mod=${modid}/chinese-language`,
                 "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
                 "content-type": "application/x-www-form-urlencoded",
             },
-            family: 4
+            // family: 6
         }, (res) => {
             let data = new Uint8Array(0);
             res.on('data', (d) => {

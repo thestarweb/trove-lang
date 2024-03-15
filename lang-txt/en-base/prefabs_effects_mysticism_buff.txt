@@ -1,0 +1,49 @@
+$prefabs_effects_mysticism_buff_mana_npcdeath_giantlands_description=DEFEATING ENEMIES from SUNDERED UPLANDS Biomes allows collection of WILD TROVIAN MANA. Increases Wild Trovian Mana yield when Harvesting in Sundered Uplands.
+$prefabs_effects_mysticism_buff_mana_npcdeath_candy_description=DEFEATING ENEMIES from CANDORIAN Biomes allows collection of WILD TROVIAN MANA. Increases Wild Trovian Mana yield when Harvesting in Candoria.
+$prefabs_effects_mysticism_buff_mana_npcdeath_dinosaur_description=DEFEATING ENEMIES from JURASSIC JUNGLE Biomes allows collection of WILD TROVIAN MANA. Increases Wild Trovian Mana yield when Harvesting in Jurassic Jungle.
+$prefabs_effects_mysticism_buff_mana_npcdeath_dragon_description=DEFEATING ENEMIES from DRAGONFIRE PEAKS Biomes allows collection of WILD TROVIAN MANA. Increases Wild Trovian Mana yield when Harvesting in Dragonfire Peaks.
+$prefabs_effects_mysticism_buff_mana_npcdeath_fae_description=DEFEATING ENEMIES from FAE FOREST Biomes allows collection of WILD TROVIAN MANA. Increases Wild Trovian Mana yield when Harvesting in Fae Forest.
+$prefabs_effects_mysticism_buff_mana_npcdeath_frontier_description=DEFEATING ENEMIES from DESERT FRONTIER Biomes allows collection of WILD TROVIAN MANA. Increases Wild Trovian Mana yield when Harvesting in Desert Frontier.
+$prefabs_effects_mysticism_buff_mana_npcdeath_highlands_description=DEFEATING ENEMIES from MEDIEVAL HIGHLANDS Biomes allows collection of WILD TROVIAN MANA. Increases Wild Trovian Mana yield when Harvesting in Medieval Highlands.
+$prefabs_effects_mysticism_buff_mana_npcdeath_neon_description=DEFEATING ENEMIES from NEON CITY Biomes allows collection of WILD TROVIAN MANA. Increases Wild Trovian Mana yield when Harvesting in Neon City.
+$prefabs_effects_mysticism_buff_mana_npcdeath_spires_description=DEFEATING ENEMIES from FORBIDDEN SPIRES Biomes allows collection of WILD TROVIAN MANA. Increases Wild Trovian Mana yield when Harvesting in Forbidden Spires.
+$prefabs_effects_mysticism_buff_mana_npcdeath_tundra_description=DEFEATING ENEMIES from PERMAFROST Biomes allows collection of WILD TROVIAN MANA. Increases Wild Trovian Mana yield when Harvesting in Permafrost.
+$prefabs_effects_mysticism_buff_mana_npcdeath_undead_description=DEFEATING ENEMIES from CURSED VALE Biomes allows collection of WILD TROVIAN MANA. Increases Wild Trovian Mana yield when Harvesting in Cursed Vale.
+$prefabs_effects_mysticism_buff_mana_npcdeath_all_description=DEFEATING ENEMIES allows collection of WILD TROVIAN MANA. Increases Wild Trovian Mana yield when Harvesting.
+$prefabs_effects_mysticism_buff_jump_10_name=BUFF: Jump++
+$prefabs_effects_mysticism_buff_jump_10_description=Increases Jump by 10 and 5% until the current DAY ends. \n\n<font color='#ffcf72'>You may only have ONE (1) BUFF active at a time.</font>
+$prefabs_effects_mysticism_buff_jump_10_effect_description=Increases Jump by 10 and 5%.
+$prefabs_effects_mysticism_buff_stability_name=BUFF: Stability++
+$prefabs_effects_mysticism_buff_stability_description=Increases Stability by 500 and 5% until the current DAY ends. \n\n<font color='#ffcf72'>You may only have ONE (1) BUFF active at a time.</font>
+$prefabs_effects_mysticism_buff_stability_effect_description=Increases Stability by 500 and 5%.
+$prefabs_effects_mysticism_buff_chocolate_heal_name=BUFF: Chocolate Affinity
+$prefabs_effects_mysticism_buff_chocolate_heal_description=Blocks SLOW and increases HEALTH REGENERATION by 5,000 when in CHOCOLATE until the current DAY ends. \n\n<font color='#ffcf72'>You may only have ONE (1) BUFF active at a time.</font>
+$prefabs_effects_mysticism_buff_chocolate_heal_effect_description=Blocks SLOW and increases HEALTH REGENERATION by 5,000 when in CHOCOLATE
+$prefabs_effects_mysticism_buff_slowfall_name=BUFF: Vampire's Grace
+$prefabs_effects_mysticism_buff_slowfall_description=Grants a short duration SLOWFALL when JUMPING in ADVENTURE WORLDS, DELVES, and the HUB until the current DAY ends. \n\n<font color='#ffcf72'>You may only have ONE (1) BUFF active at a time.</font>
+$prefabs_effects_mysticism_buff_slowfall_jumpeventeffectspawner_effect_description=Grants a short duration SLOWFALL when JUMPING in ADVENTURE WORLDS, DELVES, and the HUB.
+$prefabs_effects_mysticism_buff_slowfall_effect_description=Falling slowly. Use DODGE to cancel.
+$prefabs_effects_mysticism_buff_phys_damage_name=BUFF: Strength of Beasts
+$prefabs_effects_mysticism_buff_phys_damage_description=Increases Physical Damage by 1.0% until the current DAY ends. \n\n<font color='#ffcf72'>You may only have ONE (1) BUFF active at a time.</font>
+$prefabs_effects_mysticism_buff_phys_damage_effect_description=Increases Physical Damage by 1.0%.
+$prefabs_effects_mysticism_buff_npc_highlight_name=BUFF: Aura-Vision
+$prefabs_effects_mysticism_buff_npc_highlight_description=Periodically reveals nearby NPCs through walls until the current DAY ends. \n\n<font color='#ffcf72'>You may only have ONE (1) BUFF active at a time.</font>
+$prefabs_effects_mysticism_buff_npc_highlight_effect_description=Periodically reveals nearby NPCs through walls.
+$prefabs_effects_mysticism_buff_magic_damage_name=BUFF: Keen Mind
+$prefabs_effects_mysticism_buff_magic_damage_description=Increases Magic Damage by 1.0% until the current DAY ends. \n\n<font color='#ffcf72'>You may only have ONE (1) BUFF active at a time.</font>
+$prefabs_effects_mysticism_buff_magic_damage_effect_description=Increases Magic Damage by 1.0%.
+$prefabs_effects_mysticism_buff_ice_noslip_name=BUFF: Icebound
+$prefabs_effects_mysticism_buff_ice_noslip_description=Prevents SLIPPING when on ICE until the current DAY ends. \n\n<font color='#ffcf72'>You may only have ONE (1) BUFF active at a time.</font>
+$prefabs_effects_mysticism_buff_ice_noslip_effect_description=Prevents SLIPPING when on ICE.
+$prefabs_effects_mysticism_buff_healthregeneration_name=BUFF: Regeneration
+$prefabs_effects_mysticism_buff_healthregeneration_description=Increases HEALTH REGENERATION by 5,000 and 5% until the current DAY ends. \n\n<font color='#ffcf72'>You may only have ONE (1) BUFF active at a time.</font>
+$prefabs_effects_mysticism_buff_healthregeneration_effect_description=Increases HEALTH REGENERATION by 5,000 and 5%
+$prefabs_effects_mysticism_buff_flask_capacity_name=BUFF: Flask Capacity
+$prefabs_effects_mysticism_buff_flask_capacity_description=Increases Maximum Flasks by 3 until the current DAY ends. \n\n<font color='#ffcf72'>You may only have ONE (1) BUFF active at a time.</font>
+$prefabs_effects_mysticism_buff_flask_capacity_effect_description=Increases Maximum Flasks by 3.
+$prefabs_effects_mysticism_buff_waterwalk_name=BUFF: Waterwalker
+$prefabs_effects_mysticism_buff_waterwalk_description=Transforms water beneath your feet into walkable ground until the current DAY ends. \n\n<font color='#ffcf72'>You may only have ONE (1) BUFF active at a time.</font>
+$prefabs_effects_mysticism_buff_waterwalk_effect_description=Transforms water beneath your feet into walkable ground.
+$prefabs_effects_mysticism_buff_firewalk_name=BUFF: Firewalker
+$prefabs_effects_mysticism_buff_firewalk_description=Transforms lava beneath your feet into walkable ground until the current DAY ends. \n\n<font color='#ffcf72'>You may only have ONE (1) BUFF active at a time.</font>
+$prefabs_effects_mysticism_buff_firewalk_effect_description=Transforms lava beneath your feet into walkable ground.

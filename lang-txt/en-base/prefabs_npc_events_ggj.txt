@@ -1,0 +1,8 @@
+$prefabs_npc_events_ggj_bird_binchicken_questtarget_sign_title=Hungry Bin Chicken
+$prefabs_npc_events_ggj_bird_binchicken_questtarget_sign_content=Toss it a Cruftcake, then [HK:Loot] to craft!
+$prefabs_npc_events_ggj_bird_binchicken_npcstore_3_sign_title=Bin Chicken Vendor
+$prefabs_npc_events_ggj_bird_binchicken_npcstore_3_sign_content=[HK:Loot] to check its wares!
+$prefabs_npc_events_ggj_bird_binchicken_npcstore_2_sign_title=Bin Chicken Vendor
+$prefabs_npc_events_ggj_bird_binchicken_npcstore_2_sign_content=[HK:Loot] to check its wares!
+$prefabs_npc_events_ggj_bird_binchicken_npcstore_1_sign_title=Bin Chicken Vendor
+$prefabs_npc_events_ggj_bird_binchicken_npcstore_1_sign_content=[HK:Loot] to check its wares!

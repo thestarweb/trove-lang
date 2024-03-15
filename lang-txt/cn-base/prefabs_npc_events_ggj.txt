@@ -1,0 +1,8 @@
+$prefabs_npc_events_ggj_bird_binchicken_questtarget_sign_title=饥饿的宾鸡
+$prefabs_npc_events_ggj_bird_binchicken_questtarget_sign_content=扔给它一个肮脏蛋糕，然后按 [HK:Loot] 来制作！
+$prefabs_npc_events_ggj_bird_binchicken_npcstore_3_sign_title=宾鸡供应商
+$prefabs_npc_events_ggj_bird_binchicken_npcstore_3_sign_content=按 [HK:Loot] 查看它的商品！
+$prefabs_npc_events_ggj_bird_binchicken_npcstore_2_sign_title=宾鸡供应商
+$prefabs_npc_events_ggj_bird_binchicken_npcstore_2_sign_content=按 [HK:Loot] 查看它的商品！
+$prefabs_npc_events_ggj_bird_binchicken_npcstore_1_sign_title=宾鸡供应商
+$prefabs_npc_events_ggj_bird_binchicken_npcstore_1_sign_content=按 [HK:Loot] 查看它的商品！

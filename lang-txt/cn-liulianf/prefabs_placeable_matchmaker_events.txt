@@ -11,17 +11,19 @@ $prefabs_placeable_matchmaker_events_dec2020_library_description=排队进入私
 $prefabs_placeable_matchmaker_events_april2021_bunfest_name=深度推进器:兔托邦
 $prefabs_placeable_matchmaker_events_april2021_bunfest_description=排队进入秘境私人秘境，此秘境通往兔托邦生物群落 . \n\n邀请:最多8名玩家\n坐骑:仅限秘境坐骑
 $prefabs_placeable_matchmaker_events_july2021_carys_name=传送门: 原晶. 裂痕 (卡瑞斯)
-$prefabs_placeable_matchmaker_events_july2021_carys_description=排队参加原晶地狱裂痕秘境，里面有卡瑞斯家族敌人与大量原晶助熔剂.\n\n\n\n\n在太阳庆典活动结束时<font color='#ff3030'>消失</font>)
+$prefabs_placeable_matchmaker_events_july2021_carys_description=排队参加原晶地狱裂痕秘境，里面有卡瑞斯家族敌人与大量原晶助熔剂。
 $prefabs_placeable_matchmaker_events_july2021_panatea_name=传送门: 原晶. 裂痕 (皮纳塔亚)
-$prefabs_placeable_matchmaker_events_july2021_panatea_description=排队参加原晶地狱裂痕秘境，里面有皮纳塔亚家族敌人与大量原晶钛酸.\n\n\n\n\n在太阳庆典活动结束时<font color='#ff3030'>消失</font>)
+$prefabs_placeable_matchmaker_events_july2021_panatea_description=排队参加原晶地狱裂痕秘境，里面有皮纳塔亚家族敌人与大量原晶钛酸。
 $prefabs_placeable_matchmaker_events_july2021_tysorion_name=传送门: 原晶. 裂痕 (泰索里昂)
-$prefabs_placeable_matchmaker_events_july2021_tysorion_description=排队参加原晶地狱裂痕秘境，里面有泰索里昂家族敌人与大量原晶II型.\n\n\n\n\n在太阳庆典活动结束时<font color='#ff3030'>消失</font>)
+$prefabs_placeable_matchmaker_events_july2021_tysorion_description=排队参加原晶地狱裂痕秘境，里面有泰索里昂家族敌人与大量原晶II型。
 $prefabs_placeable_matchmaker_events_july2021_carys_t2_name=深度传送门: 原晶. 裂痕 (卡瑞斯)
-$prefabs_placeable_matchmaker_events_july2021_carys_t2_description=排队参加原晶地狱裂痕秘境，里面有卡瑞斯家族敌人，最小深度为110.\n纪念品掉落的<font color='#30ff30'>机会增加</font>!\n在太阳庆典活动结束时<font color='#ff3030'>消失</font>)
+$prefabs_placeable_matchmaker_events_july2021_carys_t2_description=排队参加原晶地狱裂痕秘境，里面有卡瑞斯家族敌人，最小深度为110.\n纪念品掉落的<font color='#30ff30'>几率增加</font>！
+$prefabs_placeable_matchmaker_events_august2023_alpha_t2_name=深度传送门: 阿尔法
+$prefabs_placeable_matchmaker_events_august2023_alpha_t2_description=排队参加秘境，里面有可能存在阿尔法。\n\n<font color='#ff3030'>警告:</font> 如果没有来光耀喷泉制作的太阳印记，清除它的暗影保护，阿尔法就不会受到伤害。\n\n<font color='#30ff30'>纪念品掉落的几率增加！</font>
 $prefabs_placeable_matchmaker_events_july2021_panatea_t2_name=深度传送门: 原晶. 裂痕 (皮纳塔亚)
-$prefabs_placeable_matchmaker_events_july2021_panatea_t2_description=排队参加原晶地狱裂痕秘境，里面有皮纳塔亚家族敌人，最小深度为110.\n纪念品掉落的<font color='#30ff30'>机会增加</font>!\n在太阳庆典活动结束时<font color='#ff3030'>消失</font>)
+$prefabs_placeable_matchmaker_events_july2021_panatea_t2_description=排队参加原晶地狱裂痕秘境，里面有皮纳塔亚家族敌人，最小深度为110.\n纪念品掉落的<font color='#30ff30'>几率增加</font>！
 $prefabs_placeable_matchmaker_events_july2021_tysorion_t2_name=深度传送门: 原晶. 裂痕 (泰索里昂)
-$prefabs_placeable_matchmaker_events_july2021_tysorion_t2_description=排队参加原晶地狱裂痕秘境，里面有泰索里昂家族敌人，最小深度为110.\n纪念品掉落的<font color='#30ff30'>机会增加</font>!\n在太阳庆典活动结束时<font color='#ff3030'>消失</font>)
+$prefabs_placeable_matchmaker_events_july2021_tysorion_t2_description=排队参加原晶地狱裂痕秘境，里面有泰索里昂家族敌人，最小深度为110.\n纪念品掉落的<font color='#30ff30'>几率增加</font>！
 $prefabs_placeable_matchmaker_events_october2021_shadowseve_name=秘境传送门: 狼穴
 $prefabs_placeable_matchmaker_events_october2021_shadowseve_desc=在这里，你可以排队参加通往狼穴生物群落的私人秘境。\n\n邀请:最多8名玩家\n坐骑:仅限秘境坐骑\n\n在暗影之夕活动结束后<font color='#ff3030'>消失</font>
 $prefabs_placeable_matchmaker_events_july2022_chuckp_name=秘境传送门: 查克,平索

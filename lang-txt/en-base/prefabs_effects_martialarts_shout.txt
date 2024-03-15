@@ -1,0 +1,4 @@
+$prefabs_effects_martialarts_shout_flamebegin_incdmg_buff_name=Intimidating Screech
+$prefabs_effects_martialarts_shout_flamebegin_incdmg_buff_description=Reduces Incoming Damage by 10%.
+$prefabs_effects_martialarts_shout_slam_energy_buff_name=Invigorating Roar
+$prefabs_effects_martialarts_shout_slam_energy_buff_description=Grants +25% Energy Regeneration.

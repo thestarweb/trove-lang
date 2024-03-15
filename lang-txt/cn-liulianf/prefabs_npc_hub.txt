@@ -1,0 +1,13 @@
+$prefabs_npc_hub_merchant_mysticism_name=秘术商人库尔
+$prefabs_npc_hub_merchant_mysticism_sign_content=按 [HK:Loot] 键可浏览秘术的物品!
+$prefabs_npc_hub_merchant_martialarts_sign_title=弟子丹尼尔
+$prefabs_npc_hub_merchant_martialarts_sign_content=按 [HK:Loot] 键购买物品，为霓虹武术公会筹集资金！
+$prefabs_npc_hub_martialarts_master_sign_title=旁智大师
+$prefabs_npc_hub_martialarts_master_sign_desc=''...''\n按 [HK:Loot] 键进行互动。
+$prefabs_npc_hub_merchant_mysticism_deco_1_name=助手二号
+$prefabs_npc_hub_merchant_mysticism_deco_2_name=助手三号
+$prefabs_npc_hub_merchant_mysticism_deco_3_name=助手四号
+$prefabs_npc_hub_merchant_mysticism_deco_sign_content=按 [HK:Loot] 购买可放置的装饰品!
+$prefabs_npc_hub_merchant_martialarts_deco_1_name=乐于助人的菜鸟
+$prefabs_npc_hub_merchant_martialarts_deco_2_name=另一个有用的菜鸟
+$prefabs_npc_hub_merchant_martialarts_deco_sign_content=按 [HK:Loot] 购买可放置的装饰品!为霓虹武术公会筹集资金！

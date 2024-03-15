@@ -1,0 +1,2 @@
+$prefabs_placeable_matchmaker_dragon_steampunk_name=秘境传送门: 熔岩洞窟
+$prefabs_placeable_matchmaker_dragon_steampunk_description=排队进入出现熔岩洞窟地形的私人秘境.\n\n邀请: 最多8名玩家\n坐骑: 仅可使用秘境坐骑

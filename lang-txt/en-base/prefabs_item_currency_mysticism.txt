@@ -1,0 +1,10 @@
+$prefabs_item_currency_mysticism_wild_trovian_mana_name=Wild Trovian Mana
+$prefabs_item_currency_mysticism_wild_trovian_mana_description=Migrates its way across all Trovian ADVENTURE WORLD biomes.\n\nWhispers in the HUB suggest those familiar with MYSTICISM use Mana.
+$prefabs_item_currency_mysticism_trovian_mana_air_name=Crystallized Zephyr of Mana
+$prefabs_item_currency_mysticism_trovian_mana_air_description=Obtanied from Cursed Skylands adventure worlds.\n\nUsed by Mysticists.
+$prefabs_item_currency_mysticism_trovian_mana_fire_name=Crystallized Mana Ember
+$prefabs_item_currency_mysticism_trovian_mana_fire_description=Obtanied from Igneous Islands adventure worlds.\n\nUsed by Mysticists.
+$prefabs_item_currency_mysticism_trovian_mana_opal_name=Crystallized globs of Meta-Mana
+$prefabs_item_currency_mysticism_trovian_mana_opal_description=Obtanied from Geode Topside adventure worlds.\n\nUsed by Mysticists.
+$prefabs_item_currency_mysticism_trovian_mana_water_name=Crystallized Aquatic Mana
+$prefabs_item_currency_mysticism_trovian_mana_water_description=Obtanied from Drowned adventure worlds.\n\nUsed by Mysticists.

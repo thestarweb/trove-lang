@@ -1,0 +1,2 @@
+$prefabs_effects_martialarts_system_enlightened_name=Enlightened
+$prefabs_effects_martialarts_system_enlightened_description=Increases Light by +1%

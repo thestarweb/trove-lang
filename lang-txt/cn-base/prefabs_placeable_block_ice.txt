@@ -1,0 +1,2 @@
+$prefabs_placeable_block_ice_tundra_item_name=电子冰
+$prefabs_placeable_block_ice_tundra_item_description=这可是来自信息冻土的冰块。小心了！

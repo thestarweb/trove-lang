@@ -1,0 +1,1 @@
+$prefabs_effects_mysticism_system_alchemy_reveal_potions_description=允许在秘术实验台学习已激活的增益魔药配方

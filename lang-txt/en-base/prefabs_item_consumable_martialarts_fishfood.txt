@@ -1,0 +1,8 @@
+$prefabs_item_consumable_martialarts_mantra_fishfood_water_name=Fishfood: Water Pools
+$prefabs_item_consumable_martialarts_mantra_fishfood_water_desc=Throw this food into a fish pool found in water to feed the fish and feel better about yourself!
+$prefabs_item_consumable_martialarts_mantra_fishfood_lava_name=Fishfood: Lava Pools
+$prefabs_item_consumable_martialarts_mantra_fishfood_lava_desc=Throw this food into a fish pool found in lava to feed the fish and feel better about yourself!
+$prefabs_item_consumable_martialarts_mantra_fishfood_plasma_name=Fishfood: Plasma Pools
+$prefabs_item_consumable_martialarts_mantra_fishfood_plasma_desc=Throw this food into a fish pool found in plasma to feed the fish and feel better about yourself!
+$prefabs_item_consumable_martialarts_mantra_fishfood_chocolate_name=Fishfood: Chocolate Pools
+$prefabs_item_consumable_martialarts_mantra_fishfood_chocolate_desc=Throw this food into a fish pool found in chocolate to feed the fish and feel better about yourself!

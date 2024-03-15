@@ -10,3 +10,7 @@ $prefabs_equipment_banner_pvp_banner_bomber_mostkills_001_name=Gold Banner: Bomb
 $prefabs_equipment_banner_pvp_banner_bomber_mostkills_001_description=Awarded for being in the top 10 of the WEEKLY BOMBER ROYALE KILLS Leaderboard
 $prefabs_equipment_banner_pvp_banner_bomber_mostkills_002_name=Silver Banner: Bomber Royale Most Kills
 $prefabs_equipment_banner_pvp_banner_bomber_mostkills_002_description=Awarded for being in the top 100 of the WEEKLY BOMBER ROYALE KILLS Leaderboard
+$prefabs_equipment_banner_banner_catastrophe_temp_name=Banner: Memento Mori
+$prefabs_equipment_banner_banner_catastrophe_temp_description=All things are temporary.\nTemporary style only. Does not convey Gravesight.
+$prefabs_equipment_banner_banner_catastrophe_permanent_style_name=Banner: Fiona's Gaze
+$prefabs_equipment_banner_banner_catastrophe_permanent_style_description=Beware whose attention you attract.\nStyle only. Does not convey Gravesight.

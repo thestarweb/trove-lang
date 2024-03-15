@@ -1,0 +1,2 @@
+$prefabs_item_influencer_geode_name=矿脉之星
+$prefabs_item_influencer_geode_description=提升从圣物箱或青铜伙伴蛋中开出稀有奖励的几率。\n\n可向伙伴收容处捐献。

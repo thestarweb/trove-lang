@@ -12,3 +12,4 @@ $prefabs_abilities_gunslinger_passive_instant_charge_shot_item_name=Lucky Shot
 $prefabs_abilities_gunslinger_passive_instant_charge_shot_item_description=While in the air, damage dealt to enemies decreases the speed of the Gunslinger's descent. Dealing damage can cause the next Charged Sniper Shot to be full power without any charging time.
 $prefabs_abilities_gunslinger_subclass_name=Rain Destruction
 $prefabs_abilities_gunslinger_subclass_description=Damage dealt to enemies while airborne is increased.
+$prefabs_abilities_gunslinger_slowfall_description_description=Reduced Falling speed

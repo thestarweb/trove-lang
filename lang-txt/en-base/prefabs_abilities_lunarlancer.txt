@@ -16,3 +16,5 @@ $prefabs_abilities_lunarlancer_moon_blessing_item_name=Blessing of the Moon
 $prefabs_abilities_lunarlancer_moon_blessing_description=Summon a spear from the heavens that increases stability and movement speed, additionally applies an healing over time buff to allies. It also damages enemies caught in the area. Costs Moon Power.
 $prefabs_abilities_lunarlancer_subclass_name=Sorta Crazy
 $prefabs_abilities_lunarlancer_subclass_description=Chance during combat to transform and receive some of the power of the Lunar Lancer.
+$prefabs_abilities_lunarlancer_lunar_leap_buff_stats_description=Increases Physical Damage by 85%
+$prefabs_abilities_lunarlancer_moon_blessing_aoe_players_effect_description=Increases Health Regeneration by 150%. Increases Stability by 1000. Increases Movement Speed by 10.

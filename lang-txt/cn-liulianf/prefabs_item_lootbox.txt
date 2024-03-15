@@ -164,48 +164,52 @@ $prefabs_item_lootbox_delve_carpet_006_name=福格莱地毯样品手册
 $prefabs_item_lootbox_delve_carpet_006_description=包含两段福格莱地毯的装饰样品
 $prefabs_item_lootbox_trophy_item_name=神秘战利品箱
 $prefabs_item_lootbox_trophy_item_description=打开后会随机获得一个战利品挂饰! 有几率获得特有的战利品挂饰!
+$prefabs_item_lootbox_trophy_event_item_name=神秘战利品箱: 活动版
+$prefabs_item_lootbox_trophy_event_item_description=打开后可随机获得之前活动的战利品挂饰！有几率包含活动中出现过的每套服装的战利品挂饰！
 $prefabs_item_lootbox_neowiz_name=元素匿藏物
 $prefabs_item_lootbox_neowiz_description=通常包含原晶或其他有用的物品。很少包含纯净元素。
 $prefabs_item_lootbox_delve_memento_cache_name=压力锁定纪念宝箱
-$prefabs_item_lootbox_delve_memento_cache_description=包含1个随机品质的纪念品。
+$prefabs_item_lootbox_delve_memento_cache_description=包含1个随机品质的纪念品。\n不包含新加入的生物、Boss或生物群落的纪念品。
 $prefabs_item_lootbox_shadowseve2021_item_name=月之骑士宝箱
 $prefabs_item_lootbox_shadowseve2021_item_description=月之骑士宝箱（Order of the Moon's Treasure Box）\n\n含有大量的奖励，包括弹跳光辉，龙币，以及极少几率开出的钻龙石或超物质。
 $prefabs_item_lootbox_delve_freerange_name=闪亮水晶储物箱
 $prefabs_item_lootbox_delve_freerange_description=闪亮水晶储物箱（Glowing Crystalline Cache）\n\n可以开出自由变化电解体，除此之外这些箱子也有很少几率会开出：深度推进器传送门、4个宠物、1个坐骑或2种旗帜样式的配方之一。
 $prefabs_item_lootbox_prestige_prime_name=原初巅峰方块
 $prefabs_item_lootbox_prestige_prime_description=打开后获得一个适合你当前职业的原初循环。
-$prefabs_item_lootbox_prestige_prime_weekly_autoconsume_name=原初巅峰方块 (每周)
-$prefabs_item_lootbox_prestige_prime_weekly_autoconsume_description=打开后获得一个适合你当前职业的原初循环。\n<font color='#ef1a1a'>此配方你每周只能制作（3）次！</font>
-$prefabs_item_lootbox_prestige_prime_daily_autoconsume_name=原初巅峰方块 (每日)
-$prefabs_item_lootbox_prestige_prime_daily_autoconsume_description=打开后获得一个适合你当前职业的原初循环。\n<font color='#e8e34f'>此配方你每天只能制作（1）次</font>
-$prefabs_item_lootbox_gem_booster_augment3_daily_autoconsume_name=创造者的卓越加成 (每日)
-$prefabs_item_lootbox_gem_booster_augment3_daily_autoconsume_description=宝石强化道具。能大幅提升宝石的一项属性和战斗力。可在宝石熔炉使用。可在冒险者工作台制作。\n<font color='#e8e34f'>此配方你每天只能制作（1）次</font>
-$prefabs_item_lootbox_gem_booster_augment3_weekly_autoconsume_name=创造者的卓越加成 (每周)
-$prefabs_item_lootbox_gem_booster_augment3_weekly_autoconsume_description=宝石强化道具。能大幅提升宝石的一项属性和战斗力。可在宝石熔炉使用。可在冒险者工作台制作。\n<font color='#e8e34f'>你每周只能制作此配方 (1) 次</font>
-$prefabs_item_lootbox_dragoncoin_daily_autoconsume_name=龙币 (每日)
-$prefabs_item_lootbox_dragoncoin_daily_autoconsume_description=用来在主城世界的龙台孵化龙。\n\n完成挑战，或访问商店的龙页面购买获得(按 [HK:Store] 键)。\n<font color='#e8e34f'>此配方你每天只能制作（1）次</font>
-$prefabs_item_lootbox_dragoncoin_daily_autoconsume_description_controller=用来在主城世界的龙台孵化龙。\n\n<font color='#e8e34f'>此配方你每天只能制作（1）次</font>
-$prefabs_item_lootbox_dragoncoin_weekly_autoconsume_name=龙币 (每周)
-$prefabs_item_lootbox_dragoncoin_weekly_autoconsume_description=用来在主城世界的龙台孵化龙\n\n完成挑战，或访问商店的龙页面购买获得(按[HK:Store]键)。\n<font color='#e8e34f'>你每周只能制作此配方 (1) 次</font>
-$prefabs_item_lootbox_dragoncoin_weekly_autoconsume_description_controller=用来在主城世界的龙台孵化龙。\n\n<font color='#e8e34f'>你每周只能制作此配方 (1) 次</font>
-$prefabs_item_lootbox_bound_brilliance_daily_autoconsume_name=弹跳光辉 (每日)
-$prefabs_item_lootbox_bound_brilliance_daily_autoconsume_description=捕获光的物理容器。用于在冒险者的工作台处制作宝石强化道具。\n\n可从每周职业排行榜和相关活动事件中获得\n<font color='#e8e34f'>此配方你每天只能制作（1）次</font>
-$prefabs_item_lootbox_bound_brilliance_weekly_autoconsume_name=弹跳光辉 (每周)
-$prefabs_item_lootbox_bound_brilliance_weekly_autoconsume_description=制作素材\n\n捕获光的物理容器。用于在冒险者的工作台处制作宝石强化道具。\n\n可从每周职业排行榜和相关活动事件中获得。\n<font color='#e8e34f'>你每周只能制作此配方 (1) 次</font>
-$prefabs_item_lootbox_crystalline_core_daily_autoconsume_name=水晶核心概略 (每日)
-$prefabs_item_lootbox_crystalline_core_daily_autoconsume_description=这种核心在塑形者手中就能被转化成一种能量源，足以用来运行远古者的心脏。\n\n可以通过在每天时限内完成5星地下城或是打开晶洞高层箱获取。\n\n可从每周职业战力排行榜和相关活动事件中获得。\n<font color='#e8e34f'>此配方你每天只能制作（1）次</font>
-$prefabs_item_lootbox_crystalline_core_weekly_autoconsume_name=水晶核心概略 (每周)
-$prefabs_item_lootbox_crystalline_core_weekly_autoconsume_description=这种核心在塑形者手中就能被转化成一种能量源，足以用来运行远古者的心脏。\n\n可以通过在每天时限内完成5星地下城或是打开晶洞高层箱获取。\n\n可从每周职业排行榜和相关活动事件中获得。\n<font color='#e8e34f'>你每周只能制作此配方 (1) 次</font>
-$prefabs_item_lootbox_prestige_basic_daily_autoconsume_name=冒险循环 (每日)
-$prefabs_item_lootbox_prestige_basic_daily_autoconsume_description=每提升一次巅峰等级就会获得奖励\n<font color='#e8e34f'>此配方你每天只能制作（1）次</font>
-$prefabs_item_lootbox_prestige_basic_weekly_autoconsume_name=冒险循环 (每周)
-$prefabs_item_lootbox_prestige_basic_weekly_autoconsume_description=每提升一次巅峰等级就会获得奖励\n<font color='#e8e34f'>你每周只能制作此配方 (1) 次</font>
+$prefabs_item_lootbox_prestige_prime_weekly_autoconsume_name=原初巅峰方块
+$prefabs_item_lootbox_prestige_prime_weekly_autoconsume_description=打开后获得一个适合你当前职业的原初循环。
+$prefabs_item_lootbox_prestige_prime_daily_autoconsume_name=原初巅峰方块
+$prefabs_item_lootbox_prestige_prime_daily_autoconsume_description=打开后获得一个适合你当前职业的原初循环。
+$prefabs_item_lootbox_gem_booster_augment3_daily_autoconsume_name=创造者的卓越加成
+$prefabs_item_lootbox_gem_booster_augment3_daily_autoconsume_description=宝石强化道具。能大幅提升宝石的一项属性和战斗力。可在宝石熔炉使用。可在冒险者工作台制作。
+$prefabs_item_lootbox_gem_booster_augment3_weekly_autoconsume_name=创造者的卓越加成
+$prefabs_item_lootbox_gem_booster_augment3_weekly_autoconsume_description=宝石强化道具。能大幅提升宝石的一项属性和战斗力。可在宝石熔炉使用。可在冒险者工作台制作。
+$prefabs_item_lootbox_dragoncoin_daily_autoconsume_name=龙币
+$prefabs_item_lootbox_dragoncoin_daily_autoconsume_description=用来在主城世界的龙台孵化龙。\n\n完成挑战，或访问商店的龙页面购买获得(按 [HK:Store] 键)。
+$prefabs_item_lootbox_dragoncoin_daily_autoconsume_description_controller=用来在主城世界的龙台孵化龙。
+$prefabs_item_lootbox_dragoncoin_weekly_autoconsume_name=龙币 
+$prefabs_item_lootbox_dragoncoin_weekly_autoconsume_description=用来在主城世界的龙台孵化龙\n\n完成挑战，或访问商店的龙页面购买获得(按[HK:Store]键)。
+$prefabs_item_lootbox_dragoncoin_weekly_autoconsume_description_controller=用来在主城世界的龙台孵化龙。
+$prefabs_item_lootbox_bound_brilliance_daily_autoconsume_name=弹跳光辉
+$prefabs_item_lootbox_bound_brilliance_daily_autoconsume_description=捕获光的物理容器。用于在冒险者的工作台处制作宝石强化道具。\n\n可从每周职业排行榜和相关活动事件中获得。
+$prefabs_item_lootbox_dragondiamond_daily_autoconsume_name=钻龙石
+$prefabs_item_lootbox_dragondiamond_daily_autoconsume_description=制作素材\n\n用于制作强力物品的原初碎片，可用其在主城的龙台制作原初之龙。\n\n每天可以通过填满星条或打开钻龙石袋获得。
+$prefabs_item_lootbox_bound_brilliance_weekly_autoconsume_name=弹跳光辉
+$prefabs_item_lootbox_bound_brilliance_weekly_autoconsume_description=制作素材\n\n捕获光的物理容器。用于在冒险者的工作台处制作宝石强化道具。\n\n可从每周职业排行榜和相关活动事件中获得。
+$prefabs_item_lootbox_crystalline_core_daily_autoconsume_name=水晶核心概略
+$prefabs_item_lootbox_crystalline_core_daily_autoconsume_description=这种核心在塑形者手中就能被转化成一种能量源，足以用来运行远古者的心脏。\n\n可以通过在每天时限内完成5星地下城或是打开晶洞高层箱获取。\n\n可从每周职业战力排行榜和相关活动事件中获得。\n
+$prefabs_item_lootbox_crystalline_core_weekly_autoconsume_name=水晶核心概略
+$prefabs_item_lootbox_crystalline_core_weekly_autoconsume_description=这种核心在塑形者手中就能被转化成一种能量源，足以用来运行远古者的心脏。\n\n可以通过在每天时限内完成5星地下城或是打开晶洞高层箱获取。\n\n可从每周职业排行榜和相关活动事件中获得。
+$prefabs_item_lootbox_prestige_basic_daily_autoconsume_name=冒险循环
+$prefabs_item_lootbox_prestige_basic_daily_autoconsume_description=每提升一次巅峰等级就会获得奖励。
+$prefabs_item_lootbox_prestige_basic_weekly_autoconsume_name=冒险循环
+$prefabs_item_lootbox_prestige_basic_weekly_autoconsume_description=每提升一次巅峰等级就会获得奖励。
 $prefabs_item_lootbox_prestige_deco_name=巅峰装饰盒
 $prefabs_item_lootbox_prestige_deco_description=包含一个以巅峰地宫为主题的装饰盒
-$prefabs_item_lootbox_chaos_core_weekly_autoconsume_name=混沌核心 (每周)
-$prefabs_item_lootbox_chaos_core_weekly_autoconsume_description=可用于混沌熔炉制作混沌稀有物品。\n\n通过开启混沌宝箱，亦可通过分解混沌宝箱的奖励获得。\n<font color='#e8e34f'>你每周只能制作此配方 (1) 次</font>
-$prefabs_item_lootbox_free_range_weekly_autoconsume_name=自由变化电解晶体 (每周)
-$prefabs_item_lootbox_free_range_weekly_autoconsume_description=只有深处的秘境才有合适的环境来形成这种食物。通常出现在重型加压箱中。 \n<font color='#e8e34f'>你每周只能制作此配方 (1) 次</font>
+$prefabs_item_lootbox_chaos_core_weekly_autoconsume_name=混沌核心
+$prefabs_item_lootbox_chaos_core_weekly_autoconsume_description=可用于混沌熔炉制作混沌稀有物品。\n\n通过开启混沌宝箱，亦可通过分解混沌宝箱的奖励获得。
+$prefabs_item_lootbox_free_range_weekly_autoconsume_name=自由变化电解晶体
+$prefabs_item_lootbox_free_range_weekly_autoconsume_description=只有深处的秘境才有合适的环境来形成这种食物。通常出现在重型加压箱中。 
 $prefabs_item_lootbox_giantlands_name=断裂高地大储藏箱
 $prefabs_item_lootbox_giantlands_description=打开可获得在断裂高地发现的灰烬或光辉资源，或者很少几率获得更稀有的东西！
 $prefabs_item_lootbox_giantlands_lesser_name=断裂高地小储藏箱
@@ -216,10 +220,14 @@ $prefabs_item_lootbox_giantlands_resource_ashen_name=灰烬储藏箱
 $prefabs_item_lootbox_giantlands_resource_ashen_description=包含在断裂高地的灰烬废墟发现的资源。
 $prefabs_item_lootbox_giantlands_resource_irradiant_name=天空储藏箱
 $prefabs_item_lootbox_giantlands_resource_irradiant_description=包含在断裂高地的云层中发现的资源。
-$prefabs_item_lootbox_fishing_net_weekly_autoconsume_name=垂钓大师的渔网(每周)
-$prefabs_item_lootbox_fishing_net_weekly_autoconsume_description=一张能同时捕获许多鱼的网。\n当被扔进任何鱼池或可钓鱼的液体时，能捕获5条鱼。\n\n需要激活的鱼饵。\n\n<font color='#e8e34f'>你每周只能制作这个配方（1）次</font>
-$prefabs_item_lootbox_fishing_net_weekly_autoconsume_2_description=一张能同时捕获许多鱼的网。\n当被扔进任何鱼池或可钓鱼的液体时，能捕获5条鱼。\n\n需要激活的鱼饵。\n\n<font color='#e8e34f'>你每周只能制作这个配方（2）次</font>
-$prefabs_item_lootbox_fishing_net_weekly_autoconsume_3_description=一张能同时捕获许多鱼的网。\n当被扔进任何鱼池或可钓鱼的液体时，能捕获5条鱼。\n\n需要激活的鱼饵。\n\n<font color='#e8e34f'>你每周只能制作这个配方（3）次</font>
+$prefabs_item_lootbox_fishing_net_weekly_autoconsume_name=垂钓大师的渔网
+$prefabs_item_lootbox_fishing_net_weekly_autoconsume_description=一张能同时捕获许多鱼的网。\n当被扔进任何鱼池或可钓鱼的液体时，能捕获5条鱼。\n\n需要激活的鱼饵。
+$prefabs_item_lootbox_fishing_net_weekly_autoconsume_2_description=一张能同时捕获许多鱼的网。\n当被扔进任何鱼池或可钓鱼的液体时，能捕获5条鱼。\n\n需要激活的鱼饵。
+$prefabs_item_lootbox_fishing_net_weekly_autoconsume_3_description=一张能同时捕获许多鱼的网。\n当被扔进任何鱼池或可钓鱼的液体时，能捕获5条鱼。\n\n需要激活的鱼饵。
+$prefabs_item_lootbox_titles_gold_name=真正精彩的称号宝藏
+$prefabs_item_lootbox_titles_gold_description=包含一个稀有的称号前缀和/或后缀，虽然是临时的！
+$prefabs_item_lootbox_mysticism_gold_name=原初秘术魔药宝箱
+$prefabs_item_lootbox_mysticism_gold_description=包含稀有的魔药或丰富的魔力！
 $prefabs_item_lootbox_conquest_relic_name=安博瑞遗物箱
 $prefabs_item_lootbox_conquest_relic_description=内含稀有安博瑞遗物装饰部件的封印遗物箱。
 $prefabs_item_lootbox_conquest_rewards_name=征服战利品

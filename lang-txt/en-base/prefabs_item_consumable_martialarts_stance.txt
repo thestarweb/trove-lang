@@ -1,0 +1,14 @@
+$prefabs_item_consumable_martialarts_stance_chargeshot_criticalhit_name=Stance: Sharp-Shooter
+$prefabs_item_consumable_martialarts_stance_chargeshot_criticalhit_description=When consumed, increases CRITICAL HIT by 5% for 5 minutes (as long as another Sharp-Shooter is in your Auto-use Slot).\n\nEquip in your Auto-Use slot to consume when holding a CHARGESHOT ability for more than 7 seconds (Dino Tamer, Gunslinger).
+$prefabs_item_consumable_martialarts_stance_meleeswing_vacuum_name=Stance: Gravity Swing
+$prefabs_item_consumable_martialarts_stance_meleeswing_vacuum_description=When consumed, PULLS IN nearby enemies.\n\nEquip in your Auto-Use slot to consume when using a SWING ability (Bard, Boomeranger, Candy Barbarian, Knight, Lunar Lancer, Neon Ninja, Revenant, Vanguardian).\nCooldown: 60s
+$prefabs_item_consumable_martialarts_stance_run_jump_name=Stance: Running-Momentum-Transfer
+$prefabs_item_consumable_martialarts_stance_run_jump_description=When consumed, increases JUMP HEIGHT by +75% for a single jump.\n\nEquip in your Auto-Use slot to consume when JUMPING after RUNNING FORWARD for 5 seconds.\nCooldown: 30s
+$prefabs_item_consumable_martialarts_stance_shoot_combatevent_explosion_name=Stance: Explosive Projectiles
+$prefabs_item_consumable_martialarts_stance_shoot_combatevent_explosion_description=When consumed, your projectiles briefly create EXPLOSIONS when they strike enemies for 15 seconds.\n\nEquip in your Auto-Use slot to consume when using a SHOOT ability for 5+ seconds (Boomeranger, Chloromancer, Dino Tamer, Fae Trickster, Gunslinger, Ice Sage, Pirate Captain, Shadow Hunter, Solarion, Vanguardian).\nCooldown: 120s
+$prefabs_item_consumable_martialarts_stance_shoot_jumpblock_name=Stance: Springtrap
+$prefabs_item_consumable_martialarts_stance_shoot_jumpblock_description=When consumed, spawns LAUNCHPADS all around you, faciliating a quick escape.\n\nEquip in your Auto-Use slot to consume when using a SHOOT ability (Boomeranger, Chloromancer, Dino Tamer, Fae Trickster, Gunslinger, Ice Sage, Pirate Captain, Shadow Hunter, Solarion, Vanguardian).\nCooldown: 60s
+$prefabs_item_consumable_martialarts_stance_meleeunarmed_robotaoe_name=Stance: Neon Punch
+$prefabs_item_consumable_martialarts_stance_meleeunarmed_robotaoe_description=When consumed, PULLS IN nearby ROBOTIC enemies.\n\nEquip in your Auto-Use slot to consume when using an UPPERCUT ability (Vanguardian).\nCooldown: 90s
+$prefabs_item_consumable_martialarts_stance_meleeswing_robotaoe_name=Stance: Neon Swing
+$prefabs_item_consumable_martialarts_stance_meleeswing_robotaoe_description=When consumed, PULLS IN nearby ROBOTIC enemies.\n\nEquip in your Auto-Use slot to consume when using a SWING ability (Bard, Boomeranger, Candy Barbarian, Knight, Lunar Lancer, Neon Ninja, Revenant, Vanguardian).\nCooldown: 90s

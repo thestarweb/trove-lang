@@ -1,0 +1,13 @@
+$prefabs_npc_hub_merchant_mysticism_name=米斯坦塔·库尔，神秘商人。
+$prefabs_npc_hub_merchant_mysticism_sign_content=按[HK:Loot]键浏览用于秘术的物品！
+$prefabs_npc_hub_merchant_martialarts_sign_title=弟子丹尼尔
+$prefabs_npc_hub_merchant_martialarts_sign_content=按[HK:Loot]键进行购买并资助霓虹拳击俱乐部！
+$prefabs_npc_hub_martialarts_master_sign_title=大师庞志
+$prefabs_npc_hub_martialarts_master_sign_desc="..."\n按 [HK:Loot] 键，进行互动
+$prefabs_npc_hub_merchant_mysticism_deco_1_name=助手二号
+$prefabs_npc_hub_merchant_mysticism_deco_2_name=助手三号
+$prefabs_npc_hub_merchant_mysticism_deco_3_name=助手四号
+$prefabs_npc_hub_merchant_mysticism_deco_sign_content=按[HK:Loot]出售可放置装饰品！
+$prefabs_npc_hub_merchant_martialarts_deco_1_name=靠谱的蚱蜢
+$prefabs_npc_hub_merchant_martialarts_deco_2_name=又一只靠谱的蚱蜢
+$prefabs_npc_hub_merchant_martialarts_deco_sign_content=按[HK:Loot]出售可放置装饰品！来资助霓虹公会吧！

@@ -15,30 +15,30 @@ $prefabs_item_currency_sunfest_pinata_2019_description=通过装备“太阳庆�
 $prefabs_item_currency_sunfest_start_2019_name=金色太阳庆典代币
 $prefabs_item_currency_sunfest_start_2019_description=从主城的克贝斯利那里兑换旗帜，以表明你对寻宝者三巨龙之一及其家族的忠诚。\n\n此代币将在太阳庆典结束之后消失。
 $prefabs_item_currency_sunfest_trove_2019_name=泰索里昂印记
-$prefabs_item_currency_sunfest_trove_2019_description=通过装备“太阳庆典旗帜：泰索里昂家族”并击败太阳庆典入侵者来获取。\n\n未使用硬币将在太阳庆典结束之后消失。
+$prefabs_item_currency_sunfest_trove_2019_description=通过装备“太阳庆典旗帜：泰索里昂家族”并击败太阳庆典入侵者来获取。
 $prefabs_item_currency_sunfest_end_2019_name=神像胡须
 $prefabs_item_currency_sunfest_end_2019_description=在主城你的家族商人那里兑换永久旗帜，以表明你对家族的忠诚。\n\n这些物品将在太阳庆典结束之后消失。
 $prefabs_item_currency_sunfest_goldenvale_2019_name=卡瑞斯达克特
 $prefabs_item_currency_sunfest_goldenvale_2019_description=通过装备“太阳庆典旗帜：卡瑞斯家族”并击败太阳庆典入侵者来获取。\n\n未使用硬币将在太阳庆典结束之后消失。
 $prefabs_item_currency_delve_basic_currency_name=惰性晶石
 $prefabs_item_currency_delve_basic_currency_description=这些有趣的矿物被怪物们囤积在秘境之内，而且寻日者他们也对这种矿物非常感兴趣。
-$prefabs_item_currency_delve_badge_name=黑曜石秘境硬币
+$prefabs_item_currency_delve_badge_name=黑曜石秘境硬币（完成500次挑战秘境成就获得）
 $prefabs_item_currency_sunfest_pinata_2020_description=在代表皮纳塔亚家族击败太阳庆典入侵者来获取。\n\n未使用硬币将在太阳庆典结束之后消失。
 $prefabs_item_currency_sunfest_trove_2020_description=在代表泰索里昂家族击败太阳庆典入侵者来获取。\n\n未使用硬币将在太阳庆典结束之后消失。
 $prefabs_item_currency_sunfest_goldenvale_2020_description=在代表卡瑞斯家族击败太阳庆典入侵者来获取。\n\n未使用硬币将在太阳庆典结束之后消失。
 $prefabs_item_currency_sunfest_start_2020_description=在主城的克贝斯利兑换一个徽章，表示对三条寻日者龙和他们的房子之一的忠诚.\n\n这个徽章将在太阳节结束时消失。
 $prefabs_item_currency_july2021_tysorion_name=泰索里昂印记
-$prefabs_item_currency_july2021_tysorion_description=有泰索里昂皇室的充分信任和信用支持。\n\n\n\n\n\n在太阳庆典活动结束时<font color='#ff3030'>消失</font>
+$prefabs_item_currency_july2021_tysorion_description=有泰索里昂皇室的充分信任和信用支持。
 $prefabs_item_currency_july2021_panatea_name=皮纳塔亚筹码
-$prefabs_item_currency_july2021_panatea_description=使用革命性的新技术，皮纳塔亚筹码的价值肯定会飞速增长!\n\n\n\n\n在太阳庆典活动结束时<font color='#ff3030'>消失</font>
+$prefabs_item_currency_july2021_panatea_description=使用革命性的新技术，皮纳塔亚筹码的价值肯定会飞速增长！
 $prefabs_item_currency_july2021_carys_name=卡瑞斯达克特
-$prefabs_item_currency_july2021_carys_description=使用卡瑞斯家族顶级的铸币技术，这是今天与未来的货币!\n\n\n\n\n在太阳庆典活动结束时<font color='#ff3030'>消失</font>
+$prefabs_item_currency_july2021_carys_description=使用卡瑞斯家族顶级的铸币技术，这是今天与未来的货币！
 $prefabs_item_currency_march2022_event_coin_name=幸运爵士币(Sir O'Lucky's Coin)
-$prefabs_item_currency_march2022_event_coin_description=圣克贝斯利部落的一枚硬币，从恶棍海盗手中夺回。\n\n<font color='#ff3030'>在圣克贝斯利活动结束不久后消失</font> 
+$prefabs_item_currency_march2022_event_coin_description=圣克贝斯利部落的一枚硬币，从海盗手中夺回。
 $prefabs_item_currency_march2022_event_frag_name=幸运碎片(Fragment of Luck)
-$prefabs_item_currency_march2022_event_frag_description=幸运爵士出售的幸运碎片。可用于购买聚金罐、幸运爵士旗帜和小幸运。\n\n<font color='#ff3030'>在圣克贝斯利活动结束不久后消失</font> 
+$prefabs_item_currency_march2022_event_frag_description=幸运爵士出售的幸运碎片。可用于购买聚金罐、幸运爵士旗帜和小幸运。
 $prefabs_item_currency_apr_fools_event_frag_name=愚人黄金(Fool's Gold)
-$prefabs_item_currency_apr_fools_event_frag_desc=乍看之下很有价值，但它只是一块漂亮的石头。\n\n在愚人节期间，可以用来在光耀喷泉制作一个配方。\n\n<font color='#ff3030'>在愚人节后消失</font>
+$prefabs_item_currency_apr_fools_event_frag_desc=乍看之下很有价值，但它只是一块漂亮的石头。\n\n在愚人节期间，可以用来在光耀喷泉制作一个配方。
 $prefabs_item_currency_coin_bomb_legacy_name=炸弹大逃杀币: 燃尽币
 $prefabs_item_currency_coin_bomb_legacy_description=在炸弹台桌上使用第一季、第二季或爆炸币来转换，或通过书籍来获得。可以用来制作过去赛季的奖励
 $prefabs_item_currency_coin_bomb_current_name=炸弹大逃杀币: 爆炸币
@@ -59,3 +59,15 @@ $prefabs_item_crafting_event_september2022_dino_name=龙牛仔硬币
 $prefabs_item_crafting_event_september2022_dino_description=一枚硬币，献给你对牛仔的热爱。可以通过在牛仔龙和龙牛仔活动期间击败“沙漠边境中的地下城”获得。\n\n用于在主城活动区域的龙牛仔工作台制作龙牛仔模型。
 $prefabs_item_crafting_event_september2022_dino_premium_name=龙牛仔令牌
 $prefabs_item_crafting_event_september2022_dino_premium_description=一个奖励给你对牛仔热爱的令牌。通过在牛仔龙和龙牛仔活动期间完成“每日任务”领取。\n\n用于在主城活动区域的龙牛仔工作台制作龙牛仔模型。
+$prefabs_item_crafting_event_july2023_cakecoin_name=太阳庆典周年纪念币
+$prefabs_item_crafting_event_july2023_cakecoin_desc=通过参加太阳庆典活动获得。\n\n用于制作太阳庆典烤箱的奖励。
+$prefabs_item_crafting_event_august2023_sununion_name=艾莉西亚攻势币
+$prefabs_item_crafting_event_august2023_sununion_desc=通过完成艾莉西亚攻势的任务获得。它可以在光耀喷泉制作各种物品和收藏品。
+$prefabs_item_currency_delve_crystal_catastrophe_name=猫眼翡翠宝石
+$prefabs_item_currency_delve_crystal_catastrophe_description=用于在灾厄城堡内购买各种商品和服务，也可以在灾厄城堡内获取。
+$prefabs_item_crafting_event_september2023_frozen_name=冰霜纹章(Rime Crests)
+$prefabs_item_crafting_event_september2022_frozen_description=从冰封谷中的冰霜守护者身上获得的印记。\n\n用于在主城活动区的熔融铁砧上制作物品。
+$prefabs_item_crafting_event_september2023_burning_name=燃烧印记(Smoldering Mark)
+$prefabs_item_crafting_event_september2022_burning_description=从燃烧谷中的燃烧残簇身上获取的印记。\n\n用于在主城活动区的冰冻铁砧上制作物品。
+$prefabs_item_crafting_event_oct2023_pumpkin_name=暗影之夜南瓜硬币
+$prefabs_item_crafting_event_oct2023_pumpkin_desc=通过参加暗影之夜活动获得。\n\n可用于在暗影制作站制作奖励。

@@ -1,0 +1,3 @@
+$prefabs_npc_noncombat_merchant_pentapod_catastrophe_name=菲奥娜，灾厄
+$prefabs_npc_noncombat_merchant_pentapod_catastrophe_sign_title=菲奥娜，灾厄
+$prefabs_npc_noncombat_merchant_pentapod_catastrophe_sign_content=为今生和来世提供最好的商品的批发商和收割者！\n按 [HK:Loot] 查她的商品。

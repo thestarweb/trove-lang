@@ -1,0 +1,10 @@
+$prefabs_item_consumable_martialarts_shout_slam_energy_name=Shout: Invigorating Roar
+$prefabs_item_consumable_martialarts_shout_slam_energy_description=When consumed, increases ENERGY REGENERATION by 25% for 5 seconds.\n\nEquip in your Auto-Use slot to consume when using a SLAM ability (Fae Trickster, Ice Sage, Knight).\nCooldown: 60s
+$prefabs_item_consumable_martialarts_shout_flamebegin_incdmg_name=Shout: Intimidating Screech
+$prefabs_item_consumable_martialarts_shout_flamebegin_incdmg_description=When consumed, decreases INCOMING DAMAGE by 10% for 10 seconds.\n\nEquip in your Auto-Use slot to consume when using a CHANNEL ability for 3+ seconds (Dracolyte, Tomb Raiser).\nCooldown: 30s
+$prefabs_item_consumable_martialarts_shout_throw_slow_name=Shout: Intimidating Yell
+$prefabs_item_consumable_martialarts_shout_throw_slow_description=When consumed, reduces the MOVEMENT SPEED of nearby enemies by 85% for 5 seconds.\n\nEquip in your Auto-Use slot to consume when beginning a THROW ability or item use.\nCooldown: 60s
+$prefabs_item_consumable_martialarts_shout_leapjump_explosion_name=Shout: Massive Roar
+$prefabs_item_consumable_martialarts_shout_leapjump_explosion_description=When consumed, empowers your LEAP LANDING with an EXPLOSION.\n\nEquip in your Auto-Use slot to consume when using a LEAP ability (Candy Barbarian, Lunar Lancer).\nCooldown: 30s
+$prefabs_item_consumable_martialarts_shout_chargeend_blockaoe_name=Shout: Explosive Yell
+$prefabs_item_consumable_martialarts_shout_chargeend_blockaoe_description=When consumed, creates an EXPLOSION instantly at your location.\n\nEquip in your Auto-Use slot to consume when using a CHARGE ability (Knight, Neon Ninja, Vanguardian).\nCooldown: 45s

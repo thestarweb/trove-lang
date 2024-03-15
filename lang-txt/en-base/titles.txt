@@ -1,0 +1,10 @@
+$Titles_New=New
+$TitlesSelector=Titles
+$Titles_Both=Prefix/Suffix
+$Titles_Prefix=Prefix
+$Titles_Suffix=Suffix
+$Titles_PrefixOnly=Prefix Only
+$Titles_SuffixOnly=Suffix Only
+$Titles_FavoriteOnly=Favorite Only
+$Title_Select_Location=Select Title Location
+$generic_title_recipe_description=Consume to enable the crafting of this title at the TITLE CERTIFICATE STAMPER

@@ -1,0 +1,2 @@
+$prefabs_item_crafting_mysticism_hardened_mana_fragment_name=Crystallized Mana Fragment
+$prefabs_item_crafting_mysticism_hardened_mana_fragment_description=Occasional by-product when crafting BUFFS or POTIONS. Can be converted into Wild Trovian Mana at the Alchemystic's Lab.

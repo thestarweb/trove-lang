@@ -88,3 +88,5 @@ $Objective_Event_ShadowsEve=Spooky Hills
 $Objective_FaeTombsInUndeadLands=Fae Tombs in the Cursed Vale
 $Objective_UndeadTombsInFaewilds=Undead Tombs in the Fae Wilds
 $Objective_Giantlands=Sundered Uplands
+$Objective_tundra_tombs=Frozen Vaults
+$Objective_dragon_tombs=Smoldering Vaults

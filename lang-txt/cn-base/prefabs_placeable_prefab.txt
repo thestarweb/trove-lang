@@ -1,0 +1,2 @@
+$prefabs_placeable_blueprint_stack_of_blocks_name=方块堆
+$prefabs_placeable_blueprint_stack_of_blocks_description=一堆方块

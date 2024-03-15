@@ -1,0 +1,12 @@
+$prefabs_abilities_knight_charge_item_name=冲锋!
+$prefabs_abilities_knight_charge_item_description=使骑士向前冲撞，对撞到的敌人造成650%伤害并对其施加嘲讽2秒和眩晕效果。
+$prefabs_abilities_knight_passive_target_debuff_item_name=惩戒
+$prefabs_abilities_knight_passive_target_debuff_item_description=每次骑士受到伤害时，会储存惩戒值，增加下一次攻击的伤害。这最多可以叠加 3 次[700%/925%/1350%]，每次叠加会造成额外伤害。普通攻击可将目标的伤害降低 10%。额外的攻击会刷新此减益。\n\n\n\n\n\n
+$prefabs_abilities_knight_shield_heal_item_name=钢铁意志
+$prefabs_abilities_knight_shield_heal_item_description=完全治疗骑士并使其受到的伤害降低50%。使周围7名玩家受到伤害豁免25%，并将这部分伤害转移至骑士，持续12秒。
+$prefabs_abilities_knight_smash_item_name=碎击
+$prefabs_abilities_knight_smash_item_description=对前方扇形区域内的敌人造成850%伤害，并嘲讽敌人4.5秒。
+$prefabs_abilities_knight_subclass_name=整装待发
+$prefabs_abilities_knight_subclass_description=骑行地面坐骑时的移动速度上升，在低生命值状态下，短时间内获得一个减伤护盾。
+$prefabs_abilities_knight_shield_heal_effect_shield_description=稳定性提高150后再提高100%。承伤降低50%，抵抗附近寻宝者输出的伤害。
+$prefabs_abilities_knight_shield_heal_redirect_effect_shield_description=承伤降低25%，并向另一目标输出自身承伤的25%。稳定性提高100%。

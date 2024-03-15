@@ -1,3 +1,5 @@
+$prefabs_abilities_dragon_gemopal_yeet_buff_name=高级跳跃
+$prefabs_abilities_dragon_gemopal_yeet_buff_description=跳跃增加5，跳跃高度增加100%。
 $prefabs_abilities_dragon_bomber_cannon_item_name=龙火
 $prefabs_abilities_dragon_bone_cannon_item_name=龙火
 $prefabs_abilities_dragon_winter_2015_cannon_item_name=龙火

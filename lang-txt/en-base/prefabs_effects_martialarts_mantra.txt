@@ -1,0 +1,12 @@
+$prefabs_effects_martialarts_mantra_drink_heal_litany_name=Litany: When in Trove!
+$prefabs_effects_martialarts_mantra_drink_heal_litany_description=Healed 5% of Maximum Health when DRINKING a potion.
+$prefabs_effects_martialarts_mantra_mine_blockaoe_litany_name=Litany of Mega-Lasermancy
+$prefabs_effects_martialarts_mantra_mine_blockaoe_litany_description=EXPLOSION triggered when MINING for 5s.\nCooldown: 30s
+$prefabs_effects_martialarts_mantra_mine_blockreveal_litany_name=Litany of Meta-Lasermancy
+$prefabs_effects_martialarts_mantra_mine_blockreveal_litany_description=BLOCK REVEAL triggered when MINING for 3s.\nCooldown: 5s
+$prefabs_effects_martialarts_mantra_pose_magicfind_litany_name=Litany of Luck
+$prefabs_effects_martialarts_mantra_pose_magicfind_name=Mantra of Luck
+$prefabs_effects_martialarts_mantra_pose_magicfind_description=Grants +25 Magic Find plus an additional 1%.
+$prefabs_effects_martialarts_mantra_sleep_regeneration_name=Mantra of Regeneration
+$prefabs_effects_martialarts_mantra_sleep_regeneration_litany_name=Litany of Regeneration
+$prefabs_effects_martialarts_mantra_sleep_regeneration_description=Grants +500 Health Regeneration plus an additional 5%.

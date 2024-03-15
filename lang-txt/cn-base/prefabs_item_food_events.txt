@@ -1,0 +1,8 @@
+$prefabs_item_food_events_march2021_lite_name=圣克贝斯利可美味
+$prefabs_item_food_events_march2021_lite_description=它的大小刚好一口，而且味道鲜美！\n一旦被食用，您就可以在侏罗纪丛林中看到原本看不见的幸运兽！\n<font color='#ff3030'>在圣克贝斯利活动结束不久后消失</font> 
+$prefabs_item_food_events_march2021_feast_name=圣克贝斯利可盛宴
+$prefabs_item_food_events_march2021_feast_description=丰盛的大餐，非常适合狩猎中的寻宝者！\n一旦被食用，您就可以在侏罗纪丛林中看到原本看不见的幸运兽！\n<font color='#ff3030'>在圣克贝斯利活动结束不久后消失</font> 
+$prefabs_item_food_events_april2021_food_name=兔子的精神糖果花瓣
+$prefabs_item_food_events_april2021_food_description=清淡又美味!
+$prefabs_item_food_events_renewus2024_protein_bar_name=加尔斯的冠军蛋白棒
+$prefabs_item_food_events_renewus2024_protein_bar_desc=要想像冠军一样出击，就得先按冠军的方式训练。为此，饮食也必须和冠军一样。\n\n\n成为冠军吧，加尔斯知道你做得到。
