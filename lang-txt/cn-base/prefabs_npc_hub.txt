@@ -11,3 +11,5 @@ $prefabs_npc_hub_merchant_mysticism_deco_sign_content=按[HK:Loot]出售可放�
 $prefabs_npc_hub_merchant_martialarts_deco_1_name=靠谱的蚱蜢
 $prefabs_npc_hub_merchant_martialarts_deco_2_name=又一只靠谱的蚱蜢
 $prefabs_npc_hub_merchant_martialarts_deco_sign_content=按[HK:Loot]出售可放置装饰品！来资助霓虹公会吧！
+$prefabs_npc_hub_merchant_gearcrafting_sign_title=吉列尔莫·阿玛达
+$prefabs_npc_hub_merchant_gearcrafting_sign_content=按【HK:Loot】浏览装备制造相关商品。

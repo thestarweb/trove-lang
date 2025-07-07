@@ -21,3 +21,5 @@ $prefabs_npc_delve_merchant_catastrophe_name=$DNT - Quartermeowster
 $prefabs_npc_delve_merchant_catastrophe_sign_title=Griff, Field Merchant
 $prefabs_npc_delve_merchant_catastrophe_sign_content=Check my wares! [HK:Loot] to interact.
 $prefabs_npc_delve_merchant_catastrophe_postboss_sign_title=Quartermeowster Griff
+$prefabs_npc_delve_merchant_caverns_depths_kraken_herald_sign_title=Herald of the Deep Kraken
+$prefabs_npc_delve_merchant_caverns_depths_kraken_herald_sign_content=[HK:Loot] to interact.

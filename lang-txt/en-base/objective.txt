@@ -90,3 +90,5 @@ $Objective_UndeadTombsInFaewilds=Undead Tombs in the Fae Wilds
 $Objective_Giantlands=Sundered Uplands
 $Objective_tundra_tombs=Frozen Vaults
 $Objective_dragon_tombs=Smoldering Vaults
+$Objective_MaxUber_StartingZone=The Risen Depths
+$Objective_LuxionLands_Startingzone=The Venture Capitol

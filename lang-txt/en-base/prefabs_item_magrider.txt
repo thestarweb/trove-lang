@@ -40,3 +40,4 @@ $prefabs_collections_magrider_board_pumpkinpie_name=Sliced Slider
 $prefabs_collections_magrider_board_pumpkinpie_description=This pie was made for dancin'
 $prefabs_item_magrider_dance_eggsurprise_item_name=Mag Rider: Eggsurprise Shaker
 $prefabs_item_magrider_board_dance_eggsurprise_item_description=Open up this egg and dance your bunfest off.
+$prefabs_item_magrider_dancepad_ring_item_name=Mag Rider: Champ Pad

@@ -34,11 +34,11 @@ $prefabs_item_currency_july2021_panatea_description=使用革命性的新技术�
 $prefabs_item_currency_july2021_carys_name=卡瑞斯达克特
 $prefabs_item_currency_july2021_carys_description=使用卡瑞斯家族顶级的铸币技术，这是今天与未来的货币！
 $prefabs_item_currency_march2022_event_coin_name=幸运爵士币(Sir O'Lucky's Coin)
-$prefabs_item_currency_march2022_event_coin_description=圣克贝斯利部落的一枚硬币，从恶棍海盗手中夺回。\n\n<font color='#ff3030'>在圣克贝斯利活动结束不久后消失</font> 
+$prefabs_item_currency_march2022_event_coin_description=圣克贝斯利可部落的一枚硬币，从恶棍海盗手中夺回。
 $prefabs_item_currency_march2022_event_frag_name=幸运碎片(Fragment of Luck)
-$prefabs_item_currency_march2022_event_frag_description=幸运爵士出售的幸运碎片。可用于购买聚金罐、幸运爵士旗帜和小幸运。\n\n<font color='#ff3030'>在圣克贝斯利活动结束不久后消失</font> 
+$prefabs_item_currency_march2022_event_frag_description=幸运爵士出售的幸运碎片。在圣克贝斯利活动期间，可用于购买或制作奖励。
 $prefabs_item_currency_apr_fools_event_frag_name=愚人黄金(Fool's Gold)
-$prefabs_item_currency_apr_fools_event_frag_desc=乍看之下很有价值，但它只是一块漂亮的石头。\n\n\n在愚人节期间，可以用来在光耀喷泉制作一个配方。\n\n\n<font color='#ff3030'>在愚人节后消失</font>
+$prefabs_item_currency_apr_fools_event_frag_desc=乍看之下很有价值，但它只是一块漂亮的石头。\n\n\n在愚人节期间，可以用来在光耀喷泉制作配方。
 $prefabs_item_currency_coin_bomb_legacy_name=炸弹大逃杀币: 燃尽币
 $prefabs_item_currency_coin_bomb_legacy_description=在炸弹台桌上使用第一季、第二季或爆炸币来转换，或通过书籍来获得。可以用来制作过去赛季的奖励
 $prefabs_item_currency_coin_bomb_current_name=炸弹大逃杀币: 爆炸币
@@ -50,7 +50,7 @@ $prefabs_item_crafting_event_july2022_ucc_description="明日货币，今日在�
 $progression_node_unlock_name=天球
 $progression_node_unlock_description=星辰的球体，可以让寻宝者获得力量。找到主城的星图插入其中。\n\n\n可以在主城的天球商人中购买。
 $progression_essence_name=星空回响
-$progression_essence_description=在星尘之中漂浮出来。这些回响现在可以在世界上的地下城找到。\n\n\n可以从主城的天球商人中购买物品。
+$progression_essence_description=在星尘之中漂浮出来。这些回响现在可以在世界上的地下城找到。可以从主城的天球商人中购买物品。
 $prefabs_item_crafting_event_september2022_cowboy_name=牛仔龙硬币
 $prefabs_item_crafting_event_september2022_cowboy_description=一枚硬币，献给你对恐龙的热爱。可以通过在牛仔龙和龙牛仔活动期间击败“侏罗纪丛林中的地下城”获得。\n\n\n用于在主城活动区域的牛仔龙工作台制作牛仔龙雕像。\n\n
 $prefabs_item_crafting_event_september2022_cowboy_premium_name=牛仔龙令牌
@@ -69,3 +69,5 @@ $prefabs_item_crafting_event_september2023_frozen_name=冰霜纹章(Rime Crests)
 $prefabs_item_crafting_event_september2022_frozen_description=从冰封谷中的冰霜守护者身上获得的印记。\n\n\n用于在主城活动区的熔融铁砧上制作物品。
 $prefabs_item_crafting_event_september2023_burning_name=燃烧印记(Smoldering Mark)
 $prefabs_item_crafting_event_september2022_burning_description=从燃烧谷中的燃烧残簇身上获取的印记。\n\n\n用于在主城活动区的冰冻铁砧上制作物品。
+$prefabs_item_crafting_event_oct2023_pumpkin_name=暗影之夕南瓜硬币
+$prefabs_item_crafting_event_oct2023_pumpkin_desc=参加暗影之夕活动即可领取。\n\n\n用于在暗影制作站制作奖励。

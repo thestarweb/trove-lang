@@ -1841,3 +1841,7 @@ $prefabs_collections_pet_wheel_eggman_desc=这是一个彩蛋，但它来自蛋�
 $prefabs_collections_pet_biped_bunnywarrior_name=霍普侍卫
 $prefabs_collections_pet_biped_bunnywarrior_item_name=宠物: 霍普侍卫
 $prefabs_collections_pet_biped_bunnywarrior_desc=西克先生的弟弟，希望能像哥哥一样成为一名骑士。
+$prefabs_collections_pet_dragonman_gearcrafting_name=小齿轮
+$prefabs_collections_pet_dragonman_gearcrafting_description=经常给它上油，防止金属碰撞产生的吱吱声和刺耳声。
+$prefabs_collections_pet_zepperay_gearcrafting_name=齿轮传单
+$prefabs_collections_pet_zepperay_gearcrafting_description=眼睛：瞄准目标。手臂：向后。耳朵：扇动模式。

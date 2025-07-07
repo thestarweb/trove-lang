@@ -249,3 +249,11 @@ $prefabs_placeable_frameworks_catastrophe_crypt_description=Need a cozy place to
 $prefabs_placeable_frameworks_house_pinzo_name=Pinzo's Popup Condo
 $prefabs_placeable_frameworks_house_pinzo_recipe_name=Recipe: Pinzo's Popup Condo
 $prefabs_placeable_frameworks_house_pinzo_description=Placeable in Club Worlds only.\n\nAnother of Chuck Pinzo's marvelous creations, a condominium that can be placed anywhere, any time... as long as the area is up to code and you have the correct permits. Those services are sold separately.\n\n<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_snowman_deco_name=Frozen Snowvaders
+$prefabs_placeable_frameworks_snowman_deco_description=Placeable in Club Worlds and on Cornerstones only.\n\nA monument to the Snowvasion of '24.\n\n<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_snowman_medium_name=Large Snowman (Medium)
+$prefabs_placeable_frameworks_snowman_medium_description=Placeable in Club Worlds and on Cornerstones only.\n\nA medium-sized Large Snowman.\n\n<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_snowman_small_name=Large Snowman (Small)
+$prefabs_placeable_frameworks_snowman_small_description=Placeable in Club Worlds and on Cornerstones only.\n\nA small-sized Large Snowman.\n\n<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.
+$prefabs_placeable_frameworks_wrestling_ring_name=Boxing Ring
+$prefabs_placeable_frameworks_wrestling_ring_description=Placeable in Cornerstones and Club Worlds.\n\nA perfect spot for a bout!\n\n<font color='#ff3030'>Warning:</font> Frameworks destroy all blocks they intersect with and these blocks are not returned. Frameworks cannot be picked up again once placed.

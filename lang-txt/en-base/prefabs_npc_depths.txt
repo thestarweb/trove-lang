@@ -1,0 +1,7 @@
+$prefabs_npc_depths_merchant_adventureworld_sign_title=Mr. Thommas Tortoise
+$prefabs_npc_depths_merchant_adventureworld_sign_content=[HK:Loot] to browse his wares
+$prefabs_npc_depths_outpost_saltwater_speech=It looks like Thommas had one too many Pyric Essences for breakfast...
+$prefabs_npc_depths_outpost_spirit_tank_speech=With this baby, I'd bet I could fish up a Leviathan...
+$prefabs_npc_depths_outpost_ice_mage_speech=I thought this Staff would give me magical powers, but all it did was mutate my ventral scales.
+$prefabs_npc_depths_outpost_spirit_tank_sign_title=Murkwater Mark
+$prefabs_npc_depths_outpost_spirit_tank_sign_content=Fishing up a winner!

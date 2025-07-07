@@ -40,3 +40,5 @@ $prefabs_item_wings_confetti_name=飞翼：彩屑洁迪思
 $prefabs_item_wings_confetti_description=和这些梦幻飘带一起时髦地滑翔天空吧。
 $prefabs_item_wings_crystal_white_name=飞翼：深渊六角飞翼
 $prefabs_item_wings_crystal_white_description=100移动速度\n100滑翔速度\n可在私人秘境和挑战秘境中使用
+$prefabs_item_wings_glider_gearcrafting_name=双臂齿轮滑翔翼
+$prefabs_item_wings_glider_gearcrafting_description=从重量上来看，它比你想象的要结实。

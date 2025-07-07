@@ -47,3 +47,11 @@ $prefabs_effects_mysticism_buff_waterwalk_effect_description=Transforms water be
 $prefabs_effects_mysticism_buff_firewalk_name=BUFF: Firewalker
 $prefabs_effects_mysticism_buff_firewalk_description=Transforms lava beneath your feet into walkable ground until the current DAY ends. \n\n<font color='#ffcf72'>You may only have ONE (1) BUFF active at a time.</font>
 $prefabs_effects_mysticism_buff_firewalk_effect_description=Transforms lava beneath your feet into walkable ground.
+$prefabs_effects_gearcrafting_pet_bonus_dungeons_name=Gearcrafter's Luck
+$prefabs_effects_gearcrafting_zepperay_pet_bonus_dungeons=Grants a chance to drop 1+ Gearcrafter's Vaults when completing a dungeon.
+$prefabs_effects_mysticism_buff_depths_kraken_magnet_immunity_name=BUFF: Stability of the Deep
+$prefabs_effects_mysticism_buff_depths_kraken_magnet_immunity_description=Allows you to resist the Lure of the Deep Kraken. \n\n<font color='#ffcf72'>You may only have ONE (1) BUFF active at a time.</font>
+$prefabs_effects_mysticism_buff_depths_kraken_magnet_immunity_effect_description=Immune to the PULL EFFECT of the Deep Kraken.
+$prefabs_effects_mysticism_buff_depths_water_movement_name=BUFF: Augment Buoyancy
+$prefabs_effects_mysticism_buff_depths_water_movement_description=Augments your movement when in Water, making it easier to descend but harder to move & ascend.\nNot recommended for use outside of Water!\n\n<font color='#ffcf72'>You may only have ONE (1) BUFF active at a time.</font>
+$prefabs_effects_mysticism_buff_depths_water_movement_effect_description=Augments your movement when in Water, making it easier to descend but harder to move & ascend.\nNot recommended for use outside of Water!

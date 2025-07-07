@@ -270,3 +270,4 @@ $CollectionName_CatastropheTemporary=灾厄菲奥娜 (临时)
 $CollectionName_EventVault=活动金库
 $CollectionName_Mysticism=神秘学
 $CollectionName_MartialArts=武术
+$CollectionName_Gearcrafting=装备制作

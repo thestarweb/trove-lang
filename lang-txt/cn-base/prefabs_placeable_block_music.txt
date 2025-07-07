@@ -6,3 +6,4 @@ $prefabs_placeable_block_music_note_D_item_name=D音节
 $prefabs_placeable_block_music_note_E_item_name=E音节
 $prefabs_placeable_block_music_note_F_item_name=F音节
 $prefabs_placeable_block_music_note_G_item_name=G音节
+$prefabs_placeable_block_generic_description=音乐方块\n\n\n按[HK:Loot]切换声音。

@@ -15,3 +15,7 @@ $prefabs_gameplay_chest_delve_castle_catastra_keyed_sign_title=Reinforced Gemera
 $prefabs_gameplay_chest_delve_castle_catastra_keyed_sign_content=Equip and Use 'Fi's Key' to open and give loot to all NEARBY PLAYERS.
 $prefabs_gameplay_chest_quest_oct2023_pumpkin_sign_title=Cache of the Patch
 $prefabs_gameplay_chest_quest_oct2023_pumpkin_sign_content=Use a Pumpkin Patch Cache Key within 30 seconds!
+$prefabs_gameplay_chest_quest_rune_vault_01_name=Surfaced Depths Cache
+$prefabs_gameplay_chest_quest_rune_vault_01_description=Equip and use a Surfaced Depths Cache Key when nearby to open.
+$prefabs_gameplay_chest_quest_rune_vault_02_name=Runic Depths Vault
+$prefabs_gameplay_chest_quest_rune_vault_02_description=Equip and use a Runic Depths Vault Key when nearby to open.

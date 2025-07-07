@@ -1,0 +1,4 @@
+$prefabs_effects_depths_pet_hermitcrab_trigger_description=在无间邪影难度(15)世界中打开地下城宝箱时有几率获得和风精华。
+$prefabs_effects_depths_pet_qubesly_trigger_description=在无间邪影难度(15)世界中打开地下城宝箱时有几率获得深渊精华。
+$prefabs_effects_depths_pet_pebble_trigger_description=在无间邪影难度(15)世界中打开地下城宝箱时有几率获得燃烧精华。
+$prefabs_effects_depths_pet_mimic_trigger_description=在深渊秘境生物群落中击败任何生物时有较低几率获得深渊核心与深渊灵魂。

@@ -47,3 +47,4 @@ $prefabs_effects_mysticism_buff_waterwalk_effect_description=将水面转化为�
 $prefabs_effects_mysticism_buff_firewalk_name=增益：火行者
 $prefabs_effects_mysticism_buff_firewalk_description=将岩浆转化为可行走的地面，效果持续至第二天开始前。\n\n<font color='#ffcf72'>每次仅可激活一(1)个增益效果。</font>
 $prefabs_effects_mysticism_buff_firewalk_effect_description=将岩浆转化为可行走的地面
+$prefabs_effects_gearcrafting_zepperay_pet_bonus_dungeons=通关地下城时有机会掉落至少一件装备制造者宝库。

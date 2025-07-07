@@ -950,3 +950,7 @@ $prefabs_item_mount_cycle_crypt_name=菲的邪恶机器
 $prefabs_item_mount_cycle_crypt_description=具有收藏的价值。
 $prefabs_item_mount_mechquad_mysticism_name=坐骑: 神秘机械
 $prefabs_item_mount_mechquad_mysticism_description=仔细想想，科技和魔法其实很相似。
+$prefabs_item_mount_sawblade_gearcrafting_name=回旋陀螺齿轮
+$prefabs_item_mount_sawblade_gearcrafting_description=用你的脚趾紧紧抓住...
+$prefabs_item_mount_cycle_quad_gearcrafting_name=多齿研磨机
+$prefabs_item_mount_cycle_quad_gearcrafting_description=全副武装！

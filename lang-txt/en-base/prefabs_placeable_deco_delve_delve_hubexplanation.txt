@@ -5,7 +5,7 @@ $prefabs_placeable_deco_delve_delve_hubexplanation_chest_delve_standard_01_sign_
 $prefabs_placeable_deco_delve_delve_hubexplanation_chevron_sign_title=What are Chevrons?
 $prefabs_placeable_deco_delve_delve_hubexplanation_chevron_sign_content=In most Delve rooms there will be an arrow design in the floor pointing towards the next room in the Delve.
 $prefabs_placeable_deco_delve_delve_hubexplanation_darkness_sign_title=What is Darkness?
-$prefabs_placeable_deco_delve_delve_hubexplanation_darkness_sign_content=Starting at Uber-8, creatures will have a Darkness buff which will both protect them and cause you more damage, unless you have a competitive Light stat.
+$prefabs_placeable_deco_delve_delve_hubexplanation_darkness_sign_content=Starting at Pure Midnight (11), creatures will have a Darkness buff which will both protect them and cause you more damage, unless you have a competitive Light stat.
 $prefabs_placeable_deco_delve_delve_hubexplanation_deltalith_sign_title=What are Deltaliths?
 $prefabs_placeable_deco_delve_delve_hubexplanation_deltalith_sign_content=Found at the begining of each Delve Tier, Deltalith blocks explain what special modifiers are active in the Delve Tier and for specific creatures.
 $prefabs_placeable_deco_delve_delve_hubexplanation_monolith_sign_title=What are Monoliths?

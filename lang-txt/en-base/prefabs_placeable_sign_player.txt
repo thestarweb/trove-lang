@@ -19,3 +19,4 @@ $prefabs_placeable_sign_player_note_sign_title=Information
 $prefabs_placeable_sign_player_note_sign_content=Press [HK:Loot] to set text.
 $prefabs_placeable_sign_player_trove_sign_title=Trove!
 $prefabs_placeable_sign_player_trove_sign_content=Press [HK:Loot] to set text.
+$prefabs_placeable_sign_player_designedby_item_name=Desgined By Sign

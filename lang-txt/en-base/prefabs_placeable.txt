@@ -13,6 +13,7 @@ $prefabs_placeable_chest_club_vault_item_description=Used to store Clubits to he
 $prefabs_placeable_classchanger_item_name=Class Selector
 $prefabs_placeable_classchanger_item_description=Select your class.
 $prefabs_placeable_classchanger_placeable_description=Press [HK:ClassChanger] to access the Class Selector
+$prefabs_placeable_classchanger_placeable_description_controller=Press [HK:NavigationMenu] to access the Class Selector (under CHARACTER)
 $prefabs_placeable_cs_recov_item_name=D.E.R.P.
 $prefabs_placeable_friendstone_item_name=Rally Blade
 $prefabs_placeable_friendstone_interactive_sign_title=Rally Blade

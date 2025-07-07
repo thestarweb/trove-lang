@@ -1,2 +1,10 @@
 $prefabs_placeable_sign_lore_startingzone_item_name=sign01
 $prefabs_placeable_sign_lore_undead_item_name=sign01
+$prefabs_placeable_sign_tutorial_mining_placeable_entity_title=Mining
+$prefabs_placeable_sign_tutorial_mining_placeable_entity_text=To Mine ORE and other blocks, use [HK:SwitchInputMode] to toggle BUILD MODE, then hold [HK:BuildModeDestroy] while aiming at the Ore!
+$prefabs_placeable_sign_tutorial_tips_placeable_entity_title=Trove Tips
+$prefabs_placeable_sign_tutorial_tips_placeable_entity_text=Trove is full of features & systems. You can review TIPS in the COLLECTIONS UI [HK:Collections], under the BADGES > TIPS category!
+$prefabs_placeable_sign_tutorial_tips_placeable_entity_text_controller=Trove is full of features & systems. Review TIPS from COLLECTIONS (found in the MENU [HK:NavigationMenu]) under the BADGES > TIPS category!
+$prefabs_placeable_sign_tutorial_wings_placeable_entity_title=Wings
+$prefabs_placeable_sign_tutorial_wings_placeable_entity_text=Wings let you glide in the air, slowly dropping over time. [HK:MoveBackward] will slow your movement, and [HK:MoveForward] will increase your speed, but send you downward!\n\nUPDRAFT BLOCKS can keep you airborn longer!
+$prefabs_placeable_sign_tutorial_wings_placeable_entity_text_controller=Wings let you glide in the air, slowly dropping over time. Moving backward will slow your movement, and forward will increase your speed, but send you downward!\n\nUPDRAFT BLOCKS can keep you airborn longer!

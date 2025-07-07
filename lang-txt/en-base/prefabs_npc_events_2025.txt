@@ -1,0 +1,16 @@
+$prefabs_npc_events_2025_february_hub_heckbug_heartwarmer_sign_title=Harold
+$prefabs_npc_events_2025_february_hub_heckbug_heartwarmer_sign_content=H.E.C.K. Heartwarmer
+$prefabs_npc_events_2025_february_hub_heckbug_helper_sign_title=Hailey
+$prefabs_npc_events_2025_february_hub_heckbug_helper_sign_content=H.E.C.K. Helper
+$prefabs_npc_events_2025_february_hub_heckbug_hunter_sign_title=Heckbug Hunter
+$prefabs_npc_events_2025_february_hub_heckbug_hunter_sign_content=Press [HK:Loot] to see items for sale!
+$prefabs_npc_events_2025_february_capybara_5star_sign_title=Marquitillo Ybarra
+$prefabs_npc_events_2025_february_capybara_5star_sign_content="Missing?! No, I've just been hunting these Rubber Duckets! They're from some kind of ancient civilization!"
+$prefabs_npc_events_2025_february_capybara_hub_sign_title=Marquitillo Ybarra
+$prefabs_npc_events_2025_february_capybara_hub_sign_content="I've been learning about an ancient Duck-based civilization! Got any Duckats or information from 5-Stars Dungeons?!"\nPress [HK:Loot] to trade
+$prefabs_npc_events_2025_april_bunfest_biped_cyberbun_sign_title=Lepora
+$prefabs_npc_events_2025_april_bunfest_biped_cyberbun_sign_content=I've come from the future to observe the rituals of my ancestors. My grandparents told me stories about BUNFEST!
+$prefabs_npc_events_2025_july_hub_qubesly_sign_title=Patrolsly
+$prefabs_npc_events_2025_july_hub_qubesly_sign_content="Sunfest! Wooooo!"\nPress [HK:Loot] to interact!
+$prefabs_npc_events_2025_july_hub_qubesly_crafting_recipecategories_category_0_title=Sunfest 2025
+$prefabs_npc_events_2025_july_hub_qubesly_crafting_recipecategories_category_1_title=Legacy Sunfest

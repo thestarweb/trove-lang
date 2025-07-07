@@ -271,3 +271,4 @@ $CollectionName_EventVault=活动金库
 $CollectionName_TitleCertificates=称号证书
 $CollectionName_Mysticism=秘术
 $CollectionName_MartialArts=武术
+$CollectionName_Gearcrafting=装备锻造

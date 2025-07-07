@@ -1,0 +1,11 @@
+$prefabs_placeable_luxion_lands_access_name=Luxion's Pact Register
+$prefabs_placeable_luxion_lands_access_description=...
+$prefabs_placeable_luxion_lands_donation_name=Luxion's Long-Shots!
+$prefabs_placeable_luxion_lands_donation_description=No risk, no reward!\nPress [HK:Loot] to donate materials to Luxion's Horde for a chance at a Venturine Stash!
+$prefabs_placeable_luxion_lands_venturine_forge_name=Venturine Forge
+$prefabs_placeable_luxion_lands_venturine_forge_craftingstation_instructionOverride=Press [HK:Loot] to use Venturine to get access to Luxion's Hoard! BEWARE: Some items in the hoard change as quickly as every 6 hours!
+$prefabs_placeable_luxion_lands_venturine_forge_description=...
+$prefabs_placeable_luxion_lands_venturine_forge_crafting_recipeCategory_0=Venturine
+$prefabs_placeable_luxion_lands_venturine_forge_crafting_recipeCategory_1=Luxion's Favor
+$prefabs_placeable_luxion_lands_venturine_forge_crafting_recipeCategory_2=Unfortunate Souls
+$prefabs_placeable_luxion_lands_venturine_forge_crafting_recipeCategory_3=Luxion's Hoard

@@ -1,0 +1,2 @@
+$prefabs_effects_delve_healthregen_scaling_name=Under Pressure
+$prefabs_effects_delve_healthregen_scaling_description=Reduces your Health Regeneration.\nThis effect scales with your current Delve depth.

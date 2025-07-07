@@ -47,3 +47,4 @@ $prefabs_effects_mysticism_buff_waterwalk_effect_description=将脚下的水变�
 $prefabs_effects_mysticism_buff_firewalk_name=增益: 火行者
 $prefabs_effects_mysticism_buff_firewalk_description=将脚下的岩浆变成可行走的地面，直到一天的结束（北京时间19：00）。\n\n<font color='#ffcf72'>每次只能激活一种增益。</font>
 $prefabs_effects_mysticism_buff_firewalk_effect_description=将脚下的岩浆变成可行走的地面。
+$prefabs_effects_gearcrafting_zepperay_pet_bonus_dungeons=在完成地下城时，有几率掉落 1+ 个装备锻造者宝箱。

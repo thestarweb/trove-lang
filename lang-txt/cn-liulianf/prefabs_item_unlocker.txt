@@ -239,3 +239,5 @@ $prefabs_item_recipe_unlocker_sept2023_item_name=配方收藏: 冰冻谷
 $prefabs_item_recipe_unlocker_sept2023_item_description=解锁2023冰与火之战活动中的随机装饰，可在寒霜工作台制作。
 $prefabs_item_unlocker_recipe_dec2023_gift_effigy_name=2023冰雪庆典雕像
 $prefabs_item_unlocker_recipe_dec2023_gift_effigy_desc=随机解锁一个2023冰雪庆典收藏品"宠物：夜光"、"宠物：绝对是礼物"、"坐骑：叮叮当"、"坐骑：摇滚骑士" 和 "书籍：钻龙石文摘"。\n\n可分解为高级冰箱庆典2023宝箱，其中包括一个可交易的"宠物：夜光"、"宠物：绝对是礼物"、"坐骑：叮叮当"、"坐骑：摇滚骑士"、"叮当炸弹" 和 "书籍：钻龙石文摘"。
+$prefabs_item_unlocker_gearcrafting_expertise_name=终端收藏模块
+$prefabs_item_unlocker_gearcrafting_expertise_description=随机解锁一个你尚未拥有的装备锻造相关的坐骑、宠物或翅膀。

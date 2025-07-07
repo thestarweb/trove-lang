@@ -40,3 +40,7 @@ $prefabs_item_wings_confetti_name=Wings: Confetti Jetties
 $prefabs_item_wings_confetti_description=Streak through the skies in style with these dreamy streamers.
 $prefabs_item_wings_crystal_white_name=Wings: Abyssal Paragon Wings
 $prefabs_item_wings_crystal_white_description=100 Movement Speed\n100 Glide\n\nUsable in Private and Challenge Delves
+$prefabs_item_wings_glider_gearcrafting_name=Twin-Arm Gear-lider
+$prefabs_item_wings_glider_gearcrafting_description=Sturdier than you would expect, given the weight.
+$prefabs_item_wings_honeybee_name=Wings: Twin B-Wings
+$prefabs_item_wings_holly_name=Wings: Supernatural Holly

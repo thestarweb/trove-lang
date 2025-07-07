@@ -1,0 +1,6 @@
+$prefabs_equipment_banner_event_2024_august_name=Moonshadow Standard
+$prefabs_equipment_banner_event_2024_august_description=Woven from pure Lunar energy.
+$prefabs_equipment_banner_event_2024_september_up_name=Cloud Layer Loyalty Flag
+$prefabs_equipment_banner_event_2024_september_up_description=Only Sundered Uplands citizens loyal to the Cloud Layer are allowed to craft and equip this banner. Or anybody Cloud Layer delegates happen to like...
+$prefabs_equipment_banner_event_2024_september_down_name=Ashen Wastes Loyalty Flag
+$prefabs_equipment_banner_event_2024_september_down_description=Only Sundered Uplands citizens loyal to the Ashen Wastes are allowed to craft and equip this banner. Or anybody Ashen Wastes delegates happen to like...

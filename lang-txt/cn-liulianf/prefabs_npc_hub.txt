@@ -11,3 +11,5 @@ $prefabs_npc_hub_merchant_mysticism_deco_sign_content=按 [HK:Loot] 购买可放
 $prefabs_npc_hub_merchant_martialarts_deco_1_name=乐于助人的菜鸟
 $prefabs_npc_hub_merchant_martialarts_deco_2_name=另一个有用的菜鸟
 $prefabs_npc_hub_merchant_martialarts_deco_sign_content=按 [HK:Loot] 购买可放置的装饰品!为霓虹武术公会筹集资金！
+$prefabs_npc_hub_merchant_gearcrafting_sign_title=吉列莫锻造师
+$prefabs_npc_hub_merchant_gearcrafting_sign_content=按 [HK:Loot] 浏览与装备锻造相关的物品。

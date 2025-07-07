@@ -33,7 +33,7 @@ $prefabs_placeable_frameworks_hubspring_pvpshrine_01_description=只可放置在
 $prefabs_placeable_frameworks_hubspring_sunstatue_01_name=太阳女神的光辉
 $prefabs_placeable_frameworks_hubspring_sunstatue_01_description=只可放置在公会世界中。\n\n\n\n\n一尊高耸的雕像，描绘了华丽的太阳女神。\n\n\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
 $prefabs_placeable_frameworks_hubsummer_shipshack_01_name=主城船坞
-$prefabs_placeable_frameworks_hubsummer_shipshack_01_description=只能放在基石区域和公会世界中。\n\n\n\n\n这看起来像是盐水商人山姆昨天在主城突然建造出来的商店。\n\n\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
+$prefabs_placeable_frameworks_hubsummer_shipshack_01_description=只能放在基石区域和公会世界中。\n\n\n\n\n这看起来像是盐水山姆昨天在主城突然建造出来的商店。\n\n\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
 $prefabs_placeable_frameworks_hubturkeytopia_turkeyshrine_01_name=土耳其雕像
 $prefabs_placeable_frameworks_hubturkeytopia_turkeyshrine_01_description=只可放置在公会世界中。\n\n\n\n\n对此刻火鸡庆典的热门之鸡表示小小敬意。\n\n\n\n\n<font color='#ff3030'>警告：</font>框架会摧毁所有与其相交的方块，而且这些方块不会被返还。一旦放置，框架不可被再次收起。
 $prefabs_placeable_frameworks_hubwinter_icerink_01_name=主城溜冰场

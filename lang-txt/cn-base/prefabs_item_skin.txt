@@ -349,3 +349,5 @@ $prefabs_item_skin_candybarbarian_icefire_description=糖果野蛮人的霜怒�
 $prefabs_item_skin_ice_mage_icefire_name=元素师外衣
 $prefabs_item_skin_ice_mage_icefire_item_name=服饰: 元素师外衣
 $prefabs_item_skin_ice_mage_icefiree_description=寒冰贤者的元素师外衣。\n\n\n寒冰与火焰的大师。
+$prefabs_item_skin_adventurer_sandcastle_item_name=服饰：葬沙·爆破游侠
+$prefabs_item_skin_adventurer_sandcastle_item_description=葬沙·爆破游侠服饰是爆破游侠的服饰。\n\n\n你要是在沙滩上睡着了，可千万别被逮住！

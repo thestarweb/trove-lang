@@ -11,3 +11,5 @@ $prefabs_npc_hub_merchant_mysticism_deco_sign_content=Placeable Decorations for 
 $prefabs_npc_hub_merchant_martialarts_deco_1_name=Helpful Grasshopper
 $prefabs_npc_hub_merchant_martialarts_deco_2_name=Another Helpful Grasshopper
 $prefabs_npc_hub_merchant_martialarts_deco_sign_content=Placeable Decorations for sale [HK:Loot]! Fund the Neon Punch Club!
+$prefabs_npc_hub_merchant_gearcrafting_sign_title=Guillermo Armada
+$prefabs_npc_hub_merchant_gearcrafting_sign_content=Press [HK:Loot] to browse GEARCRAFTING related goods.

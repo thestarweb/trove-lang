@@ -1,0 +1,13 @@
+$prefabs_effects_luxion_lands_boost_damage_description=Boosts Damage dealt when within the Trials of Luxion.\n\nYou may only have a single Luxion's Favor effect active at a time.
+$prefabs_effects_luxion_lands_boost_movementspeed_description=Boosts Movement Speed by 35 up to a maximum of 140 when within the Trials of Luxion.\n\nYou may only have a single Luxion's Favor effect active at a time.
+$prefabs_effects_luxion_lands_boost_jump_description=Boosts Jump by 15 up to a maximum of 40 when within the Trials of Luxion.\n\nYou may only have a single Luxion's Favor effect active at a time.
+$prefabs_effects_luxion_lands_boost_maxhealth_description=Boosts Maximum Health by 50% when within the Trials of Luxion.\n\nYou may only have a single Luxion's Favor effect active at a time.
+$prefabs_effects_luxion_lands_boost_maxenergy_description=Boosts Maximum Energy by 15 when within the Trials of Luxion.\n\nYou may only have a single Luxion's Favor effect active at a time.
+$prefabs_effects_luxion_lands_boost_healthregen_description=Boosts Health Regeneration by 100% when within the Trials of Luxion.\n\nYou may only have a single Luxion's Favor effect active at a time.
+$prefabs_effects_luxion_lands_boost_energyregen_description=Boosts Energy Regeneration by 10% when within the Trials of Luxion.\n\nYou may only have a single Luxion's Favor effect active at a time.
+$prefabs_effects_luxion_lands_boost_stability_description=Boosts Stability by 50% when within the Trials of Luxion.\n\nYou may only have a single Luxion's Favor effect active at a time.
+$prefabs_effects_luxion_lands_boost_attackspeed_description=Boosts Attack Speed by 15% when within the Trials of Luxion.\n\nYou may only have a single Luxion's Favor effect active at a time.
+$prefabs_effects_luxion_lands_boost_criticalhitchance_description=Boosts Critical Hit Chance by 25% when within the Trials of Luxion.\n\nYou may only have a single Luxion's Favor effect active at a time.
+$prefabs_effects_luxion_lands_boost_criticalhitdamage_description=Boosts Critical Hit Damage by 15% when within the Trials of Luxion.\n\nYou may only have a single Luxion's Favor effect active at a time.
+$prefabs_effects_luxion_lands_boost_flaskcapacity_description=Boosts Flask Capacity by 10 when within the Trials of Luxion.\n\nYou may only have a single Luxion's Favor effect active at a time.
+$prefabs_effects_luxion_lands_boost_deathinsurance_emptyeffect_description=Reduces the Trials of Luxion death penalty.

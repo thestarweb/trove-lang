@@ -349,3 +349,5 @@ $prefabs_item_skin_candybarbarian_icefire_description=Frostfury Burning Berzerke
 $prefabs_item_skin_ice_mage_icefire_name=Elementalist's Garb
 $prefabs_item_skin_ice_mage_icefire_item_name=Costume: Elementalist's Garb
 $prefabs_item_skin_ice_mage_icefiree_description=Elementalist's Garb costume for the Ice Sage.\n\nMasters of frost and flame.
+$prefabs_item_skin_adventurer_sandcastle_item_name=Costume: Beach Buried Boomeranger
+$prefabs_item_skin_adventurer_sandcastle_item_description=Beach Buried Boomeranger costume for the Boomeranger.\n\nDon't get caught sleeping on the sand!

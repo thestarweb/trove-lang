@@ -1,0 +1,1 @@
+$prefabs_effects_luxion_lands_banner_equip_description=Increases the duration of Luxion's Favors by 1 hour.

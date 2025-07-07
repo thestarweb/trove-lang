@@ -333,3 +333,5 @@ $prefabs_equipment_banner_fire_name=燃烧残簇的旗帜
 $prefabs_equipment_banner_fire_desc=聚合的残簇会一起燃烧。
 $prefabs_equipment_banner_frost_name=冰霜守护者的旗帜
 $prefabs_equipment_banner_frost_desc=致力于冻结宝藏世界，晶洞世界等所有世界。
+$prefabs_equipment_banner_eggman_name=埃贡国王王旗
+$prefabs_equipment_banner_eggman_desc=你休息的时候他看见了，你搞砸事情的时候他也知道了……

@@ -1,0 +1,2 @@
+$prefabs_effects_delve_healthregen_scaling_name=压力之下
+$prefabs_effects_delve_healthregen_scaling_description=降低生命回复速度。\n该效果受当前秘境层数影响。

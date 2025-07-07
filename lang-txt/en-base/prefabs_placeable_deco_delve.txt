@@ -254,3 +254,6 @@ $prefabs_placeable_deco_delve_panatea_lantern_bot_name=Lamp, bottom: House Panat
 $prefabs_placeable_deco_delve_panatea_lantern_bot_description=Bottom third of the House Panatea Lamp set
 $prefabs_placeable_deco_delve_panatea_chair_name=House Panatea Chair
 $prefabs_placeable_deco_delve_panatea_chair_description=Matches perfectly with the House Panatea Table set
+$prefabs_placeable_deco_delve_bunfest_chocolantern_mid_item_name=Chocolate Lantern Middle
+$prefabs_placeable_deco_delve_bunfest_chocolantern_top_item_name=Chocolate Lantern Top
+$prefabs_placeable_deco_delve_bunfest_chocolantern_bot_item_name=Chocolate Lantern Bottom

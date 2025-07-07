@@ -12,7 +12,7 @@ $prefabs_item_consumable_mysticism_potion_manatrack_biome_giantlands_name=POTION
 $prefabs_item_consumable_mysticism_potion_manatrack_biome_giantlands_description=Increases WILD TROVIAN MANA Harvest yield in SUNDERED UPLANDS Adventure World Biomes  for 4 hours. Additionally, enemies here will drop Wild Trovian Mana.\n\n<font color='#ffcf72'>You may only have ONE (1) POTION active at a time.\nMarketplace: Auto-Consume on Purchase (1).</font>
 $prefabs_item_consumable_mysticism_potion_manatrack_biome_highlands_name=POTION: Highlands Manahunter
 $prefabs_item_consumable_mysticism_potion_manatrack_biome_highlands_description=Increases WILD TROVIAN MANA Harvest yield in MEDIEVAL HIGHLANDS Adventure World Biomes for 4 hours. Additionally, enemies here will drop Wild Trovian Mana.\n\n<font color='#ffcf72'>You may only have ONE (1) POTION active at a time.\nMarketplace: Auto-Consume on Purchase (1).</font>
-$prefabs_item_consumable_mysticism_potion_manatrack_biome_neon_name=POTION: Neon Manahunter
+$prefabs_item_consumable_mysticism_potion_manatrack_biome_neon_name=POTION: Neon City Manahunter
 $prefabs_item_consumable_mysticism_potion_manatrack_biome_neon_description=Increases WILD TROVIAN MANA Harvest yield in NEON CITY Adventure World Biomes for 4 hours. Additionally, enemies here will drop Wild Trovian Mana.\n\n<font color='#ffcf72'>You may only have ONE (1) POTION active at a time.\nMarketplace: Auto-Consume on Purchase (1).</font>
 $prefabs_item_consumable_mysticism_potion_manatrack_biome_spires_name=POTION: Spires Manahunter
 $prefabs_item_consumable_mysticism_potion_manatrack_biome_spires_description=Increases WILD TROVIAN MANA Harvest yield in FORBIDDEN SPIRES Adventure World Biomes for 4 hours. Additionally, enemies here will drop Wild Trovian Mana.\n\n<font color='#ffcf72'>You may only have ONE (1) POTION active at a time.\nMarketplace: Auto-Consume on Purchase (1).</font>
@@ -24,7 +24,7 @@ $prefabs_item_consumable_mysticism_potion_mana_attuned_giantlands_learn_name=Unl
 $prefabs_item_consumable_mysticism_potion_mana_attuned_candy_learn_name=Unlock: 'POTION: Candorian Manahunter'
 $prefabs_item_consumable_mysticism_potion_mana_attuned_dinosaur_learn_name=Unlock: 'POTION: Jungle Manahunter'
 $prefabs_item_consumable_mysticism_potion_mana_attuned_dragon_learn_name=Unlock: 'POTION: Peaks Manahunter'
-$prefabs_item_consumable_mysticism_potion_mana_attuned_fae_learn_name=Unlock: 'POTION: Forest Manahunter'
+$prefabs_item_consumable_mysticism_potion_mana_attuned_fae_learn_name=Unlock: 'POTION: Fae Forest Manahunter'
 $prefabs_item_consumable_mysticism_potion_mana_attuned_frontier_learn_name=Unlock: 'POTION: Desert Manahunter'
 $prefabs_item_consumable_mysticism_potion_mana_attuned_highlands_learn_name=Unlock: 'POTION: Highlands Manahunter'
 $prefabs_item_consumable_mysticism_potion_mana_attuned_neon_learn_name=Unlock: 'POTION: Neon City Manahunter'
@@ -71,3 +71,9 @@ $prefabs_item_consumable_mysticism_potion_phys_damage_learn_name=Unlock: 'POTION
 $prefabs_item_consumable_mysticism_potion_slowfall_learn_name=Unlock: 'POTION: Vampire's Grace'
 $prefabs_item_consumable_mysticism_potion_stability_learn_name=Unlock: 'POTION: Stability++'
 $prefabs_item_consumable_mysticism_potion_waterwalk_learn_name=Unlock: 'POTION: Waterwalker'
+$prefabs_item_consumable_mysticism_potion_depths_kraken_magnet_immunity_learn_name=Unlock: 'POTION: Stability of the Deep'
+$prefabs_item_consumable_mysticism_potion_depths_kraken_magnet_immunity_name=POTION: Stability of the Deep
+$prefabs_item_consumable_mysticism_potion_depths_kraken_magnet_immunity_description=Allows you to resist the Lure of the Deep Kraken for 4 hours\n\n<font color='#ffcf72'>You may only have ONE (1) POTION active at a time.\nMarketplace: Auto-Consume on Purchase (1).</font>
+$prefabs_item_consumable_mysticism_potion_depths_water_movement_learn_name=Unlock: 'POTION: Augment Buoyancy'
+$prefabs_item_consumable_mysticism_potion_depths_water_movement_name=POTION: Augment Buoyancy
+$prefabs_item_consumable_mysticism_potion_depths_water_movement_description=Augments your movement when in Water, making it easier to descend but harder to move & ascend for 4 hours.\nNot recommended for use outside of Water!\n\n<font color='#ffcf72'>You may only have ONE (1) POTION active at a time.\nMarketplace: Auto-Consume on Purchase (1).</font>

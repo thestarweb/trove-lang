@@ -1,0 +1,8 @@
+$prefabs_effects_depths_pet_hermitcrab_trigger_name=Zephyr Essence Drop
+$prefabs_effects_depths_pet_hermitcrab_trigger_description=Grants a chance for Zephyr Essence to be obtained when opening Dungeon chests in Long Shade difficulty (15) worlds.
+$prefabs_effects_depths_pet_qubesly_trigger_name=Abyssal Luck
+$prefabs_effects_depths_pet_qubesly_trigger_description=Grants a chance for Abyssal Essence to be obtained when opening Dungeon chests in Long Shade difficulty (15) worlds.
+$prefabs_effects_depths_pet_pebble_trigger_name=Pyric Luck
+$prefabs_effects_depths_pet_pebble_trigger_description=Grants a chance for Pyric Essence to be obtained when opening Dungeon chests in Long Shade difficulty (15) worlds.
+$prefabs_effects_depths_pet_mimic_trigger_name=Delver's Luck
+$prefabs_effects_depths_pet_mimic_trigger_description=Grants a rare chance for Depths Cores & Souls of the Depths to be obtained when defeating any creature within The Depths Delve biome.

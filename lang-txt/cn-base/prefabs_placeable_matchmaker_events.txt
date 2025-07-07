@@ -32,3 +32,5 @@ $prefabs_placeable_matchmaker_events_bunfest_trex_eggman_name=深度推进器: �
 $prefabs_placeable_matchmaker_events_bunfest_trex_eggman_description=你可以排队进入私人秘境，霸王蛋龙会偶尔出现。\n\n\n邀请:最多8名玩家\n坐骑:仅限秘境坐骑\n\n\n\n
 $prefabs_placeable_matchmaker_events_bunfest_golem_eggman_name=深度推进器: 埃贡国王
 $prefabs_placeable_matchmaker_events_bunfest_golem_eggman_description=你可以排队进入私人秘境，埃贡国王会偶尔出现。\n\n\n邀请:最多8名玩家\n坐骑:仅限秘境坐骑
+$prefabs_placeable_matchmaker_events_july2024_boot_pinzo_name=秘境入口：平索的右鞋
+$prefabs_placeable_matchmaker_events_july2024_boot_pinzo_description=此处可排队进入平索的右鞋BOSS私人秘境。

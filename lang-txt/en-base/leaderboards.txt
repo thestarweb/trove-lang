@@ -168,6 +168,7 @@ $Leaderboard_BannerWeekDonationTotal=TOTAL SUNFEST DONATIONS
 $Leaderboard_GeodeWorldBossesKilled=DAILY LEVIATHAN KILLS
 $Leaderboard_EventsDailyLeaderboardMetric_Snowfest=SNOWFEST SHARING
 $Leaderboard_EventsDailyLeaderboardMetric_Bunfest=BUNFEST
+$Leaderboard_EventsDailyLeaderboardMetric_Sunfest=SUNFEST
 $Leaderboard_Category_Paragon=PARAGON
 $Leaderboard_Paragon_AllClasses=Weekly Highest Paragon Level
 $Leaderboard_Paragon_Knight=Weekly Highest Paragon Level with Knight

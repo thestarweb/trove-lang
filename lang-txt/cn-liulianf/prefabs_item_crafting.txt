@@ -488,3 +488,5 @@ $prefabs_item_crafting_pinzo_scam_shoe_name=平索的右靴
 $prefabs_item_crafting_pinzo_scam_shoe_desc=虽然不知道为什么每个人都在追捧它，但查克,平索可不会轻易放弃。这款右靴具备了人们对右靴的所有期待。\n\n警告：这只靴子仅供观赏，没有任何实际用途。\n\n为了宝藏世界的金融，请销毁（分解）此物品。
 $prefabs_item_crafting_bamboo_name=竹笋(Bamboo Shoot)
 $prefabs_item_crafting_bamboo_description=当处于"杜拉文 - 竹节翠龙"活动时，竹笋可以从蓬丘仙境中获得（请输入/welcome指令或者按下[HK:WelcomeScreen]打开欢迎页面查看是否处于活动中！）
+$prefabs_item_crafting_nitro_concentrated_name=超负荷硝基衰变悬浮宝箱
+$prefabs_item_crafting_nitro_concentrated_description=晶洞时期的材料，设计用于储存大量的硝基闪光粉（肯定超过安全值），而不会有任何因放射性衰变而造成损失的风险！\n\n可使用寻日者的水晶熔炉提取全部硝基！\n\n*保证硝基不会有损失的风险...但是既不保证也不暗示你的生命不会有任何风险！

@@ -32,3 +32,5 @@ $prefabs_placeable_matchmaker_events_bunfest_trex_eggman_name=Depth Stepper: Tyr
 $prefabs_placeable_matchmaker_events_bunfest_trex_eggman_description=Place to queue yourself for a Private Delve in which TYR-EGG-ASAUARUS can occasionally appear.\n\nInvites: Up to 8 Players total\nMounts: Delve Restricted
 $prefabs_placeable_matchmaker_events_bunfest_golem_eggman_name=Depth Stepper: King Egon
 $prefabs_placeable_matchmaker_events_bunfest_golem_eggman_description=Place to queue yourself for a Private Delve in which KING EGON can occasionally appear.\n\nInvites: Up to 8 Players total\nMounts: Delve Restricted
+$prefabs_placeable_matchmaker_events_july2024_boot_pinzo_name=Delve Gateway: Pinzo's Right Shoe
+$prefabs_placeable_matchmaker_events_july2024_boot_pinzo_description=Place to queue yourself for a Private Delve with a Pinzo's Right Shoe boss.

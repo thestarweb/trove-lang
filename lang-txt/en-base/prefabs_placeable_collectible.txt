@@ -22,3 +22,5 @@ $prefabs_placeable_collectible_rarebird_jelly_item_name=Jelly Rarebird
 $prefabs_placeable_collectible_rarebird_jelly_item_description=A rare bird plushie. What flavor is it?
 $prefabs_placeable_collectible_rarebird_silver_item_name=Argent Rarebird
 $prefabs_placeable_collectible_rarebird_silver_item_description=A rare bird plushie. Is it valuable?
+$prefabs_placeable_collectible_rarecapybara_01_item_name=Rare Capybara
+$prefabs_placeable_collectible_rarecapybara_01_item_description=A rare capybara plushie. Friendly and waterproof.

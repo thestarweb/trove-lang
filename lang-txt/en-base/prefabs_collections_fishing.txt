@@ -59,3 +59,5 @@ $prefabs_collections_fishing_elysia_pole_description=Even warriors need to relax
 $prefabs_collections_fishing_eggman_pole_name=King Egon's Royal Angler
 $prefabs_collections_fishing_eggman_pole_item_name=Pole: King Egon's Royal Angler
 $prefabs_collections_fishing_eggman_pole_description=Any and all Eggs or Trovians found in possession of this or any of King Egon's other royal possessions shall be subject to immediate execution. So says the King.
+$prefabs_collections_fishing_depths_pole_name=Pole of the Deep
+$prefabs_collections_fishing_depths_pole_description=Despite Mark's claims, this pole absolutely can not fish up Leviathans.\n\nCapable of catching Rare Depths Fish from Water Pools found in Long Shade Difficulty (15).

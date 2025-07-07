@@ -1,0 +1,9 @@
+$prefabs_npc_tutorial_highlands_qubesly_sign_title=Qubesly
+$prefabs_npc_tutorial_highlands_qubesly_sign_content=Pree [HK:Loot] to interact!
+$prefabs_npc_tutorial_peaceful_sebastian_sign_title=Slow Sebastian
+$prefabs_npc_tutorial_peaceful_sebastian_sign_content=Press [HK:Loot] to let Sebastian smell you.
+$prefabs_npc_tutorial_peaceful_sebastian_sign_02_content=Will head home aaaaaaany minute now.
+$prefabs_npc_tutorial_startingzone_qubesly_sign_title=Qubesly
+$prefabs_npc_tutorial_startingzone_qubesly_sign_content=Press [HK:Loot] to interact!
+$prefabs_npc_tutorial_startingzone_sebastian_sign_title=Slow Sebastian
+$prefabs_npc_tutorial_rooster_immobile_01_npc_name=Guardian of the Roost

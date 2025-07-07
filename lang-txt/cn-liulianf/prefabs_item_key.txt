@@ -42,3 +42,5 @@ $prefabs_item_key_delve_catastrophe_key_name=菲的钥匙
 $prefabs_item_key_delve_catastrophe_key_description=用于解锁灾厄城堡大厅内的加固翡翠宝石储藏。
 $prefabs_item_key_shadowseve_2023_01_name=钥匙: 南瓜园宝藏钥匙
 $prefabs_item_key_shadowseve_2023_01_description=在完成南瓜园袭击后出现的南瓜园宝藏箱附近使用。\n\n不稳定的南瓜园宝藏箱会在30秒后消失，因此要尽快使用这些钥匙！
+$prefabs_item_key_gearcrafting_name=装备锻造者宝箱钥匙
+$prefabs_item_key_gearcrafting_description=使用该钥匙打开装备锻造者宝箱时获得稀有的奖励。

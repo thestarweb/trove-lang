@@ -451,3 +451,7 @@ $prefabs_item_pet_bee_beebuddy_name=宠物: 蜜蜂伙伴
 $prefabs_item_pet_bee_beebuddy_description=有史以来最好的蜜蜂伙伴-永远？
 $prefabs_item_pet_dragonfly_waspider_name=宠物: 小黄蜂
 $prefabs_item_pet_dragonfly_waspider_description=小黄蜂会抓住你的。
+$prefabs_item_pet_dragonman_gearcrafting_name=小齿轮
+$prefabs_item_pet_dragonman_gearcrafting_description=经常给它上油，防止金属碰撞产生的吱吱声和刺耳声。
+$prefabs_item_pet_zepperay_gearcrafting_name=齿轮传单
+$prefabs_item_pet_zepperay_gearcrafting_description=眼睛：瞄准目标。手臂：向后。耳朵：扇动模式。

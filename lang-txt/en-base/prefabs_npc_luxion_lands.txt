@@ -1,0 +1,5 @@
+$prefabs_npc_luxion_lands_merchant_hub_sign_title=Soul-Reckoner Suri
+$prefabs_npc_luxion_lands_merchant_hub_sign_content=Accounts for profits and losses among Luxion's collection of souls. Press [HK:Loot] to deal.
+$prefabs_npc_luxion_lands_adventure_complete_craftingstation_name=Lord Primalux
+$prefabs_npc_luxion_lands_merchant_trials_crafting_sign_title=Dealer Diggsly
+$prefabs_npc_luxion_lands_merchant_trials_crafting_sign_content=Sells a variety of items in exchange for Venturine! Press [HK:Loot] to trade!

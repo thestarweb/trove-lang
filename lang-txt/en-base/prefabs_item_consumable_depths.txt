@@ -1,0 +1,4 @@
+$prefabs_item_consumable_depths_fishfood_water_depths_name=Sea Lichen Spores
+$prefabs_item_consumable_depths_fishfood_water_depths_description=Throw this food into a fish pool found in water in Long Shade difficulty (15) worlds to help restore the aquatic ecosystem, and make amends with the denizens of the Depths!
+$prefabs_item_consumable_depths_herald_tribute_name=Give Tribute
+$prefabs_item_consumable_depths_herald_tribute_description=The Herald of the Deep Kraken is happy to work with Trovians, so long as they give proper Tribute.
