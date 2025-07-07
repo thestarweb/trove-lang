@@ -1,0 +1,2 @@
+$prefabs_placeable_deco_events_2025_deco_trophy_chicken_duck_name=鸭子战士战利品
+$prefabs_placeable_deco_events_2025_deco_trophy_chicken_duck_tooltip=鸭子战士

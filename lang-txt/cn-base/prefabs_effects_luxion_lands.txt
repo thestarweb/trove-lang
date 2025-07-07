@@ -1,0 +1,1 @@
+$prefabs_effects_luxion_lands_banner_equip_description=让奢龙的宠爱持续时长增加1小时。

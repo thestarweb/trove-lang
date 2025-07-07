@@ -72,3 +72,5 @@ $prefabs_placeable_matchmaker_t2_castle_catastrophe_fiona_name=深度推进器: 
 $prefabs_placeable_matchmaker_t2_castle_catastrophe_fiona_description=放置并与这个深度推进器互动，开始一个秘境，在此秘境里 愤怒的菲奥娜 会守卫一次或者多次暗影灵魂箱层!\n\n\n邀请: 最多可邀请8位玩家\n坐骑: 仅限秘境坐骑\n最小深度: 110
 $prefabs_placeable_matchmaker_t2_depths_name=深度推进器：深渊
 $prefabs_placeable_matchmaker_t2_depths_description=放置此深度推进器并与之互动，可开启深渊秘境，其中的暗影灵魂箱将被符文深渊宝库所取代。\n\n最多8名玩家\n坐骑：仅限秘境坐骑\n最小深度：170
+$prefabs_placeable_matchmaker_t2_depths_kraken_name=深度推进器：深渊克拉肯
+$prefabs_placeable_matchmaker_t2_depths_kraken_description=放置并与这个深度推进器互动以开启一个秘境，在此秘境里，暗影灵魂箱将被替换为符文深渊宝箱，你必须突破一重或多重深渊克拉肯的守护！\n\n\n邀请：总共最多8名玩家\n坐骑：仅限秘境坐骑\n最小深度：175

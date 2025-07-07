@@ -224,9 +224,13 @@ $prefabs_item_lootbox_fishing_net_weekly_autoconsume_name=垂钓大师的渔网(
 $prefabs_item_lootbox_fishing_net_weekly_autoconsume_description=一张能同时捕获许多鱼的网。\n当被扔进任何鱼池或可钓鱼的液体时，能捕获5条鱼。\n\n需要激活的鱼饵。\n\n\n<font color='#e8e34f'>你每周只能制作这个配方（1）次</font>
 $prefabs_item_lootbox_fishing_net_weekly_autoconsume_2_description=一张能同时捕获许多鱼的网。\n当被扔进任何鱼池或可钓鱼的液体时，能捕获5条鱼。\n\n需要激活的鱼饵。\n\n\n<font color='#e8e34f'>你每周只能制作这个配方（2）次</font>
 $prefabs_item_lootbox_fishing_net_weekly_autoconsume_3_description=一张能同时捕获许多鱼的网。\n当被扔进任何鱼池或可钓鱼的液体时，能捕获5条鱼。\n\n需要激活的鱼饵。\n\n\n<font color='#e8e34f'>你每周只能制作这个配方（3）次</font>
+$prefabs_item_lootbox_titles_gold_name=超级厉害称号箱
+$prefabs_item_lootbox_titles_gold_description=可开出一条非常稀有但仅供短期内使用的称号前缀和/或后缀！
 $prefabs_item_lootbox_mysticism_gold_name=拱形神秘学试剂贮藏处
 $prefabs_item_lootbox_mysticism_gold_description=内有稀有试剂或大量魔力！
 $prefabs_item_lootbox_gearcrafting_name=装备制造者宝库
 $prefabs_item_lootbox_gearcrafting_description=通常可开出装备制作专精职业所需的制作材料。有极低几率可开出适用于当前职业、技能等级和装备制作技能的装备。
 $prefabs_item_lootbox_depths_harvests_name=封印符文宝箱
 $prefabs_item_lootbox_depths_harvests_description=装有通常只出现在无间邪影难度的材料。
+$prefabs_item_lootbox_luxion_lands_name=金粉宝盒
+$prefabs_item_lootbox_luxion_lands_description=宝盒中有金粉……有时能开出大量金粉！偶尔会包含奢龙私人秘藏中的物品。

@@ -1,0 +1,9 @@
+$prefabs_npc_tutorial_highlands_qubesly_sign_title=克贝斯利
+$prefabs_npc_tutorial_highlands_qubesly_sign_content=按[HK:Loot]进行互动！
+$prefabs_npc_tutorial_peaceful_sebastian_sign_title=缓慢塞巴斯蒂安
+$prefabs_npc_tutorial_peaceful_sebastian_sign_content=按[HK:Loot]让塞巴斯蒂安闻闻你的气味。
+$prefabs_npc_tutorial_peaceful_sebastian_sign_02_content=马上就要要要要要回家了。
+$prefabs_npc_tutorial_startingzone_qubesly_sign_title=克贝斯利
+$prefabs_npc_tutorial_startingzone_qubesly_sign_content=按 [HK:Loot] 键，进行互动.
+$prefabs_npc_tutorial_startingzone_sebastian_sign_title=缓慢塞巴斯蒂安
+$prefabs_npc_tutorial_rooster_immobile_01_npc_name=小窝卫士

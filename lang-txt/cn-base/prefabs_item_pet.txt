@@ -460,3 +460,7 @@ $prefabs_item_pet_mimic_grill_description=居家旅行烧烤必备！
 $prefabs_item_pet_zepperay_shark_name=宠物：骄傲鲨鱼
 $prefabs_item_pet_zepperay_shark_description=忠心耿耿，只要没死，就会保护你的安全、
 $prefabs_item_pet_stack_pinzoins_item_name=宠物：平索币堆
+$prefabs_item_pet_fish_depths_random_name=新鲜的咸鱼卵
+$prefabs_item_pet_fish_depths_random_description=随机解锁以下一个深海宠物\n- 和风跳跃鱼\n- 燃烧跳跃鱼\n- 深渊跳跃鱼
+$prefabs_collections_pet_dragonfly_waspider_shadow_item_name=宠物：黄蜂阿尔法幼体
+$prefabs_collections_pet_dragonfly_waspider_shadow_item_desc=你别说，这些小家伙成为伙伴后还挺萌的。

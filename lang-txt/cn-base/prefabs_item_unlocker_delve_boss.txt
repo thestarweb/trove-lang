@@ -29,3 +29,4 @@ $prefabs_item_unlocker_delve_boss_jellyfish_depths_fire_name=纪念品：善妒�
 $prefabs_item_unlocker_delve_boss_biped_tail_depths_air_name=纪念品：戈伯，和风之王
 $prefabs_item_unlocker_delve_boss_clam_depths_fire_name=纪念品：古旧钳夹
 $prefabs_item_unlocker_delve_boss_crab_depths_water_name=纪念品：暴跳珊瑚
+$prefabs_item_unlocker_delve_boss_depths_kraken_name=纪念品：深渊克拉肯

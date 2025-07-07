@@ -12,7 +12,7 @@ $prefabs_item_consumable_mysticism_potion_manatrack_biome_giantlands_name=药剂
 $prefabs_item_consumable_mysticism_potion_manatrack_biome_giantlands_description=提高断裂高地冒险世界生态地形的万能寻宝魔力产量，效果持续4小时。另外，击败此处的敌方单位后掉落万能寻宝魔力。\n\n<font color='#ffcf72'>每次仅可激活一(1)瓶药剂。\n拍卖行：购买时自动使用(1)。</font>
 $prefabs_item_consumable_mysticism_potion_manatrack_biome_highlands_name=药剂：高原魔力猎手
 $prefabs_item_consumable_mysticism_potion_manatrack_biome_highlands_description=提高中世纪高原冒险世界生态地形的万能寻宝魔力产量，效果持续4小时。另外，击败此处的敌方单位后掉落万能寻宝魔力。\n\n<font color='#ffcf72'>每次仅可激活一(1)瓶药剂。\n拍卖行：购买时自动使用(1)。</font>
-$prefabs_item_consumable_mysticism_potion_manatrack_biome_neon_name=药剂：霓虹魔力猎手
+$prefabs_item_consumable_mysticism_potion_manatrack_biome_neon_name=药水：霓虹城魔力猎手
 $prefabs_item_consumable_mysticism_potion_manatrack_biome_neon_description=提高霓虹城冒险世界生态地形的万能寻宝魔力产量，效果持续4小时。另外，击败此处的敌方单位后掉落万能寻宝魔力。\n\n<font color='#ffcf72'>每次仅可激活一(1)瓶药剂。\n拍卖行：购买时自动使用(1)。</font>
 $prefabs_item_consumable_mysticism_potion_manatrack_biome_spires_name=药剂：仙境魔力猎手
 $prefabs_item_consumable_mysticism_potion_manatrack_biome_spires_description=提高蓬丘仙境冒险世界生态地形的万能寻宝魔力产量，效果持续4小时。另外，击败此处的敌方单位后掉落万能寻宝魔力。\n\n<font color='#ffcf72'>每次仅可激活一(1)瓶药剂。\n拍卖行：购买时自动使用(1)。</font>
@@ -24,7 +24,7 @@ $prefabs_item_consumable_mysticism_potion_mana_attuned_giantlands_learn_name=解
 $prefabs_item_consumable_mysticism_potion_mana_attuned_candy_learn_name=解锁：“药剂：糖果国度魔力猎手”
 $prefabs_item_consumable_mysticism_potion_mana_attuned_dinosaur_learn_name=解锁：“药剂：丛林魔力猎手”
 $prefabs_item_consumable_mysticism_potion_mana_attuned_dragon_learn_name=解锁：“药剂：山峰魔力猎手”
-$prefabs_item_consumable_mysticism_potion_mana_attuned_fae_learn_name=解锁：“药剂：妖精森林魔力猎手”
+$prefabs_item_consumable_mysticism_potion_mana_attuned_fae_learn_name=解锁："药水：妖精森林魔力猎手"
 $prefabs_item_consumable_mysticism_potion_mana_attuned_frontier_learn_name=解锁：“药剂：沙漠魔力猎手”
 $prefabs_item_consumable_mysticism_potion_mana_attuned_highlands_learn_name=解锁：“药剂：高原魔力猎手”
 $prefabs_item_consumable_mysticism_potion_mana_attuned_neon_learn_name=解锁：“药剂：霓虹城魔力猎手”
@@ -71,3 +71,9 @@ $prefabs_item_consumable_mysticism_potion_phys_damage_learn_name=解锁：“药
 $prefabs_item_consumable_mysticism_potion_slowfall_learn_name=解锁：“药剂：血族之仪”
 $prefabs_item_consumable_mysticism_potion_stability_learn_name=解锁：“药剂：稳定性++”
 $prefabs_item_consumable_mysticism_potion_waterwalk_learn_name=解锁：“药剂：水行者”
+$prefabs_item_consumable_mysticism_potion_depths_kraken_magnet_immunity_learn_name=解锁：“药剂：深渊稳定性”
+$prefabs_item_consumable_mysticism_potion_depths_kraken_magnet_immunity_name=药剂：深渊稳定性
+$prefabs_item_consumable_mysticism_potion_depths_kraken_magnet_immunity_description=让你能够在4小时内抵抗深渊克拉肯的诱惑\n\n<font color='#ffcf72'>每次仅可激活一(1)瓶药剂。\n拍卖行：购买时自动使用(1)。</font>
+$prefabs_item_consumable_mysticism_potion_depths_water_movement_learn_name=解锁：“药水：增强浮力”
+$prefabs_item_consumable_mysticism_potion_depths_water_movement_name=药水：增强浮力
+$prefabs_item_consumable_mysticism_potion_depths_water_movement_description=增强你在水中的移动能力，更容易下潜，但更难移动和上浮，持续4小时。\n不建议在水体之外使用！\n\n<font color='#ffcf72'>你一次只能激活一(1)个药水。\n拍卖行：购买时自动使用(1)。</font>

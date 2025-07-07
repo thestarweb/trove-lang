@@ -1,0 +1,1 @@
+$placeable_npc_tutorial_rooster_immobile_01_say=咯咯哒！

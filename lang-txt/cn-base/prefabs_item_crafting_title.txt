@@ -1,0 +1,14 @@
+$prefabs_item_crafting_title_dragon_basic_name=稀释的龙族精华
+$prefabs_item_crafting_title_dragon_basic_description=用于在巨龙熔炉中炼制赛季龙族精华。\n\n可通过收集赛季龙族精华获得或花费龙币在龙族商店购买。
+$prefabs_item_crafting_title_dragon_fall_name=焦化龙族精华
+$prefabs_item_crafting_title_dragon_fall_description=使用后可通过巨龙熔炉获取临时或赛季限定龙族称号。\n\n在角色列表 [HK:CharacterSheet] 中打开称号选择器\n\n可从高级巨龙宝盒中获取，但概率极低。
+$prefabs_item_crafting_title_dragon_spring_name=萌芽龙族精华
+$prefabs_item_crafting_title_dragon_spring_description=使用后可通过巨龙熔炉获取临时或赛季限定龙族称号。\n\n在角色列表 [HK:CharacterSheet] 中打开称号选择器\n\n可从高级巨龙宝盒中获取，但概率极低。
+$prefabs_item_crafting_title_dragon_summer_name=炽焰龙族精华
+$prefabs_item_crafting_title_dragon_summer_description=使用后可通过巨龙熔炉获取临时或赛季限定龙族称号。\n\n在角色列表 [HK:CharacterSheet] 中打开称号选择器\n\n可从高级巨龙宝盒中获取，但概率极低。
+$prefabs_item_crafting_title_dragon_winter_name=冰霜龙族精华
+$prefabs_item_crafting_title_dragon_winter_description=使用后可通过巨龙熔炉获取临时或赛季限定龙族称号。\n\n在角色列表 [HK:CharacterSheet] 中打开称号选择器\n\n可从高级巨龙宝盒中获取，但概率极低。
+$prefabs_item_crafting_title_title_stamp_name=特罗维亚官方文件印章
+$prefabs_item_crafting_title_title_stamp_description=为特罗维亚官员提供重要文件官方认证服务！\n\n手柄内置微型实验室模块，可将任何物质转化为称号认证专用墨水！\n\n注意：称号认证完成后，此印章会自动返回背包。一站式满足你的所有需求！
+$prefabs_item_crafting_title_title_authorization_name=称号授权书
+$prefabs_item_crafting_title_title_authorization_description=每张都由一位特罗维亚官员提前签署！其中不乏大人物！

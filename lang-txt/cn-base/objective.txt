@@ -91,3 +91,4 @@ $Objective_Giantlands=断裂高地
 $Objective_tundra_tombs=冰封谷
 $Objective_dragon_tombs=燃烧谷
 $Objective_MaxUber_StartingZone=崛起深渊
+$Objective_LuxionLands_Startingzone=冒险城

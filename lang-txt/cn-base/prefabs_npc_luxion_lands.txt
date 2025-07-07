@@ -1,0 +1,5 @@
+$prefabs_npc_luxion_lands_merchant_hub_sign_title=灵魂清算师苏芮
+$prefabs_npc_luxion_lands_merchant_hub_sign_content=负责核算奢龙灵魂收藏的盈亏。按 [HK:Loot] 进行交易
+$prefabs_npc_luxion_lands_adventure_complete_craftingstation_name=傲奢大人
+$prefabs_npc_luxion_lands_merchant_trials_crafting_sign_title=钻头鼹鼠商人
+$prefabs_npc_luxion_lands_merchant_trials_crafting_sign_content=出售各种物品，结账用金粉！按[HK:Loot]交易！

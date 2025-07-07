@@ -1,0 +1,13 @@
+$prefabs_effects_luxion_lands_boost_damage_description=提高在“奢龙的试炼”中造成的伤害。\n\n一次只能激活一个“奢龙的宠爱”效果。
+$prefabs_effects_luxion_lands_boost_movementspeed_description=在奢龙的试炼中移动速度增加35，上限为140。\n\n一次只能激活一个“奢龙的宠爱”效果。
+$prefabs_effects_luxion_lands_boost_jump_description=在“奢龙的试炼”中跳跃增加 15，上限为 40。\n\n一次只能激活一个“奢龙的宠爱”效果。
+$prefabs_effects_luxion_lands_boost_maxhealth_description=在“奢龙的试炼”中最大生命值增加 50%。\n\n一次只能激活一个“奢龙的宠爱”效果。
+$prefabs_effects_luxion_lands_boost_maxenergy_description=在“奢龙的试炼”中最大能量增加 15。\n\n一次只能激活一个“奢龙的宠爱”效果。
+$prefabs_effects_luxion_lands_boost_healthregen_description=在“奢龙的试炼”中生命值恢复增加 100%。\n\n一次只能激活一个“奢龙的宠爱”效果。
+$prefabs_effects_luxion_lands_boost_energyregen_description=在“奢龙的试炼”中能量回复增加 10%。\n\n一次只能激活一个“奢龙的宠爱”效果。
+$prefabs_effects_luxion_lands_boost_stability_description=在“奢龙的试炼”中稳定性增加 50%。\n\n一次只能激活一个“奢龙的宠爱”效果。
+$prefabs_effects_luxion_lands_boost_attackspeed_description=在“奢龙的试炼”中攻速增加 15%。\n\n一次只能激活一个“奢龙的宠爱”效果。
+$prefabs_effects_luxion_lands_boost_criticalhitchance_description=在“奢龙的试炼”中暴击率增加 25%。\n\n一次只能激活一个“奢龙的宠爱”效果。
+$prefabs_effects_luxion_lands_boost_criticalhitdamage_description=在“奢龙的试炼”中暴击伤害增加 15%。\n\n一次只能激活一个“奢龙的宠爱”效果。
+$prefabs_effects_luxion_lands_boost_flaskcapacity_description=在“奢龙的试炼”中药瓶数量增加 10。\n\n一次只能激活一个“奢龙的宠爱”效果。
+$prefabs_effects_luxion_lands_boost_deathinsurance_emptyeffect_description=降低“奢龙的试炼”死亡惩罚。

@@ -21,3 +21,5 @@ $prefabs_npc_delve_merchant_catastrophe_name=$DNT - 季度喵星人
 $prefabs_npc_delve_merchant_catastrophe_sign_title=格里夫，领域商人
 $prefabs_npc_delve_merchant_catastrophe_sign_content=按 [HK:Loot] 进行互动，查看我的商品！。
 $prefabs_npc_delve_merchant_catastrophe_postboss_sign_title=季度喵星人，格里夫
+$prefabs_npc_delve_merchant_caverns_depths_kraken_herald_sign_title=深渊克拉肯的使者
+$prefabs_npc_delve_merchant_caverns_depths_kraken_herald_sign_content=按[HK:Loot]键进行互动。

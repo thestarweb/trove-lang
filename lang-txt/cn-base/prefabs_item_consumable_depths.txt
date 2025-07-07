@@ -1,0 +1,4 @@
+$prefabs_item_consumable_depths_fishfood_water_depths_name=深海青苔孢子
+$prefabs_item_consumable_depths_fishfood_water_depths_description=将这个食物丢入无间邪影难度(15)世界的水鱼池中，帮助改善水下生态系统，向深渊栖息者作出补偿！
+$prefabs_item_consumable_depths_herald_tribute_name=送礼物
+$prefabs_item_consumable_depths_herald_tribute_description=只要能够得到合适的礼物，深渊克拉肯的使者很乐意和寻宝者合作。

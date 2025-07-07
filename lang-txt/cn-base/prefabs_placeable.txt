@@ -13,6 +13,7 @@ $prefabs_placeable_chest_club_vault_item_description=在于储存公会币可帮
 $prefabs_placeable_classchanger_item_name=职业更换器
 $prefabs_placeable_classchanger_item_description=选择你的职业
 $prefabs_placeable_classchanger_placeable_description=按 [HK:ClassChanger] 进入职业选择面板。
+$prefabs_placeable_classchanger_placeable_description_controller=按[HK:NavigationMenu]打开职业选择面板（在角色界面）
 $prefabs_placeable_cs_recov_item_name=D.E.R.P.
 $prefabs_placeable_friendstone_item_name=集结之刃
 $prefabs_placeable_friendstone_interactive_sign_title=集结之刃

@@ -1,1 +1,10 @@
 $Titles_New=新
+$TitlesSelector=称号
+$Titles_Both=前缀/后缀
+$Titles_Prefix=前缀
+$Titles_Suffix=后缀
+$Titles_PrefixOnly=仅前缀
+$Titles_SuffixOnly=仅后缀
+$Titles_FavoriteOnly=仅收藏
+$Title_Select_Location=选择称号位置
+$generic_title_recipe_description=使用后可在称号认证盖章员处制作此称号

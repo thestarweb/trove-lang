@@ -7,15 +7,15 @@
     "@thestarweb/trove-lang-tool": "^1.0.0-test2",
     "@types/node": "^16.11.4",
     "jszip": "^3.7.1",
+    "ts-node": "^10.9.2",
     "typescript": "^4.4.4"
   },
-  "devDependencies": {},
   "scripts": {
-    "build:mix": "node ./helper/build-star-mix.js",
+    "build:mix": "ts-node ./helper/build-star-mix.ts",
     "load:en": "ts-node ./helper/load-en.ts",
     "load:cn": "npm run load:cn-base&&load:cn-llf",
-    "load:cn-base": "node ./helper/load-cn.js",
-    "load:cn-llf": "node ./helper/load-llf-cn.js"
+    "load:cn-base": "ts-node ./helper/load-cn.ts",
+    "load:cn-llf": "ts-node ./helper/load-llf-cn.ts"
   },
   "author": "",
   "license": "ISC"

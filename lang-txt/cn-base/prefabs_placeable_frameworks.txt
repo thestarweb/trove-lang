@@ -249,3 +249,11 @@ $prefabs_placeable_frameworks_catastrophe_crypt_description=需要一个舒适�
 $prefabs_placeable_frameworks_house_pinzo_name=平索的弹性公寓
 $prefabs_placeable_frameworks_house_pinzo_recipe_name=配方：平索的弹性公寓
 $prefabs_placeable_frameworks_house_pinzo_description=只可在公会世界放置。\n\n查克,平索另一个奇妙的创造，一个可以在任何地方、任何时间安置的公寓...只要该地区符合规范，并且你有正确的许可证。这些服务是单独出售的。\n\n<font color='#ff3030'>警告:</font> 框架会销毁所有与之相交的方块，这些方块不会返还。框架放置后不能再被拿起。
+$prefabs_placeable_frameworks_snowman_deco_name=冰冻雪人入侵者
+$prefabs_placeable_frameworks_snowman_deco_description=仅可放置于公会世界和基石地基中。\n\n\n2024年雪人入侵纪念碑。\n\n\n<font color='#ff3030'>警告：</font> 框架会销毁所有与之相交的方块，且不会返还此类方块。框架放置后无法重新拾取。
+$prefabs_placeable_frameworks_snowman_medium_name=大雪人（中等尺寸）
+$prefabs_placeable_frameworks_snowman_medium_description=仅可放置于公会世界和基石地基中。\n\n\n一个中等大小的大雪人。\n\n\n<font color='#ff3030'>警告：</font> 框架会销毁所有与之相交的方块，且不会返还此类方块。框架放置后无法重新拾取。
+$prefabs_placeable_frameworks_snowman_small_name=大雪人（小尺寸）
+$prefabs_placeable_frameworks_snowman_small_description=仅可放置于公会世界和基石地基中。\n\n\n一个小尺寸的大雪人。\n\n\n<font color='#ff3030'>警告：</font> 框架会销毁所有与之相交的方块，且不会返还此类方块。框架放置后无法重新拾取。
+$prefabs_placeable_frameworks_wrestling_ring_name=拳击擂台
+$prefabs_placeable_frameworks_wrestling_ring_description=可放置于地基和公会世界。\n\n\n进行对决的完美场地！\n\n\n<font color='#ff3030'>警告：</font> 框架会销毁所有与之相交的方块，且不会返还此类方块。 框架放置后无法重新拾取。

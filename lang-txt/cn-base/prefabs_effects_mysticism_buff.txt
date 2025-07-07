@@ -47,4 +47,11 @@ $prefabs_effects_mysticism_buff_waterwalk_effect_description=将水面转化为�
 $prefabs_effects_mysticism_buff_firewalk_name=增益：火行者
 $prefabs_effects_mysticism_buff_firewalk_description=将岩浆转化为可行走的地面，效果持续至第二天开始前。\n\n<font color='#ffcf72'>每次仅可激活一(1)个增益效果。</font>
 $prefabs_effects_mysticism_buff_firewalk_effect_description=将岩浆转化为可行走的地面
+$prefabs_effects_gearcrafting_pet_bonus_dungeons_name=装备制作师的好运
 $prefabs_effects_gearcrafting_zepperay_pet_bonus_dungeons=通关地下城时有机会掉落至少一件装备制造者宝库。
+$prefabs_effects_mysticism_buff_depths_kraken_magnet_immunity_name=BUFF：深渊稳定性
+$prefabs_effects_mysticism_buff_depths_kraken_magnet_immunity_description=让你能够抵抗深渊克拉肯的诱惑。\n\n<font color='#ffcf72'>每次仅可激活一(1)个增益效果。</font>
+$prefabs_effects_mysticism_buff_depths_kraken_magnet_immunity_effect_description=免疫深渊克拉肯的拖拽效果。
+$prefabs_effects_mysticism_buff_depths_water_movement_name=增益：增强浮力
+$prefabs_effects_mysticism_buff_depths_water_movement_description=增强你在水中的移动能力，更容易下潜，但更难移动和上浮。\n不建议在水体之外使用！\n\n<font color='#ffcf72'>你一次只能激活一(1)个增益状态。</font>
+$prefabs_effects_mysticism_buff_depths_water_movement_effect_description=增强你在水中的移动能力，更容易下潜，但更难移动和上浮。\n不建议在水体之外使用！
